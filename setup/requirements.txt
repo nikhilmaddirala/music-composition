@@ -1,2 +1,4 @@
 music21
 pygame
+epitran
+indic-transliteration

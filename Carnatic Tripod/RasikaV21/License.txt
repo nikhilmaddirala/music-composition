@@ -1,0 +1,20 @@
+			Licence Agreement
+
+Serial number -RGS213:FR0   Licenced to - Free Version
+The author M.Subramanian, has copyright for the software 
+"RasikaV21" consisting of Rasika, Gaayaka and Sishya, 
+Student's Music players Sruthi Box, Thamboora and other 
+supporting programs and the supporting files supplied with 
+the software, under Indian Copyright Law and the copyright 
+extends to other countries also under International agreements.
+
+			No warranty
+
+The software is provided "as-is," without any express or implied 
+warranty.  The author disclaims all warranties, either express 
+or implied, including but not limited to implied warranties of 
+fitness for any particular purpose. In no event the author shall 
+be liable for any damages (including business damages, pecuniary 
+damages, loss of data and similar consequential damages) arising 
+out of use of the software.
+

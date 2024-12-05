@@ -1,0 +1,1733 @@
+~ Raagam  <C4>AABHERI(1)</C>      Melam  22 (Kharaharapriya)   Ouduva-Sampoorna raagam   (Pentatonic-Heptatonic)  (North Indian equivalent - Bhimpalaas)
+
+  Aarohanam:     sa ga1 ma1 pa ni1 Sa                   C Eb F G Bb C 
+  Avarohanam:   Sa ni1 da2 pa ma1 ga1 ri2 sa     C Bb A G F Eb D C 
+
+  This raagam is supposed to use da1 (Suddha Dhaivatham) but compositions of Thyaagaraajar (Nagumomu) and Vaasudhevaachaar (Bhajare) are sung with da2 while compositions of Dheekshithar (Veenaabheri) and Paapanaasam Sivan (Kandhaa) are sung with  da1.   When sung with  da2 it is almost identical with  Karnaataka Dhevagaandhaari (Dhevagaandhaaram of Dheekshithar school). This screen describes the variety with da2.   Notes ri2, ma1, and da2 can be prolonged. Occasional use of 'sa ri sa' and 'pa da pa' is  allowed. The characteristic notes are ga1 and ni1 which are often held in conjunction with  ma1 and Sa respectively (though in old school these notes are still held on the ri2 and da2 frets of the Veena).  In the descent da2 and ri2 slide from ni1 and ga1.  Janta (paired notes)  phrases <A6 >'Sa ni ni da da pa'</A>,<A7 >'pa ma ma ga ga ri sa'</A> are also characteristic of the raagam.
+
+  Kannadagowla is a similar raagam and is distinguished by the use of 'ri2 ga1 ma1' in  ascent and 'ni1 da2 ma1' and 'ma1 ga1 sa' in descent.
+
+  COMPOSITIONS:
+   Nagumomu(Thyaagaraajar)
+   Bhajare (Mysore Vaasudhevaachaar)
+
+  See AABHERI(2) for the raagam with suddha dhaivatham (da1).
+
+
+~ Raagam <C4>AABHERI(2)</C>            Melam  20 (Natabhairavi)  
+    Ouduva-Sampoorna Raagam (Pentatonic - Heptatonic)
+
+  Aarohanam:      sa ga1 ma1 pa ni1 Sa                   C Eb F G Bb C 
+  Avarohanam:    Sa ni1 da1 pa ma1 ga1 ri2 sa     C Bb Ab G F Eb D C 
+
+  Aabheri as described in old texts is supposed to be a janyam of Melam 20, but the compositions of Thyaagaraajar (Nagumomu as sung now) and Vaasudhevaachaar  (Bhajare) use da2.  This screen describes the Aabheri with da1.
+
+  Notes ri2, ma1 and pa can be prolonged.  Notes ga1 and ni1 are held with kampitham in  conjunction with ma1 and sa respectively. Note da1 is an ending note in descent and can  be prolonged as such.  Use of the phrase 'ni1 da1 ma1 pa' is also found in krithis.  
+
+  Similarity to Naagagaandhaari (or Jaunpuri) may be avoided by stressing the phrases 'sa ga1 ma1' (Naagagaandhaari 'sa ri2 ma1') and 'Sa ni1 da1 pa'  and ' ma ga ri sa'  (Naagagaandhaari generally uses  'Sa ni1 da1 ma pa', and  'ma ga ri ga sa').
+
+
+  COMPOSITIONS: 
+   Veenaabheri (Dheekshithar)
+   Kandhaa vandharul (Paapanaasam Sivan)
+
+  See Aabheri(1) for the raagam with Chathusruthi Dhaivatham-da2.
+
+~   Raagam  <C4>AABHOGI</C>          Melam   22 (Kharaharapriya) 
+  Ouduva Raagam (Pentatonic)
+  (North Indian equivalent: Aabhogi Kaanada) 
+
+  Aarohanam:      sa ri2 ga1 ma1 da2 Sa       C D Eb F A C
+  Avarohanam:    Sa da2 ma1 ga1 ri2 sa       C A F Eb D C 
+
+  All notes except ga1 can be prolonged.  Note ga1 is held with kampitha gamakam from ri2.  In ascent da2 may be held plain or with nokku.  In descent da2 and ma1 are often held with jaaru from the higher note. <A6 >'Sa da maa'</A> and <A5 >'ma da Saa'</A> are characteristic  phrases.  Descent from Ri2 to da2 is sometimes used and helps to avoid shades of  Sreeranjani.   The phrase 'da Ga Ri Sa' is also used.
+
+  Sreeranjani  (sa ri2 ga1 ma1 da2 ni1 Sa  -  Sa ni1 da2 ma1 ga1 ri2 sa) and lesser known  Jayamanohari (sa ri2 ga1 ma1 da2 Sa - Sa ni1 da2 ma1 ga1 ri2 sa) are close to Aabhogi.  Distinction from Sreeranjani is obtained by holding da2 plain or with short range oscillation, by the use of the phrase 'Sa Ri da' and by slide from Sa to da2. 
+
+  COMPOSITIONS:
+   Manasunilpa, Nannubrova (Thyaagaraajar)
+   Sree Lakshmeevaraaham (Dheekshithar)                   
+   Sabhaapathikku (Gopaalakrishna Bhaarathi)
+   Nekkurugi (Paapanaasam Sivan)
+
+~   Raagam   <C4>AAHIRI</C>       Melam 8 (Hanumatthodi) 
+  Bhaashaanga Raagam -  Anya swaram: Anthara Gaandhaaram-ga2  E
+
+  Aarohanam:    sa ri1 sa ga1 ma1 pa da1 ni1 Sa   C Db C Eb F G Ab Bb C
+  Avarohanam:  Sa ni1 da1 pa ma1 ga2* ri1 sa       C Bb Ab G F E Db C
+
+  This raagam can also be classified under Melam 14 (Vakulaabharanam) which differs from Hanumatthodi in ga.  In that case ga1 will be taken as anya swaram. This raagam cannot be properly described by its aarohanam and avarohanam. Many phrases like <A6 >'sa/ Sa'</A>,  'sa pa Sa', 'ni Sa pa' are found in Syaamaa Saasthri's composition. The characteristic  phrase is <A2 >'Sa nee da'</A> where ni1 is prolonged without oscillation.   The phrase <A0 >'pa da ni Sa'</A> with a plain ni1 is also characteristic.
+
+  In the ascent ga1 is held with kampitham from close to ri2 up to ma1. In the descent ma1 and ga2* are held with kampitham of short range and in conjunction with each other; ma1  may also be held plain. Note ri1 slides from ga2 and is held with kampitham in conjunction  with sa.  In the descent the phrase <A3 >'ma1 ga2* ri1'</A> is reminiscent of Sowraashtram. The  phrase <A9 >'pa da ni Sa'</A> in the ascent may also be held as in Thodi with ni oscillated from da2 to Sa.  Plain ni1 however, gives the characteristic flavour of Aahiri. 
+
+  COMPOSITIONS:
+   Aadhaya Sree Raghu, Challare (Thyaagarajar)
+             (Challare is often started with the anupallavi Sompaina Manasutho)
+   Maayamma  (Syaamaa Saasthri)
+   Sree Kamalaamba (Dheekshithar)
+
+
+ ~  Raagam  <C4>AANANDHABHAIRAVI</C>    Melam  20 (Natabhairavi)  (? 22)  Bhaashaanga Vakra raagam. Anya swarams da2 (A) and less frequently ga2 (E) and ni2 (B)
+
+  Aarohanam:   sa ga1 ri2 ga1 ma1 pa da2* pa Sa    C Eb D Eb F G A G C 
+  Avarohanam: Sa ni1 da2* pa ma1 ga1 ri2 sa           C Bb A G F Eb D C
+
+  Though shown under melam 20,  suddha dhaivatham (da1) is used only in the phrase 'pa da1 pa' while da2 is used freely in phrases 'Sa ni1 da2 pa' and 'da2 ni1 pa'.  This raagam is difficult to define by notes alone.  Characteristic phrases are <A0 >'pa ni pa'</A> (ni1 touched fleetingly with smooth up down movements), <A4 >'pa Sa'</A>, <A8 >'da ni pa'</A>, <A12 >'ri ga (ri) sa'</A> in the last with a slow slide from ga1 to sa touching ri2 for a moment.  Large range kampitham on ga1 (reaching up to ma1)  and ni1 (between a point below ni1  up to Sa) are characteristic. Occasional use of ga2 in the phrase <A11 >'ma1 ga2* ma1'</A> and  ni2 in the  phrase <A5 >'Sa ni2* Sa'</A> is found but is not liked by purists.  Can be elaborated in Aalapana.  Often used for slokams.
+
+  Reethigowla has some similarities but is easily distinguished as it uses the phrases   'ma ni ni'  and 'ni da ma'.   In Reethigowla da2 is much stronger, ni1 can be held with  short range kampitham or janta gamakam and the descent 'ga ri sa' is really 'ga ri ga sa'.  In Aanandhabhairavi 'ga ri sa' is often held as 'ga ri ga (ri) \sa'. 
+
+  COMPOSITIONS:
+   Marivere, O Jagadhamba (Syaamaa Saasthri)
+   Maanasa Guruguha, Thyaagaraaja yoga (Dheekshithar)
+   Neeke theliyaka (Thyaagaraajar ?)
+   Karpagavalli(Periyasami Thooran)
+
+~   Raagam  <C4>AANDHOLIKAA</C>     Melam 22 (Kharaharapriya)
+  Ouduva (Pentatonic) Raagam 
+
+   Aarohanam     sa ri2 ma pa ni1 Sa       C D F G Bb C 
+   Avarohanam   Sa ni1 da2 ma ri2 sa     C Bb A F D C
+
+  The raagam is also known by the name Mayooradhwani.   Notes ri2 and ma1 are held without gamakam.  In aarohanam ri is often held as <A0 >'ri/ma\ri'</A>.  Note ni1 is held with gamakam from da2 but with emphasis on ni and oscillating downwards sometimes reminiscent of Surati.  Held this way the aarohanam does not suggest the mood of  Madhyamaavathi.  In the descent there is smooth slide from ma1 to ri2.  Due to the  absence of pa and the strong ma, the ri in descent is heard lower than usual and may have the relative frequency around 10/9 which is 5/6 of ma(4/3) instead of 9/8 which is 3/4 of  pa(3/2).   The correct intonation of ni is essential to bring out the mood of this raagam.  In the descent ni1 may also slide from Sa and then held with gamakam with da2.  There  are occasional jumps from ma1 to ni1 and some times this is incorporated in the definition of the aarohanam.
+
+  COMPOSTIONS:
+  Raagasudhaarasa  (Thyaagaraajar)
+  Sevikkavendumayya (Muthuthaandavar. This song was also sung in Aabhogi)
+
+~  Raagam  <C4>AARABHI</C>       Melam  29 (Dheerasankaraabharanam)
+  Ouduva-Sampoorna Raagam (Pentatonic-Heptatonic)
+
+  Aarohanam:    sa ri2 ma1 pa da2 Sa                   C D F G A C 
+  Avarohanam:  Sa ni2 da2 pa ma1 ga2 ri2 sa    C B A G F E D C
+
+  Notes ga2 and ni2 cannot be prolonged; they are touched fleetingly in the phrases <A4 >'ma ga ri'</A> and <A7 >'Sa ni da'</A> which are actually held as 'ma (ga) ma ri' and 'Sa (ni) Sa da'. The phrase 'ma ga ri' held as above is the characteristic of the raagam. Note ni2 is often  omitted in descent also. Notes ri2 and da2 are held with kampitha gamakam or with  nokku in the ascent. Note ri2 can also be sung plain. It is one of the Ghana Panchaka  Raagams (Naata,Gowla, Aarabhi, Varaali, Sree). Suited for elaboration and thaanam. Janta prayogams like <A12 >'Ri Ri Sa Sa da da pa</A> and <A13 >da da pa pa ma ga ree'</A> are also used.     Dhevagaandhaari, Suddhasaaveri, Saamaa are very close in terms of notes.  In Dhevagaandhaari 'ma ga ri' is held differently and ri2 descends from ga2 which can also be prolonged with oscillation.  It has anya swaram ni1 in descent and the phrase 'sa ri ga  sa ree'. The tempo of Dhevagaandhaari is generally slow and it is not a Ghana raagam  in the sense of being specially suited for thaanam.
+
+  Suddhasaaveri is double pentatonic and omits ni and ga in descent also and distinction is shown in the phrase 'ma ri' with clean descent without touching ga2.   In Saamaa ga2 is clearly held and ri2 descends from  ga2; ri2 is also stronger. It has a characteristic phrase 'ma gaa ri sa ree'.
+
+  COMPOSITIONS:
+   Saadhinchene, Saalakalla, Naadhasudhaa, Joothamu(Thyaagaraajar)
+   Sree Saraswathe (Dheekshithar)
+   Paahiparvatha (Swaathi Thirunaal)
+
+~ Raagam  <C4>AMRITHAVARSHANI</C>         Melam  65 (Mechakalyaani)
+  Ouduva (Pentatonic) raagam
+  Aarohanam:    sa ga2 ma2 pa ni2 Sa       C E F# G B C
+  Avarohanam:  Sa ni2 pa ma2 ga2 sa       C B G F# E C
+
+  This is sometimes shown as janyam of Chithraambari (Melam 66) perhaps due to oscillations in ni2 touching lower pitches but da3 does not occur explicitly.
+
+  All notes except ma2 can be prolonged.  Note ma2 is held in conjunction with pa as in the case of all prathi madhyama raagams but can be prolonged with gamakam more than in the case with other prathi madhyama raagams.  Ni2 is held in conjunction with Sa and can also be held  separately.   Pa and sa may slide with a jaaru from ni2 & ga2  respectively.  The phrase 'ma ni pa' is used and stresses the samvaadhi relationship of ni2 and ma2.
+
+  This raagam is supposed to have been conceived by Muthuswaami Dheekshithar and is said to have brought rains.  It is associated with rains and rainy season.  The slides to pa  and sa create the mood of rains. 
+
+  COMPOSITIONS:
+   Aanandhaamrithaakarshani (Dheekshithar)
+   Sudhaamayee (Muthiah Bhaagavathar)
+
+~  Raagam  <C4>ASAAVERI</C>           Melam 8 (Hanumatthodi)
+  Ouduva-Sampoorna Bhaashaanga Raagam Anya Swaram  ri2 - (D)  
+
+  Aarohanam:     sa ri1 ma1 pa da1 Sa       C Db F G Ab C
+  Avarohanam:   Sa ni1 Sa pa da1 pa ma1 ri2 gaa1 ri1 sa  
+                              C Bb C G Ab G F D Eb Db C
+
+  Phrases <A0 >'ree* ma paa'</A> (where ri2 oscillates up to ma1), <A8 >'Sa ni Sa \pa'</A> (where pa descends from Sa), <A1 >'pa ma (ri*) gaa ri'</A>, <A4 >'pa da nee da pa'</A> (where ni1 is quite low and almost sung as da2) and 'Sa Ri Gaa Ri Sa' (with a touch of Ri2) are characteristic of this raagam which cannot be properly described by its aarohanam and avarohanam. Note ri1 and da1 are held quite low and close to sa and pa respectively and oscillated from the lower note.  Only ma1 and pa can be prolonged  without gamakam and all other notes are to be held with kampitha gamakam.  Note ga1 is oscillated from a point lower than ga1.  In the phrase 'Sa ni Sa pa', ni1 is held very low, very close to da2 and quickly oscillated up to Sa.  Resemblance to Punnaagavaraali can be avoided by using the characteristic phrases mentioned above and also in the aarohanam. (Punnaagavaraali is generally sung in madhyama sruthi and is also not to be sung above ni).
+
+  COMPOSITIONS:
+
+
+
+
+   Raa Raamaa Inti, Lekana ninnu (Thyaagaraajar)
+   Chandhram Bhaja (Dheekshithar)
+   Saranam (Arunaachala Kavi)
+
+~  Raagam   <C4>ATAANA</C>             Melam 28 (Harikaambodhi)
+ 
+  Aarohanam:     sa ri2 ma1 pa ni1 Sa       C D F G Bb C
+  Avarohanam:   Sa ni2* da2 ni1 pa ma1 ga2 ma1 ri2 sa
+                        C B A Bb G F E F D C
+  Ouduva - Sampoorna Bhaashaanga Vakra raagam- anya swaram ni2 (B)
+
+  The mood of this raagam can hardly be described by the notes or aarohanam and avarohanam. Notes ri2, pa and da2 can be prolonged; ri2 is held straight or with kampitham.  Characteristic phrases are <A1 >'Sa ni Sa\da'</A> where da2 descends with a stress from Sa,  <A9 >'Sa ni paa'</A> where ni1 is lower than normal (pulled from da2 on the Veena), 'da  pa Ri Sa',  <A10 >'ma pa pa ma\ree ma pa'</A> (where ri2 quickly slides from ma1) and the phrase <A7 >'da da da'</A>  with slight oscillation and the phrase <A1 >'pa ni1 pa ni1 pa /Saa'</A>.  Oscillations  around Sa such as <A1 >'ni Sa Ri Sa Ri Sa'</A> are also common.  The phrases 'pa da ni Sa' or 'pa  da da ni Sa' are also permitted. 'Gaa Ma Ri Sa' is also used in more recent compositions.  This raagam is sometimes classified under melam 22  (Kharaharapriya) apparently due to  the extensive gamakam between ri and ma making it difficult to fix the position of ga.
+
+  As both nishaadhams appear this is a bhaashaanga raagam, sometimes classified under  melam 29 showing ni1 as anya swaram.
+
+  COMPOSITIONS: 
+  Ela needhaya, Ilalo Pranathaarthi, Anupama Guna,
+     Raama naamamu, Bhajana seya (Thyaagaraajar)
+  Brihaspathe (Navagraha krithi), Sree Vaidhyanatham (Dheekshithar)
+  Neeyirangaayenil (Paapanaasam Sivan)
+  Sree Kumaaranagaraalaye (Swaathi Thirunaal)
+
+~ Raagam <C4>BAHUDHAARI</C>          Melam 28 (Harikaambodhi)
+  Shaadava - Ouduva Raagam (Hexatonic-Pentatonic)
+
+  Aarohanam:      sa ga2 ma1 pa da2 ni1 Sa       C E F G A Bb C
+  Avarohanam:    Sa ni1 pa ma1 ga2 sa               C Bb G F E C
+
+  This raagam can be well depicted by the aarohanam and avarohanam.  Note ga2 is held plain. Note ma1 is held with a quick kampitham from ga in the ascent and touched  lightly in the descent, in both cases prominence is given to ga2 which can be both a  starting and ending note.  Note da2 which occurs only in the ascent is held plain and as  base for ni1 which is oscillated from da in ascent.  In the ascent ni1 can also be held  plain for short duration while in the descent ni1 has to be held plain or given slight  kampitham within the note itself.  In the phrase <A0 >'Sa ni pa'</A>  there is a often a short break  between Sa and ni and then the voice slides to pa from ni.   In the descent there is also a  slide from ga to sa. 
+
+  The characteristic phrases are <A4 >'pa da ni Saa'</A>  where ni is short,  'Sa ni paa'-<A1 >'pa ma gaa'</A> with strong establishment on ga.  Raagam Thilang adopted from Hindusthani music has the notes 'sa ga2 ma1 pa ni1 Sa' and 'Sa ni1 pa ma1 ga2 sa'  and differs only in the aarohanam. However the moods are different due to the strong da in the ascent of Bahudhaari and the smoothness of 'pa ni Sa' in Thilang.  Generally Thilang is softer in the movements and anyaswaram ni2 is also used sometimes.
+
+ COMPOSITIONS:
+  Brova bhaarama  (Thyaagaraajar)
+  Sadhaanandha thaandavam (Achyutha Dhaasar)
+
+~  Raagam   <C4>BEGADA<C/>    Melam 29 (Dheerasankaraabharanam)
+  Bhaashaanga Vakra raagam - anya swaram   ni1 (Bb)
+
+  Aarohanam:    sa ga2 ri2 ga2 ma1 pa da2 pa Sa    C E D E F G A G C
+  Avarohanam:  Sa ni1* da2 pa ma1 ga2 ri2 sa          C Bb A G F E D C
+
+  Though shown under melam 29, ni2 occurs only in the phrases <A9 >'Sa ni da pa Sa'</A> , 'Sa ni Sa' and 'Sa ni Ri Sa',  while ni1 is used in the regular descent.  Sometimes this raagam is classified under melam 28 and  ni2 is shown as anya swaram. Note ga2 is held straight and da2 with short kampitham or straight for short duration.  Note ma1 is held in conjunction with pa from which it oscillates  downwards.  In the descent or in the phrase <A11 >'maa ga paa ma daa pa'</A> it may be held for a moment without gamakam.  Note ni1 is  oscillated over a wide range sometimes up to Sa in descent and in the phrase <A6 >'pa da nee da'</A>.  Note ri2 oscillates anchored on ga2 and can be held without gamakam in some  phrases (ga ma ree).  When ni2 is used it is close to Sa.  The characteristic flavour of the raagam is achieved by the correct gamakams on ni1 and ma1.  The characteristic phrases  are <a8 >'pa da pa Sa'</A>,  'pa da pa Ri', <A13 >'(Ma) Maa Ga Ri Sa'</A>, <A6 >'pa da nee1 da pa'</A>, ' ni1 nee1 da pa'  (ma1 and ni1 prolonged with oscillation).  Distinction from Sankaraabharanam lies in the  use of ni1 and type of gamakams on ma1 and ri2.
+
+  COMPOSITIONS:
+  Naadhopaasana, Neeveraakula, Thanavaari, Sundhari nannindharilo,
+        Nee padha pankaja (Thyaagaraajar)
+  Vallabhaa,  Thyaagaraajaaya (Dheekshithar)
+  Abhimaana (Patnam Subramanya Ayyar)
+  Anudhinamunu (Raamnaad Sreenivaasa Ayyangaar)
+  Gaanarasamudan (Paapanaasam Sivan)
+
+
+~  Raagam <C4> BEHAAG</C>       Melam 29 (Dheerasankaraabharanam)
+
+  Aarohanam:    sa ga2 ma1 pa ni2 da2 Sa                     C E F G B A C
+  Avarohanam:  Sa ni2 da2 pa ma2* ga2 ma1 ri2 sa    C B A G F# E F D C
+
+  Bhaashaanga raagam - vakram in avarohanam - ni1(Bb) & ma2(F#)are anya swarams
+
+  This is an adaptation from the north Indian Behaag.  No composition of the trinity is available in this raagam which is often used as a 'light' raagam at the end of the concert for raagamaalikaa, thillaanaa etc.
+
+  Phrases like <A5 >'Sa ni2 da paa'</A> (short da, sharp descent to pa), 'sa ga ma2* paa' (with prathi madhyamam instead of suddha madhyamam), <a1 >'pa ma2* ga ma1- gaa'</A> are frequently used. Of these 'pa ma2* ga ma1- gaa', halting at the second ga2 and the phrase 'pa ni da /Saa' are characteristic phrases of the raagam.  In <A9 >'pa da ni1* da pa'</A> anya swaram ni1 is used.  Note ni2 may be held plain or with gamakam. Note ri2 is mostly held straight. Note da2 is  touched quickly in descent and pa is reached with sphuritham from da2. Sa and sa often  slide from Ri2 and ri2.
+
+  COMPOSITIONS:
+   Smarajanaka, Smarathinu (Swaathi Thirunaal)
+   Aadum Chidambaramo (Gopaalakrishna Bhaarathi)
+   Orutthi makanaai (Thiruppaavai - tune by A.Raamaanuaja Ayyangaar)
+   Vagalaadi (Jaavali by Thirupathi Naaraayanaswaamy)
+   Nirupamaana (Jaavali by Raamnaad Sreenivaasa Ayyangaar)
+
+~ Raagam <C4>BHAAGESREE</C>      Melam 22 (Kharaharapriya)
+
+  Aarohanam    sa ga1 ma1 da2 ni1 Sa      C Eb F A Bb C
+  Avarohanam  Sa ni1 da2 ma1 ga1 ma1 pa ga1 ri2 sa
+                        C Bb A F Eb F G Bb D C
+
+  Derived from the North Indian raag of the same name.  The ascent and descent cannot be strictly defined. North Indian Bhaagesri is often mentioned as the equivalent of Sriranjani. However, the manner in which the notes ri, ga and ni are  sung make Bhaagesri and Sriranjani totally different raagams. While in Sriranjani ga1 and ni1 are sung with kampitham from ri2 and da2 respectively in Bhaagesri the lower end of the oscillations are ga1 and well above da2 respectively.  Thus the ga1 is more like the ga1 of Kaanada or Hindholam.  In Bhaagesri ri2 less prominent and is associated with ga1.  As sung in the south notes ma1 and da2 are strong and prolonged. The special phrase <A2 >'da ni da nee da'</A> with prolonged ni is very characteristic.  Other typical phrases are <A4 >'Sa Maa Gaa (Ma) Ri (Ga) Sa'</A>,  <A1 >'gaa ma daa'</A>.  The jump from sa to ma is common. Note pa is not strong and is quickly touched in the phrases 'gaa ma (pa) gaa ri (ga) sa'  and 'ga ma pa da ma'  and 'da pa daa' (instead of 'da ma daa')  (ex.  Thillaana by Lalgudi Jayaraman).  Slow slides characterise the raagam.  Hindholam with da2 (referred to as Varamu or Suddha Hindholam) is quite close in terms of notes but the gamakams make it easy to establish distinction.
+
+  COMPOSITIONS:
+   Kanden Kanden (Arunachala Kavi-also sung in Vasantha)
+   Govindhamiha (Naaraayana Theertthar)
+   Erumayileri (Thiruppugazh - Arunagirinaathar)
+   Thillaana (Laalgudi Jayaraman)
+
+~  Raagam   <C4>BHAIRAVI</C>               Melam 20 (Natabhairavi)
+  Sampoorna Bhaashaanga raagam.    Anya swaram da2. (A)
+
+  Aarohanam:     sa ri2 ga1 ma1 pa da2* ni1 Sa    C D Eb F G A Bb C
+  Avarohanam:   Sa ni1 da1 pa ma1 ga1 ri2 sa      C Bb Ab G F Eb D C
+
+  The major raagam in Natabhairavi scale, but takes the anya swaram da2 in the ascent in  the phrase <A9 >'pa da2 ni Sa'</A>.  In descent as well as in the phrase <A7 >'pa da1 ni da1 pa'</A>, the da1 of the parent scale is used. Only ri2 and ma1 can be prolonged without gamakam.  In the  ascent ga1 is held in conjunction with ri2 with short or wide range of oscillation-the later as  <A5 >'sa gaa ri ga ma'</A>.  The gamakam on ga ends in ri.  In descent the phrase <A4 >'ma pa gaa  ri'</A> is also used and ga1 slides from ma1 and oscillates. Note ni1 is held very low and close  to da2 in the second part of kampitham in descent while in ascent it oscillates up to Sa.  Note ma1 is often held with nokku from ga1 in ascent. The phrase 'sa ga ri ga'  in the ascent and the ending of gamakam on ga at ri help to avoid flavour of Kharaharapriya which does not use 'sa ga ri ga' and in which gamakam on ga can end in ga itself.  Bhairavi is distinguished from Mukhaari by the use of the phrases 'pa da2 ni1 Sa' and 'sa  ga1 ri2 ga1 ma1' (Mukhaari- 'pa ni da Sa' or 'pa da Sa' and 'sa ri maa'). The deft use of  gamakams in handling ga1, ni1, da2 and da1 gives the raagam its flavour.
+
+  COMPOSITIONS:
+  Upachaaramu, Koluvai, Thanayuni, Enaati (Thyaagaraajar)
+  Baalagopaala, Chinthaya maa, Sree Kamalaambikaa (Dheekshithar)
+  Kaamaakshi(Swarajathi - Syaamaa Saasthri)
+  Neepaadha (Patnam Subramanya Ayyar)
+  Viribhoni (Varnam by Aadhiyappayyaa)
+
+~ Raagam   <C4>BILAHARI</C>      Melam 29 (Dheerasankaraabharanam)
+  Ouduva - Sampoorna Bhaashaanga raagam  (Pentatonic - Heptatonic) Anya swaram - ni1 (Bb)
+
+  Aarohanam:     sa ri2 ga2 pa da2 Sa                     C D E G A C
+  Avarohanam:   Sa ni2 da2 pa ma1 ga2 ri2 sa     C B A G F E D C
+
+  Practically all the swarams can be prolonged but ga2 and ri2 are more often held long. Note ri2 is also held with nokku in ascent and da2 is generally held with nokku in ascent and briefly touched in descent in the phrase <A9 >'Sa ni2 da pa'</A>.  In descent ri2 slides from ga2.  In descent ma1 is touched quickly and then ga2 is reached with a slide, from which ri2  also slides.  'ni2' is held close to sa. The phrase <A10 >'pa da ni1* da2 pa'</A> use the anya swaram ni1.   In the phrase 'Sa ni2 da Saa',  da2 slides from ni2.  Note pa is often held with sphuritham from da2 i.e (da2 pa pa with janta in pa). Phrases <A5 >'pa da Ri'</A>, <A11 >'pa\ ri ga pa'</A> are also used.  Although the avarohanam is sampoornam no trace of Sankaraabharanam can be heard when the raagam is correctly sung, mainly due to the prolonging of ri2 without gamakam, the shortness of da2 and the way ma1 is held.
+
+  COMPOSITIONS:
+   Intha kannaanandha, Kanugontini, Naajeevaadhaara, Tholijanma,
+     Dhorakuna (Thyaagaraajar)
+   Sree Baalasubramanya, Ekadhantham (Dheekshithar)
+   Paridhaanamichithe (Patnam Subramanya Ayyar)
+   Karppagaambike (Paapanaasam Sivan)
+
+~ Raagam  <C4>BOWLI</C>         Melam  15 (Maayaamaalavagowla)
+  Ouduva-Shaadava (Pentatonic-Hexatonic) raagam
+
+   Aarohanam     sa ri1 ga2 pa da1 Sa           C Db E G Ab C
+   Avarohanam   Sa ni2 da1 pa ga2 ri1 sa    C B Ab G E Db C
+
+  This is a morning melody and is often referred to as Bhoopaalam.  All notes can  be  prolonged.  Notes ri1 and da1 can also be held with gamakam from sa and pa.  In the  descent the slide from ni2 to da1 is characteristic of this raagam.  Note ri1 also slides from ga2.  The phrase <A2 >'pa ga2 da1 pa'</A> is also used. Prolonging da1 with or without  gamakam gives the characteristic flavour associated with morning.  
+
+  Revagupthi is a similar raagam but it does not have ni2 in the descent and so the slide from ni2 to da1 is absent.  Bhoopaalam is another similar raagam in which ga1 is used and ni2 is not present.   Bhoopaalam with ga1 is found only in Dheekshithar's compositions and Venkatamakhi named Melam 8 (now Hanumatthodi) as Bhoopaala melam !
+
+  COMPOSITIONS:
+   Melukovaiya (Thyaagaraajar)
+   Sree Paarvathi Parameswarau (Dheekshithar)
+   Sambhomahaadheva  (Neelakhanta Sivan)
+   Paarvathinaayaka (Paapanaasam Sivan)
+
+~  Raagam  <C4>BRINDHAAVANA SAARANGA</C>  (or BRINDHAAVANI ?) 
+  Melam 22(Kharaharapriya)   Ouduva-Shaadava (Pentatonic-Hexatonic) Bhaashaanga raagam. Anya swaram - ni2 (B)
+
+  Aarohanam    sa ri2 ma1 pa ni1 Sa                 C D F G Bb C
+  Avarohanam  Sa ni1 pa ma1 ri2 (ga1) sa      C Bb G F D (Eb) C
+
+  This raagam is an adaptation of the Hindusthani raag of the same name.  Though the avarohanam is given as 'ri2 ga1 sa', the ga1 is rarely explicitly held and for all practical purposes the avarohanam may be taken as Sa ni1pa ma1 ri2 sa.  Both nishaadhams are used and in aarohanam 'pa ni2 sa' is also used and in this ni2 is held low, often as a note  in between ni1 and ni2.  The note ni2 also occurs in the phrase 'sa nI2 sa'.  All notes  (except ga1) may be prolonged - in particular ri2 is to be held without gamakam. Note ni1 is held in conjunction with Sa and oscillates up to Sa thereby imparting Hindusthani  flavour.  Phrases like <A11 >'pa ma ni pa'</A>,  <A5 >'pa Ri'</A>, 'Sa pa ni ma' emphasize samvaadhi  relationships.
+
+  Distinction from Madhyamaavathi is shown by the absence of gamakam on ri2 and the  holding of ni1 in its own position. In Madhyamaavathi ri2 is generally held with gamakam and ni1 oscillates from a point slightly above da2 up to Sa or up to ni1.  As ga1 is not sung  explicitly in Brindhaavana Saaranga, shades of Sree raagam are also avoided.
+
+  The name Bridhaavani is sometimes used to refer to the raagam when Kaakali ni (ni2) is used with prominance
+
+  COMPOSITIONS: 
+   Rangapura, Soundhararaajam, Swaaminaathena (Dheekshithar)
+   Kamalaabdha kula (Thyaagaraajar)
+   Kaliyuga Varadhan (P.Thooran)
+   Thillaanaas by  Baalamurali Krishna, Laalgudi Jayaraaman.
+
+~   Raagam <C4>CHAARUKESI</C>       Melam 26 (Chaarukesi)
+  Sampoorna (Heptatonic) Melakarthaa raagam
+
+  Aarohanam:    sa ri2 ga2 ma1 pa da1 ni1 Sa      C D E F G Ab Bb C
+  Avarohanam:  Sa ni1 da1 pa ma1 ga2 ri2 sa      C Bb Ab G F E D C
+
+  A sampoorna melakarthaa raagam obviously given shape after Venkatamakhi's theory of  72 melams.  Note ri2 is held with kampitham or nokku in aarohanam. Note ga2 is sung  plain and ma1 is sung with oscillation from ga2 up to ma1 (rarely up to pa).  Notes da1 and ni1 are sung with short gamakam. Note ni1 may sometimes reach Sa in oscillation.   Shades of raagams with similar notes (Sarasaangi, Shanmukhapriyaa, Rishabhapriyaa) are felt and may be avoided by singing the notes up to Ga2 from pa.   In general less gamakam is  used in this raagam in the range 'sa ri ga ma pa' compared to Sankaraabharanam and in the phrase 'pa da ni Sa' compared to Shanmukhapriyaa.
+
+  COMPOSITIONS:
+    Aadamodigaladhaa  (Thyaagaraajar)
+    Kripayaa paalaya sowre (Swaathi Thirunaal)
+
+~  Raagam  <C4>CHAKRAVAAHAM</C>         Melam 16 (Chakravaaham)
+  Sampoorna (Heptatonic) Melakarthaa Raagam 
+
+  Aarohanam:    sa ri1 ga2 ma1 pa da2 ni1 Sa    C Db E F G A Bb C
+  Avarohanam:  Sa ni1 da2 pa ma1 ga2 ri1 sa    C Bb A G F E Db C
+
+  Notes ri1 and ni1 are sung with kampitham from sa and da2 respectively and held close to the lower notes.  Note ma1 is sung with kampitha gamakam from ga2 but anchored on ma1 and can also be held plain for short duration. Note da2 is held without gamakam.   Note ga2 is usually sung with kampitham linked to ma1 and sung at a slightly higher position than usual, but may occasionally be held straight for short periods in descent or with kampitham in its own position.   The phrase 'pa ma da' occurs sometimes.  The way <A2 >'sa ri ga ma'</A> is sung is somewhat different from Maayaamaalavagowla with more prominence given to ma1 than ga2.  This raagam has some common areas with Sowraashtram in the phrase 'da2 pa ma1 ga2 ri1 sa'.  Sowraashtram uses both ni1 and ni2 and distinction can be achieved by stressing ni2, avoiding 'pa da ni1 Sa' in singing Sowraashtram and avoiding any shade of ni2 in Chakravaaham.  This raagam is known as Vegavaahini in Dheekshithar's school and this raaga mudhra is found in the krithi 'Vinaayaka vighnanaayaka'.
+
+  COMPOSITIONS:
+   Etula brothuvo, Sugunamule cheppukonti (Thyaagaraajar)
+   Gajaananayutham,  Vinaayaka vighnanaayaka (Dheekshithar)
+   Sarojanaabha (Swaathi Thirunaal)
+   Arivudayor (Gopaalakrishna Bhaarathi)
+   Eesane indha (Paapanaasam Sivan)
+
+~  Raagam    <C4>DHANYAASI</C>           Melam 8 (Hanumatthodi)
+
+  Ouduva-Sampoorna raagam (Pentatonic-Heptatonic)
+
+  Aarohanam:      sa ga ma1 pa ni1 Sa                    C Eb F G Bb C
+  Avarohanam:    Sa ni1 da1 pa ma1 ga1 ri1 sa    C Bb Ab G F Eb Db C
+
+  Only ma1 and pa can be prolonged without gamakam.  Notes ga1 and ni1 have to be held with gamakam but ni may be held plain for short duration in ascent.  Notes ga1 and ni1 are held with nokku in the ascent and oscillated over a wide range.  In descent ga1 is  generally held very low as in Thodi and close to ri2 (which note is not used).  Note ni1 can be held in its own position in the ascent or pulled from da2 on the Veenaa and oscillated up to Sa.  In descent also ni1 can be held in its own position and passed quickly.  Notes ri1 and da1 are held with kampitham from sa and pa respectively;  in descent they may slide from a higher note and held straight for a short period.  The absence of ri and da in the ascent and the manner in which ga and ni are sung help to distinguish the raagam from Thodi.   A slow slide from <A9 >Sa to ni1 and from ni1 to da1</A> in the descent is also characteristic but should not be used in excess.  This raagam is associated with plaintive mood and is popular for raagamaalika and slokams.
+
+  COMPOSITIONS: 
+   Sangeetha jnyanamu, Syaamasundhara, Dhyaaname (Thyaagaraajar)
+   Maayuranaatham (Dheekshithar)
+   Meenalochana (Syaamaa Saasthri)
+   Paruvampaarkka (Aanayyaa), Neeyintha (Padhavarnam by Sivan)
+
+~  Raagam  <C4>DHARBAAR</C>            Melam 22 (Kharaharapriya)
+  Shaadavam(hexatonic) in ascent and sampoorna vakram in descent
+
+  Aarohanam:       sa ri2 ma1 pa da2 ni1 Sa             C D F G A Bb C
+  Avarohanam:     Sa ni1 Sa da2 pa ma1 ri2 ga1 ri2 sa 
+                            C Bb C A G F D Eb D C
+
+  All notes except ga1 and ni1 can be prolonged.  The most characteristic phrase of the raagam is <A4 >'pa ma ri ga gaa ri'</A> sa in which ga1 is repeated with stress and oscillates up to ma1.  Actually this ga oscillates between ri2 and ma1 and is really 'ri ma ri ma' sung quickly.  Note ni1 is to be held close to da2 and oscillated from it, except in the phrase <A6 >'Sa nee da pa'</A> or <A9 >'ni nee da pa'</A> where ni1 goes up higher.   When so held the phrases 'ni nee da pa' and 'ga gaa ri sa' are harmonically related.  Phrases like <A0 >'ri pa ma'</A>, <A6 >'Sa da pa'</A>, <A3 >'pa da ni pa'</A>, are frequently used, the first and third are not indicated in the aarohanam-avarohanam.
+
+  The raagam is said to stress the ghana (lit. heavy) aspect. Can be elaborated and suitable for thaanam also. Distinction from Dhevamanohari is achieved in the phrase 'ga gaa ri sa'.  Distinguished from Naayaki in the manner in which ni1 is held, the absence of 'pa da pa Sa' in Dharbaar and the absence of  'ga gaa ri sa' in Naayaki.  In Naayaki ni1 and ga1 are also prolonged with gamakam.
+
+  COMPOSITIONS:
+   Yochana, Mundhuvenuka, Raamaabhi (Thyaagaraajar)
+   Meenanayana (Syaamaa Saasthri) 
+   Thyaagaraajena, Haalaasya (Dheekshithar)
+   Sree Venugopaala (Koteeswara Ayyar)
+
+~ Raagam <C4>DHARMAVATHI</C>       Melam 59 (Dharmavathi) 
+  (Dhaamavathi in Dheekshithar school) Sampoorna raagam of this melam
+
+  Aarohanam    sa ri2 ga1 ma2 pa da2 ni2 Sa       C D Eb F# G A B C
+  Avarohanam  Sa ni2 da2 pa ma2 ga1 ri2 sa       C B A G F# Eb D C
+
+  The raagam can be sung using the gamakams of Simhendhramadhyamam in the range sa to pa and Kalyani in the range pa to Sa.  Thus ri2 is held straight and ga1 with kampitham from ri2.  Note ma2 is held in conjunction with pa as in other prathi madhyama raagams. There is jaaru between ga1 and ma2. In the ascent da2 is held with nokku and in the descent da2 may be held plain or with slight kampitham. Note ni2 is held in conjuction with Sa but may also be prolonged with gamakam in the ascent or turning on ni2.  The special phrase pa- da2- pa turning on da2 with minimum gamakam is seen in Vasudevaachar's krithi.  Descent from ga1 to sa is found in some places in Dheekshithar's krithi.  Though this raagam differs from Kalyani, Simhendhramadhyamam,  Hemavathi and Gowreemanohari only in one note (da, ga, ni and ma respectively) it can be given its own bhavam by keeping the ranges of sanchaarams sufficiently large.
+
+  COMPOSITIONS:
+   Parandhaamavathi (Deekshithar)
+   Kandhaa bhaktha (Koteeswara Iyer)
+   Bhajana Seya raadha  (Mysore Vaasudevaachar)
+
+~ Raagam <C4>DHESH</C>     Melam 28 (? 29)
+
+  Aarohanam      sa ri2 ma1 pa ni1(ni2) Sa                 C D E F G Bb (B) C
+  Avarohanam    Sa ni1 pa da2 pa ma1 ga2 ri2 Sa   C Bb G A G F E D C
+
+  Derived from the North Indian raag of the same name.  The aarohanam - avarohanam does not really represent the raaga bhaavam which is achieved in the jaarus in the characteristic phrases. Both nishaadhams are used and often ni is held in an intermediate position. Note ri2 is held with nokku reaching ma in aarohanam and held plain in avarohanam.  Note ma is held plain.  Note ni is held in arohanam by a jaaru from pa and may be given short range kampitham from ni1. In the phrase <A1 >'ri sa nee saa'</A> the ni is usually ni2 while in the phrase <A8 >'Sa ni paa'</A> it is ni1 (slightly higher than normal).  In the avarohanam there are characteristic phrases such as <A8 >'Sa ni paa'</A> with slow slide to pa, <A9 >'pa daa pa'</A>  with prolonged da2 and <A0 >'pa ma ga ree'</A> with smooth transitions from ma to ga and ga to ree the latter being slow jaaru and <A1 >'ri sa nEE2 sa'</A> or 'Ri Sa nee2 Sa'  The characteristic 'pa daa pa' may also be used in aarohanam as in <A0 >'saa ri ma - ma pa daa pa - ma ga ree'</A>.
+
+  There are no krithis of the trinity or early composers in the raagam although it appears to have been used in drama and film music.  Basically considered a light raagam.
+
+  COMPOSITIONS:
+   Raama naamame thuthi  (Thanjaavoor Sankara Ayyar)
+   Thillana (Laalgudi Jayaraman)
+   Pattukkoru pulavan (Bharathi Dhaasan)
+
+~  Raagam  <C4>DHEVAGAANDHAARI</C>   Melam 29 (Dheerasankaraabharanam)
+
+  Ouduva-Sampoorna Bhaashaanga vakra Raagam - Vakram in avarohanam (Pentatonic-Heptatonic; devious in descent)
+
+  Aarohanam:    sa ri2 ma1 pa da2 Sa                       C D F G A C
+  Avarohanam:  Sa ni2 da2 ni1* da2 pa ma1 ga2 ri2 sa
+                          C B A Bb A G F E D C
+  Anya swaram - Kaisiki Nishaadham - ni1 (Bb)
+
+  This raagam is similar to Aarabhi and differs from it in the manner in which the phrase 'ma gaa ri' is held and the presence of anya swaram ni1. In Aarabhi ga2 is held fleetingly and close to ma1, but in Dhevagaandhaari ga2 is prolonged and slides from ma1.  Note ri2 slides from ga2.  The note ma1 is also prolonged and the phrase <A1 >'maa gaa ree'</A> is the characteristic of this raagam.  The phrase <A14 >'sa ri ga saa'</A> is also used.  Anya swaram ni1 occurs in the phrase <A9 >'Sa ni2 da nee1 da pa'</A> in which ni1 is prolonged. In general the tempo of this raagam is slow while that of Aarabhi is fast.  It is difficult to delineate the raagam properly by its aarohanam and avarohanam as the gamakams are to be intuitively grasped.  The aarohanam of this raagam is sometimes shown as 'sa ri2 ma1 pa da2 ni2 Sa' as occasionally ni2 is touched quickly in the phrase pa da2 (ni2) Sa. Occasional confusion with Saamaa can be avoided by a slow slide from ma1 to ga2 in Dhevagaandhaari while in Saamaa the movement from ma1 to ga2 is quick and often with stress. In Saamaa ma1 is much stronger and held separate.
+
+  COMPOSITIONS:
+   Ksheerasaagara, Vinaraadha, Naamoraala, Seethaavara, Thulasamma
+      (Thyaagaraajar)
+   Kshithijaaramanam, Vadhaanyeswaram (Dheekshithar)
+   Enneramum (Gopaalakrishna Bhaarathi)
+   Saaradhe (Paapanaasam Sivan)
+
+~ Raagam   <C4>DHEVAMANOHARI</C>    Melam  22 (Kharaharapriya) 
+  Shaadava Vakra (in avarohanam) Raagam   (Hexatonic - winding descent)
+
+  Aarohanam:    sa ri2 ma1 pa da2 ni1 Sa             C D F G A Bb C
+  Avarohanam:  Sa ni1 da2 ni1 pa ma1 ri2 Sa       C Bb A Bb G F D C
+
+  All notes except ni1 can be prolonged. Note ri2 is held straight (when short) or with kampitham and the phrase 'sa ri2 ma1' resembles the same phrase of Madhyamaavathi. The phrase <A8 >'da2 ni1 pa'</A> in descent is very characteristic of the raagam.  Note ni1 is generally held in association with da2.  By and large the raagam can be delineated properly by its aarohanam and avarohanam.  Distinction from Madhyamaavathi is easy due to the occurrence of da2 both in ascent and descent and comparatively less gamakam on ri2 in Dhevamanohari.  Distinction from Dharbaar is also easy due to the characteristic phrases of Dharbaar ('ga gaa ri sa' and 'Sa da pa').
+
+  COMPOSITIONS:
+   Evarikai avathaara, Kanna thandri (Thyaagaraajar)
+   Palukavadhemiraa (Mysore Vaasudhevaachaar)
+   Neekela Naayeda (Raamnaad Sreenivaasa Ayyangaar)
+   Innamum thaamadhamen (Vedhanaayakam Pillai)
+
+~  Raagam <C4>DHVIJAAVANTHI</C>   Melam 28 (Harikaambodhi)
+  Bhaashanga Raagam (Anya swaram Saadhaarana Gaandhaaram)
+
+  Aarohanam    sa ri2 ga2 ma1 pa da2 Sa        C D E F G A C
+  Avarohanam  Sa ni1 da2 pa ma1 ga2 ma1 ri2 ga1 ri2 sa
+                         C Bb A G F E F D Eb D C
+
+  The aarohanam is also shown as 'sa ri2 ma1 ga2 ma1 pa da2 Sa'  or 'sa ri2 ga2 ma1 pa da2 Sa ni1 da2 ni1 Sa'.  The avarohanam is also shown as 'Sa ni1 da2 pa ma1 ga2 ri2 sa nI1 dA2 nI1 sa.  (These differences show the different usages in the mandhra and madhya sthaayis and also indicate the gamakams used)
+
+  Derived from North Indian Jayajayavanthi.  Note ri is held with strong nokku in the ascent clearly touching ga before reaching ri.  There is smooth slide from ga2 to ma and then to pa. The ga2 is reached from ri after touching ma.  The movement from pa to Sa touching da and ni is not common.  Generally there is jump from pa to Sa or pa to Ri with jaaru  or the phrase is 'pa da Sa'.  The jump from sa to Sa is also found.  In the descent the phrase 'da ni da - pa da pa' is used in addition to 'Sa ni da pa'. In the latter phrase ni and da are held with stress from da and pa.  The most charecteristic phrase of the raagam is <A1 >'ga ma ri ga* ri'</A> where the anya swaram ga1 is reached smoothly from ri and clearly held.  The descent can also be 'ri ga* sa' with a hint of ga1.  Generally the movements between notes are smooth.  There is a hint of Sahaana in the phrase 'ri ga ma pa' but the use of ga1 and the rest of the movements are distinct to Dhvijaavanthi.  The raagam mudhra found in Deekshithar's krithi is 'Jujaavanthi' and this name is used in Sangeetha Sampradhaaya Pradharsini.
+
+  COMPOSITIONS:
+   Chetha Sri Baalakrishnam, Akhilaandeswari (Dheekshithar)
+   Thillaana (Laalgudi Jayaraman)
+
+~ Raagam  <C4>GAMBHEERANAATA</C>   Melam 36 (Chalanaata)
+   Ouduva (Pentatonic) Raagam
+
+  Aarohanam:    sa ga2 ma1 pa ni2 Sa         C E F G B C
+  Avarohanam:  Sa ni2 pa ma1 ga2 sa         C B G F E C
+
+  All notes can be prolonged.  Note ga2 is generally held with nokku in the ascent.  In the ascent occasionally ma1 can be oscillated but too much oscillation on ma1 may impart a tinge of Neelaambari.  In the descent ga2 can be used as an anchoring note.  The note ni2 is held close to sa but can be prolonged with gamakam. This is a simple raagam whose shape is easily shown by the aarohanam and avarohanams.  Phrases like <A2 >'ga ma pa nee'</A> where ni2 is prolonged, <A0 >'ga ma pa ma ga ma gaa'</A> prolonging the last ga are characteristic.
+
+  Gambheeranaata can be said to be a simpler version of Naata which employs the ri3 (vivaadhi note shadsruthi rishabham, held in the position of ga1). Though the vivaadhi note is not used in Gambheeranaata it is classified under Chalanaata due to similarity in bhaavam. (It could also be put under melam 29 etc.)
+
+  COMPOSITIONS:
+  Sree Jaalandharam (Mysore Mahaaraaja)
+  Jnyaana  Vinaayakane (Saravanabhavaanandhaa)
+  Ghana samaana (Lalitha dhaasar)
+  Ninne bhajana of Thyaagaraajar is also sung in Gambheeranaata 
+
+~ Raagam  <C4>GOWLA</C>        Melam  15 (Maayaamaalavagowla)
+  Ouduva-Shaadava vakra raagam (Pentatonic-hexatonic)
+
+  Aarohanam:     sa ri1 ma1 pa ni2 Sa                         C Db F G B C
+  Avarohanam:   Sa ni2 pa ma1 ga2 ma1 ri1 sa        C B G F E F Db C
+
+  This is one of the Ghana Panchaka raagams (Naata, Gowla, Aarabhi, Varaali, Sree) which are suitable for thaanam and which stress the Ghana (lit. heavy) aspect.  Note ri1 is held close to sa and held with kampitham; it should not be prolonged without gamakam. Note ni2 is held high and close to sa and oscillated up to sa. In the descent ga2 is held with gamakam reaching up to ma1 but from a point higher than usual ga2. In descent ri1 generally does not slide from ma1 but held by upward oscillation from sa and there is a momentary gap between ma1 and ri1.  Phrases <A8 >'ri ga ma ri'</A>, <A1 >'pa ma ga ma ri'</A>, <A4 >'pa ni Saa ni pa'</A>, <A7 >'pa Saa ni pa'</A>, 'Sa ni Sa Ri', 'sa ree' are characteristic of the raagam.  Gamakams should be sharp to stress the ghana aspect.   In 'sa ri ma' there is a momentary gap or stress between ri1 and ma1.
+
+   Distinction from Gowlipanthu is shown by the absence of da1 and the holding of ma1 in its own position (In Gowlipanthu ma1 is often held higher in the phrase 'pa da1 ma1').   Distinction from Jaganmohini is shown by the absence of the phrase 'sa ga ma' in the  ascent in Gowla and the absence of 'pa ma ga ma ri' in Jaganmohini which unlike Gowla uses a slide from ga to ri1 in the descent.
+
+ COMPOSITIONS:
+  Dhudukugala (Pancharathnam) (Thyaagaraajar)
+  Sree Mahaaganapathi, Thyaagaraaja paalaya (Dheekshithar)
+  Pranamaamyaham (Mysore Vaasudhevaachaar)
+
+~ Raagam <C4>GOWLIPANTHU</C> Melam 15 (Maayaamaalavagowla)
+ Ouduva Sampoorna vakra Raagam (Pentatonic - Heptatonic)
+
+  Aarohanam  sa ri1 ma1 pa ni2 Sa      C Db F G B C
+  Avarohanam Sa ni2 pa da1 ma2* pa ma1 ga2 ri1 sa
+            C B G Ab F# G F E Db C
+
+  Whether this raagam should be treated as Bhaashaanga with ma2 as anyaswaram has been a matter of controversy.  In one school ma2 is used quite often while in another school the ma1 itself is held slightly higher.
+
+  Note ri1 is held with Kampitham close to sa. In the ascent ma is held with an upward gamakam (sometimes giving the feeling of ma2) and ni2 is held with Kampitham but  slightly lower than usual. Though the aarohanam is identical with that of Gowla, the manner in which ma and ni are held is different. In the descent ni2 is held close to Sa as in other raagams. The movements around pa involving da and ma are characteristic. The first ma in <A2 >'da ma pa (da) ma ga ri'</A> is held higher almost like ma2 while the second ma is lower. In the lower octave ni2 is prolonged and held in its own position which is another characteristic feature. The note ga2 is passed very quickly. Thus when correctly sung Gowlipanthu can rarely be confused with Gowla.
+
+ COMPOSITIONS:
+  Theradheeyaka, Mosaboku vinave (Thyaagaraajar)
+  Krishnaanandha (Dheekshithar)
+  Tharunameedhamma (Syaamaa Saasthri-perhaps his only Tamil composition)
+
+~ Raagam <C4>GOWREEMANOHARI</C>  Melam 23 (Gowreemanohari)
+ Sampoorna (Heptatonic) Melakartha Raagam
+
+  Aarohanam  sa ri2 ga1 ma1 pa da2 ni2 Sa     C D Eb F G A B C
+  Avarohanam Sa ni2 da2 pa ma1 ga1 ri2 sa    C B A G F Eb D C 
+
+  Differs from Kharaharapriya in nishaadham. Note ri2 and ma1 are held straight. Note ga1 is held with kampitham from ri2 but more as in Kharaharapriya than as in Bhairavi i.e. with less range of oscillation in ascent.  Note da2 is held with nokku in ascent as in Sankaraabharanam and ni2 is held with kampitham from Sa. It may also be held explicitly for a short period in phrases like <A0 >'sa nI sa'</A> or <A3 >'pa da nee Sa'</A>. In descent da2 may be held plain for short duration passing on to pa. The phrase <A0 >'sa ri ga ri sa nEE'</A> is similar to the same phrase in Keeravani from which this raagam differs in da.
+
+  This raagam can be delineated easily from the notes and the gamakams. Clear singing of dhaivatham and nishaadham can help avoid shades of Keeravaani and Kharaharapriya. This melam is named Gowreevelaavali in Dheekshithar school and according to Sampradhayapradarsini the aarohanam is sa ri ga ri ma pa da ni Sa.
+
+  Compositions:
+   Guruleka etuvanti (Thyaagaraajar)
+   Kaumaari Gowreevelaavali (Dheekshithar)
+   Thaaraai (Koteeswara Ayyar)
+   Gowreemanoharaa (Paapanaasam Sivan)
+
+~ Raagam <C4>HAMEERKALYAANI</C>   Melam 65 (Mechakalyaani)
+ Vakra Bhaashaanga raagam Anya swaram ma1 (F)
+
+  Aarohanam  sa ri2 sa pa ma2 pa da2 ni2 Sa    C D C G F# G A B C
+  Avarohanam  Sa ni2 da2 pa ma2 pa ga2 ma1* ri2 sa
+             C B A G F# G E F D C
+
+  This raagam is somewhat different from the Hindusthani raag of the same name and is closer to Hindusthani Kedhaar. All notes except ma2 may be prolonged. The typical phrases are <A0 >'sa ri sa pa ma2 pa'</A>,  <A1 >'pa ma2 pa ga ma1* ree'</A> and 'pa ma2 pa (ga) ma1* ri'. In the last two, ma1 is prolonged and ri2 slides from ma1 which is the anya swaram. The phrase <A10 >'ri sa ma1*ga pa ma2'</A> is also used. Note da2 is held with a nokku in the ascent and may be prolonged. Occasional use of <A11 >'pa (ma) da2 ma1 ri2'</A> is also found.
+
+  In mood this raagam is close to Saaranga which also uses both madhyamams. However  suddha madhyamam is used in Saaranga only in the phrase 'ri ga ma1 ri' and phrases  like 'pa ma2 pa ma1* ri' are not permissible. In Saaranga the ascent can be 'sa ri ga ma2 pa' while in Hameerkalyaani the ascent is either 'sa ri sa pa' or 'ri sa ma1* ri pa' or <A10 >'ri sa ma1* ga pa ma2'</A>.
+
+  COMPOSITIONS:
+   Maanamuledhaa, Needhaasaanu (Thyaagaraajar)
+   Puraharanandhana, Parimalaranga (Dheekshithar - the last krithi has
+               resemblances to Hindusthani Hamir)
+   Venkatasaila (Subbaraaya Saasthri)
+   Gaangeyavasana (Swaathi Thirunaal)
+   Thoomani (Thiruppaavaai-tune by Ariyakkudi Raamaanuja Ayyangaar)
+
+~ Raagam <C4>HAMSAANANDHI</C>   Melam 53 (Gamanaasrama)
+  Shaadava raagam (Hexatonic)
+
+  Aarohanam:   sa ri1 ga2 ma2 da2 ni2 Sa     C Db E F# A B C
+  Avarohanam:  Sa ni2 da2 ma2 ga2 ri1 sa     C B A F# E Db C
+
+  This raagam is apparently an adaptation from Hindusthani Maarwa and Sohani. One of the very few raagams where ma2 occurs without pa. To impart the Hindusthani mood <A2 >ri1 is held separately</A> and rarely with kampitha gamakam from sa. <A1 >Note ni2</A> is also held in its its own position. All notes except ma2 can be prolonged. In descent, notes slide from the previous note. The raagam is easily depicted by the aarohanam and avarohanam.
+
+  Distinction from Sunaadhavinodhini (sa ga2 ma2 da2 ni2 Sa) is shown by the absence of ri1 in that raagam. Holding ma2 in its own position avoiding gamakam up to pa (as is the case of other prathi madhyama raagams) will ensure that shades of Poorvikalyaani do not occur. There are no compositions of the trinity in the raagam. Apparently its use in Carnatic Music is of recent origin. Muthiah Bhaagavathar is said to have popularised it through his krithi.
+
+  COMPOSITIONS:
+   Sankara Sreegiri, Paahi Jagajjanani (Swaathi Thirunaal)
+   Neethumahima (Muthiah Bhaagavathar)
+   Sreenivaasa Thiruvenkata (Paapanaasam Sivan)
+   Thullu madha, Niraimuka (Thiruppugazh-Arunagirinaathar)
+
+~ Raagam <C4>HAMSADHWANI</C>  Melam 29 (Dheerasankaraabharanam)
+ Ouduva (Pentatonic) Raagam
+
+  Aarohanam:   sa ri2 ga2 pa ni2 Sa    C D E G B C
+  Avarohanam:  Sa ni2 pa ga2 ri2 sa   C B G E D C
+
+  A raagam used often for beginning a concert. All notes can be prolonged. In ascent ri2 is held with a nokku. Note ga2 may be occasionally held with kampitham but is generally held straight. Note ni2 is reached with slide from pa in ascent and is otherwise held slightly higher and in conjunction with sa. Phrases like 'sa ga ri', 'ga ni pa' are found in the Aadhi thaala varnam. Phrases like <A9 >'pa ni gaa'</A>,  <A8 >'pa Ree'</A> are used, stressing samvaadhi relationships (between ga2 and ni2 & pa and ri2). Excessive gamakam on ga2 may be avoided and tinges of prathi madhyamam (ma2) should be avoided in descent so that there is no shade of Kalyaani.
+
+  The raagam is said to have been conceived by Raamaswaamy Dheekshithar (father of Muthuswamy Dheekshithar). The notes of the raagam are generated as harmonics in the sa and pa strings of the Veenaa or Thamboora (pa & ga2 on sa string and ri2 & ni2 on pa string).
+
+  COMPOSITIONS:
+   Vaathaapi Ganapathim, Paarvathi Pathim (Dheekshithar)
+   Sree Raghukula, Raghunaayaka (Thyaagaraajar)
+   Vaaranamukha (Koteeswara Ayyar)
+   Paraasakthi, Moolaadhaara (Sivan)
+   Arul purivaai (Suddhaanandha Bhaarathi)
+
+~ Raagam <C4>HAMSANAADHAM</C>  Melam 60 (Neethimathi)
+ Ouduva (Pentatonic raagam)
+
+  Aarohanam  sa ri2 ma2 pa ni2 Sa    C D F# G B C
+  Avarohanam Sa ni2 pa ma2 ri2 sa   C B G F# D C 
+
+  The melam of this raagam is shown differently as 59 (Dharmavathi), 65 (Mechakalyaani) etc. In the absence of the vivaadhi swaram da3 it is not clear why old texts classified it under Neethimathi. Perhaps it is due to the gamakam on ni2 which sometimes touches da3 (ni1) but da3 (ni1) is not used explicitly. (Similar classification of Amrithavarshini under vivaadhi melam is also seen in old texts).
+
+  The raagam comes out clearly with the notes alone. Note ma2 is held with kampitham linked and anchored on pa. Note ni2 is held linked to Sa but can also be held separately.  Often extensive quick oscillations are used in ni2 without touching Sa. Note ni2 can also be held separately and prolonged or held with kampitham within itself . Note ri2 is held straight. There is jaaru descent and ascent from ri2 to ma2 and pa to ni2. There is common area with Saraswathi in the poorvaangam (from sa to pa) but the utharaangam is quite different and there should be no confusion with that raagam.
+
+  COMPOSITIONS:
+   Bantu Reethi (Thyaagaraajar)
+   Neeya paraamukham (Paapanaasam Sivan)
+   Ezhiludai Hamsanaadham (Thanjavoor Sankara Ayyar)
+
+~ Raagam <C4>HARIKAAMBODHI</C>  Melam 28 (Harikaambodhi)
+ Sampoorna Melakarthaa Raagam (Heptatonic)
+
+  Aarohanam   sa ri2 ga2 ma1 pa da2 ni1 Sa      C D E F G A Bb C
+  Avarohanam  Sa ni1 da2 pa ma1 ga2 ri2 sa     C Bb A G F E D C
+
+  Janyams of this melakarthaa raagam (Kaambodhi, Kedhaaragowla, Kamaas etc.) apparently were popular before formal krithis were composed in this raagam for the first time by Thyaagaraajar. However, in the Tamil Thevaaram school, Thirutthaandakam has been sung in Harikaambodhi perhaps even earlier, although it was not known by that name. In the Carnatic Flute (with sa produced by closing the top 2 holes) the fully open holes represent Harikaambodhi.
+
+  Except ni1 other notes may be held plain. Note n1 is held with kampitham from da2. Note ri2 may be held with nokku in ascent and kampitham in descent. Note ma1 is oscillated from ga2 with greater emphasis on ga (in Kamaas the emphasis is on ma1). Note da2 has to be held plain. To avoid shades of Kaambodhi, the continuity in <A6 >'da ni Sa Ri'</A> is stressed and the phrases 'pa da ma ga', 'ma ga pa' and 'ma ga sa' are avoided. Also the anyaswaram ni2 used in Kaambodhi is absent in Harikaambodhi. Shades of Kamaas are avoided by the absence of anyaswaram ni1, avoiding 'sa ma ga ma' and 'ma ga sa', kampitham on <A1 >ri</A> in descent and not holding ni1 separately. Traditionally this raagam does not have movements below the middle octave, none being found in Thyagaraaja krithis
+
+ COMPOSITIONS:
+  Dhinamanivamsa, Raama nannu, Entharaa nee, Undedhi Raamudu,
+  Endhuku nirdhaya (Thyaagaraajar)
+  Paamaalaikkinai (Paapanaasam Sivan)
+
+
+~ Raagam <C4>HEMAVATHI</C> (Haimavathi)   Melam 58 (Hemavathi)
+ Sampoorna (Heptatonic) Melakartha Raagam
+
+  Aarohanam  sa ri2 ga1 ma2 pa da2 ni1 Sa      C D Eb F# G A Bb C
+  Avarohanam Sa ni1 da2 pa ma2 ga1 ri2 sa     C Bb A G F# Eb D C
+
+  The prathi madhyama raagam of Kharaharapriya. Notes in the range sa to pa are sung as in Shanmukhapriya i.e ri2 held straight ga1 held with kampitham from ri2 occasionally stopping in ga for a moment and ma2 held with kampitham from pa. The region from ma to Sa is sung similar to Vaachaspathi with da2 being held plain and ni1 held with kampitham from da occasionally reaching Sa. Although the area pa da ni Sa ri ga is common with Kharaharapriya as the emphasis is on phrases like 'da nee da pa ma' or <A10 >'paa ma ga ri sa'</A> or <A0 >'ri ga ma pa'</A> in which ma2 occurs, the bhaavam of Kharaharapriya is not felt but shades of Shanmukhapriya (or Simhendramadhyamam) and Vaachaspathi cannot be avoided unless all the notes are repeatedly touched.
+
+  In Chathurdandiprakaasika, Venkatamakhi lists 18 existing melams and mentions this melam (with the name Simharavam) as invented by himself ('Venkataadhvari kalpitha'). The name of the melam is 'Desi Simharavam' in Deekshithar school.
+
+  COMPOSITIONS: 
+   Sree Kaanthimatheem, Hariyuvatheem Haimavatheem (Deekshithar)
+   Maname maravaathe (Koteeswara Ayyar)
+   Sivanukkilaya sevai (Maayuram Viswanaatha Sasthri)
+   Chidhambara naatha (Paapanaasam Sivan)
+
+~ Raagam <C4> HINDHOLAM</C>   Melam 20 (Natabhairavi)
+ Ouduva (Pentatonic) raagam  (North Indian equivalent - Malkauns)
+
+  Aarohanam:   sa ga1 ma1 da1 ni1 Sa      C Eb F Ab Bb C
+  Avarohanam:  Sa ni1 da1 ma1 ga1 sa     C Bb Ab F Eb C
+
+  A raagam distinctly having Hindusthani mood due to the occurrence of black notes without the adjoining white notes and consequent conjunction of black notes with the higher notes. All notes may be prolonged. In Carnatic style ga1 can be given gamakam with ma1. Gamakams from da1 to ni1 & ni1 to sa are common. Phrases like <A3 >'sa ma (ga ma)'</A>,  <A6 >'ma ni (da)'</A>,  <A12 >'(Sa) Ga ni (Sa)'</A>,  <A5 >'(ma) da ga (ma)'</A> stress samvaadhi relationships. The aarohanam is sometimes given as 'sa ma1 ga1 ma1 da1 ni1 Sa'. In one composition of Thyaagaraajar (Manasuloni) da2 (Chathusruthi Dhaivatham) is used by many musicians, entirely omitting da1 and the name 'Varamu' or 'Suddha Hindholam' is used to refer to that style using da2. In the other composition of the same composer (Saamajavaragamana) only da1 is used. Smooth slides from one note to another is extensive in Hindholam.
+
+  The raagam can be easily depicted by its aarohanam- avarohanam and rarely confused with any other raagam.  Sometimes this is shown as janyam of Hanumatthodi.
+
+  COMPOSITIONS:
+   Saamajavaragamana, Manasuloni (Thyaagaraajar)
+   Neerajaakshi, Govardhanagireesam, Saraswathi (Dheekshithar)
+   Padmanaabha paahi (Swaathi Thirunaal)
+   Maaramanan (Sivan)
+   Saamagaana lole (G.N.Baalasubramanian)
+   Karunaalaya (Vedhanaayakam Pillai)
+
+~ Raagam <C4>HUSEINI</C>   Melam 22 (Kharaharapriya)
+ Bhaashaanga Vakra raagam Anya swaram da1 - Ab
+
+  Aarohanam: sa ri2 ga1 ma1 pa ni1 da2 ni1 Sa
+                         C D Eb F G Bb A Bb C
+  Avarohanam: Sa ni1 da1* pa ma1 pa ma1 ga1 ri2 sa
+                        C Bb Ab G F G F Eb D C
+
+  This raagam can hardly be described by its notes and it is difficult to write down aarohanam-avarohanam for this raagam which, can bring out its mood. It has moods of Aanandhabhairavi, Bhairavi and Mukhaari. Only ri2 can be prolonged without gamakam apart from sa & pa. Transitions like sa pa, pa sa, da1* ma1 are used. The phrase 'ri sa' is actually held as 'ri ga sa' with slow slides from ri2 to ga1 and ga1 to sa. Use of da1 in the  phrases 'pa da1* pa','pa da1* ma' and 'pa da2 ni da1*' makes this bhaashangam. In the phrase 'pa da2 ni da1*', ni is prolonged followed by slide to da1. The note ni1 is similarly held in the phrase 'da2 ni1 pa'. The manner in which ni1 is held and the other transitions mentioned above distinguish the raagam from the allied raagams. Listen to the typical phrases of this raagam for a grasp of its movements.
+
+  COMPOSITIONS:
+   Raamaa ninne, Raghuveera (Thyaagaraajar)
+   Sree Kaalahastheesa (Panchalinga krithi by Dheekshithar)
+   Aligithe (Padham - Kshethrajnyar)
+   Sree Raghukula (Raamnaad Sreenivaasa Ayyangaar)
+
+~ Raagam  <C4>JAGANMOHINI</C>    Melam 15 (Maayaamaalavagowla)
+ Ouduva Shaadava raagam (Pentatonic-hexatonic)
+
+  Aarohanam:  sa ga2 ma1 pa ni2 Sa          C E F G B C
+  Avarohanam: Sa ni2 pa ma1 ga2 ri1 sa   C B G F E Db C
+
+  In the ascent ga2 is held with a stress and ni2 is held with gamakam in conjunction with Sa. In the descent ri1 slides from ga2 and with minimum gamakam. Though ri1 is held at a position slightly lower than the pure note, it is oscillated from sa only in the phrase 'ni Sa Ri'. In the descent ga2 may be given kampitham. Gowla and Jaganmohini are both janyams of melam 15 and both do not have da. The distinction lies in the aarohanam which is 'sa ga ma pa' for Jaganmohini and 'sa ri ma pa' for Gowla and more particularly in the manner in which ri1 is held in descent. In Gowla ri is always oscillated from sa whereas in Jaganmohini it is reached directly in the descent by a slide from ga.
+
+  This raagam is easily depicted from the notes. It is not a major raagam for elaboration.
+
+  COMPOSITIONS:
+   Sobhillu Sapthaswara (Thyaagaraajar)
+   Sivakaama Sundhari (Gopaalakrishna Bhaarathi)
+   Dhayaapayonidhe (Meesu Krishna Ayyar)
+
+~ Raagam  <C4>JANARANJANI</C>    Melam 29 (Dheerasankaraabharanam)
+ Sampoorna(Vakra)- Ouduva raagam (Heptatonic-pentatonic)
+
+  Aarohanam:   sa ri2 ga2 ma1 pa da2 pa ni2 Sa   C D E F G A G B C
+  Avarohanam:  Sa da2 pa ma1 ri2 sa                      C A G F D C
+
+  All notes can be prolonged. In the ascent ri2 and da2 and ni2 are held with kampitha gamakam but may also be held plain. There is continuity in the phrases 'ri ga ma' , <A6 >'Sa da pa'</A> and <A1 >'pa ma ree'</A> which is characteristic of the raagam. In 'pa ma ree' , ri2 is held straight or sometimes given a very short kampitham. This distinguishes the raagam from Suddha Saaveri which has identical descent. The phrase 'ri ga ma ri sa' is also used. Characteristic phrases are <A0 >'ga ma pa da pa nee'</A> and 'Sa da pa' and 'pa ma ree'.
+
+  Poornachandrika has a similar mood. Distinction is achieved by holding ni2 clearly in the  phrase 'pa ni Sa', and in the phrase 'Sa da pa' no trace of ni2 should be allowed.  In Poornachandhrika ga2 cannot be prolonged. In Janaranjani 'ma ga ma' or 'ga ma' can be starting phrases which is not possible in Poornachandhrika.
+
+  COMPOSITIONS:
+   Vidajaalathura, Naadaadinamaata, Smarane sukhamu (Thyaagaraajar)
+   Nannubrova (Syamaa Saasthri)
+   Paahimaam Sree Raajaraajeswari (Mahaa Vaidhyanaatha Ayyar)
+   Ranjanimaala (last raagam in the Raagamaalika) (Thanjavoor Sankara Iyer)
+
+~ Raagam <C4>JYOTHISWAROOPINI</C>  Melam 68 (Jyothiswaroopini)
+ Sampoorna (Heptatonic) Melakartha Raagam
+
+  Aarohanam   sa ri3 ga2 ma2 pa da1 ni1 Sa     C D# E F# G Ab Bb C
+  Avarohanam  Sa ni1 da1 pa ma2 ga2 ri3 sa    C Bb Ab G F# E D# C 
+
+  Melakartha raagam with one vivaadhi note ri3. The range ma to Sa is similar to Shanmukhapriya. Note da1 is held with kampitham from pa and note ni1 may be held plain or with slight gamakam in its own position. In the phrase 'pa da ni Sa' ni may oscillate up to Sa. The range sa to pa is unlike any common raagam. The part sa ri ga may sound like Nata but the presence of ma2 gives a new bhaavam. Note ri3 is oscillated slightly as in other raagam with this note (like Nata). Note ga2 is held plain and ma2 is held with kampitham from pa as in other prathi madhyama raagams. Except for the similarity ot Shanmukhapriya in the range pa to Sa, this raagam has a distinct bhaavam and not confused with any other raagam. In the range ga to Sa the notes are identical with those of Rishabhapriya which is not a common raagam. This raagam is named Jyothi in Dheekshithar school and the avarohanam is given as 'Sa ni da pa ma ga sa' in Sampradhaaya Pradarsini. The Dheekshithar's krithi also uses phrases like 'Sa pa' ,'pa Sa'.
+
+  COMPOSITIONS:
+   Paranjyothishmathi (Dheekshithar)
+   Gaanaamutha paanam (Koteeswara Ayyar)
+
+~ Raagam  <C4>KAAMBODHI</C>     Melam 28 (Harikaambodhi) 
+ Shaadava Sampoorna (Hexatonic-Heptatonic) Bhaashaanga Raagam
+
+  Aarohanam:  sa ri2 ga2 ma1 pa da2 Sa            C D E F G A C
+  Avarohanam: Sa ni1 da2 pa ma1 ga2 ri2 sa     C Bb A G F E D C
+  Anya swaram Kaakali Nishaadham - ni2 - only in the phrase 'sa nI pA'
+
+  A major raagam. It is more popular than the Melakarthaa raagam Harikaambodhi. Notes ga2and da2 can be prolonged. Note ma1 is oscillated from ga2 up to ma1 or up to pa. Occasional prolonging of ma1 is permitted. Note ri2 is generally held with kampitham or nokku but may also be held straight. Note ni1 is oscillated from da2 and can also be held with a slide from Sa and held plain for a short moment. The anya swaram ni2 is used in the phrase <A15 >'sA ni2 pA dA sa'</A>. Some maintain that this can be used only in the lower octave. The phrases 'ma ga sa' and <A4 >'sa ri ma'</A> are also used. These are harmonically related to 'Sa ni2* pa' & 'pa da Sa'. The phrases <A0 >'ma ga pa'</A>, <A6 >'pa ni da'</A> and <A14 >'pa da ma'</A> are also used. Phrases 'ma ga pa' and 'sa ri ma ga' help to distinguish Kaambodhi from Sankaraabharanam. In Sankaraabharanam ri2 and da2 are not prolonged without gamakam and ma1 is held differently. Thus distinction can be shown even in the range sa to da2 where notes are common.
+
+  COMPOSITIONS:
+   Evarimaata, Maa Jaanaki, O Rangasaayee, Sree Raghuvara
+     (Thyaagaraajar)
+   Sree Subrahmanyaaya, Marakathavalleem (Dheekshithar)
+   Thiruvadi Saranam (Gopaalakrishna Bhaarathi)
+   Kaanakkan koti, Aadum Dheivam (Paapanaasam Sivan)
+
+~ Raagam <C4>KAANADA</C>      Melam 22 (Kharaharapriya)
+ Ubhayavakra Bhaashaanga Raagam Anya swaram Kaakali Ni (B)
+
+  Aarohanam:  sa ri2 ga1 ma1 pa ma1 da2 ni1 Sa    C D Eb F G F A Bb C
+  Avarohanam: Sa ni1 pa ma1 pa ga1 ma1 ri2 sa     C Bb G F G Eb F D C
+
+  The characteristic of this raagam is the <A0 >oscillation of ga1</A> from its own position (or from a higher position) up to ma1. One of the few raagams in which ga1 is so held (while it is generally oscillated from ri2 in other raagams) and hence gets its North Indian flavour. The lower movements resemble Hindusthani Kaanada group e.g., Dharbaari Kaanada but Dharbaari has da1, not da2. The anya swaram ni2 occurs in the phrase <A6 >'Sa ni2 Sa da ni1'</A>.  Notes ri2 and da2 can be prolonged. Note ni1 is held from da2 in ascent and from da2 or Sa in descent. The characteristic phrases are <A0 >'gaa ma ri '</A> with gamakam in ga1 up to ma1, <A2 >'ri pa gaa'</A>, and <A3 >'ma da ni pa'</A> and <A6 >'Sa ni2 sa daa ni1'</A>. The extent of oscillation on ga can vary from artiste to artiste. When oscillated closer to ma there is less Hindusthani touch. The raagam is a popular rakthi raagam and is often used in raagamaalikaa swaram singing.  
+ 
+  COMPOSITIONS:
+   Sukhievvaro, Sree Naaradha (Thyaagaraajar)
+   Veerahanumathe, Baalaambikaa (Dheekshithar (?))
+   Maamava sadhaa Janani (Swaathi Thirunaal)
+   Alaipayudhe (Oothukkaadu Venkatasubbier)
+   Paraamukhamela (G.N.Baalasubramanian)
+   Enna Solli (Ambujam Krishnaa)
+
+~ Raagam <C4>KAAPI</C>      Melam 22 (Kharaharapriya)
+ Bhaashaanga Vakra raagam
+
+  Aarohanam:  sa ri2 ma1 pa ni1 Sa       C D F G Bb C
+  Avarohanam: Sa ni1 da2 ni1 pa ma1 pa ga1 ri2 sa 
+                            C Bb A Bb G F G Eb D C
+
+  This raagam has as many as three anya swarams ga2,ni2 & da1.  Purists deprecate the use of anya swarams!   Characteristic phrase is <A1 >'ni pa gaa'</A> where the ga1 is held without oscillation which is rare in other raagams where ri2 is also used. When ga1 is given kampitham the lower end of the oscillation is higher than ri2.  Anya swaram ni2 is used in the phrases <A4 >'ma pa ni2'</A>, <A10 >'sa nI2 sa</A> & ri nI2 sa'. Anya swaram ga2 is used in the phrase 'ma ga2 ma' and <A3 >'ga2 ma ni1 pa ga1'</A> and da1 in the phrase <A9 >'pa da1 pa'</A>.
+
+  Phrases <A3 >'ma ni1 pa'</A>, 'ni1 ma pa', <A7 >'pa (Ga) Ri Sa'</A> are used often though not indicated by aarohanam-avarohanam. In the descent, slides from Sa to ni1, ni1 to pa, pa to ga1 can also impart the raaga bhaavam. In the phrase <A0 >'ri ma pa'</A>, ri2 starts from ma1. Note ri2 should be held plain. In general in this raagam kampitham is used less. Dheekshithar's composition Venkataachalapathe is sung without anya swarams and with a tinge of Kaanada and its raagam is sometimes mentioned as Karnaataka Kaapi.
+
+  COMPOSITIONS:
+   Meevalla guna, Intha soukhya (Thyaagaraajar)
+   Vihaara maanasa (Swaathi Thirunaal)
+   Jaanaki ramana (Vaanamaamalai Jeeyar)
+   Enna thavam seidhanai (Sivan)
+
+
+~ Raagam <C4> KALYAANAVASANTHAM</C>   Melam 21 (Keeravaani)
+
+ Ouduva-Sampoorna (Pentatonic-Heptatonic) Raagam.
+
+  Aarohanam:   sa ga1 ma1 da1 ni2 Sa                 C Eb F Ab B C 
+  Avarohanam:  Sa ni2 da1 pa ma1 ga1 ri2 sa    C B Ab G F Eb D C
+
+  In the ascent ga1 may be oscillated up to ma1 or from ga1 over a small range above. Note da1 is held with kampitham from pa both in ascent and descent - in the ascent without explicitly touching pa, but can also be held straight for a short duration. Note ni2 is held close to sa as in Keeravaani. In the descent phrases may end in da1 <A6 >(Sa ni daa)</A> unlike in Keeravaani. In the phrase <A10 >'pa ma ga ri sa ni'</A>, ma slides from pa and other notes are passed quickly, while in Keeravaani ri2 is prolonged and some gamakam is employed on ga1. In the ascent the absence of ri2 makes it necessary to hold ga1 plain or with kampitham extending above, but some musicians hold this ga1 from ri2 also. The aarohanam 'sa ga ma da ni sa' is also reminiscent of North Indian Chandhrakauns (which has identical avarohanam also). This raagam can generally not be confused with others due the unusual aarohanam. Distinction from Keeravaani is achieved as explained above.
+
+  COMPOSITIONS:
+   Naadhaloludai, Kanuluthaakani (Thyaagaraajar)
+   Sree Venkatesa (Dheekshithar (?))
+
+~ Raagam <C4>KALYAANI</C>     Melam 65 (Mechakalyaani)
+ Sampoorna (Heptatonic) Melakarthaa Raagam
+
+  Aarohanam:  sa ri2 ga2 ma2 pa da2 ni2 Sa    C D E F# G A B C
+  Avarohanam: Sa ni2 da2 pa ma2 ga2 ri2 sa   C B A G F# E D C
+
+  A major melakarthaa raagam. Hindusthani equivalents are raags of Kalyaan Thaat (Yaman etc.).  All notes except ma2 can be prolonged  without gamakam. Notes ri2 and da2 are held with nokku in ascent and kampitham in descent but can also be held straight. Note <A0 >ga2 is held with kampitham</A> which is characteristic and distinguishes Kalyaani from Yamunaakalyaani, Mohanakalyaani and also Sankaraabharanam. Note ni2 may be held separately and prolonged and da2 and ri2 held without gamakam which is also not possible in Sankaraabharanam. Omission of pa and sa in phrases like <A4 >'dA nI ree'</A> or <A18 >'ni da ma ga ri'</A> is permitted. Phrases <A16 >'da Ga Ri'</A>, 'ga ni da', 'ga ma ri', 'Sa ni paa' also occur. In 'Sa ni paa', da2 is lightly touched and pa reached with sphuritham, but direct descent from ni to paa is also found. Note 'ma2' is held close to pa and oscillated from it as in other prathi madhyama raagams. The manner in which ri2, ga2, da2 & ni2 are held enable showing distinction from Sankaraabharanam even in areas not involving ma (see the illustration in Introductory Module-page J). 
+
+  COMPOSITIONS:
+   Ethaavunaraa, Nidhichaala, Sundhari nee dhivya, Vaasudhevayani,
+     Nammi vachina, Evaramadukudhu, Raamaa nee vaadhu (Thyaagaraajar)
+   Kamalaambaam, Bhajare, Sivakaameswareem (Dheekshithar)
+   Himaadhrisuthe (Syaamaa Saasthri)
+   Neethucharana (Gopaala Ayyar)
+   Unnaiyallaal (Sivan)
+
+
+~ Raagam <C4> KAMAAS</C>     Melam 28 (Harikaambodhi)
+  Shaadava Sampoorna Bhaashaanga Vakra Raagam (Hexatonic-
+   Heptatonic winding in ascent and descent)
+
+  Aarohanam:   sa ma1 ga2 ma1 pa da2 ni1 Sa          C F E F G A Bb C 
+  Avarohanam:  Sa ni1 da2 pa ma1 ga2 ri2 ga2 sa    C Bb A G F E D E C 
+  Anya swaram occurring - Kaakali Nishaadham-ni2. (B)
+
+  Somewhat similar to Hindusthani raag of the same name.  Characteristics are the oscillation of ma1 in conjunction with ga2 and slide from da2 to ni1 in ascent and pauses in ni1 without gamakam and use of ni2 in the phrase 'Sa ni2 Sa'. Phrases <A0 >'ma ni1 da ni1 pa'</A>, <A4 >'paa da maa'</A>, <A8 >'Sa ri nee'</A>, <A8 >'ni Sa daa'</A> are also used. Apart from pa only da2 can be prolonged without gamakam and ga2 and ri2 for short periods. The phrases 'sa ma ga ma' and 'ma ni1 da ni1' are harmonically related. A drop from Sa to ma1 occurs occasionally. The important notes are ma1, da2 and ni1. This raagam rarely goes to lower octave.
+
+  Distinction from Harikaambodhi is obtained by the use of ni2 (which is however discouraged by purists) the use of 'sa ma ga ma' , 'ma ni da ni' and separate plain holding of ni1 in Kamaas while Harikaambodhi has no vakra phrases and rarely uses 'paa da maa' and ni1 is generally held with gamakam from da2.
+
+  COMPOSITIONS:
+   Seethaapathe, Sujanajeevana (Thyaagaraajar)
+   Saarasadhala nayana, Santhaana Gopaalakrishnam (Dheekshithar)
+   Brochevaarevarura (Mysore Vaasudhevaachaar)
+   Idadhu padham thookki (Sivan)
+
+~ Raagam <C4>KANNADA </C>  Melam 29  (Dheerasankaraabharanam)
+ Sampoorna Vakra Raagam (Heptatonic - devious in ascent & descent)
+
+  Aarohanam:    sa ga2 ma1 pa ma1 da2 ni2 Sa       C E F G F A B C
+  Avarohanam:  Sa ni2 Sa da2 pa ma1 ga2 ma1 ri2 sa
+                             C B C A G F E F D C
+
+  Unlike the 'parent' raagam Sankaraabharanam all notes of Kannada can be prolonged without gamakam. Note da2 can be held with nokku in ascent. The phrase <A2 >'gaa ma daa'</A> with nokku in da2 is characteristic as also the phrase 'Sa da pa ma ga ma ri sa'. 'pa ga ma ri sa' is also permitted in the descent. The raagam can be easily delineated by its aarohanam and avarohanam. Occasional shades of Begada can be avoided by holding  ma1 and ri2 straight without gamakam (or ri2 with very slight kampitham when prolonged) and avoiding 'Sa ni da pa' which is not allowed. The phrases 'ga ma daa' and <A1 >'pa ma ga ma ri sa'</A> are important in imparting the raaga bhaavam.
+
+  COMPOSITIONS:
+   Saaketha niketha, Ninnaada (Thyaagaraajar)
+   Sree Mathrubhootham (Dheekshithar)
+   Intha kante (Patnam Subrahmanya Ayyar)
+   Saravana bhava Guhane (Paapanaasam Sivan)
+
+~ Raagam <C4>KANNADAGOWLA</C>  Melam 22 (Kharaharapriya) 
+  Shaadava-Sampoorna Vakra Raagam (Hexatonic-Heptatonic)
+
+  Aarohanam  sa ri2 ga1 ma1 pa ni1 Sa          C D Eb F G Bb C
+  Avarohanam Sa ni1 da2 pa ma1 ga1 sa       C Bb A G F Eb C
+
+  The aarohanam is sometimes given as 'sa ga ma pa ni Sa' and the avarohanam as 'Sa ni da pa ma ga ri ga sa' or 'Sa ni da ma ga sa'. In aarohanam ga1 is held with kampitham from ri2 but could be held a shade higher than in raagams like Kharaharapriya. It can also be oscillated up to ma. In the avarohanam the note is held plain for a short moment after touching ri2 and descending to sa. In the utharaangam the phrases 'pa ni Sa' and 'Sa ni da pa' are reminiscent of Aabheri, but ni is held in association with da in both cases and held separately only for a short period while in Aabheri it could be held separately more often or associated with Sa. The phrase <A6 >'ni da ma pa'</A> or 'ni da (pa) ma pa' where the first pa is quickly passed is often used though not indicated in the avarohanam above (but indicated in the 2nd alternative). Phrases like <A5 >'Sa Ri Ga Ma Ga Sa'</A>, 'ni da (pa) ma pa ma' and <A8 >'ga (ri) ga sa'</A> are characteristic. In the Dheekshithar school however, the notes ga and ni are sung with greater prominence and even 'sa ga ga ma' is used.
+
+  Distinction from Aabheri lies essentially in the phrases 'sa ri ga ma' , 'ni da ma pa', ' ma ga sa' which are not allowed in Aabheri while 'ma ga ri sa' used in Aabheri is not used in Kannadagowla. The distinction is also achieved in the manner in which ni1 is sung.
+
+  COMPOSITIONS:
+   Orajooppujoochedhi, Sogasu jooda (Thyaagaraajar)
+   Neelothpalaambikayaa (Dheekshithar)
+
+
+~ Raagam  <C4>KEDHAARAGOWLA</C>  Melam 28 (Harikaambodhi) 
+ Ouduva Sampoorna Raagam (Pentatonic - Heptatonic)
+
+  Aarohanam:  sa ri2 ma1 pa ni1 Sa                    C E F G Bb C
+  Avarohanam: Sa ni1 da2 pa ma1 ga2 ri2 sa   C Bb A G F E D C
+
+  Correct delineation of this raagam requires proper application of gamakams on ni1-da2  and ga2-ma1 in the descent.  In the descent the phrase <A7 >'ni da pa'</A> is really held as 'ni da ni pa' with the second ni1 lightly touched and da2 prolonged. Similarly <A0 >'ma ga ri'</A> is held as 'ma gaa ma ri', with kampitham on ri2 which descends from short ma1 with slide. The phrases <A7 >'Ri Ma Gaa Ri'</A> with prolonged Ga2 and kampitham on Ri2 and the phrase <A6 >'pa ni Sa (Ri Ga) Ree'</A> are characteristic of this raagam. Correct rendering of 'ni da pa' and 'ma ga ri' can can help distinguish the raagam from Surati and Sahaanaa which have similar descent. In Surati ri2 descends from ma1 while in Sahaanaa ga2 oscillates slowly and clearly and ma is held clearly before descending to ri2. In Kedhaaragowla ga2 is lightly touched, given kampitham, held slightly longer without gamakam and then ma1 is quickly touched before descending with slide to ri2. Note ni1 is oscillated from above da2 up to Sa in the ascent. Descent from ga to sa without touching ri is also found in the phrase 'sa ri ga sa'. This is one of the raagams very difficult to describe by its notes alone.
+
+  COMPOSITIONS:
+   Venugaanaloluni, Thulasee bilva (Thyaagaraajar)
+   Neelakhantam (Dheekshithar)
+   Saragunapaalimpa (Raamnaad (Poochi)Sreenivaasa Ayyangaar)
+   Andha Raama Soundharyam (Arunaachala Kavi)
+
+~ Raagam <C4>KEDHAARAM</C>  Melam 29 (Dheerasankaraabharanam)
+  Ouduva Shaadava Raagam (Pentatonic-Hexatonic)
+
+  Aarohanam:  sa ma1 ga2 ma1 pa ni2 Sa    C F E F G B C
+  Avarohanam: Sa ni2 pa ma1 ga2 ri2 sa       C B G F E D C
+
+  Apart from sa and pa only ga2 can be prolonged that too more in descent than in the ascent. Note ni2 is held close to Sa and can be prolonged only in the phrases 'sa nI sa' and 'pa nI sa' and not in 'Sa ni2 pa'. In this phrase the transition from ni2 to pa is quick  often with a quick touch of Sa. The characteristic phrase of this raagam is <A6 >'Saa ni paa ma gaa ri saa'</A> in which Sa, pa and ga2 are prolonged , ni2 and ma1 are very short and 'ri sa' is really held as 'ri (ga) sa' with a short touch of ga2 and descent from ga2 to sa. In the phrase <A1 >'paa ma gaa'</A>, ma1 is held with a stress going up quickly from ga2.
+
+  The occurrence of 'Sa ni pa' and 'ri ga sa' can lead to a tinge of Neelaambari which can be avoided by not oscillating ga2 (in Neelaambari ga2 is oscillated in conjunction with ma1) and avoiding slow descent from ni2 to pa.
+
+  COMPOSITIONS:
+   Raamaa Neepai Thanaku, (Thyaagaraajar)
+   Aanandha natana(Pancha linga krithi) , Chidhambara Nataraaja
+     (Dheekshithar)
+   Sakalakalaa Vaaniye (Suddhaanandha Bhaarathi)
+
+
+~ Raagam <C4>KEERAVAANI</C>   Melam 21 (Keeravani)
+  Sampoorna (Heptatonic) Melakarthaa Raagam
+
+  Aarohanam:    sa ri2 ga1 ma1 pa da1 ni2 Sa     C D Eb F G Ab B C
+  Avarohanam:  Sa ni2 da1 pa ma1 ga1 ri2 sa     C B Ab F G Eb D C
+
+  Notes ri2, ma1 and ni2 can be prolonged, <A0 >ni2 is prolonged</A> more often in the lower octave. Note ga1 oscillates from ri2. In the ascent ga1 is often touched lightly while in the descent ri2 is often reached from ma1 before ga1 is held. Note da1 is held in conjunction with pa in the ascent and in the descent it is reached by <A8 >slide from ni2</A>. Note ni2 is a strong note in the raagam. In the ascent it is reached from da1 and can be prolonged with gamakam reaching Sa.
+
+  The raagam differs from Simhendramadhyamam only in ma and distinction can be shown by stressing on ma1 and by the fact that ni2 is not prolonged in the lower octave in Simhendramadhyamam without gamakam. Distinction from Bhairavi is easy as two notes da and ni are different in ascent and ni2 can be stressed to bring out the mood of Keeravani. The characteristic phrase 'sa ga ri ga ma' of Bhairavi is also not present.
+
+  COMPOSITIONS:
+   Kaligiyunde katha (Thyaagaraajar)
+   Varamu (Patnam Subramanya Ayyar)
+   Innamum sandheha padalaamo (Gopaalakrishna Bhaarathi)
+   Dhevi neeye thunai (Paapanaasam Sivan)
+
+~ Raagam <C4>KHARAHARAPRIYAA</C>  Melam 22 (Kharaharapriya)
+ Sampoorna (Heptatonic) Melakarthaa Raagam
+
+  Aarohanam:  sa ri2 ga1 ma1 pa da2 ni1 Sa     C D Eb F G A Bb C
+  Avarohanam: Sa ni1 da2 pa ma1 ga1 ri2 sa    C Bb A G F Eb D C
+
+  Notes ri2, ma1 and da2 can be prolonged. Notes ri2 and da2 should not be oscillated but are the bases for holding ga1 and ni1 which are oscillated from ri2 and da2. The oscillations of ga1 and ni1 are generally short but occasional oscillation of ga1 up to ma1 and more frequent oscillation of ni1 up to Sa are allowed. The gamakam on ga and ni often end at the higher point before moving up to the next note ma or Sa. This is an important distinction from Bhairavi. In all cases the oscillations should start from the lower swaram ri2 or da2 to avoid shades of Hindusthani raags. Occasionally ga1 and ni1 can be held without gamakam for a short moment (ex.) the second ga1 in phrase <A2 >'ri ga ma gaa ri'</A> and the second ni1 in the phrase <A13 >'ni nee da pa'</A>. Plain <A4 >'ri ga ma pa'</A> and 'pa da ni Sa' are also used. A characteristic phrase is <A11 >'Sa da ni da'</A> in which the last da2 is very short and the phrase 'pa da ni da ni pa daa ni Sa' in which the ni1's are short and move from da2 with upward movement.  A major raagam.
+
+  Creation of this raagam from the scale is attributed to Thyaagaraajar. There are no compositions of Dheekshithar and Syaamaa Saasthri in this raagam.
+
+  COMPOSITIONS:
+   Pakkala nilabadi, Chakkani raaja, Raamaa neeyeda,
+      Raama nee samaana, Nadachi nadachi, Korisevimpa
+      (Thyaagaraajar)
+   Moovaasai konda (Muthiah Bhaagavathar) 
+   Paraamukham, Sreenivaasa, Jaanakipathe (Paapanaasam Sivan 
+
+ ~ Raagam <C4>KUNTHALAVARAALI</C>   Melam 28 (Harikaambodhi) 
+ Ouduva Vakra Raagam (Pentatonic - devious in ascent)
+
+  Aarohanam:  sa ma1 pa da2 ni1 da2 Sa   C F G A Bb A C
+  Avarohanam: Sa ni1 da2 pa ma1 sa          C Bb A G F C
+
+  A lilting minor raagam. All notes can be prolonged. Note da2 is held without gamakam and ni1 is held with kampitham either by oscillating from da2 or by anchoring on ni1 instead of da2. In the avarohanam sometimes ni is prolonged without oscillation after touching da2. Jaaru from <A4 >sa to ma</A> and from <A0 >ma to sa</A> is used and is characteristic of the Raagam.  The phrase 'ma ni da ni' is also used. The note ma1 is very strong in this raagam. The large range transition from sa to ma in both ascent and descent is a characteristic of this raagam.
+
+  COMPOSITIONS:
+   Chenthane sadhaa, Sara sara, Kalinarula (Thyaagaraajar)
+   Bhogendhra Sayinam (Swaathi Thirunaal - it was originally set
+     in Dhanyaasi but nowadays sung in Kunthalavaraali)       
+   Unnai thuthikka (Paapanaasam Sivan)
+   Maale Manivannaa (Thiruppaavai - tune by Ariyakkudi Raamaanuja 
+     Ayyangaar)
+
+~ Raagam <C4> KURANJI</C>     Melam 29 (Dheerasankaraabharanam) 
+  Dhaivadhaantha raagam (Does not go beyond da (A) of middle octave)
+
+  Aarohanam:   nI2 sa ri2 ga2 ma1 pa da2     (B) C D E F G A
+  Avarohanam:  da2 pa ma1 ga2 ri2 sa nI2     A G F E D C (B)
+
+  This raagam is sung predominantly between nI2 of the lower octave and pa of the middle octave occasionally touching pA of the lower octave and da2 of middle octave and so it is generally sung in Madhyama Sruthi i.e. treating ma1 of the middle octave as sa. Its notes are held somewhat differently from those of Sankaraabharaqnam. Unlike in Sankaraabharanam note nI2 of lower octave and ma1 predominate and may be prolonged .  Note ri2 may be held either with kampitham or straight while ga2 is held straight. In avarohanam a slow slide from ri2 to sa and ending in nI2 (in phrases like <A3 >'ri sa nee'</A> or 'ga ri sa nee') is characteristic of the raagam. Frequent ending in nI2 (lower octave) is quite common and so the aarohanam and avarohanam are shown between nI2 and da2. Ending in ma1 in the phrase <A0 >'ri ga maa'</A> or 'pa maa' with an oscillation on ma1 is also used.  Singing in madhyama sruthi and prolonging of nI2 and ri2 without gamakam distinguish this raagam from Sankaraabharanam.  Navaroj is very similar in mood but reaches pA of the lower octave. 
+
+  (The Aarohanam-Avarohanam illustration is in madhyama sruthi treating ma1 (F) as sa. Note the shifted positions of the keys.)
+
+  COMPOSITIONS:
+   Sree Venugopaala (Dheekshithar)
+   Seetha kalyaana (Thyaagaraajar) 
+   Sivadheekshaa (Ghanam Seenayya)
+
+~ 
+ Raagam <C4>LALITHAA</C>   Melam 15 (Maayaamaalavagowla)
+  Shaadava (Hexatonic) raagam
+
+  Aarohanam:  sa ri1 ga2 ma1 da1 ni2 Sa     C Db E F Ab B C 
+  Avarohanam: Sa ni2 da1 ma1 ga2 ri1 sa    C B Ab F E Db C
+
+  Though not a very common raagam this is included here as the definition given in older texts for Vasantha is really for Lalitha. Vasantha is now sung with da2. In Lalitha as handled by Dheekshithar ri1 is held with minimum gamakam , but Syaamaa Saasthri has used ri1 oscillating from sa. In Dheekshithar's composition ri1 slides from ga2. In the absence of pa, da1 is necessarily held with less gamakam not quite reaching pa. The raagam can be quite easily delineated by its notes as there are no special gamakams associated with the notes. The way the raagam has been handled by Syaamaa Saasthri, there is some resemblance to Paras but the latter uses pa and also has a wider kampitham on ga2 while in Lalitha ga2 is held straight or with minimum gamakam.  
+
+  COMPOSITIONS:
+   Hiranmayeem Lakshmeem (Dheekshithar)
+   Nannubrovu Lalithe (Syaamaa Saasthri). This is also sung in
+      Vasantha with da2.
+
+~ Raagam <C4>LATHAANGI</C>      Melam 63 (Lathaangi)
+  Sampoorna raagam of this melam
+
+  Aarohanam:  sa ri2 ga2 ma2 pa da1 ni2 Sa     C D E F# G Ab B C
+  Avarohanam: Sa ni2 da1 pa ma2 ga2 ri2 sa    C B Ab G F# E D C
+
+  Obviously a raagam which has been developed after the adoption of 72 melam scheme.  Notes ri2 and ga2 may be prolonged or held with kampitham; ri2 may also be held with nokku in ascent. As in other prathimadhyama raagams ma2 is held close to pa . Note da1 is held with kampitham from pa while ni2 is held close to Sa and oscillated from it. This raagam differs from Kalyaani only in the note da and it is difficult to avoid shades of Kalyaani in the phrases 'pa ma ga ri sa' and shades of Simhendramadhyamam in the phrase 'ma pa da ni Sa Ri', in the latter case the difference being only in the note ga.  However phrases like <A0 >'ri ga ma pa da'</A> with a kampitham on da1, <A6 >'da ni Sa Ri Gaa'</A> with stress on Gaa and similar phrases in the descent help establish the identity of the raagam. The note ga2 is also not oscillated to the extent it is done in Kalyaani. The phrase <A4 >'pa da ni da nee'</A> with ending in nee is sometimes used. The phrase 'pa da ma' (very common in Panthuvaraali) is rarely used although Lathaangi differs from Panthuvaraali only in ri.  Instead the phrase 'pa da pa ma gaa' is used.
+
+  COMPOSITIONS:
+   Aparaadhamula, Mariveredikkevvaro (Patnam Subramanya Ayyar)
+   Piravaa varam, Jagadambikaye,Venkataramana (Paapanaasam Sivan)
+
+~ Raagam <C4>MAAYAAMAALAVAGOWLA</C> Melam 15 (Maayaamaalavagowla)
+  Sampoorna (Heptatonic) Melakarthaa raagam
+
+  Aarohanam:   sa ri1 ga2 ma1 pa da1 ni2 Sa     C Db E F G Ab B C
+  Avarohanam:  Sa ni2 da1 pa ma1 ga2 ri1 sa    C B Ab G F E Db C
+
+  Beginner's lessons (Sarali varisai, Alankaaram etc.) are usually taught in this scale.Note ri1 is held with kampitham from sa and close to sa. Similarly da1 is held close to pa. Notes ga2 and ni2 are held with nokku in aarohanam and close to ma1 and Sa respectively. Generally da1, ni2 and ga2 are to be sung with gamakam. Prolonging ga2 without gamakam often especially in the ascent may produce the mood of Naadhanaamakriya. The raaga bhaavam is established by gamakams on ri1, ga2,da1 and ni2. Saaveri and Naadhanaamakriya are close to this raagam. Saaveri omits ga2 and ni2 in ascent but its raaga bhaavam is shown by wider kampitham on ga2 which oscillates from a lower point than actual ga2. Stressing on the phrases 'sa ri1 ma1' and 'pa da1 Sa' and proper use of ga2 is necessary to sing Saaveri correctly. Naadhanaamakriya uses the same notes as Maayaamaalavagowla but it is sung entirely in the middle and lower octave and with "Madhyama Sruthi" using ma1 as tonic. In Naadhanaamakriya ga2 may be held without gamakam or very slightly oscillated with ma1 and the phrase 'pa da1 ma1' occurs more often.  Still it is quite difficult to avoid shades of the other in these two raagams.
+
+  COMPOSITIONS:
+   Thulaseedhalamula, Merusamaana, Vidhulaku (Thyaagaraajar)
+   Sree Naathaadhi (Dheekshithar - said to be his first composition)
+   Dheva dheva(Swaathi Thirunaal)
+   Maayaadheetha swaroopini (Ponnayya Pillai)
+
+~ Raagam <C4>MADHYAMAAVATHI</C>  Mela 22 (Kharaharapriya) 
+  Ouduva (Pentatonic) raagam
+
+  Aarohanam  sa ri2 ma1 pa ni1 Sa     C D F G Bb C
+  Avarohanam Sa ni1 pa ma1 ri2 sa    C Bb G F D C 
+
+  Note ri2 is held with a wide kampitha gamakam which may reach up to ga2 or lower. In ascent ri2 is held with nokku going up to ma1 before reaching ri2. In the phrase 'pa ni Sa Ri' , Ri2 can occasionally be prolonged without gamakam . In ascent ni1 oscillates from a little above da2 to Sa, but over a shorter range if stopping at ni. In descent ni1 is held lower than its own position and with a quick short pull on da2 fret on the Veenaa and this is very characteristic and helps differentiate from Sreeraagam. In the phrase <A0 >'pa ma ri'</A> the quick descent from ma1 followed by kampitham on ri2 is also characteristic. Phrases like <A15 >'ni Sa pa ni ma pa'</A> and <A16 >'ma ri pa ma ni pa Sa ni'</A> are used emphasizing the 'sa pa' samvaadhi jumps. Sreeraagam differs in the use of ga1 in 'ri ga ri sa'. But Sree uses a straight ri2 without gamakam and in descent ni1 can be held in its own position sliding from Sa. Sree also uses 'pa da ni1 pa' as a rare phrase. Brindhaavanasaaranga has the same notes but ni1 is held in conjunction with Sa and ri2 with ma1 and kampitham is not used in ri2.  Madhyamaavathi (at least a single phrase!) is always sung at the conclusion of a concert.
+
+   COMPOSITIONS:
+   Raama kathaa, Vinaayakuni, Alakalalla, Naadhupai (Thyaagaraajar)
+   Dharmasamvardhani (Dheekshithar)
+   Paalinchu Kaamaakshi (Syaamaa Saasthri)
+   Karppagame, Saravanabhava guhane (Paapanaasam Sivan)
+
+~ 
+
+ Raagam <C4>MALAYAMAARUTHAM</C>   Melam 16 (Chakravaaham)
+ Shaadava (Hexatonic) raagam
+
+  Aarohanam:  sa ri1 ga2 pa da2 ni1 Sa      C Db E G A Bb C
+  Avarohanam: Sa ni1 da2 pa ga2 ri1 sa     C Bb A G E Db C
+
+  A morning melody. Note ri1 is held with kampitham close to sa and may be held without gamakam in the descent for short duration. Note ni1 is held with kampitham from da2 and is not prolonged without gamakam. The phrase <A9 >'pa ga2 ri1 sa'</A> is common with other morning melodies like Bowli and Revagupthi. The raagam can be easily delineated by the notes if correct gamakam is used for ri1 and ni1. Possible resemblance to the parent melakarthaa raagam Chakravaaham can be avoided if ga2 is not oscillated too much and any tinge of ma1 is avoided. The raagam can be confused with Valaji (sa ga2 pa da2 ni1 Sa) which is pentatonic and does not use ri1. Distinction is shown by singing ri1 correctly in Malayamaarutham and correctly descending to sa from ga2 in Valaji.  Clear descent from pa to ga2 is necessary, avoiding any tinge of ma2 to prevent shades of Raamapriyaa.
+
+  COMPOSITIONS: 
+   Manasaa etulo (Thyaagaraajar)
+   Dhanydevvaro (Patnam Subramanya Ayyar)
+   Anumaane saamikkindha (Arunaachala kavi
+ 
+
+~ Raagam <C4>MANDHAARI</C>     Melam 51 (Kaamavardhani)
+   Shaadava (Hexatonic) raagam  
+
+  Aarohanam:  sa ri1 ga2 ma2 pa ni2 Sa     C Db E F# G B C
+  Avarohanam: Sa ni2 pa ma2 ga2 ri1 sa    C B G F# E Db C
+
+  In old texts this raagam is shown as the janyam of melam 50 which takes ni1. As sung now only ni2 is used although in the phrase pa ni2 pa, ni2 is reached a little lower. Note ri1 is held with kampitham from sa and ma2 is held as in all prathi madhyama raagams close to pa and oscillating from it. Note ni2 is held with kampitham from Sa but may also be held occasionally without gamakam. The way the phrase <A1 >'pa ma ga ri sa'</A> is sung is closer to Poorvikalyaani than to Panthuvaraali as ri1 is quite low and close to sa. Resemblance to Poorvikalyaani should not arise as that raagam has a strong da2 both in ascent and descent.  There is some resemblance to Amrithavarshini which is pentatonic ('sa ga2 ma2 pa ni2 Sa') without ri1. Shades of Amrithavarshini can be avoided by holding ri1 clearly while in Amrithavarshini there is a jaaru descent from ga2 to sa.
+
+  COMPOSITIONS:
+   Paralokabhaya (Thyaagaraajar)
+   Ninnu jeppakaaranamemi (Patnam Subramanya Ayyar)
+   Ennaallu (Muthiah Bhaagavathar)
+
+~ Raagam <C4>MANIRANGU</C>  Melam 22 (Kharaharapriya)
+   Ouduva - Shaadava raagam (Pentatonic - Hexatonic)
+
+  Aarohanam   sa ri2 ma1 pa ni1 Sa              C D F G Bb C
+  Avarohanam  Sa ni1 pa ma1 ga1 ri2 sa     C Bb G F Eb D C
+
+  Notes ri2 and ma1 are held plain. Often ma1 is also held with janta or nokku in ascent. Notes ga1 and ni1 are held with kampitham. In the case of ga1 the note is only in the descent and though held with gamakam it is reached direct from ma1. The kampitham on ga1 is comparatively less. The kampitham on ni1 is also less but occasionally it could be wide like Madhyamaavathi. In the descent ni1 can also be held plain and passed quickly. The aarohanam is identical with that of Madhyamaavathi and Sree but the mood of Madhyamaavathi is not felt as ri2 is held plain. The distinction from Sree lies in the manner in which ga1 is held. In the descent it is reached direct from ma1, while in Sree ri2 is reached first and there is a slow slide from ri to ga. Phrases like <A0 >'pa pa ma ga ri sa'</A>, <A2 >'ri ma ga ri sa'</A>, <A2 >'ri ma ma paa'</A>, <A3 >'pa ni ni Saa'</A> are characteristic.
+
+  Excessive gamakam on ga could lead to the mood of Aanandhabhairavi. This raagam can be sung clearly if the notes ga and ni are correctly sung.
+
+  COMPOSITIONS:
+   Raanidhi raadhu (Thyaagaraajar)
+   Maamava Pattaabhi Raama (Dheekshithar)
+   Doothu nee solli vaaraai (Thrikoota Raasappakkavi)
+   Thamizhmanam (Paapanaasam Sivan)
+
+~ Raagam <C4>MOHANAKALYAANI</C>   Melam 65 (Mechakalyaani) 
+  Ouduva sampoorna (Pentatonic - Heptatonic) raagam. Hindusthani 
+    equivalent - Suddha Kalyaan
+
+  Aarohanam   sa ri2 ga2 pa da2 Sa                      C D E G A C
+  Avarohanam  Sa ni2 da2 pa ma2 ga2 ri2 sa     C B A G F# E D C
+
+  With notes of Mohanam in ascent and Kalyaani in descent the raagam has a distinct mood of its own due to the different manner in which the notes ga and da are held. Unlike Kalyaani, ga is not to be given any gamakam. Notes ri and da may be given brief nokku in the ascent but are not subsequently given kampitham. Notes ni and ma are held close to Sa and pa but ni may be occasionally held in its own position briefly before descending to da, but is not to be prolonged as is permissible in Kalyaani. The main characteristic is the jaaru descent of da from ni and ga from ma. Prolonging in da in phrases like <A2 >'ga pa daa'</A> and <A8 >'Sa ni da pa daa'</A> and the phrase <A9 >'pa ma ga ri gaa'</A> terminating in ga are also characteristic (gaa and daa to be held without kampitham). The definition of Kalyaani in Venkatamakhi's Chathurdandiprakaasika coincides with this raagam!  The credit for popularising this raagam goes to Muthiah Bhaagavathar who brought out Swaathi Thirunaal's krithi and composed krithis of his own.
+
+  COMPOSITIONS:
+   Seve Sreekaantham (Swaathi Thirunaal)
+   Bhuvaneswariyaa, Siddhivinaayakam (Muthiah Bhaagavathar)
+   Thillaanaa (Laalgudi Jayaraaman)
+
+~ Raagam <C4>MOHANAM</C>     Melam 28 (Harikaambodhi)
+  Ouduva (Pentatotnic) raagam. (Hindusthani equivalents: Bhup,  Deshkaar)
+
+  Aarohanam:     sa ri2 ga2 pa da2 Sa     C D E G A C
+  Avarohanam:    Sa da2 pa ga2 ri2 sa    C A G E D C
+
+  All notes can be prolonged. Kampitha gamakam is also applied on ri,ga and da. Notes ri,ga and da may be reached with a nokku from the lower note. Though not a vakra raagam, phrases like <A4 >'pa ga da pa'</A>,'ga da pa', <A9 >'Sa Ri daa'</A>, 'daa Sa paa da', <A10 >'paa da gaa pa'</A> etc. are common as these stress harmonic relationships (ga2 da2, da2 ri2, pa ri2 being related as sa ma1 or sa pa ). If kampitham is not used on ga2 and da2 and phrases like 'sa rI2 dA2' with prolonged Sa are used shades of North Indian Bhup are felt.  The phrase 'sa ri gaa' is often sung as <A2 >'sa ri ga (pa) gaa'</A> with a quick touch of pa. It is necessary to sing the descent from pa to ga2 and Sa to da2 correctly without tinges of ma2 or ni2 for conveying the correct bhaavam of this raagam. Mohanam is also shown as janyam of Mechakalyaani (Melam 65). It is a major raagam in concerts.
+
+  COMPOSITIONS:
+   Nannu Paalimpa, Mohana Raama, Evaruraa, Bhavanutha,
+      Raamaa Ninnu (Thyaagaraajar)
+   Raajagopaalam, Naagalingam, Rakthaganapathim, Kaadhambari 
+         Paahi maam Sree Raaja (Dheekshithar)
+   Raa raa raajeeva (Mysore Vaasudhevaachaar)
+   Kapaali (Paapanaasam Sivan)
+   Sadhaa paalaya (G.N.Baalasubramanian)
+
+~ Raagam <C4>MUKHAARI</C>   Melam 20 (Natabhairavi)
+  Shaadava Sampoorna bhaashaanga vakra raagam (Hexatonic-
+  heptatonic - winding ascent)
+
+  Aarohanam:  sa ri2 ma1 pa ni1 da2* Sa           C D F G Bb A C
+  Avarohanam: Sa ni1 da1 pa ma1 ga1 ri2 sa    C Bb Ab G F Eb D C
+
+ (Anya swaram Chathusruthi Dhaivatham - da2)
+
+  The anya swaram da2 is used in the phrases <A4 >'pa ni da2* Sa'</A>, <A7 >'pa da2* Sa'</A>, <A6 >'sa ni da2 (ni) da2* Sa'</A> and <A5 >'ni da2 ma1'</A> while da1 is used in the phrases <A9 >'Sa ni da1 pa'</A>, 'pa da1 ni da1 pa' and 'pa da1 ma'. These phrases are often used though not indicated by aarohanam- avarohanam.  In descending from ri2 to sa there is also a momentary touch of ga1 so that the phrase becomes 'ri2 (ga1) sa'. The use of 'pa da1 ni', 'Sa ni da1 pa', is similar to Bhairavi. Note ni1 takes different types of gamakams but is never held straight. Generally it oscillates from da2. Notes ri2 and da2 are to be held without gamakam and ri2 is held lower than in raagams like Kharaharapriya. This raagam could be confused with Bhairavi in some phrases. Distinction is shown by the use of phrases 'pa ni da2 sa', 'pa da2 sa', 'ni da2 \ma pa da2 Sa' and the absence of ga1 in the ascent ('sa ri ma' in Mukhaari and 'sa ri ga ma' or 'sa ga ri ga ma' in Bhairavi) and the descent from ri2 to sa as 'ri (ga) sa'.
+
+  COMPOSITIONS:
+   Enthaninne, Elavaathara, Ksheenamaithiruga (Thyaagaraajar)
+   Paahimaam Rathnaachala (Dheekshithar)
+   Emani ne (Subbaraaya Saasthri)
+   Sivakaama Sundhari (Paapanaasam Sivan)
+
+~ Raagam <C4>NAADHANAAMAKRIYAA</C>  Melam 15 (Maayaamaalavagowla)
+
+  Nishaadhaantha (ending in middle B) sampoorna raagam
+
+  Aarohanam:  sa ri1 ga2 ma1 pa da1 ni2         C Db E F G Ab B 
+  Avarohanam: ni2 da1 pa ma1 ga2 ri1 sa        B Ab G F E Db C
+
+  This raagam differs from Maayaamaalavagowla in the manner in which some notes are held and the fact that it is generally not sung above ni2 of the madhya sthaayi (nishaadhaantha or ending in ni). Because the sanchaara is entirely in middle and lower octaves it is generally sung in "madhyama sruthi" i.e treating the ma1 of the normal sruthi as sa. Unlike in Maayaamaalavagowla, <A4 >ga2 </A>is often prolonged without gamakam and when held  with <A1 >kampitham</A> it is close to ma1. Note <A4 >ri1</A> is also often held without gamakam when it descends from ga2. The phrase <A5 >'pa da ma'</A> is used often as also the phrase <A4 >'ga ma pa'</A> in which each note is prolonged without gamakam. In the phrase <A5 >'pa da ni'</A>, the ni2 is lower than usual and sometimes this is shown as a bhaashaanga raagam with ni1. The raagam is often used in raagamaalikaas, with other raagams sung in madhyama sruthi. Its mood is one of pathos and it is used for singing small pieces like padhams at the end of the concert.  
+
+  The Aarohanam-avarohanam illustration uses madhayama sruthi with ma1 (F) as sa.
+
+  COMPOSITIONS:
+   Karunaa jaladhe (Thyaagaraajar)
+   Jagadheesa, Dhevadheva kalpayaami (Swaathi Thirunaal)
+   Aaraar aasaippadaar (Mutthutthaandavar)
+
+~ Raagam <C4>NAAGAGAANDHAARI</C>  Melam 20 (Natabhairavi)
+  Sampoorna vakra raagam (Heptatonic with devious ascent)
+
+  Aarohanam:  sa ri2 ma1 ga1 ma1 pa da1 ni1 Sa        C D F Eb F G Ab Bb C
+  Avarohanam: Sa ni1 da1 (ma) pa ma1 ga1 ri2 (ga1) sa
+             C Bb Ab (F) G F Eb D (Eb) C
+
+  Said to have been adopted by Muthuswamy Dheekshithar from the Hindusthani raag Jaunpuri. Phrases like <A0 >'sa ri ma'</A>, <A1 >'pa ni da'</A>, <A2 >'ni da ma pa'</A>, 'ma ga sa' are used often though not shown in the aarohanam-avarohanam. Actually 'ri sa' is generally 'ri ga sa' with a touch of ga1 before descending to sa. All notes may be held in their own positions, but ri2 and ma1 are prolonged and ga1 and ni1 are short.  The characteristic is ending in da1 in phrases like <A3 >'ni1 Sa da'</A>, 'pa Sa ni da' etc. where da1 is held for a moment without gamakam. In the upper octave occasionally Ga1 may be prolonged without gamakam. <A2 >'Ni da ma pa'</A> is more common than 'ni da pa'.  Distinction from Natabhairavi and Saaramathi is achieved by the aarohanam 'sa ri ma' and the use of 'pa ni da' or even occasional 'pa ni Sa' in Naagagaandhaari. Not a major raagam. (Jaunpuri is often used for small pieces at the end of the concert and in raagamaalikaas.)
+
+  COMPOSITIONS:
+   Sarasijanaabha sodhari, Naagagaandhaari raaganuthe (Dheekshithar)
+
+~ Raagam <C4> NAATA</C>       Melam 36 (Chalanaata)
+  Sampoorna-Ouduva (Heptatonic-pentatonic) Raagam
+
+  Aarohanam:  sa ri3 ga2 ma1 pa (da3) ni2 Sa  C D# E F G (A#) B C
+  Avarohanam: Sa ni2 pa ma1 ri3 sa          C B G F D# C
+
+  One of the popular raagams with vivaadhi notes (ri3-shadsruthi rishabham and da3 shadsruthi dhaivatham which are sung in the positions of ga1 & ni1). Note da3 is used sparingly more as a leading note for ni2 in ascent and often totally omitted and ri3 is also often omitted in the ascent. The aarohanam is thus also shown as 'sa ga2 ma1 pa ni2 Sa'.  In the descent <A1 >'pa (ma) ga ma ri3 sa'</A> is also used. As sung nowadays ri3 is the most characteristic note and is held with kampitham up to ga2. Often ri3 starts from sa even in avarohanam i.e. 'ma ri3 sa' is sung as <A3 >'ma (sa) ree3 sa'</A>. The note ni2 is generally reached direct from pa with slide and held with kampitham with Sa. Note ma1 is held without gamakam.
+
+  This is the first raagam of "Ghana Panchakam" (Naata, Gowla, Aarabhi, Varaali, Sree).  Distinction from Gambheeranaata is shown by restricting gamakam on ga2 and scrupulously avoiding ri3 and da3 while singing Gambheeranaata. Suitable for singing thaanam, stressing the "ghana" aspect.
+
+   COMPOSITIONS:
+   Jagadhaanandhakaaraka (Pancharathnam), Ninne bhajana
+      (Thyaagaraajar, the latter is sometimes sung in Gambheeranaata)
+   Mahaa Ganapathim, Swaaminaatha paripaalaya (Dheekshithar)
+   Saraseeruhaasana priye (Puliyur Dhuraiswamy Ayyar)
+
+~ Raagam <C4>NAATAKAPRIYA</C>  Melam 10 (Naatakapriya)
+  Sampoorna (Heptatonic) Melakartha Raagam
+
+  Aarohanam  sa ri1 ga1 ma1 pa da2 ni1 Sa     C Db Eb F G A Bb C
+  Avarohanam Sa ni1 da2 pa ma1 ga1 ri1 sa    C Bb A G F Eb Db C
+
+  This raagam differs from Thodi in dhaivatham and from Kharaharapriya in rishabham. The notes sa to pa are sung as in Thodi with ga oscillating from ri2 and reaching ma some times (in ascent or stopping on ga in descent) and reaching ga1 or less elsewhere. Note ri is held plain or with kampitham from sa. The notes pa to Sa are sung as in Kharaharapriya with da being held plain and ni1 oscillated either upto Sa or upto ni1 position. Raaga bhaavam is achieved by singing phrases <A7 >'pa da ni Sa Ri Gaa'</A> and 'ni da pa ma ga ri' so that the distinguishing notes are clearly enunciated. A characteristic phrase is <A9 >'ni da pa daa pa ma gaa ri'</A>. As the phrase 'ma pa da ni Sa Ri' is identical with the same phrase in Chakravaaham usually the phrase is held touching Gaa to make the raaga bhaavam clear.
+
+  In the Dheekshithar school Melam 10 is Nataabharanam but it omits ri1 in the aarohanam and has an avarohanam of 'Sa ni da ni pa ma ga ri sa' The krithi 'Visvanaatham bhaje' in Sampradhaaya Pradarsini follows this ascent and descent while the same krithi is shown as Naatakapriya in other books.
+
+  COMPOSITIONS:
+   Irangaatha (Koteeswara Ayyar)
+   Ithi samayamu (Mysore Vaasudevachar)
+   Geetha Vadhya natana naatakapriye (Thanjavoor Sankara Ayyar)
+
+~ Raagam <C4>NAATAKURANJI</C>   Melam 28 (Harikaambodhi)
+  Ubhaya vakra raagam (devious both in ascent and descent)
+
+  Aarohanam:  sa ri2 ga2 ma1 ni1 da2 ni1 pa da2 ni1 Sa
+                           C D E F Bb A Bb G A Bb C  
+  Avarohanam: Sa ni1 da2 ma1 ga2 ma1 pa ga2 ri2 sa
+                            C Bb A F E F G E D C
+
+  Notes ma1 and da2 can be prolonged without gamakam. Note ga2 is held with kampitham in conjunction with ma1 and ni1 is held with kampitham in conjunction with da2. In the descent ma1 is reached with a jaaru from da2 and this is a characteristic phrase. In the ascent ma1 is held with kampitham. The aarohanam is sometimes shown as 'sa ma ga ma ni da ni pa da ni Sa' but use of 'sa ri ga ma' is more common. The pairs of phrases 'sa ma ga ma', 'ma ni da ni' and 'ni da ma', 'ma ga saa' are harmonically related. The phrase <A7 >'ma pa ga ri sa'</A> is sparingly used in descent and is sometimes omitted in the definition of avarohanam which is defined as 'Sa ni1 da2 ma1 ga2 sa' since omission of ri2 in the descent is frequently resorted to emphasise the harmonic relation to the phrase 'da2 ma1'. In some phrases the raagam resembles Ravichandhrika (sa ri2 ga2 ma1 da2 ni1 da2 Sa - Sa ni1 da2 ma1 ga2 ri2 sa) but distinction is shown by the occurrence of pa and other phrases special to Naatakuranji.
+
+  COMPOSITIONS:
+   Mansuvishaya nata (Thyaagaraajar)
+   Budhamaasrayaami, Paarvathi kumaaram (Dheekshithar)
+   Neethumoorthi (Pallavi Gopaala Ayyar)
+   Maamavasadhaa Varadhe (Swaathi Thirunaal)
+   Chalamela (Padha varnam by Rangaswaami Nattuvanaar)
+
+~ Raagam <C4>NAAYAKI</C>   Melam 22 (Kharaharapriya)
+  Sampoorna vakra (heptatonic - devious) raagam
+
+  Aarohanam:  sa ri2 ma1 pa da2 nee1 da2 pa Saa     C D F G A Bb A G C
+  Avarohanam: Sa nee1 da2 pa ma1 ri2 gaa1 ri2 sa    C Bb A G F D Eb D C
+
+  If not sung carefully this raagam can give the mood of Dharbar. The notes ni1 and ga1 and the manner in which they are held give the raagam its distinctive flavour. Note <A0 >ni1 is generally prolonged</A> with gamakam from da2 (rising slowly from da) and held rather low. <A8 >Note Ga1</A> is also held similarly from ri2. Note da2 is held straight and the phrases 'ma pa da nee' and 'da pa daa' occur often. The ascent <A6 >'pa da pa Saa'</A> ensures the distinction from Dharbar in this region. Note ni1 can also <A4 >descend from Sa</A> and held straight for a moment before oscillating from da2.  In the ascent ma1 is held plain or kampitham oscillating between ga2 and pa. In descent ma1 is held plain and there is jaaru descent to ri2. Notes da2 and ri2 are held plain and prolonged before reaching ni1 and ga1.  The note ga1 is held very similar to ni1 in Naayaki while in Dharbaar it is 'ga gaa ri sa' oscillating from ri to ma with emphasis on ghanam. Basically while the mood of Dharbar is one of speed and 'ghanam' , Naayaki is slow and emphasizes 'nayam'. (However there are some krithis like Mundhuvenuka in Dharbar which are sung with softness). Prayogams like 'Sa da pa', 'ri pa ma' used with stress in Dharbar are not used in Naayaki.
+
+  COMPOSITIONS:
+   Kanugonu soukhyamu, Nee bhajana gaana, Dhayaleni (Thyaagaraajar)
+   Ranga Naayakam (Dheekshithar)
+
+~
+
+ Raagam <C4>NALINAKAANTHI</C>  Melam 29 (Dheerasankaraabharanam) 
+ Shaadava (hexatonic) vakra (winding) raagam.
+
+  Aarohanam:  sa ga2 ri2 ma1 pa ni2 Sa     C E D F G B C
+  Avarohanam: Sa ni2 pa ma1 ga2 ri2 sa    C B G F E D C
+
+  All notes may be held straight. In descent in the phrase 'ma ga ri sa' may be held in 2 different ways. In this phrase ga2 may be held momentarily and ma1 reached quickly before descending to ri2 (as in Aarabhi) or ga2 may also be prolonged with or without gamakam in descent. Note ni2 is generally held with kampitham from Sa. Occasional 'sa ga ri ga' is used. Except for the fine point about ga2 in descent the raagam can be easily delineated from the notes. Due to the unique aarohanam and avarohanam, the raagam is not close to any other raagam.
+
+  COMPOSITIONS:
+   Manavyaalakim (or Manavinaalakim)  (Thyaagaraajar)
+   Neepaadhame gathi (G.N.Baalasubramaniam)
+   Nathajanapaalini (Thanjaavoor Sankara Ayyar)
+
+~
+
+ Raagam <C4>NAVARASAKANNADA</C>   Melam 28 (Harikaambodhi)
+
+  Aarohanam:  sa ga2 ma1 pa Sa                     C E F G C
+  Avarohanam: Sa ni1 da2 ma1 ga2 ri2 sa     C Bb A F E D C
+
+  One of the few raagams with less than five notes in ascent. All notes except ni1 may be prolonged without gamakam. Notes ga2 and da2 are to be held straight and ni1 is held with kampitham from da2. In descent ma1 is reached with jaaru from da2. Use of 'pa Ri Sa' is found in the chittaswaram of Sreenivaasa Ayyangaar's composition. The krithi 'Ninnuvina' played by the flutist T.R.Mahaalingam made this raagam well known although it is not a major raagam. While 'Ninnuvina' as played by T.R.Mahalingam is boisterous, Sivan's Krithi 'Naanoru' is quite plaintive, an example of how the same raagam can be deftly used to suggest different sentiments. The raagam can be well delineated by its aarohanam and avarohanam. 
+
+  COMPOSITIONS:
+   Ninnuvina naamadhenthu, Paluku kanda chakkara (Thyaagaraajar)
+   Vandhe sadhaa Padhmanaabham (Swaathi Thirunaal)
+   Neepaadhamule (Patnam Subramanya Ayyar)
+   Naanoru vilayaattu bommayaa (Paapanaasam Sivan)
+
+~ Raagam <C4>NEELAAMBARI</C>  Melam 29 (Dheerasankaraabharanam) 
+ Shaadava-sampoorna vakra bhaashaanga raagam (Hexatonic-
+  heptatonic - winding in descent)
+
+  Aarohanam:  sa ri2 ga2 ma1 pa ni2 Sa                 C D E F G B C 
+  Avarohanam: Sa ni2 pa ma1 ga2 ri2 ga2 sa        C B G F E D E C 
+ (Anya swaram Kaisiki Nishaadham - ni1- in 'pa da2 ni1* pa')
+
+  The avarohanam can also be 'Sa ni2 pa da2 ni1* pa...' or 'Sa ni2 da2 ni2 pa...' Lullabies are set in this raagam.  All notes except pa and da2 are held with gamakam.  Note ri2 is held with nokku or kampitham. Listen to the <A0 >first phrase</A> in the phrases window. In the ascent ga2 is generally held short followed by ma1 which oscillates from a point higher than ga2 to ma1. In the descent in the phrase <A8 >'ri ga sa'</A>, ga2 is prolonged by first holding in its own position and then slightly increasing the pitch followed by jaaru descent to sa. The phrases 'Sa ni pa' and 'ri ga sa' are characteristic. In the descent the phrase <A6 >'Sa ni da ni pa'</A>, with prolonged ni2 is also used which is harmonically related to 'ma ga ri ga sa'. The phrase involving anya swaram ni1 is to be used sparingly, but the composition "Amba Neelaayathaakshi" uses it in many  places. Kedhaaram is similar in some phrases but ni2 is short in Kedhaaram and 'ni2 pa' descent is quicker. The ascent of Kedhaaram is 'sa ma ga ma' and in that raagam, in descent ma1 is short and in 'ri (ga) sa', sa is reached quickly.
+
+  COMPOSITIONS:
+   Uyyaalalooka, Ennaga manasuku, Neeke dhaya (Thyaagaraajar)
+   Amba Neelaayathaakshi (Dheekshithar)
+   Amba Neelaambari (Ponnayyaa Pillai)
+   Kalakanti (Swaathi Thirunaal)
+   Sringaara Lahari (Lingaraaja Urs)
+   Maadhava maamava (Naarayana Theerthar)
+
+~ Raagam <C4>PANTHUVARAALI</C>   Melam 51 (Kaamavardhani)  
+ (Kaaseeraamakriya of Dheekshithar School) 
+ Sampoorna (Melakarthaa) Raagam (Heptatonic) 
+
+  Aarohanam:  sa ri1 ga2 ma2 pa da1 ni2 Sa        C Db E F# G Ab B C 
+  Avarohanam: Sa ni2 da1 pa ma2 ga2 ri1 sa       C B Ab G F# E Db C
+
+  This is the melakarthaa raagam of scale 51 but in old texts sometimes Panthuvaraali is shown as melam 45 (with ga1). Now it is sung with ga2 which is however held without gamakam and sometimes gives a feeling of a lower pitch than ga2. Notes ri1 and da1 are held with kampitham from sa and pa but ending in the higher note so that ri1 or da1 is more pronounced than in other raagams. These 2 notes may also be held without gamakam. Note ni2 is held with kampitham from Sa and ma2 from pa. Sometimes ma2 may be prolonged in its own position which is rare in other prathimadhyama raagams except Varaali. The characteristic phrases are <A2 >'sa ri nI'</A> (or corresponding upper octave phrase) and <A3 >'pa da ma'</A> where Sa and pa are prolonged and there is a slide from ri1 to ni2 and from da1 to ma2. North Indian equivalent is Poorya Dhanaasri which however omits pa in the ascent. Distinction from Poorvikalyaani may be shown in the absence of gamakam on ga2, slightly higher position of ri1 and by stressing on da1 in Panthuvaraali and phrases with da2 in Poorvikalyaani.  
+
+  Most of the compositions in this raagam start at thaara Sa and some at pa and rarely below that note.
+
+  COMPOSITIONS:
+   Appa Raama Bhakthi, Siva Siva ena, Raghuvara, Ninne nera,
+      Sambho Mahaadheva, Naaradha muni (Thyaagaraajar)
+   Raamanaatham, Visaalaaksheem, Sri Sundararaajam (Dheekshithar)
+   Ennagaanu Raama (Bhadhraachala Raamadhaasar)
+   Saarasaaksha (Swaathi Thirunaal)
+   Ninnarulliyamba (Paapanaasam Sivan)
+
+~ Raagam <C4>PARAS</C> (or PARAJU)  Melam 15 (Maayaamaalavagowla)
+  Ouduva-Sampoorna Raagam (Pentatonic - Heptatonic)
+
+  Aarohanam   sa ga2 ma1 da1 ni2 Sa       C E F Ab B C 
+  Avarohanam  Sa ni2 da1 ma1 da1 pa ma1 ga2 ri1 sa
+             C B Ab F Ab G F E Db C
+
+  The aarohanam is also shown as 'sa ga ma pa da ni Sa' and avarohanam as 'Sa ni da pa  ma ga ri sa'.  The characteristic phrases of the raagam are ' ga ma da nee Sa' or <A1 >'ga ma da pa da ni Sa'</A> and <A6 >'da pa ma gaa'</A>. In the later phrase there is a characteristic gamakam on ga oscillating from its own position to a slightly higher point than in the usual kampitham on ga. The ascent 'ma da ni Sa' is generally quick. Note ri1 is held with kampitham from sa and da1 is held with kampitham from a point slightly higher than pa in the phrases 'ga ma da' and 'da ma pa'. Note ma1 is held plain. The note ni2 is held with  a kampitham but not quite touching sa.The kampithams on ga and ni are both strong giving equal timing for the two extremities of the oscillation (unlike other raagams where greater duration is given for one extremity).
+
+  The use of pa enables distinction form Lalitha and the characteristic gamakam on ga helps to distinguish from Saaveri in the phrase 'pa da ma gaa'.
+
+  COMPOSITIONS:
+   Sree Sukrabhagavantham (Navagraha Krithi - Dheekshithar)
+   Chelinenetlu, Smarasundharaanguni (Dharmapuri Subbaraayar)
+   Thillaanaa (Raamnaad (Poochi) Sreenivaasa Ayyangaar)
+
+~ Raagam <C4>POORNACHANDHRIKAA</C>  Melam 29 (Dheerasankaraabharanam)
+
+  Aarohanam   sa ri2 ga2 ma1 pa da2 pa Saa       C D E F G A G C
+  Avarohanam  Sa ni2 pa ma1 ga2 ma1 ri2 sa      C B G F E F D C
+
+  The avarohanam is also shown as 'Sa ni pa ma ri ga ma ri sa' and the aarohanam is sometimes shown as 'sa ri ga ma pa ni pa Saa". In the aarohanam ri2 is held with nokku or kampitham and in the avarohanam it is held plain sliding from ma. Note ga2 is held with slight kampitham and linked to ma both in the ascent and descent. However, it is generally not prolonged and if prolonged extensive gamakam as in Sahaanaa is to be avoided. Note ni2 is held close to Sa linked to it.  The descent is often 'Sa ni pa ma ree' omitting ga2.
+
+  Janaranjani is close to this raagam in mood. Distinction is achieved by the phrases 'pa da pa nee' in the aarohanam and 'Sa da pa' in the avarohanam of Janaranjani. Kaakali Nishaadham in the aarohanam in Janaranjani is held clearly and in its own position after initial Kampitham while this note is used in Poornachandrikaa only in avarohanam and held close to Sa.
+
+  COMPOSITIONS:
+   Thelisi Raama, Palukavemi naa (Thyaagaraajar)
+   Poornachandra (first raagam), Sankachakra (Dheekshithar)
+ 
+ ~ Raagam <C4>POORVIKALYAANI</C>  Melam 53 (Gamanaasrama)
+  (Gamakakriya of Dheekshithar)
+  Sampoorna vakra raagam (Heptatonic - winding in ascent)
+
+  Aarohanam:  sa ri1 ga2 ma2 pa da2 pa Sa      C Db E F# G A G C 
+  Avarohanam: Sa ni2 da2 pa ma2 ga2 ri1 sa    C B A G F# E Db C
+
+  The main raagam of this melam (the parent sampoorna raagam Gamanaasrama is very rare). Note ri1 is held close to sa with kampitham. Note ga2 may be held straight or with slight kampitham. Note ma2 is held close to pa with kampitham, da2 generally held with short kampitham and ni2 is held close to Sa with kampitham. The phrases <A8 >'ga ma da Sa'</A>, <A13 >'ga ma da ma'</A>, <A9 >'da Sa Ree'</A>, <A7 >'Sa ni (Sa) pa da pa'</A> are also used. Holding ri1 close to sa, slide of ri1 from ga2, the phrases <A5 >'pa da pa Sa'</A>, 'ga ma da Sa' help to bring out the mood of the raagam. The occasional slight kampitham on ga2, the invariable use of kampitham on ri1 close to sa and the absence of da1 help to distinguish the raagam from Panthuvaraali.  Movements above Ga2 in upper octave are rare in Panthuvaraali while movement up to upper Pa is not uncommon in Poorvikalyaani.
+
+  COMPOSITIONS:
+   Paraloka saadhaname, Paripoorna kaamaa, Jnyanamosagaraadhaa
+      (Thyaagaraajar - the last krithi is shown as composed in raagam
+       Shadvidhamaargini in old texts)
+   Meenaakshi memudham, Ekaambranaatham (Dheekshithar)
+   Ninnuvina (Syaamaa Saasthri)
+   Aanandha natam (Muthuthaandavar)
+   Paramapaavana (Raamnaad Sreenivaasa Ayyangaar)
+   Jhankaara Sruthi(Suddhaanandha Bhaarathi)
+
+~ Raagam <C4>PUNNAAGAVARAALI</C>  Melam 8 (Hanumatthodi)
+  Sampoorna Nishaadhaantha Bhaashaanga raagam
+  (Heptatonic -not sung above B of middle octave)
+
+  Aarohanam:   sa ri1 ga1 ma1 pa da1 ni1      C Db Eb F G Ab Bb
+  Avarohanam:  ni1 da1 pa ma1 ga1 ri1 sa     Bb Ab G F Eb Db C
+
+  Anya swaram - Chathusruthi Rishabham - Ri2 - D
+
+  As the raagam is sung only up to ni1 of the middle octave, it is often sung with Madhyama Sruthi i.e. shifting the tonic (aadhaara shadjam) to ma1. The raagam can hardly be described by its notes. Prolonged ri1 without kampitham and jaaru descents of ga1 to ri1 and ri1 to sa are characteristic. Anyaswaram ri2 occurs in the phrase <A4 >'ri2 (ma1) ga1 ma1'</A> and and as a base for oscillating <A0 >gaa</A>. Note ga1 oscillates up to ma1 in ascent from ri2. The osccilation is somewhat less in descent. Note da1 is held with kampitham from pa and ni1 from da1 but ni1 may also be held for a moment without gamakam in the phrase 'pa da1 ni1 da1 pa'. The raagam is supposed to attract snakes and the snake charmer's "Makuti" is supposed to be based on it. In the folk piece "Aadu Paambe" ni2 occurs in the lower octave but this note is not found in the standard krithis. In the lower parts there is a resemblance to Asaaveri but Asaaveri takes 'sa ri ma pa da Sa' in the ascent and can go to higher octave and ri2 is a little more explicit in Asaaveri. Note ni is held quite differently in Asaaveri. The aarohanam-avarohanam in this screen is illustrated in madhyama sruthi with ma1 (F) as sa.
+
+  COMPOSITIONS:
+   Thavadhaasoham (Thyaagaraajar)
+   Kanakasaila (Syaamaa Saasthri)
+   Ehi Annapoorne (Dheekshithar)
+   Sivagangaa nagara (Paapanaasam Sivan)
+
+~ Raagam <C4>RAAMAPRIYAA</C>       Mela 52 (Raamapriyaa)
+
+  Sampoorna (Heptatonic) Raagam
+
+  Aarohanam   sa ri1 ga2 ma2 pa da2 ni1 Sa     C Db E F# G A Bb C
+  Avarohanam  Sa ni1 da2 pa ma2 ga2 ri1 sa    C Bb A G F# E Db C
+
+  This is a melakarthaa raagam apparently given shape after the 72 melam theory.  The notes of this raagam are used with the standard gamakams applicable to them. Note ri1 is held with kampitham from sa and rarely prolonged without gamakam. Note ga2 is generally held plain. Note ma2 is held with kampitham linked to pa and anchored on pa and note da2 is held plain and ni1 is given kampitham from da either over a short range or sometimes over a long range as in Vaachaspathi, and is rarely prolonged without gamakam. This raagam differs from Chakravaaham in the note ma and from Vaachaspathi in the note ri. The mood of Vaachaspathi is felt in the region 'ma pa da ni Sa' and to stress the Raamapriyaa mood, usually the phrase is followed by <A7 >'da ni Sa Ree'</A>.  The mood of Chakravaaham is not felt since generally the phrase <A10 >'Sa nee da pa'</A> is sung touching ma2 at the end in Raamapriyaa and touching Ma1 at the end in Chakravaaham. If the note ma2 is not clearly sung, the mood of Malayamaarutham will be felt.
+
+  Ramaamanohari of Dheekshithar school is the corresponding Mela raagam and the definition omits ni in th ascent, but in some versions of the song 'da ni Sa' is also used.
+
+  COMPOSITIONS:
+   Sandhehamunu (Thyaagaraajar)
+   Maathangi Sree Raajaraajeswari (Dheekshithar)
+   Korinavara (Patnam Subramanya Ayyar)
+
+~ Raagam  <C4>RANJANI</C>     Melam 59 (Dharmavathi)
+
+  Ouduva Shaadava (Pentatonic-hexatonic) raagam
+
+  Aarohanam:  sa ri2 ga1 ma2 da2 Sa                   C D Eb F# A C
+  Avarohanam: Sa ni2 da2 ma2 ga1 ri2 ga1 sa    C B A F# Eb D Eb C
+
+  Notes ri2 and da2 are held straight and may be prolonged. In ascent da2 may also be sung with nokku. Unlike other raagams where ri2 and ga1 occur, in Ranjani ga1 can be held without gamakam both in ascent and descent, though reached from ri2 in ascent. If gamakam is applied to ga1 it is of short range. Note ni2 is held by descent from Sa but can be held in its own position to stress the harmonic relationship to ma2. This is one of the two popular raagams where ma2 occurs without pa (the other being Hamsaanandhi). Note ma2 may be held without gamakam for short duration and with gamakam not fully touching pa. Stopping at ga1 in phrases <A0 >'sa ri ga'</A>, <A7 >'Sa ni da ma ga'</A>, the phrase <A4 >'Sa ni da ma da Sa'</A>,the finesse with which ma2 is held impart the characteristic flavour to this raagam. Any resemblance to Sivaranjani (sa ri2 ga1 pa da2 Sa) can be avoided by carefully avoiding pa in the gamakams on ma2 and the clear singing of ni2. The raagam is often used in raagamaalikaas and in swaram singing of pallavi.
+   
+  COMPOSITIONS:
+   Dhunmaarga (Thyaagaraajar)
+   Pranamaami (Mysore Vasudhevaachaar)
+   Ranjani Niranjani (G.N.Baalasubramaniam)
+   Ranjani maala (first raagam) (Thanjaavoor Sankara Ayyar)
+
+~ Raagam <C4>RAVICHANDHRIKA</C>    Mela 28 (Harikaambodhi)
+  Shaadava (Aarohana vakra) Raagam (Hexatonic - devious in ascent)
+
+  Aarohanam  sa ri2 ga2 ma1 da2 ni1 da2 Sa     C D E F A Bb A C
+  Avarohanam Sa ni1 da2 ma1 ga2 ri2 sa            C A Bb F E D C
+
+  In aarohanam ri2 is held with nokku or kampitham and in avarohanam it is held with kampitham and sometimes plain. Note ni1 is held with kampitham from da2. Note ma1 is held plain and is a strong note. Note da2 is also held plain and can be prolonged. In descent there is slide from da2 to ma1. Note ga2 may held plain or with janta prayogam in phrases like 'ma ga ga' and occasionally with slight kampitham but not touching ma1. The slide from da2 to ma1 is characteristic of this raagam. There is some similarity to Naatakuranji because of the phrase 'ni da maa' common to both. Distinction lies in the use of pa in Naatakuranji in the phrase 'ga ma pa ga ri sa'. Natakuranji also uses 'ma ni da ni' in the ascent and there is characteristic 'ma ga sa' in the descent (when pa is not touched). This raagam corresponds to the North Indian Raagesri except for the vakra ascent and the omission of ri in aarohanam in Raagesri.
+
+  COMPOSITIONS:
+   Maakelara, Niravadhi sukhadha (Thyaagaraajar)
+
+~ Raagam <C4>REETHIGOWLA</C>   Melam 22 (Kharaharapriya)
+  Ouduva-sampoorna ubhaya vakra raagam
+  (Pentatonic-Heptatonic, winding)
+
+  Aarohanam:  sa ga1 ri2 ga1 ma1 ni1 ni1 Sa     C Eb D Eb F Bb Bb C
+  Avarohanam: Sa ni1 da2 ma1 ga1 ma1 pa ma1 ga1 ri2 sa
+                            C Bb A F Eb F G F Eb D C
+
+  In old texts this is shown as janya of melam 20 but now it is sung only with da2 while melam 20 has da1. The phrases <A2 >'sa nI pA nI nI sa'</A>, <A12 >'pa da ni1 da ma'</A> and <A8 >'sa ga ga ma'</A> also occur. The characteristic is the janta swarams <A5 >'ni ni'</A> and 'ga ga' and the phrase <A13 >'pa ma ga ri sa'</A> which is really sung as 'pa ma (pa) ma ga (ri) ga ri (ga) sa' which fleeting touches of pa and ga. When not used as janta, ga1 is held with large gamakam from (ri2 to ma1), in the ascent. In the descent the gamakam for ga1 is short from ri2 and ga1 may also be held straight for a short moment before reaching ri2. Similarly ni1 may be held with gamakam from da2 to Sa, da2 to ni1 or janta. It may also be prolonged by repeating with janta or kampitham. In the descent 'ma ga ri sa', ga1 is touched after ri2 and there is jaaru descent to sa which differs from the descent of the same swarams in Aanandhabhairavi in which ri2 is again touched. Sung in disconnected bits and without careful intonation of the notes Reethigowla may give the impression of a mixture of Sreeranjani and Aanandhabhairavi the former because of ni1 da2 ma1. It is a raagam stressing ghana aspect and can be elaborated as a major raagam.
+
+ COMPOSITIONS:
+   Nannuvidachi, Raagarathna, Badalikatheera (Thyaagaraajar)
+   Ninnuvinaa mari (Syaamaa Saasthri)
+   Janani ninnuvinaa (Subbaraaya Saasthri)
+    Neelothpalamba (Dheekshithar)
+   Thathvamariya (Paapanaasam Sivan)
+
+~ Raagam  <C4>REVATHI</C>   Melam 16 (Chakravaaham)
+  Ouduva (Pentatonic) raagam
+
+  Aarohanam:   sa ri1 ma1 pa ni1 Sa       C Db F G Bb C
+  Avarohanam:  Sa ni1 pa ma1 ri1 sa      C Bb G F Db C
+
+  This appears to be a raagam of recent origin or at least popularly used in recent times. No compositions of the trinity are available nor any reference in older texts. Being pentatonic it could be shown as janyam of three other melams 8, 10 or 14. Note ri1 can be sung plain or with kampitham from sa. In the descent ri1 is reached with a jaaru from ma1. In the absence of da2, ni1 is to be held plain or with upward kampitham in ascent.  The descent of ri1 from ma1 and the phrase <A7 >'ni1 Sa Ri1'</A> impart an eerie mood to this raagam. It can be easily depicted from the notes alone. There are no special gamakams associated with the notes and it cannot be confused with any other raagam.
+
+  COMPOSITIONS:
+   Naanaati (Annamaacharya)
+   Mahaadheva Sivasambho (Thanjaavoor Sankara Ayyar)
+   Thillaanaa (Laalgudi Jayaraaman)
+
+~ Raagam  <C4>SAAMA</C>      Melam 28 (Harikaambodhi)
+  Ouduva-Shaadava (Pentatonic-Hexatonic) raagam
+
+  Aarohanam:  sa ri2 ma1 pa da2 Sa              C D F G A C
+  Avarohanam: sa da2 pa ma1 ga2 ri2 Sa     C A G F E D C
+
+  This raagam can hardly be described by its aarohanam and avarohanam. The descent 'pa ma1 ga2 ri2 sa' though identical with Aarabhi and Dhevagaandhaari in terms of notes is sung quite differently and this difference characterizes the raagam. In Saamaa ma1 is held plain and prolonged. The descent from ma1 to ga2 is quick, ga2 itself is prolonged and usually the phrase is <A1 >'ma ga ri sa ri ga ree'</A> with last ri held with kampitham. Notes ri2 and da2 are held with kampitham and are strong notes. The phrase 'ree ma paa' is often actually 'ma \ree /ma paa'. In '<A5 >(pa) daa Saa'</A> da is held with nokku and Saa is reached by jaaru from da2. The phrase <A8 >'ma pa da ma pa ma-gaa ree'</A> is also used frequently. Slides from Sa to da2 and pa to ma1 are also used. Avoiding shades of Aarabhi and Dhevagaandhaari can be achieved by careful intonation of the notes and gamakams and keeping the raagam mood in mind. Apart from ri2 and da2, ma1 is also a strong note.  
+
+  COMPOSITIONS:
+   Saanthamuleka (Thyaagaraajar)
+   Annapoorne, Guruguhaaya (Dheekshithar)
+   Maravakave (Patnam Subramanya Ayyar) 
+   Maanasa sancharare (Sadhaasiva Brahmendhrar)
+   Naaraayana nalinaayatha (Paapanaasam Sivan)
+
+~
+
+ Raagam <C4>SAARAMATHI</C>  Melam 20 (Natabhairavi)
+ Sampoorna Ouduva (Heptatonic-Pentatonic) Raagam
+
+  Aarohanam   sa ri2 ga1 ma1 pa da1 ni1 Sa    C D Eb F G Ab Bb C
+  Avarohanam  Sa ni1 da1 ma1 ga1 sa               C Bb Ab F Eb C
+
+  One of the few raagams with seven notes in ascent and less in descent.  The raagam can be depicted well by the notes. All notes may be prolonged and ga1, da1 and ni1 held with or without gamakam. When ga1 and da1 are held with kampitham emphasis is given to their own positions instead of oscillating from ri2 and pa perhaps because of the absence of these two notes in the descent. Sometimes ga1 may oscillate up to ma quickly in ascent and ni1 can be oscillated from da or in its own position or up to Sa. In the descent jaaru prayogams from the previous note are very common. While the phrase 'ma ga sa ree' is common, the corresponding phrase 'ni da ma paa' is not used as it can impart shade of Jayanthasree.
+
+  COMPOSITIONS:
+   Mokshamu galadhaa (Thyaagaraajar)
+   Saarasadhalanayane (Muthiah Bhaagavathar)
+   Manasaramathiyani (Thanjavoor Sankara Ayyar)
+
+~ Raagam  <C4>SAARANGA</C>     Melam 65 (Mechakalyaani) 
+  Sampoorna Bhaashaanga raagam
+
+  Aarohanam: sa ri2 sa pa ma2 pa ri2 ga2 ma2 pa da2 ni2 Sa
+                          C D C G F# G D E F# G A B C
+  Avarohanam: Sa ni2 da2 pa ma2 ri2 ga2 ma1* ri2 sa
+                            C B A G F# D E F D C
+  Anya swaram Suddha Madhyamam-ma1 (F)
+
+  The aarohanam of this raagam is sometimes given as sa ri2 sa pa ma2 pa da.. and sometimes as 'sa ri2 ga2 ma2 pa....' as both these phrases occur in compositions. Here both have been shown. The occurrence of both madhyamams is the characteristic of this raagam. Note ga2 has to be held very short as a leading note for ma. Descent from pa or ma2 to ri2 is jaaru. Note ma1 may be held very short or sometimes prolonged a bit and sometimes before reaching ri2 a fleeting touch of a higher note (pa) is used. The phrase 'pa da ni Sa' is as in Kalyaani but the phrase <A5 >'Sa daa pa'</A> (harmonic to 'ma1 ri sa') and the phrase 'Sa ni pa' (harmonic to 'pa ma2 ri') are used. Note ma2 is generally held close to pa but can be held for a moment in its own position followed by a pause. Distinction from Hameerkalyaani which also uses both madhyamams is achieved by the use of <A1 >'ri2 ga2 ma2 pa'</A>, stressing the jaaru descent from ma2 (or pa) to ri2, avoiding descent to ma1 from pa and avoiding the phrase 'pa da2 ma1' which is permitted in Hameerkalyaani.  In Dheekshithar's compositions frequent use of 'pa ma2 ri sa' without the use of Suddha Madhyamam is found.
+
+  COMPOSITIONS:
+   Neevaadanegaana, Enthabhaagyamu, Maamava Raghu Raamaa
+     (Thyaagaraajar)
+   Arunaachalanaatham, Varadharaajam, Thyaagaraje (Dheekshithar)
+   Raamaa ninne (Raamnaad Sreenivaasa Ayyangaar)
+   Jnyaana sabhayil (Paapanaasam Sivan)
+
+
+~ Raagam  <C4>SAAVERI</C>    Melam 15 (Maayaamaalavagowla)
+  Ouduva Sampoorna (Pentatonic-hexatonic) raagam
+
+  Aarohanam:  sa ri1 ma1 pa da1 Sa                  C Db F G Ab C
+  Avarohanam: Sa ni2 da1 pa ma1 ga2 ri1 sa   C B Ab G F E Db C
+
+  A morning melody. The notes ri1 and da1 are felt lower than in Maayaamaalavagowla and close to sa and pa as they are oscillated from sa and pa and the voice remains in sa and pa most of the time. Note da1 is also sometimes held with a stress (in <A4 >'pa da Sa'</A> - a short gap after pa, start from da1 go down to pa and then go to da1 a short gap and then reach Sa). Note ga2 is held quite differently from Maayaamaalavagowla. It is felt as a lower pitch as it oscillates from a lower point up to ga2 or slightly higher but not touching ma in the phrase 'sa ri ga ri sa'. Corresponding phrase 'pa da ni da' is also used. The phrase <A7 >'pa daa ma ga ri'</A> is also used and sometimes emphasizing da1 without gamakam. Note ni2 is held close to Sa when descending from Sa but at a lower position in the phrase <A13 >'pa da ni da'</A>. Distinction from Maayaamaalavagowla is achieved in the aarohanam and the manner of singing ga2 and in the phrase <A12 >'Sa ni (pa) da'</A> ending with oscillation in da1 (while in Maayaamaalavagowla generally it ends in pa).
+
+  COMPOSITIONS:
+   Raamabaana, Thulasijagajjanani, Dharithaapuleka (Thyaagaraajar)
+   Sankari sankuru, Dhurusugaa (Syaamaa Saasthri)
+   Sree Raajagopaalam, Karikalabha,(Dheekshithar)
+   Bhaavayaami-pallavi (Swaathi Thirunaal)
+   Murugaa(Periyasaami Thooran)
+   Eththanai sonnalum (Padham - Subbaraama Ayyar)
+
+~ Raagam <C4>SAHAANA</C>     Melam 28 (Harikaambodhi) 
+ Sampoorna Vakra raagam (Heptatonic - winding)
+
+  Aarohanam:   sa ri2 ga2 ma1 pa ma1 da2 ni1 Sa      C D E F G F A Bb C
+  Avarohanam: Sa ni1 da2 pa ma1 ga2 ma1 ri2 ga2 ri2 sa  
+                            C Bb A G F E F D E D C
+
+  This is sometimes shown as a bhaashaanga raagam with anya swaram ga1 but as sung now, only ga2 (though low) occurs even in the phrase 'ri ga ri sa'. The characteristic phrases are <A1 >'ree ga ma pa'</A> (in which ri2 is held with a kampitham which reaches first up to ga2 and then oscillates closer to ri2), <A6 >'pa ma daa ni'</A>, <A9 >'ni Sa daa'</A>, <A0 >'gaa ma ree'</A>. In the last phrase, gaa oscillates up to ma1, from a point slightly higher than usual ga2, and ri2 slides from ma1 and is held straight. Note ga2 is always held with kampitham in descent and in ascent it may be held plain for short duration or with gamakam touching ma1. Note ni1 is held with kampitham going up to Sa from da2 in ascent and a short kampitham in the phrase 'ni da pa' if ni1 is the first note after pause. Note ri2 may also slide from pa and pa from sa (in <A10 >'ni1 Sa paa'</A>). The phrase 'ma pa da ni Sa' is found in the varnam but 'ma pa ma da ni Saa' is the normal ascent. Sahaanaa has a distinct mood due to these phrases and gamakams and is rarely confused with other raagams.
+
+  COMPOSITIONS:
+   Eevasudha, Giripai, Emaanathichevo, Vandhanamu (Thyaagaraajar)
+   Sree Kamalaambikaayaam (Dheekshithar)
+   Raama ika nannu(Patnam Subramanya Ayyar)
+   Chittham irangaadhadhenayya (Paapanaasam Sivan)
+
+
+~ Raagam <C4>SANKARAABHARANAM</C> Melam 29 (Dheerasankaraabharanam)
+  Sampoorna Melakarthaa Raagam
+
+  Aarohanam:  sa ri2 ga2 ma1 pa da2 ni2 Sa      C D E F G A B C
+  Avarohanam: Sa ni2 da2 pa ma1 ga2 ri2 sa     C B A G F E D C
+
+  This is the Melakarthaa raagam using all white notes. But except for ga2 (apart from sa and pa) other notes are usually sung with gamakam and rarely prolonged without gamakam. Note ri2 is held with kampitham or nokku in ascent and ma1 is held with a <A3 >reverse kampitham</A> oscillating from ma1 to ga2 and up or held as kampitham oscillating from a little above <A6 >ga2 up to pa</A>. Note da2 is held similar to ri2 with kampitham or nokku in ascent oscillating up to Sa. Note ni2 is held very close to Sa and often omitted. Phrases like 'sa ri ga sa', <A7 >'ga ma daa pa'</A>,'Sa daa pa',<A14 >'Sa ni da ni pa'</A> are used though not indicated by aarohanam-avarohanam. Jumping from <A6 >sa to pa</A>, dropping from pa to ri2 (in the phrase <A17 >'ga ma pa (ga) ri'</A> - an example of the gamakam 'khandippu') are also common. The thaana varnam 'Saami ninne' uses various peculiar movements of this raagam. If the notes of this raagam are sung without gamakam the mood will not be brought out.  Sometimes it can be confused with Kaambodhi in the region between sa and da2 but in Kaambodhi ri2 and da2 can be prolonged without gamakam, the phrase 'ma1 ga2 pa' is used and ma1 may also be held straight.
+
+  COMPOSITIONS:
+   Endhukupeddhala, Swararaaga, Manasuswaadheena, Ethutanilachithe,
+   Emineramu (Thyaagaraajar)
+   Akshayalinga, Sree Kamalaambikayaa, Dhakshinamoorthe
+     Sadhaasivamupaasmahe, Naagalingam (Dheekshithar)
+   Saroja dhalanethri (Syaamaa Saasthri)
+   Mahaalakshmi (Sivan)
+   Thookkiya thiruvadi (Suddhaanandha Bhaarathi)
+
+~ Raagam <C4>SARASWATHI</C>   Melam 64 (Vaachaspathi)
+  Ouduva-Shaadava raagam (Pentatonic in ascent and Hexatonic descent)
+
+  Aarohanam:   sa ri2 ma2 pa da2 Sa            C D F# G A C
+  Avarohanam:  Sa ni1 da2 pa ma2 ri2 sa    C Bb A G F# D C
+
+  This raagam may also be shown as janyam of Hemavathi (Melam 58) which differs from Vaachaspathi only in ga which note is not used in Saraswathi. Notes ri2 and da2 are held straight and ma2 is held close to pa and oscillated from pa as in other prathi madhyama raagams. Note ni1 is held with kampitham from da2 in descent but can be held plain for a short moment at the end of the gamakam. The descent from ma2 to ri2 has to be clean without a touch of ga1 to avoid shades of Hemavathi. The phrase 'pa da ni da pa ma' is also used. The raagam can be easily sung based on notes and the simple gamakams in ma2 and ni1. (A rare raagam called Vandhanadhaarini is similar and has the same aarohanam as Saraswathi but its avarohanam is Sa da2 pa ma2 ri2 sa i.e without ni1. Vandhanadhaarini is the first raagam of Sonnadhai cheidhida - raagamaalikaa sung by G.N.Baalasubramaniam.)
+
+  COMPOSITIONS:
+   Anuraagamule (Thyaagaraajar)
+   Vaageeswari Vaani (Muthiah Bhaagavathar)
+   Saraswathi (G.N.Baalasubramaniam)
+
+~ Raagam <C4>SENCHURUTTI</C>  Melam 28 (Harikaambodhi)
+  Nishaadhaantha Bhaashaanga raagam - Anya Swaram ga1
+  
+  Aarohanam  sa ri2 ga2 ma1 pa da2 ni1     C D E F G A Bb
+  Avarohanam ni1 da pa ma1 ga2 ri2 sa       Bb A G F E D C
+
+  The raagam is also known as 'Janjooti'. As the raagam goes only up to ni1, it is generally sung in Madhyama Sruthi treating ma1 of the sruthi as sa. This itself helps to distinguish it from Harikaambodhi. Characteristic phrases are <A0 >'saa ri ga ma gaa'</A> , 'gaa ma pa ma ga ma gaa' stopping at ga2, <A7 >'ga ri- ga1* ri saa'</A> where the anya swaram ga1 is lightly touched and occasional descent from <A6 >pa to ri</A> .  Excessive stress on the anya swaram can lead to the mood of Dwijaavanthi. In the lower octave the phrase <A2 >'sa nI dA nI pA'</A> is quite characteristic.  Movements above pa are very brief quickly returning to pa. In some schools the raagam is supposed to use Kaakali Nishaadham also in the phrases 'sa nI dA- nI sa' or 'pa da ni da' . Unlike Harikaambodhi, ma can be prolonged without gamakam or oscillated with ga but anchoring on ma. The raagam is often used in raagamaalikaas. (The Aarohanam-Avarohanam illustration uses madhyama sruthi treating ma1 of the sruthi as sa).
+
+  COMPOSITIONS:
+   Gajaambaa (Dheekshithar)
+   Dhevadhevanai (Paapanaasam Sivan)
+   Sakipraana (Jaavali - Dharmapuri Subbaraayar) 
+   Naadhabindhu (Thiruppugazh)
+   Thillaanaa (Veenaa Seshannaa)
+
+~ Raagam  <C4>SHANMUKHAPRIYAA</C> Melam 56 (Shanmukhapriyaa)
+  Sampoorna Melakarthaa raagam (Chaamaram of Dheekshithar school)
+
+  Aarohanam:  sa ri2 ga1 ma2 pa da1 ni1 Sa     C D Eb F# G Ab Bb C
+  Avarohanam: Sa ni1 da1 pa ma2 ga1 ri2 sa     C Bb Ab G F# Eb D C
+
+  A popular melakarthaa raagam. Only ri2 can be prolonged without gamakam. Note ga1 is sung from ri2 with kampitham or held for a short duration and da1 is held with kampitham from pa but may be held without gamakam when descending from ni1 but only for a short duration. Note ni1 takes different types of gamakams and this adds beauty to the raagam.  It is held with long range kampitham up to Sa in the ascent, but may be held for short duration without gamakam as an ending note in the phrase <A11 >'Sa ni da nee'</A>. Sometimes it is also held with gamakam from da2 (which note is not present in the raagam) as in Thodi.  The phrases <A7 >'ni Sa daa'</A>, <A9 >'ni Ri Sa daa'</A>, <A5 >'Sa ni daa'</A> are characteristic and da1 descends with jaaru from the higher note. The phrase <A0 >'pa ma gaa ri sa'</A> is also characteristic but is common to other raagams of melams 55 to 60. Because of this phrase there is a common area with Simhendhramadhyamam but presence of ni1 in Shanmukhapriyaa makes the distinction easy. Because of ni1 the note ga1 is also a little more prominent in Shanmukhapriyaa and in the phrase 'pa ma ga ri sa' note ga may be reached direct.
+
+  COMPOSITIONS:
+   Siddhivinaayakam, Mahaasuram(Navagraha krithi - Dheekshithar)
+   Marivere dhikkevarayya (Patnam Subrahmanya Ayyar)
+   Vallee naayaka (Muthiah Bhaagavathar)
+   Saravanabhava, Paarvathinaayakane (Paapanaasam Sivan)
+   Vaddhanevaaru (Thyaagaraajar ?)
+
+~ Raagam  <C4>SIMHENDHRAMADHYAMAM</C> 
+  Melam 57 (Simhendhramadhyamam)
+ 
+ Sampoorna Melakarthaa raagam (Sumadhyuthi of Dheekshithar school)
+
+  Aarohanam:  sa ri2 ga1 ma2 pa da1 ni2 Sa    C D Eb F# G Ab B C
+  Avarohanam: Sa ni2 da1 pa ma2 ga1 ri2 sa   C B Ab G F# Eb D C
+
+  Only ri2 can be prolonged without gamakam. Note ga1 is held with kampitham from ri2.  Note ma2 is held as in other prathi madhyama raagams close to pa and with kampitham from pa and da1 is held with kampitham from pa. Note ni2 is held close to Sa and with kampitham and may occasionally held for a short duration without gamakam in the phrase 'pa da ni (daa)'. The raagam is somewhat similar to Shanmukhapriyaa in the range sa to da1. However the phrase <A4 >'pa da1 ma2'</A> is used (as in Panthuvaraali) which is not found in Shanmukhapriyaa. The movement <A5 >'ni Ree'</A> also occurs. Distinction from other raagams of the mela group 55 to 60 is achieved by singing the utharaangam (pa da ni Sa) clearly. Distinction from Keeravaani (which differs only in ma) is achieved by touching <A9 >ma2</A> in the phrase 'Sa ni da pa' and also the greater prominence to ni2 in Keeravaani.  Can be elaborated as a major raagam.
+
+  COMPOSITIONS:
+   Nathajana paripaalaka, Neethu charanamule (Thyaagaraajar ?)
+   Kaamaakshi Kaamakoti, Paamara jana paalini (Dheekshithar)
+   Raama Raama guna seema (Swaathi Thirunaal)
+   Ninne nammithi (Mysore Vaasudhevaachaar)
+   Ihaparam (often started with anupallavi Guhacharavana) (Sivan)
+
+
+~ Raagam  <C4>SINDHUBHAIRAVI</C>   Melam 8 (Hanumatthodi)
+  Sampoorna Bhaashaanga raagam
+  Anya swaram Chathusruthi Rishabham-ri2 - D
+
+  Aarohanam:  sa ri1 ga1 ri2* ga1 ma1 pa da1 ni1 Sa
+                           C Db Eb D Eb F G Ab Bb C
+  Avarohanam: Sa ni1 da1 pa ma1 ga1 ri2* ga1 ri1 sa
+                            C Bb Ab G F Eb D Eb Db C
+
+  This is a raagam adopted from Hindusthani Music. Except for ri2, the anya swaram, the notes are theoretically equivalent to those of Thodi but gamakams and positions of notes used in Thodi make it a totally different raagam with no comparable mood at all. In Thodi ga1 and ni1 are invariably held with gamakam and pulled from ri2 and da2 on the Veena (though ri2 and da2 do not figure in Thodi). In Sindhubhairavi all notes may be prolonged and stressed. They are held in their own position. The use of ri2 cannot be properly depicted in the aarohanam-avarohanam. It is used as a vakra note. The phrases <A4 >'sa ga ma pa'</A>, 'pa ni da sa', <A7 >'pa da Sa'</A> and <A0 >'pa ma1 da1 pa'</A> are used. Rare uses of ma2 and da2 (fleetingly as a base for gamakam for ni1) is also possible and in Thanjaavoor Sankara Ayyar's composition he has even used ga2!. Prolonged holding of ri1 and ga1 and descent from ga1 to ri1 are characteristic. (There are no compositions of trinity or earlier composers in this raagam).
+
+  COMPOSITIONS:
+   Visweswara dharsan (Swaathi Thirunaal)
+   Karunai Dheivame (Sivan)
+   Manadhirkukandhadu (Thanjaavoor Sankara Ayyar)
+   Gangaadheeswaram (Swami Surajaanandha)
+   Anri ivvulakam (Thiruppaavai)
+   The first raagam of Theeradha vilayaattupillai (by Bhaarathiaar) is 
+      usually Sindhubhairavi.
+
+~ Raagam <C4>SIVARANJANI</C>  Melam 22 (Kharaharapriya)
+  Oudava (Pentatonic) Raagam
+
+  Aarohanam   sa ri2 ga1 pa da2 Sa      C D Eb G A C
+  Avarohanam  Sa da2 pa ga1 ri2 sa     C A G Eb D C
+
+  A raagam which has become popular in recent times and is adapted from the North. Note ri is held plain and ga is held with kampitham but the voice can stay at ga at the end for considerable time unlike other common raagams using ga1. Note da is strong and may be held plain or with slight kampitham. The raagam is easily depicted from the notes. The raaga bhaavam is strongly brought out in the phrases <A2 >'gaa paa daa'</A> and <A3 >'daa pa gaa'</A>. Shades of Ranjani can be avoided by holding pa clearly and avoding any shade of ni2. The descent from ga to sa is less often used in Sivarnjani while it is very common in Ranjani. Being a recent raagam there are no old cmpositions. When other notes like ni1 or da1 are used, the raagam is called Misrasivaranjani
+
+  COMPOSITIONS:
+   Tharunamidhayya, Aandavan anbe (Paapanaasam Sivan)
+   Kurayonrum illai (first raagam) (Raajaaji)
+
+~ Raagam  <C4>SOWRAASHTRAM</C>   Melam 17 (Sooryakaantham)
+  Sampoorna Bhaashaanga vakra raagam
+  Anya swaram Kaisiki Nishaadham-ni1 - Bb
+
+ Aarohanam:    sa ri1 ga2 ma1 pa ma1 da2 ni2 Sa    C Db E F G F A B C 
+ Avarohanam:  sa ni2 da2 ni1* da2 pa ma1 ga2 ri1 sa 
+                            C B A Bb A G F E Db C
+
+  Note ri1 is held close to sa and with kampitham from sa. Note ga2 is generally held short and with downward gamakam from ma1 and close to ma1. It is rarely prolonged without gamakam. Note ma1 is can be held plain and can be prolonged and held with kampitham in the phrase <A4 >'pa ma daa'</A>. Note da2 is held with kampitham or nokku in ascent. The use of ni1 in the phrases 'pa da ni1 da pa' and <A9 >'Sa ni da ni1'</A> is characteristic and helps to distinguish the raagam from Sooryakaantham. The phrase <A4 >'pa ma da'</A> is also characteristic. The phrase <A6 >'pa da ni Sa'</A> is also permitted. Excessive use of the anya swaram ni1 can lead to shades of Chakravaaham (Melam 16) from which this raagam can be differentiated by clear enunciation of ni2 and correct gamakam on ga2. This raagam can be used at the beginning of the concert and also at the end! The krithi "Nee naama roopa" sung as 'Mangalam' at the end of practically every concert is in Sowraashtram.
+
+  COMPOSITIONS:
+   Sree Ganapathi, Meluko dhayaanidhi, Neenaama roopa (Thyaagaraajar)
+   Sooryamoorthe (Navagraha krithi), Varalakshmee (Dheekshithar)
+   Ninnujoochi (Patnam Subramanya Ayyar)
+   Saranam Saranam Enraane (Arunaachala Kavi)
+
+
+~ Raagam  <C4>SREE</C>     Melam 22 (Kharaharapriya)
+   Ouduva- Sampoorna vakra (Pentatonic-Hexatonic-winding) Raagam
+
+  Aarohanam:  sa ri2 ma1 pa ni1 Sa      C D F G Bb C
+  Avarohanam: Sa ni1 pa da2 ni1 pa ma1 ri2 ga1 ri2 sa  
+             C Bb G A Bb G F D Eb D C
+
+  One of the Ghana Panchaka raagams. Although da2 is shown in the avarohanam the phrase <A8 >'pa da ni pa'</A> is sparingly used and the descent is generally 'Sa ni pa ma' (Thyaagaraaja Krithis do not use da2 at all). Except for ga1, Sreeraagam has the same notes as Madhyamaavathi but ri2 and ni1 are sung quite differently. Note ri2 is always held without gamakam and is prolonged as a dominant note. Note ga1 is reached from ri2 and is sung close to ri2 and usually with gamakam. Note ni1 may be sung without gamakam for a short duration in phrases like <A$ >'Sa ni pa'</A>. It can be oscillated up to Sa in a quick single movement. It can also be sung with gamakam from a position slightly above da2 and up to Sa and only in this gamakam it resembles Madhyamaavathi. The other two styles of ni1 are not permitted in Madhyamaavathi. In Madhyamaavathi ri2 is oscillated slightly or up to ma1 or a position in between, while in Sree ri2 is always without gamakam. This is a raagam suited for thaanam. 
+
+  COMPOSITIONS:
+   Endharo (Pancharathnam), Naamakusuma, Yukthamu (Thyaagaraajar)
+   Sree Varalakshmee, Sree Moolaadhaara, Sree Kamalaambike
+     (Dheekshithar) 
+   Maayanai (Thiruppaavai-tune by Ariyakkudi Raamaanuja Ayyangaar)
+
+~ Raagam  <C4>SREERANJANI</C>   Melam 22 (Kharaharapriya)
+  Shaadava (Hexatonic) Raagam
+
+  Aarohanam:  sa ri2 ga1 ma1 da2 ni1 Sa     C D Eb F A Bb C 
+  Avarohanam: Sa ni1 da2 ma1 ga1 ri2 sa    C Bb A F Eb D C
+
+  Notes ri2, ma1 and da2 may be prolonged and are held without gamakam. Notes ga1 and ni1 are sung with kampitham in association with ri2 and da2 respectively. Notes rii2, ma1 and da2 are the strong notes of this raagam. Many of the phrases of Kharaharapriya not  involving pa, are used in Sreeranjani, sometimes giving the feeling of Kharaharapriya.  The absence of pa in Sreeranjani helps to differentiate it from Kharaharapriya.  There is also common area with Aabhogi with which Sreeranjani can be confused if in the former da2 is excessively oscillated. Clear singing of phrases containing ni1 (<A6 >'Sa ni ni da maa'</A>, <A12 >'ma da nee Sa'</A>) help bring out the mood of Sreeranjani correctly.
+
+  COMPOSITIONS:
+   Sogasugamridhanga, Maarubalka, Brochevarevare,
+   Bhuvinidhaasudane (Thyaagaraajar)
+   Parvatharaajakumaari, Sree Dhumdhurge (Dheekshithar)
+   Iniorukanam, Gajavadhanaa (Paapanaasam Sivan) 
+
+~ Raagam  <C4>SUBHAPANTHUVARAALI</C>
+ Melam 45 (Subhapanthuvaraali)
+ Sampoorna (Heptatonic) Melakarthaa Raagam  
+ (Sivapanthuvaraali of Dheekshithar school)
+ (Hindusthani equivalent Thodi that)
+
+  Aarohanam:  sa ri1 ga1 ma2 pa da1 ni2 Sa     C Db Eb F# G Ab B C
+  Avarohanam: Sa ni2 da1 pa ma2 ga1 ri1 sa    C B Ab G F# Eb Db C
+
+  A melakarthaa raagam using all black notes except ni2. All notes can be prolonged without gamakam. Note ga1 is to be particularly held straight. Note ri1 can be either held straight or with kampitham in association with sa. Note ni2 is more often held in association with Sa. Omission of pa in the ascent is common (Hindusthani Thodi invariably omits pa in ascent). The characteristic phrases of the raagam are <A1 >'pa ma gaa ri sa'</A> and <A0 >'sa ri gaa'</A>. Except for ga the notes are the same as in Panthuvaraali but jaaru is used in the phrase 'Sa ni da pa' with the 'ni2 da1' descent harmonically related to 'ma2 ga1' descent with jaaru. The mood of the raagam is one of pathos and is achieved by the isolated ga1 held without gamakam. Some old texts on Thyaagaraajar's compositions show all krithis in Panthuvaraali as in melam 45 presumably because of the slightly lower position of ga2 in Panthuvaraali and a consequent difficulty in proper classification.  Confusion with Varaali is easily avoided by holding ga1 in the correct position and without gamakam. 
+
+  COMPOSITIONS:
+   Ennallu oorake (Thyaagaraajar)
+   Sree Sathyanaaraayanam, Pasupatheeswaram (Dheekshithar)
+   Velane (Koteeswara Ayyar)
+   Nee samaanamevaru (G.N.Balasubramaniam) 
+
+~ Raagam  <C4>SUDDHADHANYAASI</C>    Melam 22 (Kharaharapriya) 
+ Ouduva (Pentatonic) Raagam.
+
+  Aarohanam:  sa ga1 ma1 pa ni1 Sa      C Eb F G Bb C
+  Avarohanam: Sa ni1 pa ma1 ga1 sa      C Bb G F Eb C
+
+  Differs from Hindholam only in the use of pa instead of da1. Notes ga1 and ni1 are held  with nokku in ascent. In the phrase <A9 >'pa ma gaa'</A>, stopping at ga1, the kampitham on ga1 may go up to ma1. Note ni1 is generally oscillated up to Sa. In the older schools on the Veenaa ga1 and ni1 are played on the ri2 and da2 frets so that the lower end of gamakam is slightly lower than the proper ga1 or ni1. Many phrases like <A10 >'Sa Ga ni Sa pa'</A>, <A9 >'pa ni ma'</A>, <A11 >'pa ma ni pa Sa ni Ga'</A> are used and these involve jump over 'Sa pa' or 'sa ma1' related notes. The krithi Enthanerchina of Thyaagaraajar assigned to Udhayaravichandrika in older texts is sung now in Suddha Dhanyaasi. Udhayaravichandrika of Dheekshithar uses ni2 instead of ni1 of Suddha Dhanyaasi.  This raagam can rarely be confused with any other as the raaga bhaavam is conveyed fully by the notes if sung correctly without touching ri2 or da2 in which case shades of Karnaataka Dhevagaandhaari can be felt.   
+
+  COMPOSITIONS:
+   Enthanerchina (Thyaagaraajar)
+   Subrahmanyena, Paarthasaarathinaa (Dheekshithar)
+   Himagiri thanaye (Muthiah Bhaagavathar)
+   Nirathamuka (G.N.Baalasubramaniam)
+   Naaraayana ninna (Purandharadhaasa) is usually sung in Suddha 
+     Dhanyaasi
+
+~ Raagam <C4>SUDDHASAAVERI</C>  Melam 29 (Dheerasankaraabharanam)
+  Ouduva (Pentatonic) Raagam  (Dhevakriya of Dheekshithar school)
+
+  Aarohanam:  sa ri2 ma1 pa da2 Sa     C D F G A C
+  Avarohanam Sa da2 pa ma1 ri2 sa     C A G F D C
+
+  All notes can be prolonged without gamakam. Notes ri2 and da2 are generally sung with nokku in ascent and kampitham in descent or when turning on the note. This raagam can be confused with Aarabhi if not properly sung as the two additional notes ga2 and ni2 in Aarabhi are touched fleetingly. Dropping quickly from sa to da2, holding ma1 short in descent, stressing on the phrases 'ri ma ri' and 'da Sa da' can help avoiding shades of Aarabhi in which the phrase 'ma ga ri' is sung as 'ma ga (ma)ri' and leads to longer stay on ma1. However, in Dheekshithar's krithi Lalithambikaam ma1 is prolonged but the phrase ends in ma1. In particular singing the phrase 'pa ma ree' as in Madhyamaavathi can help avoiding the mood of Aarabhi. Phrases like <A6 >'Sa Ri da'</A>, 'pa da ma', <A10 >'ma ri pa ma'</A> occur occasionally in Suddhasaaveri. This raagam is sometimes classified under melam 28 which differs from 29 in ni which is not used in this raagam.
+
+  COMPOSITIONS:
+   Kaalaharanamelara, Dhaarinee thelusukonti (Thyaagaraajar)
+  Sree Guruguha thaarayaasumam, Lalithaambikaam (Dheekshithar)
+  Saamaja Varadhaa (Ramnaad Sreenivaasa Ayyangaar)
+  Sadhaasiva kumaara (Paapanaasam Sivan)
+  Thaaye Thripura (Periyasaami Thooran)
+
+~ Raagam  <C4> SURATI</C>    Melam 28 (Harikaambodhi)
+
+  Ouduva Sampoorna (Pentatonic-hexatonic) vakra (winding) raagam
+
+  Aarohanam:  sa ri2 ma1 pa ni1 Sa               C D F G Bb C
+  Avarohanam: Sa ni1 da2 pa ma1 ga2 pa ma1 ri2 sa
+                             C Bb A G F E G F D C
+
+  Notes ma1 and ni1 are the keynotes of this raagam. Note ri2 is generally held with kampitham when prolonged and may also be held without gamakam. Note ma1 can be prolonged and is sung straight. Both ga and da are touched fleetingly in this raagam. Note ga2 is touched for a short duration in the phrase <A2 >'ma ga pa ma ree'</A>. In the phrase <A8 >'ma ga ri' </A>(which is also used) after quick touch of ga2 the voice goes up to ma1 before descending to ri2 and the position of ga2 is higher than usual. A characterstic is the note ni1 which is held with a reverse gamakam from da2 i.e. anchoring on ni1, coming down to da2 and going up to ni1 and then giving a gap. The repetition of ni in this manner in <A5 >'nee nee nee'</A> is very characteristic of this raagam.  The phrase <A6 >'ni da pa'</A> is with a fleeting touch of da2 and going up again before coming down. The phrases <A6 >'pa ni ma pa'</A>, '(pa) ri ma pa', <A3 >'ri ma sa ri'</A> involving jumps over sa-ma1 related notes are often used. The raagam cannot be fully described by its notes and can be sung correctly only by the use of appropriate gamakams and stresses.
+
+  COMPOSITIONS:
+   Geethaarthamu, Paraamukhamelara (Thyaagaraajar)
+   Angaarakam (Navagraha krithi),Sree Venkatagireesam (Dheekshithar)
+   Veganeevu (Jaavali by Raamnaad Sreenivaasa Ayyangaar)
+   Edhukkithanai (Maarimuthaa Pillai)
+
+~ Raagam  <C4>THODI</C>     Melam 8 (Hanumatthodi)
+   Sampoorna Melakarthaa Raagam (Heptatonic)
+
+  Aarohanam:  sa ri1 ga1 ma1 pa da1 ni1 Sa    C Db Eb F G Ab Bb C
+  Avarohanam: Sa ni1 da1 pa ma1 ga1 ri1 sa   C Bb Ab G F Eb Db C
+
+  One of the popular major raagams. Playing the notes without gamakam will create a totally different raagam (similar to Sindhubhairavi). Notes ga1 and ni1 cannot be prolonged without gamakam and are held lower than their normal positions and by pulling from lower frets on the Veenaa. They oscillate from ri2 and da2 - sometimes narrowly but in the ascent may go up to ma1 and Sa. If these notes are to be held without gamakam it should be for a very short duration in transit to another note. Notes ri1 and da1 may be held for short moments or as ending notes without gamakam. They are oscillated slightly from a point higher than sa and pa respectively. Note ma1 is held without gamakam. Phrases omitting pa are very common. All the chittaswarams in the charanam of the Thodi varnam 'Era Naapai' are without pa. The phrases 'ma ni da', <A 18>'Ri ni da ma'</A> <A 18>'ni Ga Ri ni da ma'</A>,'ni Sa (ni) daa', 'Sa (ni) daa' (the last 2 with quick touch of ni)are also used. The gamakams on ri1, ga1, da1 and ni1 can only be understood by listening to well known krithis. The raagam is an example of the difference between the bare notes and the raagam mood.
+
+  COMPOSITIONS:
+   Kaddhaanu vaariki, Jesinadhella, Koluvamaregatha, Raajuvedala,
+   Dhaasarathe (Thyaagaraajar)
+   Sree Krishnam, Kamalaambike (Dheekshithar)
+   Ninne namminaanu (Syaamaa Saasthri)
+   Thaaye Yasodha (Oothukkaadu Venkatasubbayyar)
+   Kaarthikeya, Kunram kudikonda, Thanigai valar (Sivan)
+   
+
+~ Raagam  <C4>VAACHASPATHI</C>   Melam 64 (Vaachaspathi)
+  Sampoorna Melakarthaa Raagam (Heptatonic)
+
+  Aarohanam:  sa ri2 ga2 ma2 pa da2 ni1 Sa   C D E F# G A Bb C
+  Avarohanam: Sa ni1 da2 pa ma2 ga2 ri2 sa   C Bb A G F# E D C
+
+  This raagam differs from Kalyaani only in ni. However, ga2 is oscillated only to a limited extent or not at all.  Notes ri2, ga2, da2 can be prolonged without gamakam. Note ri2 can also be held with nokku in the ascent. Note ma2 is held close to pa and oscillated from it as in all prathi madhyama raagams. Note ni1 is held with kampitham from da2. Note ni is prolonged with little gamakam in the phrases 'pa da nee da pa' and <A9 >'ni nee da pa'</A>, the second ni is prolonged and sung for a moment without gamakam. The phrase <A4 >'ga ma pa da ni Sa'</A> and <A10 >'pa da ni da pa ma gaa ri'</A> gives the essence of the raagam. Apparently generated by the 72 mela scheme of Venkatamakhi the other raagams with the same phrase like Hemavathi and Raamapriya resemble Vaachaspathi and distinction is shown when ri and ga are sung.
+ 
+  COMPOSITIONS:
+   Kanta joodumi (Thyaagaraajar - sometimes sung in Lathaangi also)
+   Paraathparaa (Paapanaasam Sivan)
+   Paahi Jagadhjanani (Swaathi Thirunaal)
+   Sahasrakara (Harikesanallur Muthiah Bhaagavathar)
+
+~ Raagam <C4>VAAGADHEESWARI</C>   Melam 34 (Vaagadheeswari)
+  Sampoorna (Heptatonic) Melkartha Raagam
+
+  Aarohanam   sa ri3 ga2 ma1 pa da2 ni1 Sa     C D# E F G A Bb C
+  Avarohanam  Sa ni1 da2 pa ma1 ga2 ri3 sa     C Bb A G F E D# C
+
+  This vivaadhi raagam is Harikaambodhi with ri2 replaced by ri3. The range ga to Sa is sung very much like Harikaambodhi with da2 held plain and ni1 held with kampitham from da sometimes reaching Sa. Note ri3 is held with kampitham sometimes touching ga. Note ma is generally held straight or with slight kampitham from ga while ga itself is held plain though it is associated with ri3 or ma in kampitham phrases. As in Harikaambodhi descent from da to pa is with a touch of ni as in the phrase <A5 >'da nee - da (ni) pa'</A>.  The raaga bhaavam is fully apparent only when the entire range of the seven notes are sung.  The absence of ri2 enables clear distinction from Harikaambodhi. The raagam as handled now is based on Thyagaraajar's krithi. The corresponding melam in Deekshithar's school is 'Bhogachchayaanata' and the raagam itself is quite different omitting da in the ascent and giving stress on ni and ma while Vaagadheeswari gives more stress on da than ni and stresses other notes equally. Chaayanaata is a janya raagam of melam 34 in Thyaagarajar's school.
+
+  Compositions:
+   Paramaathmudu (Thyaagaraajar)
+   Naadhaanusanthaana (Koteeswara Ayyar)
+
+~ Raagam  <C4>VARAALI</C>      Melam 39 (Jhaalavaraali)
+  Sampoorna Melakarthaa Vivaadhi Raagam (Heptatonic)
+
+  Aarohanam:  sa ri1 ga0 ma2 pa da1 ni2 Sa    C Db D F# G Ab B C
+  Avarohanam: Sa ni2 da1 pa ma2 ga0 ri1 sa   C B Ab G F# D Db C
+
+  The aarohanam is sometimes given as 'sa ga0 ri1 ga0 ma2 pa da1 ni2 Sa' but the phrase <A1 >'sa ri1 ga0'</A> is freely used nowadays. This is one of the common vivaadhi raagams, using ga0 (held in the position of ri2). All notes except pa are sung with gamakam. Note ri1 oscillates from sa and ga0 oscillates from ri1 or in its own position. Note ri1 may sometimes be prolonged without gamakam at the end of the phrase 'pa ma gaa ree sa', before reaching sa. Note da1 is sung from pa and ni2 is sung in conjunction with Sa. Note ma2 is held from pa but may be touched without gamakam fleetingly and is often sung in a position slightly lower than ma2 of other prathimadhyama raagams where maa is prolonged as in the phrase <A5 >'gaa maa daa'</A> or as in the beginning of the krithi Maamava Meenaakshi). Venkatamakhi uses the term 'Varaali Madhyama' to describe prathimadhyamam itself. There is similarity to Panthuvaraali in the region ma2 to Ri. Distinction from Subhapanthuvaraali lies in the fact that it uses ga1 which is sung without gamakam. In Varaali ga0 (in the position of ri2) is sung with gamakam. One of the ghana panchaka raagams.
+
+  COMPOSITIONS:
+   Kanakanaruchira (Pancharathnam), Marakatha mani, Eti janma,
+     Noremi (Thyaagaraajar)
+   Maamava Meenaakshi, Seshaachala naayakam (Dheekshithar)
+   Kaamaakshi (Syaamaa Saasthri)
+   Kaa vaa vaa Kandhaa vaa (Sivan)
+
+~ Raagam  <C4>VASANTHA</C>      Melam 17 (Sooryakaantham)
+  Ouduva-Shaadava Raagam (Pentatonic-hexatonic)
+
+  Aarohanam:  sa ga2 ma1 da2 ni2 Sa           C E F A B C
+  Avarohanam: Sa ni2 da2 ma1 ga2 ri1 sa    C B A F E Db C
+
+  The aarohanam is sometimes shown as 'sa ri1 ga2 ma1 da2 ni2 Sa' but in the ascent ri1 is generally omitted. Compositions in this raagam are sometimes shown as in raagam Lalitha in old texts and as janyam of melam 15 with da1. Though all notes may be prolonged without gamakam, mild kampitham is used in ga2 and ma1, the latter oscillating from a position slightly higher than ga2. Note da2 is sung with nokku in ascent or passed quickly. The jumps from sa to ga2 and from ma1 to da2 are harmonically related. Note ni2 is either sung plain (at a slightly higher position) or oscillated from Sa.  The phrase <A5 >'nI sa ri'</A> also occurs. The raagam has no special gamakam features and can be delineated from the notes themselves. It can rarely be confused with any other raagam.
+
+  In Dheekshithar's krithi Hariharaputhram the descent from Ga2 to Ri1 (the words 'Murali Bheri' in anupallavi and corresponding part in Charanam) is held with jaaru and Ri1 is prolonged without gamakam. This appears to be an exception.
+
+  COMPOSITIONS:
+   Seethamma maayamma (Thyaagaraajar)
+   Hariharaputhram, Raamachandhram (Dheekshithar)
+   Maadhayai (Paapanaasam Sivan)
+   Natanam Aadinaar (Gopaalakrishna Bhaarathi)
+
+~ Raagam  <C4>YADHUKULAKAAMBODHI</C>    Melam 28 (Harikaambodhi)
+ Shaadava Sampoorna vakra bhaashaanga raagam (Hexatonic-
+   Heptatonic, devious)
+
+  Aarohanam:  sa ri2 ma1 ga2 ma1 pa da2 Sa         C D F E F G A C
+  Avarohanam: Sa ni1 da2 pa ma1 ga2 ri2 ga2 sa   C Bb A G F E D E C
+  (Anya swaram used is ni2 in selected phrases)
+
+  The raagam can hardly be described by its notes. Note ma1 is sung with kampitham in the ascent and oscillates from its own position to a position slightly higher than ga2. Note ga2 may be prolonged without gamakam when it is a starting or middle note in a phrase, or held with a short gamakam. The phrase <A0 >'sa ri ma'</A> with gamakams on ma1 is characteristic of this raagam. Other characteristic phrases are <A10>'ga (ma) pa ga ma ga'</A> with quick touches of ga, ma and slightly prolonged pa and harmonically corresponding phrase <A7 >'da Sa da ni da'</A> (listen to the 2nd and 8th phrases). Note ni1 occurs only occasionally and the descent is often <A6 >'Sa da pa'</A>. The descent is sometimes shown as 'Sa ni1 da2 pa ma1 ga2 ri2 sa'. Though 'ma ga ri' is common ending in ri2, 'ma ga ri sa' is not common. Anya swaram ni2 occurs in phrases 'sa nI sa' and <A12>'sa nI sa pA'</A> more as a supporting note for Sa than as an independent note. Distinction from Kaambodhi lies in the way ga2 and ma1 are sung, the characteristic phrases described above and the use of 'Sa da pa' in descent.
+
+  COMPOSITIONS:
+   Hecharikka, Paahi Raamachandhra (Thyaagaraajar)
+   Dhivaakara thanujam (Navagraha krithi by Dheekshithar)
+   Kaamaakshi (swara jathi), Ninnusevinchina (Subbaraaya Saasthri)
+   Yarenru Raaghavanai(Arunaachala Kavi)
+   Kaalaithookki (Maarimuthaa Pillai)
+
+
+~ Raagam  <C4>YAMUNAAKALYAANI</C>   Melam 65 (Mechakalyaani)
+  Sampoorna bhaashaanga raagam. (Heptatonic)
+
+  Aarohanam:  sa ri2 ga2 pa ma2 ga2 pa da2 ni2 da2 (Sa)
+                            C D E G F# E G A B A (C)
+  Avarohanam: (Sa) ni2 da2 pa ma2 ga2 ma1* ri2 sa
+                            (C) B A G F# E F D C
+  Anya swaram used - Suddha Madhyamam-ma1 - F
+
+  In many compositions (especially short pieces) this raagam is sung only up to ni or Sa and often Madhyama Sruthi is used (taking ma as the tonic). This raagam has been handled differently by various composers. Muthuswamy Dheekshithar has adopted the Hindusthani style with stress on phrases like 'Sa ni \pa' and <A4 >'pa ma \ri'</A> while others have used 'ga pa da pa ma' and 'sa gaa'. Unlike Kalyaani ga2 cannot be sung with kampitha gamakam and generally the descent from ga2 to ri2 is by <A1 >touching ma1</A> quickly. Note ni2 may be held without gamakam and ma2 can be sung in a slightly lower position than in Kalyaani with a sliding descent to ga2. The phrase <A2 > 'sa nI dA nI ri'</A> with slow slide to da2 is characteristic.  In the phrase<A9 >'pa ma ga ri sa'</A> ri2 is prolonged and slides to sa. Sometimes ni1 is touched in descent in the phrase 'Sa ni da ni1* pa'. The raagam is considered to be a light raagam and used in raagamaalikaas and at the end of the concert. Dheekshithar's composition 'Jamboopathe' is however elaborate and could be a major piece in a concert. It has phrases reaching tharasthaayi gaandhaaram. The aarohanam-avarohanam illustration uses madhyama sruthi with ma1 of the sruthi as sa.
+
+  COMPOSITIONS:
+   Haridhaasulu vedale, Vidhi sakra (Thyaagaraajar)
+   Jamboopathe, Nandhagopaala (Dheekshithar)
+   Krishna nee begane (Vyaasa Raayar)
+
+~

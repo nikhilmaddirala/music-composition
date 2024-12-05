@@ -1,0 +1,903 @@
+~Aadhi Thaalam
+
+  CHATHUSRA JAATHI  THRIPUTA THAALAM, with a  LAGHU
+  of 4  units and 2 DHRUTHAMS of 2 units each - in all 8 units or
+  AKSHARAMS.  A most popular thaalam - the only thaalam for
+  which the individual name 'Aadhi' is used.
+~Aalaapana 
+ 
+  Elaboration of the RAAGAM mood by improvisation and without 
+  THAALAM (rhythm). The syllables ta,ra,na,nom are used in the 
+  South for Alaapana but the vowel 'aa' predominates.  It is 
+  customary to sing Alaapana before a major KRITHI. Singing 
+  Alaapana is also referred to as singing raagam.
+~Aarohanam
+
+  Ascending sequence of notes. Also used for defining the notes
+  used and how they follow each other in the ascent of a RAAGAM.
+~Aavartham
+
+  One complete cycle of a THAALAM.  Thani Aavartham or Thani  
+  Aavarthanam  refers to playing of percussion instruments
+  independently (not as accompaniment to melody).
+~Aksharam
+
+  A single time unit forming the basis for THAALAM (Rhythm).  No 
+  absolute tempo or speed is prescribed in Carnatic Music. The 
+  duration of different parts of a thaalam and the total duration
+  of one cycle are all measured in Akshaarams.
+~Alankaaram
+
+  Beginner's exercises using sa,ri,ga,ma... (solfa)  in different 
+  THAALAMs.
+~Amsa
+
+  The dominant note of a RAAGAM. 
+~Angam
+
+  The different parts of a THAALAM such as LAGHU, DHRUTHAM
+  and ANUDHRUTHAM.
+~Anthara Gaandhaaram
+
+  The fifth note in the 12 notes system (ga2 in this package).
+  E - The third white note on the keyboard.  The note coalesces
+  well with the drone as its frequency (5/4 in the natural scale)
+  is one-fourth the fifth harmonic of the Tonic.
+~Anudhrutham
+
+  The part of a THAALAM represented by a single beat or clap and 
+  consisting of a single AKSHARAM.  In the 7 Thaalam classifica-
+  tion anudhrutham is used only in JAMPA  thaalam.
+~Anupallavi
+
+  The second part or movement of a KRITHI which consists of
+  PALLAVI, anupallavi and CHARANAM. After the anupallavi the
+  pallavi is sung before singing charanam.  In many compositions 
+  the anupallavi  is set in the higher pitch ranges and helps in 
+  building the RAAGAM mood. There are Krithis (especially by
+  Deekshithar) without anupallavi.
+~Anyaswaram
+
+  Note occurring in JANYA RAAGAM not found in JANAKA scale.
+  Raagams having anyaswaram are BHAASHAANGA Raagams.
+  The anyaswaram may occur only in selected phrases or only
+  in ascent or descent. For instsance Saaranga, janyam of Mecha-
+  Kalyaani uses both madhyamams. Suddha madhyamam not
+  present in the parent scale is used in the phrase ri-ga-ma*-ri-sa.
+  Anyaswarams are marked with asterisk ' * ' in notation.
+~Arai
+
+  Half (Tamil). Used to indicate starting point of a composition  
+  which starts after half an AKSHARAM from the beginning of
+  the rhythm cycle ( Arai Idam).
+~Ata Thaalam
+
+  One of the 7 THAALAMs. Consists of two LAGHUs and two
+  DHRUTHAMs. The common Ata thaalam is KHANDA JAATHI 
+  Ata thaalam and has 14 AKSHARAMs (5+5+2+2).
+~Atheetha Eduppu
+
+  Where the composition starts before the first beat of  the 
+  THAALAM cycle. An example is Sivakaama Sundhari in Mukhari
+  illustrated in the thaalam module.
+~Avarohanam
+
+  Descending sequence of notes; also defining notes and their
+  sequence in the descent of a RAAGAM.
+~Bhaashaanga Raagam
+
+  A JANYA  raagam which uses one or more notes not present in 
+  the parent scale (JANAKA MELAM). As the parent scale has all 
+  the 7 notes, this implies that the two varieties of a particular
+  note are used in the Bhaashaanga Raagam. More than one note may
+  be chosen for this treatment and the additional note is called
+  ANYASWARAM.
+~Bhaavam
+
+  Feeling or sentiment.  The term Raaga Bhaavam is used to refer 
+  to RAAGAM mood.
+~Charanam
+
+  The third part or movement of the KRITHI type of composition,  
+  sung after the PALLAVI and ANUPALLAVI.   In many KRITHIS
+  after the anupallavi dwells on the higher pitch ranges, the 
+  charanam starts in the middle range giving a sense of repose.
+  Many  krithis have more than one  charanam with the same tune 
+  but there are krithis with charanams with different tunes.  In one  
+  form of krithi the last part of the charanam is sung in the same 
+  tune as the ANUPALLAVI  (popular in Thyaagaraaja  krithis). Some 
+  krithis of Dheekshithar have only "Samashti Charanam" without 
+  an Anupallavi.
+~Chathurasra
+
+  (or) Chathusra - 4 units. Used to define JAATHI (Chathusra 
+  Jaathi THAALAMs have LAGHU with 4 AKSHARAMs).  Also
+  used to define the gathi or NADAI.  (Chathurasra gathi implies
+  4 notes per aksharam).
+~Chathusra
+
+  (or) Chathurasra-4 units. Used to define JAATHI (Chathusra
+  Jaathi THAALAMs have LAGHU with 4 AKSHARAMs).  Also
+  used to define the gathi or  NADAI.  (Chathusra  gathi implies
+  4 notes per aksharam).
+~Chathusruthi Dhaivatham
+
+  The tenth note in the 12 notes system (da2 in this package). The 
+  (sixth) white note A.
+~Chathusruthi Rishabham
+
+  The third note in the 12 notes system (ri2 in this package).  The 
+  (second) white note D.
+~Chitta Swaram
+
+  One or more AAVARTHAMs of solfa (sa ri ga ma....) notes
+  composed by the author of the KRITHI or added later, and sung 
+  after ANUPALLAVI and CHARANAM before singing pallavi. Chitta
+  means not extempore(as opposed to KALPANA).
+~Da
+
+  The sixth of the 7 notes. The letter Da is used both for notation 
+  and for solfa singing. The note is referred to as  DHAIVATHAM.  
+  Pronounced like `th' in `then'.
+~Dhaivatham
+
+  The note Da.  It can take 3 positions-SUDDHA DHAIVATHAM
+  (A flat), CHATHUSRUTHI DHAIVATHAM (A) and SHADSRUTHI 
+  DHAIVATHAM (A sharp), referred to in this package as da1, da2
+  and da3 respectively  Shadsruthi Dhaivatham (da3) is in the position 
+  of  KAISIKI NISHAADHAM (ni1) and RAAGAMS using it are 
+  VIVAADHI.
+~Dhrutham
+
+  The ANGAM or part of a THAALAM indicated by a beat or clap
+  followed by a wave or turning the palm upwards.  It always 
+  consists of two AKSHARAMs.
+~Dhruva Thaalam
+
+  One of the 35 THAALAMS.  Consists of a LAGHU, followed by a 
+  DHRUTHAM and two LAGHUs. The common Dhruva thaalam is in 
+  CHATHUSRA JAATHI with 14 AKSHARAMs(4+2+4+4).
+~Eduppu
+
+  (Lit. Taking).  Used to refer to the point in the THAALAM
+  structure where the composition starts  - e.g arai eduppu
+  means the composition starts half a unit after the beginning
+  of the AAVARTHAM.
+~Eka Thaalam
+
+  One of the 35 THAALAMs - consists of a single LAGHU. The
+  common Eka thaalam is of CHATHUSRA JAATHI and has 4
+  AKSHARAMs in the single Laghu.
+~Ga
+
+  The third of the 7 notes.  The letter Ga is used both in
+  notation and in solfa singing.   The note is referred to
+  as GAANDHAARAM in descriptions.
+~Gaandhaaram 
+
+  The third of the 7 notes.  It can take three positions - SUDDHA 
+  GAANDHAARAM (E flat),  SAADHARANA  GAANDHAARAM (E)  
+  and  ANTHARA GAANDHAARAM (E  sharp), referred to in this 
+  package as ga0, ga1 and ga2 respectively.  The note Suddha 
+  Gaandhaaram (ga0) is in the same position as CHATHUSRUTHI 
+  RISHABHAM (ri2)  and RAAGAMs using it  are VIVAADHI 
+  raagams.
+~Gamakam
+
+  Grace.  Movement between notes without break of voice.  The 
+  movement may be oscillatory, a single slide or a quick transition 
+  with a stress.  The use of  gamakams is a basic  feature of
+  Indian Music and in Carnatic Music the use of correct gamakams is
+  as important as the use of proper notes to sing a RAAGAM correctly.
+  Traditionally 10 types of gamakams are supposed to be used but 
+  even old texts describe more.
+
+~Gathi   see NADAI.
+~Geetham
+ 
+  Simple songs taught as beginner's exercises.  They avoid
+  SANGATHIs and use limited GAMAKAMs  (ex. Sri Gananaatha
+  a geetham in Malahari and Vara Veena in Mohanam). Lakshana
+  Geethams describe the raaga lakshanam or raaga grammar.
+~Graha
+
+  The starting note for a melody or RAAGAM phrase. The term is 
+  not much used now. It was widely used in ancient texts to define 
+  raagams along with NYAASA, AMSA etc.
+~Jaaru
+
+  A GAMAKAM in which there is a slide from one note to another. 
+  Etra Jaaru means upwards slide and Erakku Jaaru downward 
+  slide. The symbols ' / ' and ' \ ' are sometimes used in notation
+  to indicate Etra Jaaru and Erakku Jaaru
+~Jaathi
+
+  Used in the context of rhythm (THAALAM) refers to the number of 
+  AKSHARAMs in the LAGHU (ex.)  KHANDA Jaathi THRIPUTA  
+  thaalam has  5 aksharams in the laghu.  The jaathi does not  
+  affect the number of aksharamsof  DHRUTHAM or ANUDHRU-
+  THAM. The Jaathis and their associated numbers  are:
+
+             THISRA              3
+             CHATHUSRA      4
+             KHANDA            5
+             MISRA               7
+             SANKEERNA     9
+~Jaavali
+
+  Composition in lighter or romantic vein generally set to  RAKTHI 
+  RAAGAMS and sung towards the end of the concert.
+~Jampa Thaalam
+
+  One of the 35 THAALAMs.   Consists of one  LAGHU,  one
+  ANUDHRUTHAM and one DHRUTHAM. The common Jampa   
+  thaalam is of the MISRA JAATHI i.e. Laghu with 7 AKSHARAMs 
+  and a total of 10 aksharams (7+1+2).  Only thaalam in the seven 
+  basic thaalams having Anudhrutham as an ANGAM.  Often krithis
+  composed in Jampa thaalam are sung in KHANDA CHAAPU 
+  thaalam consisting of 2 and half beats and the term Jampai used
+  to refer to Khanda Chaapu also.
+~Janaka
+
+  (Lit. giving birth to).  Refers to the parent scale or MELAM from 
+  which the JANYA raagam is "born".  Sometimes the principal
+  RAAGAM of the parent scale is called janaka raagam.
+~Janta
+
+  A form of GAMAKAM where the same note is sung twice,  the
+  second with a stress by momentarily touching a lower note (or
+  the higher note) before the second note is sung. (lit.) Pair (Telugu).
+~Janya
+
+  (Lit. born).  Refers to RAAGAMs other than "MELAKARTHA" or full 
+  scale raagams.  They may omit some notes of the parent or 
+  JANAKA scale, or have devious or VAKRA ascent or descent, or 
+  have a note not occurring  in the parent scale.  Some  janya 
+  raagams are more popular than the janaka raagams (Naata
+  from Chalanaata and  Poorvikalyaani from Gamanasrama) as
+  apparently they existed before the 72  Melakartha system.
+~Kaakali Nishaadham
+
+  The 12th or the last  note in the 12 notes system  (ni2 in this
+  package).  The (seventh) white note B.  It is just below the sa of
+  the next octave and is often a leading note and is sung close to
+  sa.   (Kaakali - lit. sweet and low.)
+~Kaal
+
+  One fourth (Tamil). The term "kaal idam" is used to refer  to 
+  compositions which start one fourth AKSHARAM after the start 
+  of the THAALAM cycle.
+~Kaalam
+
+  (Lit. time).  In rhythm it refers to the tempo.  For lessons up to
+  Geethams, the first kaalam uses one note per  AKSHARAM, the
+  second  kaalam  2 notes per aksharam, the third kaalam 4 notes
+  per aksharam and so on doubling the number of notes. For 
+  Varnams which are often sung in 2 or 3 kaalams, the first kaalam
+  has 4 notes the second 8 notes and the third 16 notes per 
+  aksharam. In krithis there is no uniformity in writing the number
+  of notes per aksharam in the notation. 
+  
+  When  NADAIs other than chathusra nadai are used, the first
+  kaalam may have as many notes as the gathi indicates i.e. 3  
+  for THISRA nadai, 5 for KHANDA nadai,  doubling for higher 
+  kaalams.
+~Kaarvai
+
+   Prolonging a note without break, generally without GAMAKAM.
+  
+~Kaisiki Nishaadham
+
+  The eleventh note in the 12 notes system (ni1 in this package). 
+  The black note B flat. In Carnatic Music it is often held with 
+  GAMAKAM from da2.
+~Kalai
+
+  (The 'lai' is pronounced with a folded tongue)  When the tempo is 
+  very slow,  the beats,  counts and waves of the thaalam are 
+  repeated once more.  Such a krithi is said to be in  2 kalai   
+  chowkam.  Some very slow pallavis are in 4 kalai chowkam.
+~Kalpana Swaram
+
+  Extempore  singing of   sa ri ga ma (solfa)  at the end or middle of 
+  a song, set to rhythmic patterns and each group terminated  by the 
+  PALLAVI or other suitable line of the  song.  The development of  
+  complex rhythmic patterns while singing kalpana swaram has 
+  become a test of mastery of the THAALAM.  Singing kalpana  
+  swaram is always resorted to in RAAGAM, THAANAM, PALLAVI  
+  and often the swarams may be in  RAAGAMAALIKA. (Kalpana - 
+  one's own creation - Imagination) 
+~Kampitham
+
+  A form of GAMAKAM,  the voice  moving slowly between two notes 
+  up and down once, twice or even more. The movement can also 
+  start or reach positions slightly above or below a note with micro 
+  tones.
+~Kattai
+  The system used in Carnatic Music for referring to the position
+  of the tonic (sa) in the Harmonium keyboard (lit. wood - here
+  key). When a musician sings with the first white note on the key-
+  board as his 'sa' he sings in 1 kattai. The 2nd white note is 2
+  kattai and so on.  The black notes get half number added to the
+  previous white note. (So there is no 3 and half and 7 and half
+  kattais as there are no black notes between the 3rd and 4th,
+  7th and 8th).  Often the position is approximate and the musician
+  can chose sa in between 2 key positons. Fixing the kattai helps
+  the accompaniments to use instruments (like Mridhangam) suitable
+  for the aadhaara sruthi chosen.  In modern keyboards 1 kattai
+  corresponds to a frequency of 261.6 and 6 kattai to 440 but a male
+  voice singing 1 kattai actually has half the frequency (about 131)
+  but higher harmonics of 262, 393 etc. would be present.
+~Keerthanai
+
+  Originally used to  describe devotional compositions, with stress 
+  on the meaning of the composition, with a number of lines having 
+  same tune and avoiding "SANGATHIs" or variations. They may 
+  not have ANUPALLAVI, CHARANAM structure as in KRITHIs. 
+  Now  however,  the words  keerthanai and  krithi are often used 
+  interchangeably.
+~Khanda
+
+  5 units, (Lit. 'broken').  Used when qualifying the JAATHI or GATHI 
+  (NADAI).   Khanda  jaathi  implies a LAGHU with 5 AKSHARAMs 
+  and khanda nadai, 5 notes per aksharam.
+~Khandippu
+
+  A form of GAMAKAM, involving momentary touch of intermediate   
+  note after a minute gap before descending to the next note (ex.)Sa-
+  (da)-pa in Sankaraabharanam where there is a break after Sa and
+  pa descends from da.
+~Krithi
+
+  The matured form of composition in which great stress is given to 
+  the melody and rhythm.  The melody is embellished by repetition 
+  of lines with variations (SANGATHIs).  Krithi generally has   
+  PALLAVI, ANUPALLAVI,  CHARANAM structure but some krithis 
+  may omit anupallavi and have a  "Samashti Charanam" (or 
+  composite Charanam).
+~Laghu
+
+  The angam or part of the  THAALAM consisting of a beat or clap 
+  followed by counting.  The total number of AKSHARAMs in a 
+  Laghu is given by the JAATHI of the thaalam.
+~Laya(m)
+
+ Rhythmic aspect of music.
+~Ma
+
+  The fourth note in the 7 notes. The letter Ma is used both in notation 
+  and in solfa singing.  The note is referred to as MADHYAMAM in 
+  descriptions.
+~Maathra(i)
+
+  A sub-division of the aksharam.  In CHATHUSRA nadai one 
+  maathrai will be one fourth of the aksharam in the 3rd kaalam.
+~Madhya
+
+  (Lit. Middle).  Used with "STHAAYI" refers to the middle octave.  
+  The term "Madhyama Kaalam" is used to refer to the medium 
+  tempo.
+
+~Madhyama Sruthi
+
+  For raagams which are generally sung below upper Sa (such
+  as Kuranji, Naadhanaamakriya etc.), the usual practice is to 
+  temporarily treat the ma1 of the basic sruthi as the tonic or as 
+  the new sa. In the sruthi box instead of sa, pa, Sa the notes 
+  sa, ma1 and Sa are used. Thus all the notes get transposed. 
+  For instance the pa of the previous sruthi now becomes ri2, the 
+  Sa becomes pa and Ma1 becomes Sa, thus reaching the Ma1 
+  of the original sruthi though the raagam itself moves below Sa.
+  The artiste is then said to sing in Madhyama Sruthi.
+
+~Madhyamam
+
+  The fifth or middle note in the 7 notes. Takes two variations.    
+  SUDDHA MADHYAMAM (F)  and PRATHI MADHYAMAM (F#),
+  referred to in this package as ma1 and ma2.  The 72 MELAMs are
+  broadly divided into 2 groups of  36 melams based on the use of
+  ma1 or ma2.  The two notes cannot occur together in the 72 
+  melam scheme.
+~Mandhra
+
+  Used with STHAAYI.  Mandhra STHAAYI refers to the lower octave.
+~Matya thaalam
+
+  One of the 35 THAALAMs.    Consists of one  LAGHU,  one
+  DHRUTHAM  and one LAGHU. The common Matya thaalam is
+  of the CHATHUSRA  Jaathi consisting of  10 AKSHARAMs
+  (4+2+4).
+~Melakartha
+
+  The  principal RAAGAM of the scale in the 72 mela scheme,  using 
+  all the  7 notes and without VAKRA descent or ascent and without 
+  any ANYA  SWARAM.  Such raagams are also referred to as 
+  Raagaanga raagams.
+~Melam
+
+  A 'scale' consisting of 7 notes selected out of the possible 72 
+  combinations. Also refers to fixing frets on the VEENA.
+~Misra
+
+  7 units (Lit. `mixed'). Used when qualifying the JAATHI or NADAI 
+  (gathi) of a THAALAM.  Misra Jaathi implies a LAGHU of 7 
+  AKSHARAMs and misra nadai, 7 notes per aksharam.
+~Mukkaal
+
+  Three fourths (Tamil). Used to indicate starting point of composi-
+  tions  which start after 3/4 unit of time - Mukkaal Idam (Idam - Place).
+  More common in  compositions in two kalai chowkam.
+~Naadham
+
+  Musical Sound. Timbre.
+~Nadai or Gathi
+
+  The nadai with KAALAM decides the number of swarams per
+  AKSHARAM. The nadai decides the basic units i.e. 3,4,5,7 or 9 
+  and kaalam decides the multiple of these units. The most common 
+  nadai is CHATHUSRA with 4 or multiples of 4 notes (as also 2
+  notes) per aksharam. THISRA nadai employs 3 notes or multiples 
+  of 3 (6,12 etc.) notes per aksharam.  KHANDA, MISRA and 
+  SANKEERNA nadais use  5,7 and 9 notes per aksharam respec-   
+  tively but are not common. The term 'Gathi' is identical with nadai.
+~Ni
+
+  The seventh of the 7 notes. The letter Ni is used both for notation 
+  and for solfa singing. The note is also referred to as NISHAADHAM.
+~Niraval
+
+  Elaboration of a particular line of the KRITHI with extempore   
+  melody and producing rhythmic patterns.   Generally KALPANAA 
+  SWARAM singing follows Niraval.
+~Nishaadham
+
+  The note Ni.   It can take 3 positions  -  SUDDHA NISHAADHAM
+  (A),  KAISIKI NISHAADHAM (B flat), KAAKALI NISHAADHAM
+  (B) ,referred to as  ni0,ni1 and  ni2 in this package.   Suddha Nisha-
+  dham is in the  position of  CHATHUSRUTHI  DHAIVATHAM   
+  (da2) and raagams using it are VIVAADHI.
+~Nokku or Thirupam
+
+  A type of GAMAKAM in which a note higher than the note to
+  be sung is touched first and then the required note is reached. 
+  Examples are ga2 and ni2 of Maayamaalavagowla in ascent,
+  ri2 of Sankaraabharanam in ascent.  Also applied for the 
+  starting note in many cases like ri2 of Sankaraabharanam,
+  ni in the phrase 'ni sa Ree' (Bhairavi) ma in 'pa ma pa'
+  (Madhyamavathi) etc. Ni2 and ma2 are mostly held with this
+  gamakam in the ascent.
+
+~Names of notes-in ascending order of pitch     Symbols
+                                            used in Rasika
+
+ C  Shadjam  ...     ...    ...    ...            sa
+ Db Suddha Rishabham ...    ...    ...            ri1
+ D  Chathusruthi Rishabham/Suddha Gaandhaaram     ri2/ga0
+ Eb Saadhaarana Gaandhaaram/Shadsruthi Rishabham  ga1/ri3
+ E  Anthara Gaandhaaram     ...    ...            ga2
+ F  Suddha Madhyamam ...    ...    ...            ma1
+ F# Prathi Madhyamam ...    ...    ...            ma2
+ G  Panchamam        ...    ...    ...            pa
+ Ab Suddha Dhaivatham       ...    ...            da1
+ A  Chathusruthi Dhaivatham/Suddha Nishaadham     da2/ni0
+ Bb Kaisiki Nishaadham/Shadsruthi Dhaivatham      ni1/da3
+ B  Kaakali Nishaadham      ...    ...            ni
+ C  Thaara Shadjam    ...   ...    ...   ...      Sa
+
+ Middle octave notes are shown with all letters in lower
+ case, upper octave notes with first letter in upper
+ case and lower octave notes with second letter in upper
+ case.
+~Nyaasa
+
+  Ending note, especially when the ending implies a strong
+  establishment on the note. (Lit. deposit, lie down).
+~Ouduva  (or Oudava)
+
+  Using 5 notes only.  An Ouduva RAAGAM uses only five notes  
+  (ex.) Mohanam uses sa ri ga pa da.
+~Pa
+
+  The fifth of the 7 notes.  The  letter  Pa is used both for notation and 
+  for solfa singing.   The note is also referred to as PANCHAMAM 
+  (Lit. fifth). It has no variations.
+~Padham
+
+  A type of composition where the lyric is erotic in content and  
+  mainly used for dance.   Usually sung near the end of a concert.
+~Pallavi
+
+  1.  The first movement of the  song and used as refrain. The 
+  Pallavi is repeated after ANUPALLAVI and the CHARANAM
+  (after each  charanam  if  there are more than one).  The Pallavi 
+  often has many variations (SANGATHIs).
+ 
+  2. A small piece of composition usually covering a single 
+  aavartham and sung with elaborate melodic and rhythmic imp-
+  rovisation usually after singing RAAGAM and THAANAM. Often
+  lines from larger compositions are chosen for pallavi. The pallavi 
+  is often set to less common thaalams and stresses rhythm 
+  (equivalent of Khyal of Hindusthani Music).
+~Panchamam
+
+  The note Pa. The eighth note in the 12 notes system.  It is invariant 
+  and can take only one position with relative frequency 3/2. (Lit. 
+  Fifth). The fifth white note G.  No GAMAKAM is associated with it.
+  One of the strings of the THAMBOORA  is tuned to panchamam of
+  MANDHRA STHAAYI
+~Pann
+
+  The Tamil name for raagam used in the traditional THEVAARAM 
+  singing. The 'Tamil Isai Changam' has identified many of these panns 
+  with the present day raagams. Some examples are  Sevvazhi -
+  Yadhukulakaambodhi, Pazhampanchuram - Sankaraabharanam,
+  Kausikam - Bhairavi,  Saadhaari - Panthuvaraali,  Thakkesi - 
+  Kaambhodhi, Senthuruthi - Madhyamaavathi, Aandhaalikkuranji -
+  Saama. 
+~Poorvaanga
+
+  The lower range (from sa to below pa) in the RAAGAM's 
+  movement.
+~Prathi Madhyamam
+ 
+ The seventh note in the 12 notes system  (ma2 in this package).  
+ The black note F#.   In  Carnatic Music it is rarely prolonged without 
+ GAMAKAM and is sung close to pa (G).
+~Prayogam
+
+  (Lit. usage). Used when referring to usage of typical phrases and 
+  special phrases. Sometimes refers to the use of special  notes
+  (like  BHAASHAANGA  SWARA prayogam).
+~Raagam
+
+  (Lit. color, emotion). A musical mood generally defined in  
+  Carnatic Music by the notes used, the order in which they are sung 
+  in the ascent and descent and the special phrases used.  In 
+  addition the GAMAKAMs used, prolonging some notes without 
+  gamakam and compulsory use of gamakam on some notes 
+  complete the description of a raagam.  The compositions of  well 
+  known composers are often used as standards for defining a 
+  raagam.  Varnams are also taken as standards for the raagams.
+~Raagamalika
+
+  A composition in which more than one raagam is used.   The
+  PALLAVI, ANUPALLAVI  and  CHARANAM  (or each charanam  if
+  there is more than one)  may all be in  different  RAAGAMs.
+  CHITTA SWARAMS  in each raagam may follow the anupallavi
+  and the charanams in the same raagam and in the end chitta
+  swarams in all raagams used may be sung. Thaanam in raaga-
+  maalika is often  played in the Ghana Panchaka raagams (Naata,
+  Gowla, Aarabhi, Varaali, Sree) on the Veena.  
+~Rakthi
+
+  (Lit. pleasing, charming). Used to describe raagams which are 
+  JANYAMs and  involve fine  GAMAKAMs  leading to charm (like 
+  Sahaana, Hindholam).
+~Ri
+
+  The second of the 7 notes.  The letter Ri is used both for notation 
+  and for solfa singing.  The note is also referred to as RISHABHAM.
+~Rishabham
+
+  The note Ri. It can take 3 positions-SUDDHA RISHABHAM (D flat), 
+  CHATHUSRUTHI   RISHABHAM (D) and   SHADSRUTHI 
+  RISHABHAM (D sharp), referred to as ri1, ri2 and ri3 in this package.
+  Shadsruthi Rishabham is in the same positions as SAADHAA-
+  RANA GAANDHAARAM (ga1) and RAAGAMs using it are  
+  VIVAADHI.
+~Roopaka Thaalam
+
+  A  THAALAM consisting of one  DHRUTHAM (2 aksharams) and 
+  one LAGHU  (whose AKSHARAMs depend on the JAATHI).  The 
+  common Roopaka thaalam is  CHATHUSRA Roopakam with 4 
+  aksharams for the Laghu and a total of  6 aksharams.  Often 
+  compositions in Chathusra jaathi Roopaka thaalam are sung in such 
+  a tempo that the aksharams are too short and the thaalam is kept 
+  by two beats followed by one wave, as if it has 3 aksharams.
+~Sa
+
+  The tonic. The letter Sa is used both for notation and for solfa 
+  singing.  The note is also referred to as SHADJAM.  It has to be 
+  present in all RAAGAMs though phrases omitting Sa may be used.
+  It has to be sung without any GAMAKAM.  It is also called the 
+  Aadhaara Shadjam as all other notes are based on its pitch.
+~Saadhaarana Gaandhaaram
+
+  The fourth note in the 12 notes system (ga1 in this package). The 
+  black note E flat.  In Carnatic Music it is often held with GAMAKAM 
+  from ri2.
+~Samam
+
+  (Lit. equal).  Used to refer to  compositions which start at the same 
+  position as the beginning of the AAVARTHAM or rhythmic cycle 
+  (Sama eduppu).
+~Sampoorna
+
+  Complete. A sampoorna RAAGAM uses all the seven notes. All 
+  MELAKARTHA raagams are sampoorna  raagams in the present 
+  system.  
+~Samvaadhi
+
+  A note  which  bears the harmonic relationship of  sa-pa (relative 
+  frequency of  3/2) or  sa-ma  (relative  frequency 4/3) to the 
+  VAADHI(dominant). The concept of VAADHI-samvaadhi is more
+  explicitly used in North Indian Classical music.  It is only implicit in 
+  Carnatic Music and  RAAGAMs are not defined by vaadhi and 
+  samvaadhi.   However, notes with  sa-ma and  sa-pa  relationship
+  are sung with similar gamakams and pairs of  phrases in the same  
+  raagam often have similar relationship.
+~Sanchaaram
+
+  Dwelling on the different notes or areas of a RAAGAM and singing 
+  around such notes or in such areas.  Also refers to characteristic 
+  phrases of the Raagam.
+~Sangathi
+
+  In Carnatic Music it means the singing of the same line of the  
+  composition with variations.   Each sangathi is  usually sung twice. 
+  The variations are gradual, altering the melody of only part of the 
+  line in  each sangathi and building up a fine structure.
+~Sankeerna
+
+  9 units. (Lit. mixed). Used when qualifying the JAATHI or NADAI 
+  (Gathi).  Sankeerna  jaathi implies a LAGHU  with 9 AKSHARAMs 
+  and Sankeerna nadai, 9 notes per aksharam.
+~Sarali Varisai
+
+  Beginner's exercises in solfa singing. Usually in the Maayaa-  
+  maalavagowla scale.
+~Shaadava
+
+  Using six notes - A Shaadava raagam uses only 6 notes. (ex.) 
+  Sriranjani uses sa ri ga ma da ni.
+~Shadjam
+
+  The note Sa.  (Lit. the one that gives birth to six).  The tonic note
+  to which the pitches of other notes are related.  It has no variations
+  and has to be used in every RAAGAM.  No absolute frequency is 
+  fixed for sa and the  musician is free to chose his own.  It is also
+  the note on which the ALAAPANA or a composition often ends. 
+  Two strings of the THAMBOORA  are tuned to the basic sa and one 
+  string  to the sa of the lower octave.
+~Shadsruthi Dhaivatham
+
+  The eleventh note in the 12 notes system  (da3 in this package)  
+  and sung in the position of ni1.The black note B flat. In RAAGAMs 
+  using this note, ni2 (KAAKALI NISHAADHAM) will also be used 
+  and  such  raagams are VIVAADHI raagams 
+~Shadsruthi Rishabham
+
+  The  fourth note in the  12 notes system  (ri3 in this package) and 
+  sung  in the  position of ga1.  The black note E flat.  In RAAGAMs 
+  using this note, ga2 (ANTHARA GAANDHAARAM) will also be  
+  used and raagams using this note are VIVAADHI raagams 
+~Sphuritham
+
+  A type of GAMAKAM involving stress.  JANTA swarams used in 
+  ascent. Some times refers to touching the lower note momentarily 
+  and then touching the higher note  with one strumming of the string 
+  on the VEENA. 
+~Sruthi
+
+  Aadhaara Sruthi is the tonic. Also used to refer to the drone of the 
+  Thamboora or the Sruthi box which continuously play  sa, pA and sA
+  or sa,pa and Sa.   Usually the  musician chooses his sa to coincide
+  with one of the keys of the harmonium.  If he chooses 2nd white
+  key(D) he is said to sing in the  "2 kattai" sruthi.  If he chooses the 
+  next black key then he sings in "2 and half kattai" sruthi. 
+
+   Historically the term "sruthi"  has also been used to denote  
+   intervals between notes and the octave was divided into 22
+   "sruthis" and in the SUDDHA Scale  the intervals from sa were 
+   3,2,4,4,3,2,4 sruthis to the next  note.
+~Sthaayi
+
+  Octave - MADHYA Sthaayi is the middle octave. MANDHRA
+  sthaayi is the lower octave and THAARA sthaayi is the higher
+  octave.
+~Suddha
+
+  (lit.)Pure - originally  applied to  the "Saama Gaana" notes with 
+  intervals of 3,2,4,4,3,2,4 sruthis. Now in Carnatic Music it is applied 
+  to  Ri,Ga, Ma, Da and Ni to refer to the lowest of the possible  
+  variations of these notes in the 72  Melakartha scheme.  In North
+  Indian Classical  Music the Suddha notes are the white notes of the 
+  keyboard.
+~Suddha Dhaivatham
+
+ The  ninth note in the  12 notes  system  (da1 in this package).   The 
+  black note A flat (next to the Fifth). In Carnatic Music it is often sung 
+  with a gamakam from pa.
+~Suddha Gaandhaaram
+
+  The third  note in the 12 notes system (ga0 in this package) and 
+  sung in the  position of  CHATHUSRUTHI RISHABHAM (D).  If this 
+  note is used Suddha Rishabham will also be used and such 
+  RAAGAMs are VIVAADHI raagams.
+~Suddha Madhyamam
+
+  The sixth note in the 12 notes system (ma1 in this package). The 
+  "fourth" or the fourth white note (F) in 7 notes system . Its third 
+  harmonic (4/3 X 3) and the fourth harmonic of the tonic  (1 X 4) 
+  coincide.   In Carnatic music in raagams using  ga2 it is often held
+  with a GAMAKAM. (Madhyamam  - central. The central note in  7 
+  note system  -  also found at the point midway between sa and Sa
+  of the upper octave on stringed instruments.)
+~Suddha Nishaadham
+
+  The  tenth note in the  12 notes system (ni0 in this package)  and 
+  sung in the  position of  CHATHUSRUTHI  DHAIVATHAM (A). If this 
+  note is used Suddha Dhaivatham will also be used and such 
+  RAAGAMs are VIVAADHI raagams.
+~Suddha Rishabham
+
+  The second note in the 12 notes system (ri1 in this package). The 
+  black note D flat (next to the tonic sa).  In Carnatic Music it is often 
+  sung with a GAMAKAM from sa.
+~Swaram
+
+  A musical note. (Lit.) pleasant by itself.
+~Swaraaksharam
+
+  Where the letters of the  lyric coincide with the swara names:(ex.) 
+  the words "Sadhaa paalaya" of the KRITHI in the RAAGAM  
+  Mohanam by  G.N.Balasubramaniam are sung to the notes  Sa   
+  daa  pa ga ri ga. The portion "Sadhaa paa" is in swaraaksharam.
+~Thaalam
+
+  The rhythmic frame work of Carnatic Music.   Each thaalam  is 
+  defined by its parts or ANGAMs (presently used angams are 
+  LAGHU, DHRUTHAM and ANUDHRUTHAM) i.e. the number and
+  order in which the angams are arranged.  The JAATHI of the 
+  thaalam defines the number of AKSHARAMs in the Laghu.
+~Thaanam
+
+  A special form of  improvisation of  the RAAGAM using the 
+  syllables "a", "nam", "ta". Though not set to any thaalam the 
+  thaanam has inherent rhythm and is supposed to stress the 
+  "ghana" or heavy aspect of the raagam. In vocal music thaanam
+  is sung only as part of "Raagam, Thaanam, Pallavi",  On the 
+  VEENA thaanam is often played after the  ALAAPANA, before the 
+  KRITHI.   RAAGAMAALIKA Thaanam is also common on Veena,  
+  often using the "Ghana Panchaka"  raagams  Naata, Gowla,
+  Aarabhi, Varaali and Sree.
+~Thaara
+
+  Used to refer  to notes of the  higher octave  (Thaara RISHABHAM 
+  the Ri of the higher octave). Thaara STHAAYI means the octave 
+  above the middle octave.
+~Thamboora
+
+  The instrument used to provide drone.   Its 4 strings are tuned  
+  to  pA(lower octave) , sa, sa  and sA (lower octave)  and  these 
+  are gently plucked to provide the sonorous  constant background 
+  for both vocal  and instrumental music.  The instrument has a 
+  curved bridge and silk strings called 'Jeeva' are placed between 
+  the string and the bridge at the point of contact leading to the 
+  production of  rich  harmonics in which  Anthara Gaandhaaram
+ (ga2) can be heard.
+~Thani Aavarthanam
+
+  Solo playing of the percussion instrument(s) in the middle of a 
+  concert usually after major composition or singing of  "Raagam, 
+  Thaanam, Pallavi".
+ ~Thevaaram
+
+  Devotional hymns composed by the 'Naayanmars' Appar, Sundharar
+  and Thirujnyanasambandhar which were set to music in the Chola
+  period.  A system for singing these hymns in temples was also
+  prescribed.  They were set in 'PANNS'  which are identifiable with
+  many presently used raagams rich in gamakams like Kedhaaragowla,
+  Bhairavi, Yadhukulakaambodhi, Kaambhodhi, Sankaraabharanam etc.
+  The style of Thevaaram singing can be said to be strongly South
+  Indian and it doubtless had great influence on the development
+  of Carnatic Music style.
+
+~Thillaana
+
+  A type of composition using extensively the mnemonic phrases 
+  of percussion instruments and dance. The PALLAVI is usually 
+  entirely of such phrases (Dheem, na, thira, tha, kita, thru, thillana 
+  etc.). The ANUPALLAVI  and CHARANAM may have some words
+  as well as these syllables.
+~Thirupam
+
+ See NOKKU.
+~Thisra (or Thrisra)
+ 
+  3 units.  Used when qualifying the JAATHI or NADAI (Gathi). Thisra 
+  jaathi implies a Laghu with 3  AKSHARAMs and Thisra nadai, 3 
+  notes per aksharam.
+~Thriputa Thaalam
+
+  A THAALAM consisting of one LAGHU, and two DHRUTHAMs.  
+  The number of aksharams of the Laghu depend upon the JAATHI 
+  and the 2 dhruthams together have 4 aksharams.   When unquali-
+  fied, Thriputa  thaalam refers to  THISRA  Jaathi Thriputa thaalam 
+  with 7 aksharams (3+2+2). The most popular thaalam, AADHI 
+  THAALAM is really Chathusra Jaathi Thriputa  thaalam with 8 
+  aksharams (4+2+2).
+~Thrisra (or Thisra)
+ 
+  3 units.  Used when qualifying the JAATHI or NADAI (Gathi). Thisra 
+  jaathi implies a Laghu with 3  AKSHARAMs and Thisra nadai, 3 
+  notes per aksharam.
+~Upaanga 
+
+  An  Upaanga raagam takes only all or some of the  notes of
+  the parent MELAM  i.e.,  it uses only the same variety of the swaram 
+  throughout.(As opposed to BHAASHAANGA raagams which use
+  varieties of swarams not in parent scale in addition to the variety of 
+  the parent scale.)
+~Uttharaanga
+
+  The upper range (pa and above up to Sa) in the RAAGAM's 
+   movement.
+~Vaadhi
+
+  The dominant note.  The concept of vaadhi - SAMVAADHI is not
+  explicit in Carnatic Music (see Samvaadhi).
+~Vakra
+
+  Devious - winding(ascent or descent). (ex.) Ascent of Aanandha-
+  bhairavi sa ga ri ga ma pa da pa Sa where after ga we come down
+  to ri before going up again; descent of Reethigowla  Sa ni da ma ga 
+  ma pa ma ga ri sa where after reaching ga the higher notes ma and
+  pa are reached again before coming down.
+~Varjya
+
+  Omission of a note.  (e.g ) Sriranjani is a Panchama Varjya raagam 
+  as it omits the note Pa.  Hindholam is a  Panchama and Rishabha 
+  varjya raagam as it omits Pa and Ri.
+~Varnam
+
+  A type of  composition  usually taught before teaching KRITHIS. 
+  The varnam in a raagam is supposed to cover all characteristic 
+  usages of the raagam. In addition the main lyric is sparse in  
+  consonants giving  good training to the voice  (changing notes in 
+  the same  vowel or  akaara saadhaka).  The  ANUPALLAVI and  
+  CHARANAM have lyric as well as pure solfa notes, in charanam 
+  in 4 to 6 groups after which the lyric of the charanam is sung again.
+
+  Varnams are of two types. THAANA Varnam is used mostly in  
+  singing and Padha varnam used both for singing and dance.  In  
+  padha varnams the solfa notes have also corresponding words 
+  and both are sung one after other.
+
+  Concerts are often started with a varnam.
+~Veena
+
+  A fretted musical instrument with fixed  frets.  The instrument has  
+  apparently influenced the development of many musical forms 
+  (like THAANAM)  and the GAMAKAMs now in use in Carnatic 
+  Music.   On the Veena change of pitch is achieved both by moving 
+  to another fret or by pulling the string across the frets and 
+  increasing the tension and the pitch. 
+~Vikritha
+
+  Modified - opposite of SUDDHA e.g.  Vikritha swara. The concept 
+  can be properly applied if only 2 variations are allowed for  ri,ga,     
+  ma,da and ni  as in  North Indian classical music  where the  white 
+  notes are Suddha notes and the others Vikritha (Komal in the case 
+  of ri, ga, da, ni and Theevra in the case of ma).  In Carnatic Music the
+  use of Suddha Ga and Suddha Ni actually leads to VIVAADHI
+  (meaning dissonant) Raagams.
+~Vilamba
+
+  Slow. "Vilamba KAALAM" means slow tempo. 
+~Vivaadhi
+
+  (Lit. dissonant). Historically used to refer to the interval of 2 sruthis 
+  -between the pairs of the original Suddha Swaras Ri-Ga and Da-Ni.   
+  Now in Carnatic Music the term refers to RAAGAMs which use 
+  any of the following four notes:
+
+        SHADSRUTHI RISHABHAM (ri3),
+        SUDDHA GAANDHAARAM (ga0),
+        SHADSRUTHI DHAIVATHAM (da3), 
+        SUDDHA NISHAADHAM (ni0).
+~
+
+
+
+

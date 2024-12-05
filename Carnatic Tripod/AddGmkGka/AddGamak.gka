@@ -1,0 +1,74 @@
+999999 0 0222022 064 04 04 04 ""  [AN EXAMPLE - ADDING GAMAKAM TO  RAW NOTATION - this file is not for continous play but for playing the samples after reading the comments individually
+
+See below how the first few notes of Kalyaani Geetham are developed to add gamakam and keep the duration unaltered. A single anuswaram is added along with a pair of () to keep the duration same. The same procedure is used for additional anuswarams. Commas or dots may be added to adjust the notes. After every edit check the duration using 'Note Count' and also do 'Brackets Chk! periodically]
+
+[First Aavartham of Kalyani Geetham - the plain notes are:]
+
+Sa- Sa - Sa  -   ni   da-  ni  - Sa-
+
+[1. We have to add gamakam on ni which is to be held close to and oscillated from Sa.
+
+Note ni can become]
+(ni Sa) 
+[which means a single half oscillation from ni to Sa. As one note has been added a pair of brackets is put to maintain the duration.  This may be adequate for fast tempo but for slower tempos we may need a full oscillation from ni to Sa and back. If we write]
+(ni Sa ni) 
+[we will get 1.5 note duration.  We can add a comma after the second ni to prolong it and the duration will become 2.  By adding another pair of brackets the duration is got back to 1 note ]
+ ((ni<< Sa ni<<,))-
+[The pitch modifiers are added to bring ni closer to Sa as it is usually sung.   If you feel that this notation gives too much time for the second ni (double the other notes) it can be changed to]
+
+((ni<< Sa. ni<<.)) -
+
+[by replacing the comma with a full stop (equal to half comma) and adding another fullstop after Sa.
+
+2. The note da slides from above and the jaaru symbol "\" is added before it
+
+3. The second ni is also to be given gamakam.  This is done more simply by replacing ni with implying half oscillation]
+(Sa ni<<) 
+[which is found adequate.  A jaaru symbol after the separation symbol '-'  before Sa introduces a hidden anuswaram (in this case da) and Sa slides up from it.  This aavartham with gamakam becomes]
+
+  Sa- Sa - Sa  -  ((ni<< Sa ni<< ,)) \ da- /(Sa ni<<)- Sa-
+[ ka  ma   la       jaa                      dha       la]
+  
+[The separation symbol "-" is omitted between ni and da because there is only one consonant in the lyric "jaa" for the two notes.]
+
+[In the second aavartham the plain notes are:]
+
+  ni - da- pa -  da - pa-   ma  -pa-
+ 
+[Add gamakam to ni which becomes]
+(Sa ni<<)
+[Add gamakam to ma which is close to pa and oscillates from it and becomes - we applied the same modification as was done for ni in the first avartham in Sa Sa Sa ni]
+((pa.ma<<pa.))- 
+[Above - if we had put (pa ma pa) we would have got 3 notes and a single set of brackets would make it 1.5 - so we added 2 dots to make them 4 notes and put one more set of brackets to bring down to 1 note]
+[add / before the second da as it is started from below and the whole phrase is now]
+
+(/Sa ni<<)-  da- pa - /da - pa- ((pa. ma<< pa.))-pa-
+[vi          ma  la    su   na   ya              na]
+  
+[The bare notes of the 3rd aavartham are:]
+
+ga-  ma - pa- pa- da - da - ni-
+
+[Ma is given gamakam as before but putting the first full stop after ma instead of pa to give more stress to ma and becomes ((pa ma<<. pa.)). To give janta effect for the second pa of the pair of pa's, the "/" symbol is added before the second pa.  It could also be written as]
+ ( ((ma)) pa.(.) )
+[You can check that the duration of this phrase is one note -  ma in double brackets is 1/4, pa is 1, full stop is 1/2, full stop in brackets is 1/4 making up to 2 and the outer brackets reduce this to 1]
+
+[The 2 da notes have to be given nokku type of gamakam.  The first one can be a simple]
+ /(ni\ da)
+[The second da can also be written similarly but written as da is often sung as (da ni) leading to the next note Sa.   It can be written as]
+
+ ( (da) Sa. ni,)-
+[In both cases the higher note is touched first.  
+
+The last ni is given 2 oscillations reaching Sa first and becomes]
+
+ ((Sa ni << Sa ni<<))-
+
+[The jaaru symbol "\" given before the first ga makes the note slide down from hidden pa.  The jaaru symbol before the phrase (ni da) which is actually the note da also gives the upward movement required for the nokku on da.  The 3rd aavartham with gamakam becomes]
+
+\ga-((pa ma<<.pa.))-pa-/pa-(/ni da)-((da(Sa) ni,.))-((Sa ni<<Sa  ni<<))-     [OR]
+\ga-((pa ma<<.pa.))-pa-( ((ma)) pa.(.) )-(/ni da)-((da(Sa) ni,.))-((Sa ni<<Sa  ni<<))-
+
+[Controversy exists as to whether gamakam should be taught while teaching geethams but in practice for a raagam like Kalyaani vocalists are generally taught with some gamakam - for instance at least the gamakams on ma and ni while da may be held straight but with a jaaru from Sa in descent.  Whatever may be the style of the student GAAYAKA enables you to write down and play the notation according to that style.]
+
+

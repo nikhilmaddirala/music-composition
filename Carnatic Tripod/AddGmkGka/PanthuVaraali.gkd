@@ -1,0 +1,351 @@
+D1ZZ#(pa da)
+D1ZL#(pa da)
+D1ZH#(da pa)
+D1ZR#(pa da)
+D1LZ#(pa da)
+D1LL#(pa da)#((da.pa da.))
+D1LH#((da.<<da. da<<))#(pa da)
+D1LR#/da
+D1HZ#(\pa da)
+D1HL#(\pa da)
+D1HH#(\pa da)
+D1HR#(\pa da)
+D1RZ#((da>>>)da.)
+D1RL#((da>>>)da.)
+D1RH#((da>>>)da.)
+D1RR#((da>>>)da.)
+D2ZZ#((da>>.pa.da>>))
+D2ZL#((da>>.pa.da>>))
+D2ZH#((pa./daa>>\(pa)))
+D2ZR#((da>>.pa.da>>))
+D2LZ#((da>>.pa.da>>))
+D2LL#((da>>.pa.da>>))
+D2LH#((da>>.pa.da>>))
+D2LR#((da>>.pa.da>>))
+D2HZ#((ni\\pa)//da\\)
+D2HL#((ni\\pa)//da\\)
+D2HH#((ni\\pa)//da\\)
+D2HR#((ni\\pa)//da\\)
+D2RZ#(((da>>>))da(.).)
+D2RL#(((da>>>))da(.).)
+D2RH#(((da>>>))da(.).)
+D2RR#(((da>>>))da(.).)
+D3ZZ#((pa.(da>)pa.(da>)))
+D3ZL#((pa.(da>)pa.(da>)))
+D3ZH#(((pa)da>.(pa)da.))
+D3ZR#((da>>.pa.da>>))
+D3LZ#((da>>.pa.da>>))
+D3LL#((pa.(da>)pa.(da>)))
+D3LH#((pa.(da>)pa da>))
+D3LR#((pa.(da>)pa.(da>)))
+D3HZ#(((Sa)\\pa(da>.pa.)da>))
+D3HL#(((Sa)\\pa(da>.pa.)da>))
+D3HH#(((Sa)\\pa(da>.pa.)da>))
+D3HR#(((Sa)\\pa(da>.pa.)da>))
+D3RZ#((pa.(da>pa)da>.))
+D3RL#((pa.(da>pa)da>.))
+D3RH#((pa.(da>pa)da>.))
+D3RR#((pa.(da>pa)da>.))
+D4ZZ#(((/da)pa(/da)\pa.(/da)))
+D4ZL#(((/da)pa(/da)\pa.(/da)))
+D4ZH#(((da)pa(/da)\pa.(/da)))#((pa.(/da)\pa.(/da)))
+D4ZR#(((da)pa(/da)\pa.(/da)))#((pa.(/da)\pa.(/da)))
+D4LZ#(((da)pa(/da)\pa.(/da)))#((pa.(da>pa)da>.))
+D4LL#(((da)pa(/da)\pa.(/da)))#((pa.(da>pa)da>.))
+D4LH#(((da)pa(/da)\pa.(/da)))#((pa.(da>pa)da>.))
+D4LR#(((da)pa(/da)\pa.(/da)))#((pa.(da>pa)da>.))
+D4HZ#((\(da)pa(/da)\pa.(/da)))#((pa.(/da)\pa.(/da)))
+D4HL#((\(da)pa(/da)\pa.(/da)))#((pa.(/da)\pa.(/da)))
+D4HH#((\(da)pa(/da)\pa.(/da)))#((pa.(/da)\pa.(/da)))
+D4HR#((\(da)pa(/da)\pa.(/da)))#((pa.(/da)\pa.(/da)))
+D4RZ#(((da)pa(/da)\pa.(/da)))#((pa.(/da)\pa.(/da)))
+D4RL#(((da)pa(/da)\pa.(/da)))#((pa.(/da)\pa.(/da)))
+D4RH#(((da)pa(/da)\pa.(/da)))#((pa.(/da)\pa.(/da)))
+D4RR#((pa.(/da)\pa.(/da)))
+G1ZZ
+G1ZL
+G1ZH
+G1ZR
+G1LZ#/ga
+G1LL#/ga
+G1LH#/ga
+G1LR#/ga
+G1HZ
+G1HL
+G1HH
+G1HR
+G1RZ
+G1RL
+G1RH
+G1RR
+G2ZZ
+G2ZL
+G2ZH
+G2ZR
+G2LZ
+G2LL
+G2LH
+G2LR
+G2HZ#\ga
+G2HL#\ga
+G2HH#\ga
+G2HR#\ga
+G2RZ
+G2RL
+G2RH
+G2RR
+G3ZZ
+G3ZL
+G3ZH
+G3ZR
+G3LZ
+G3LL
+G3LH
+G3LR
+G3HZ#((ma<<<)\ga.)
+G3HL#((ma<<<)\ga.)
+G3HH#((ma<<<)\ga.)
+G3HR#((ma<<<)\ga.)
+G3RZ
+G3RL
+G3RH
+G3RR
+G4ZZ
+G4ZL
+G4ZH
+G4ZR
+G4LZ
+G4LL
+G4LH
+G4LR
+G4HZ#((ma<<<)\\ga.)
+G4HL#((ma<<<)\\ga.)
+G4HH#((ma<<<)\\ga.)
+G4HR#((ma<<<)\\ga.)
+G4RZ
+G4RL
+G4RH
+G4RR
+M1ZZ#((pa. ma<. pa))
+M1ZL#((pa. ma<. pa))
+M1ZH#(ma<(pa ma<))
+M1ZR#(pa ma<<)
+M1LZ#(pa ma<<)
+M1LL#(pa ma<<)
+M1LH#(pa (ma< pa))
+M1LR#(pa ma<<)
+M1HZ#(pa ma<<)
+M1HL#((pa ma<)pa)
+M1HH#((pa ma<)pa)
+M1HR#((pa ma<)pa)
+M1RZ#((pa ma<)pa)
+M1RL#((pa ma<)pa)
+M1RH#((pa ma<)pa)
+M2RR#((pa ma<)pa)
+M2ZZ#(( pa. ma<.pa))
+M2ZL#(( pa. ma<.pa))
+M2ZH#(ma<<(pa ma<<))
+M2ZR#(ma<<(pa ma<<))
+M2LZ#((pa ma<)pa)#(ma<<(ma ma<<))
+M2LL#((pa ma<)pa)#(ma<<(ma ma<<))
+M2LH#(( pa. ma<.pa))
+M2LR#(ma<<(pa ma<<))
+M2HZ#(ma<<(ma ma<<))
+M2HL#((ma<<)pa.)
+M2HLBDG#(((4da\ma))<<ma(ma<<))
+M2HL_DG#((\ma)<<ma(ma<<))
+M2HH#((ma<<)pa.)
+M2HR#((ma<<ma)ma<<)
+M2RZ#((ma<ma<<)ma<)
+M2RL#((ma<ma<<)ma<)
+M2RH#(ma<(pa ma<))
+M2RR#((ma<<ma)ma<<)
+M3ZZ#((ma<<ma)ma<<)
+M3ZL#((ma<<ma)ma<<)
+M3ZH#((ma<<pa)ma<<)
+M3ZR#((pa ma<<)pa)
+M3LZ#((ma<<ma)ma<<)
+M3LL#((ma<<ma)ma<<)
+M3LH#((ma<<pa ma<<(pa ma<<)))#((pa ma<<)pa)
+M3LR#((pa ma<<)pa)
+M3HZ#((pa ma<<pa ma<<))#((ma<<ma)ma<<)
+M3HL#((pa ma<<pa>	 ma<<))#((pa ma<<)pa)
+M3HL_D#(((da\pa)ma<<)pa)
+M3HH#((ma<<pa ma<<(pa ma<<)))#((pa ma<<)pa)
+M3HH_D#(((da\pa)maa<<pa))
+M3HR#((pa ma<<)pa)
+M3HR_D#(((da\pa)ma<<)pa)
+M3RZ#((ma<<ma ma<<ma))
+M3RL#((ma<<ma ma<<ma))
+M3RH#(ma<(pa ma<))
+M3RR#((ma<<ma ma<<ma))
+M4ZZ#((ma<<ma ma<<ma))
+M4ZL#((pa(ma<<)pa(ma<<pa ma<<)))
+M4ZH#((pa(ma<<)pa(ma<<pa ma<<)))
+M4ZR#((pa(ma<<)pa(ma<<pa ma<<)))
+M4LZ#((pa(ma<<)pa(ma<<pa ma<<)))
+M4LL#((pa(ma<<)pa(ma<<pa ma<<)))
+M4LH#((pa(ma<<)pa(ma<<pa ma<<)))
+M4LR#((pa(ma<<)pa(ma<<pa ma<<)))
+M4HZ#((pa>(ma<<)pa>(ma<<pa>ma<<)))
+M4HL#((pa>(ma<<)pa>(ma<<pa>ma<<)))
+M4HL_D#((\pa>(ma<<)pa>(ma<<pa> ma<<)))
+M4HH#((pa>(ma<<)pa>(ma<<pa>ma<<)))
+M4HH_D#((\pa>(ma<<)pa>(ma<< pa> ma<<)))
+M4HR#((pa>(ma<<)pa>(ma<<pa>ma<<)))
+M4RZ#((pa>(ma<<)pa>(ma<<pa>ma<<)))
+M4RL#((pa>(ma<<)pa>(ma<<pa>ma<<)))
+M4RH#((pa>(ma<<)pa>(ma<<pa>ma<<)))
+M4RR#((pa>(ma<<)pa>(ma<<pa>ma<<)))
+N1ZZ#ni#(ni< Sa)
+N1ZL#ni#(ni< Sa)
+N1ZH#ni#(Sa ni<)
+N1ZR#ni#(Sa ni<)
+N1LZ#(Sa ni<)#ni
+N1LZ_G#(ga//ni)
+N1LL#((ni/Sa)\ ni<)#ni
+N1LL_G#(ga//ni)
+N1LH#(Sa ni<)#ni
+N1LH_G#(ga//ni)
+N1LR#(Sa ni<)#ni
+N1LR_G#(ga//ni)
+N1HZ#(Sa ni<)#ni
+N1HZ_R#((Ri\nee Sa))
+N1HL#((Sa ni<)Sa)
+N1HL_R#((Ri\nee Sa))
+N1HH#((Sa ni<)Sa)
+N1HH_R#((Ri\nee Sa))
+N1HR#((Sa ni<)Sa)
+N1HR_R#((Ri\nee Sa))
+N1RZ#((Sa ni<)Sa)
+N1RL#((Sa ni<)Sa)
+N1RH#((Sa ni<)Sa)
+N1RR#((Sa ni<)Sa)
+N2RR#((Sa ni<)Sa)
+N2ZZ#(ni<(Sa ni<))#((ni< Sa ni<Sa))
+N2ZL#(ni<(Sa ni<))#((ni< Sa ni<Sa))
+N2ZLB__P#(ni<(ni ni<\\))
+N2ZH#(ni<(Sa ni<))
+N2ZR#(ni<(Sa ni<))
+N2LZ#(ni<(ni ni<))
+N2LL#(ni<<(ni ni<))#(ni(ni<<ni))
+N2LL_GD#((//ni< ni ni< ni))
+N2LLB_P#(ni<(ni ni<\))
+N2LH#(Sa (Sa ni<))
+N2LR#(ni<(Sa ni<))
+N2HZ#(ni<(ni ni<))
+N2HZ_R#((Ri\nee Sa))
+N2HL#((ni<<)Sa.)
+N2HL_R#((Ri\nee Sa))
+N2HH#((ni<<)Sa.)
+N2HH_R#((Ri\nee Sa))
+N2HR#((ni<<ni)ni<<)
+N2HR_R#((Ri\nee Sa))
+N2RZ#((ni<<ni)ni<<)
+N2RL#((ni<<ni)ni<<)
+N2RH#(ni<(Sa ni<))
+N2RR#((ni<<ni)ni<<)
+N3ZZ#((ni<<ni)ni<<)
+N3ZL#((Sa ni<< ni ni<<))#((ni<<ni)ni<<)
+N3ZH#((ni<<Sa)ni<<)
+N3ZR#((ni<< ni)ni<<)
+N3LZ#((/ni<<ni)ni<<)
+N3LL#((/ni<<ni)ni<<)
+N3LH#((/ni<<ni)ni<<)
+N3LR#((/ni<<ni)ni<<)
+N3HZ#((\ni<<ni)ni<<)
+N3HZ_R#((Ri\nee Sa))
+N3HL#((Sa ni<< ni ni<<))#((\ni<<ni)ni<<)
+N3HL_R#((Ri\nee Sa))
+N3HL_R#((\ni<<ni)ni<<)#(((Ri\ni<<)Sa ni<< (Sani)))
+N3HH#((\ni<<ni)ni<<)#((Sa ni<<)Sa)
+N3HH_R#((Ri\nee Sa))
+N3HR#((\ni<<ni)ni<<)#((Sa ni<<)Sa)
+N3HR_R#(((da\Sa)ni<<)Sa)
+N3RZ#((ni<<ni ni<<ni))
+N3RL#((ni<<ni ni<<ni))
+N3RH#((\ni<<ni)ni<<)#(ni<(Sa ni<))
+N3RR#((ni<<ni ni<<ni))
+N4ZZ#((((ni<<) Sa.\\\ni<< Sa.\\\ ni<< Sa.\\\ni<< )))
+N4ZL#((Sa(ni<<)Sa(ni<<Sa ni<<)))
+N4ZH#((((ni<<) Sa>.\\\ni<< Sa>.\\\ ni<< Sa>.\\\ni<< )))#((Sa(ni<<)Sa(ni<<Sa ni<<)))
+N4ZR#((Sa(ni<<)Sa(ni<<Sa ni<<)))
+N4LZ#((((/Sa>>))ni</((Sa>>))ni</((Sa)ni<.)-.))#(((ni<<< ni<//(Sa)\ni<./(Sa)\ni<(Sa)nii<)))
+N4LL#((((/Sa>>))ni</((Sa>>))ni</((Sa)ni<.)-.))#(((ni<<< ni<//(Sa)\ni<./(Sa)\ni<(Sa)nii<)))
+N4LH#((((/Sa>>))ni</((Sa>>))ni</((Sa)ni<.)-.))#(((ni<<< ni<//(Sa)\ni<./(Sa)\ni<(Sa)nii<)))
+N4LR#((((/Sa>>))ni</((Sa>>))ni</((Sa)ni<.)-.))#((Sa(ni<<)Sa(ni<<Sa ni<<)))
+N4HZ#((((/Sa>>))ni</((Sa>>))ni</((Sa)ni<.)-.))#((Sa>(ni<<)Sa>(ni<<Sa>ni<<)))
+N4HL#((Sa>(ni<<)Sa>(ni<<Sa>ni<<)))
+N4HL_R#((((/Sa>>))ni</((Sa>>))ni</((Sa)ni<.)-.))#((\Sa>(ni<<)Sa>(ni<<Sa>ni<<)))
+N4HH#((((/Sa>>))ni</((Sa>>))ni</((Sa)ni<.)-.))#((Sa>(ni<<)Sa>(ni<<Sa>ni<<)))
+N4HH_R#((((/Sa>>))ni</((Sa>>))ni</((Sa)ni<.)-.))#((\Sa>(ni<<)Sa>(ni<<Sa>ni<<)))
+N4HR#((((/Sa>>))ni</((Sa>>))ni</((Sa)ni<.)-.))#((Sa>(ni<<)Sa>(ni<<Sa>ni<<)))
+N4RZ#((((/Sa>>))ni</((Sa>>))ni</((Sa)ni<.)-.))#((Sa>(ni<<)Sa>(ni<<Sa>ni<<)))
+N4RL#((((/Sa>>))ni</((Sa>>))ni</((Sa)ni<.)-.))#((Sa>(ni<<)Sa>(ni<<Sa>ni<<)))
+N4RH#((((/Sa>>))ni</((Sa>>))ni</((Sa)ni<.)-.))#((Sa>(ni<<)Sa>(ni<<Sa>ni<<)))
+N4RR#((((/Sa>>))ni</((Sa>>))ni</((Sa)ni<.)-.))#((Sa>(ni<<)Sa>(ni<<Sa>ni<<)))
+R1ZZ
+R1ZL#ri\
+R1ZH
+R1ZR
+R1LZ
+R1LL#((sa ree sa))#/ri
+R1LH#/ri
+R1LR#/ri
+R1HZ#\ri
+R1HL#(sa ri)#\ri
+R1HH#\ri
+R1HR#(sa ri)#\ri
+R1RZ
+R1RL
+R1RH
+R1RR
+R2ZZ
+R2ZL
+R2ZH
+R2ZR
+R2LZ
+R2LL#(sa(ri sa))
+R2LH#(sa(ri sa))
+R2LR#((ri sa ri sa))
+R2HZ#((ga ri)ri)
+R2HL#((\sa ri) ri)#\ri
+R2HH#((\ri sa)ri)#\ri
+R2HR#((ri>>>)ri.)
+R2RZ
+R2RL#(ri(sa ri))
+R2RH
+R2RR
+R3ZZ
+R3ZL
+R3ZH
+R3ZR
+R3LZ
+R3LL
+R3LH#((ri ri>> ree))#((sa ri sa ri))
+R3LR
+R3HZ#((ga)\ri.)
+R3HL#((ga)\ri.)
+R3HH#((ri ri>> ree))
+R3HR#((ga)\ri.)
+R3RZ
+R3RL
+R3RH
+R3RR
+R4ZZ
+R4ZL
+R4ZH
+R4ZR
+R4LZ
+R4LL
+R4LH#((ri ri>> ree))
+R4LR
+R4HZ
+R4HL#((\ri>>> ri ri>> ri))#((ri ri>> ree))
+R4HH#((ri ri>> ree))#((\ri>>> ri ri>> ri))
+R4HR
+R4RZ
+R4RL
+R4RH
+R4RR
+51

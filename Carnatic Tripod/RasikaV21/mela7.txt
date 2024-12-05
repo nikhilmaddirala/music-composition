@@ -1,0 +1,338 @@
+
+                                 @Melam Scheme - Introduction$                                 
+
+ The  present  accepted  scheme of classification of Raagams in Carnatic Music 
+ is based on the 'Melam' scheme  -  or a scheme of combination of notes . The 
+ word 'mela' literally means 'union' as the scales are arrived at by selection
+ and union of different sets of  7 notes from the possible 12 notes in an octave. 
+ The 12 notes are the seven white notes and 5 black notes in an octave on any 
+ <keyboard> instrument or the 12 frets between octaves in a fretted stringed
+ instrument like the <Veena>.  Earlier theorists tried to classify raagams based 
+ on factors like starting note(^Graha%), dominant(^Amsa%), ending note(^Nyaasa%) and 
+ the occurrence of 'intermediate' notes(Anthara or Saadhaarana) in the 'pure' 
+ scale. 
+
+ The idea of classifying raagams based on selection of 7 notes from the 
+ possible array of notes perhaps started with Vidhyaaranya in the 14th century 
+ and  culminated in the present accepted theory by Venkatamakhi (17th century), 
+ in his work 'Chathurdhandiprakaasika'.  Under this scheme 72 scales or {'Melams'} 
+ are postulated.   Some ancient Tamil works used the 12 constellations to   
+ represent note positions and chose 7 positions from them and it would appear 
+ that the approach to classification based on 12 notes has its origin in South 
+ India.~
+@Building Melams - a simple scheme$
+
+ The Carnatic Music system uses the symbols ^sa%,^ri%,^ga%,^ma%,^pa%,^da%,^ni% for the seven 
+ notes corresponding to western C,D,E,F,G,A,B,C.  The symbols ri,ga,ma,da and 
+ ni actually denote 2 note positions each, leading to 12 note positions.   Melams 
+ are built by choosing 7 of the possible 12 notes with some restrictions and all 
+ raagams are grouped under the melams.  The South Indian system stipulates  
+ that the fifth or ^pa% (G) is to be always  included in every Melam apart from ^sa%(C) 
+ the tonic and these 2 notes have to be present in every Melam.  (^Janya% raagams 
+ or raagams 'born'  from the various melams can however omit any note  
+ including the fifth note ^pa% but not the tonic ^sa%). 
+
+ A simple informal system allows two variations for each of the remaining 5
+ notes i.e., ri, ga, ma da and ni -  either the black or white note in each of the
+ pairs of ri, ga, ma, da, ni.  (The two variations are informally referred to as
+ 'big' and 'small' when teaching beginners.) This would lead to 32 melams in
+ all  because 2 multiplied by itself 5 times would give 32.  (In fact the North
+ Indian classical music system uses only  2 variations each for the 5 notes.)  But 
+ this would not be adequate to describe and classify some raagams prevalent
+ in the south, in which apparently both the variations of the same note occurred 
+ -raagams  such as Varaali and  Naata.  Venkatamakhi's theory accommodates 
+ them and proposes 72 combinations. ~
+ @Venkatamakhi's Scheme$
+ Two variations are permitted for ^ma% corresponding to F and  F#. These are not 
+ allowed to occur simultaneously in any melam.  As ^sa% and ^pa% have to be used
+ in all melams, this leaves 4 notes ^ri%, ^ga%, ^da% and ^ni% for further selections.  In the 
+ 12 notes scheme this actually means that 8 positions are available,  4 between 
+ ^sa% and ^ma%  (2 ^ri%'s and 2 ^ga%'s or D flat, D, E flat and E) and 4  between ^pa% and 
+ upper ^sa% (2 ^da%'s  and 2 ^ni%'s or A flat, A,  B flat and B).  
+
+             
+
+
+
+ 
+
+ Venkatamakhi chose 2 notes each from each of the groups of 4 notes.  Of  the 2 
+ notes chosen between sa and ma (i.e.  chosen  from Db,D,Eb,E) the lower is 
+ called ri and the higher ga.  This implies that the second note position from
+ sa (D) is called ga when it occurs with lower ri(D flat-the first note after sa) and 
+ the third note position from sa (E flat) is called ri when it occurs with ga(E - 4th
+ note from sa).   Similarly 2 notes are chosen from the possible 4 notes between 
+ pa and Sa of upper octave (G and C) and the lower called da and higher ni. 
+ 6 selections are possible in each of the two groups (mathematically 4 C 2 i.e  
+ (4 x 3)/2 = 6).~
+@  Venkatamakhi's scheme- Selection of ri, ga da and ni$
+
+The 6 possible selections of ^ri% and ^ga% are illustrated below:
+                       (^sa%)     x        x        x        x     (^ma%)
+   Choice No
+       < 1 >                       ri       ga                                      (click on the number  
+       < 2 >                       ri                 ga                             to hear sa-ri-ga-ma)
+       < 3 >                       ri                           ga
+       < 4 >                                 ri       ga
+       < 5 >                                 ri                 ga
+       < 6 >                                           ri       ga 
+
+The 6 selections for ^da% and ^ni% are:
+                      (^pa%)      x        x         x         x     (^Sa%)
+   Choice No
+       < 1 >                       da      ni                                      (click on the number
+       < 2 >                       da                 ni                            to hear pa-da-ni-Sa)
+       < 3 >                       da                           ni
+       < 4 >                                 da       ni
+       < 5 >                                 da                 ni   
+       < 6 >                                            da      ni 
+~
+@The magic Number 72$
+
+ For each selection of pair of ^ri% and ^ga% there are 6 possible selections of ^da% and 
+ ^ni% and thus there are 6 x 6 =  36  possible selections of ^ri%,^ga%,^da% and ni.  Since 
+ ^ma% is allowed 2 variations, for each of these 36 combinations we get 2 varia-
+ tions leading  to  36 x 2 = 72 melams.   We get 40 more than what was possible
+ if ^ri%,^ga%,^da% and ^ni% could each have only 2 variations, because in each of the 6 
+ selections
+                           (^sa%)    ri1     ri2     ga1      ga2   (^ma%)
+         *1                        {ri       ga}
+          2                          ri                 ga
+          3                          ri                              ga
+          4                                    ri       ga
+          5                                    ri                    ga
+         *6                                             {ri          ga }  
+ the first and the sixth would not have been possible in the simple scheme and
+ so we could get only 4 X 4 or 16 selections of  ri,ga,da and ni and with 2 ma's 
+ we had only 32.    Melams which have  these additional selections are called 
+ '^Vivaadhi%' melams borrowing the historical term 'Vivaadhi' which means 
+ dissonant.  Examples of these Vivaadhi melams are Chalanaata, Jhaalavaraali,
+ Gaanamoorthi, Vaagadheeswari  .~
+ @Names for the notes$
+ Notes at some positions have double names .  Counting ^sa% as 1, notes at
+ positions 3 & 4 can be either ^ri% or ^ga% and notes at 9 & 10 can be either ^da% or ni. 
+ The lower of the two notes chosen after ^sa% is named ^ri% and the higher ga.  
+ Similarly the lower of the two notes after ^pa% is named ^da% and the higher ni.   
+ The notes have also special names derived from the historical Sruthi system   
+ which conceived of 22 sruthis in an octave. The graphic below shows the 
+ names with reference to the six choices between ^sa% and ^ma% and between ^pa% 
+ and Sa.
+
+
+
+
+
+
+
+
+
+
+
+
+ You can also see the names on the picture of a <Veena> or <Keyboard>.~
+
+
+@Note names - Historical $ 
+
+ Although the basic scheme of melams that we use today was conceived 
+ by Venkatamakhi, the names we use for the notes (as given in the previous
+ page) are different in some cases.  Venkatamakhi put ^Suddha Gaandhaaram%
+ and ^Suddha Nishaadham%, 5 ^sruthi%s from the sa and pa to be in line
+ with the sruthi values of these notes as mentioned in ancient texts. When the
+ same positions are used for ^Rishabham%  (ri2) and ^Dhaivatham% (da2),
+ Venkatamakhi called them 'Panchasruthi Rishabham' and 'Panchasruthi
+ Dhaivatham'.  The present use of 'Chathusruthi' for these notes is ascribed
+ to Govindaachaarya (Sangraha Choodaamani - 18th century) who made many 
+ changes in the sruthi positions of notes, dropping the traditional values.
+
+ Venkatamakhi used the name 'Varaali Madhyama' for ma2, perhaps to avoid
+ confusion with a variety of other names used in his time. The term 
+ '^Prathi Madhyamam%' that we use today is also ascribed Govinda.  (See the
+ topic "I. Names for Melams" which explains how most of the melam names
+ used by Venkatamakhi are different from those used today).~
+
+ @Finding the notes of a Melam$
+
+ The melams are grouped into 12 tables of six each and numbered to enable  
+ the notes occurring in a Melam to be worked out from the number.  The 12  
+ tables are broadly divided into two groups. The first 6 tables  with 36 melams
+ use ^Suddha Madhyamam% (ma1 or F) and the next 6 tables with 36 melams use 
+ ^Prathi Madhyamam% (ma2 or F#). Except for this difference table no.1 is identical 
+ with table no.7 and so on. Melams differing by 36 in the serial number have all 
+ notes identical except for ma.   In each table of six melams the selection  of ^ri% 
+ and ^ga% are the same throughout the table.  Thus the first six tables represent   
+ the six possible combinations of ^ri% and ^ga% and  Suddha Madhyamam and   
+ the next six tables with Prathi Madhyamam.
+
+ Inside each table the selection of ^da% and ^ni% varies. There are  thus six melams
+ in each table to provide for the possible six combinations of ^da% and ni.  The 
+ tables are known as 'Chakrams' and have names associated with the number 
+ (such as Vedha chakram for the 4th table - there are 4 Vedhaas) To get the table 
+ number and position of a Melam number N,  divide N-1  by 6.  Add 1 to the  
+ quotient to get the table number: add 1 to the remainder to get the position of 
+ the Melam in the table.  You can see a  <pictorial> demo. of the selection of 
+ notes for a Melam and also hear the notes.~
+ @Names for the Melams$
+
+ Venkatamakhi did not distinguish between the ^Raagam% and the Melam. He 
+ chose the most prominent Raagam with the notes and named the Melam after it.
+ His mela raagams could have ^Vakra% ascent or descent and could omit some 
+ notes in either ascent or descent. He named Melam 22 (now Kharaharapriya)
+ as Sri Raaga Melam and Melam 8 (now Hanumatthodi) as Bhoopaala melam.  In
+ fact he describes only 19 melams (one being his own invention) and says that
+ his scheme would enable future compositions in new melams ( which did 
+ materialize -  leading to raagams like Shanmukhapriya). Subsequently names
+ were given for all the 72 melams. In Venkatamakhi school which is followed 
+ by Muthuswaamy Dheekshithar and Subbaraama Dheekshithar, these were
+ called Kanakaambari etc. and continued to have ^Vakra% or ^Varjya% (omissions)
+ notes in the definition itself.  A further refinement came when the melams
+ were considered as scales as distinct from the raagams.  The ^Raagam% having
+ all the 7 notes and no ^Vakra% ascent or descent was called the ^Melakartha%
+ raagam.  In this scheme new names were given starting with Kanakaangi.  In
+ either scheme the names were so assigned that from the first two letters of the
+ name written in Sanskrit the number could be worked out.  For some melams
+ like Kalyaani, Sankaraabharanam, Thodi this made it necessary to add
+ prefixes.  Kalyaani became Mechakalyaani, Sankaraabharanam got Dheera
+ as prefix.  Thodi became Hanumatthodi. ~
+ @ Melam Names, 72 Melams - Audio-visual,  Melam Chart$
+
+ The mnemonic system for working out the number of a Melam from its name is  
+ called the 'Katapayaadhi Sankhya'. The first 9 consonants of Sanskrit alphabet   
+ ka, kha, ga, gha, nga, cha, chha, ja, jhha, denote digits 1 to 9 and jnya denotes 
+ 0.  Similarly numbers are associated with the 10 consonants starting from 'ta', 5 
+ consonants from 'pa' and the 8 consonants from 'ya'.  The number of the Melam 
+ is obtained by taking the digits corresponding to the first two letters and then 
+ reversing the number. (Ex.) Keeravani. - ka is 1 and ra is 2 (in ya ra la va..). So 
+ it is the 21st melam.    
+
+ You can get a list of the 72 melams in <alphabetical> order or in <numerical> 
+ order and also get the same Audio-visual as seen earlier but with the option of  
+ hearing the notes with or without gamakam.  A word of caution - the gamakams 
+ are relevant only to the ^Raagam% and not the Melam and even in a Raagam on 
+ the same note different gamakams may be used according to the situation.   
+ What is illustrated in the audio-visual is the more common ^gamakam% used for 
+ the note in the principal Raagam of the melam.
+
+ You can also see a <chart> of all the 72 melams showing the notes used (the
+ symbols used in the chart are the same as in this package i.e. ga0,ga1,ga2 and
+ ni0,ni1,ni2 for ^ga% and ^ni%). <Cllick> to see a list of Mela names of 'Kankambari'
+ system ~
+ @Melam Quiz$
+
+ Click on the 'Start' button to hear the ^Aarohanam% - ^Avarohanam% of a randomly 
+ chosen melam. Try to find the notes used and the Melam number. You can  
+ replay the notes by clicking on the 'Repeat' button. You can enter your guess 
+ of the Melam number in the box. To compare the audio of your guess and the 
+ correct answer you can click 'Play Guess' and 'Repeat' and change the guess 
+ if need be. Click 'Answer' and see Melam number and notes of your guess and
+ the correct answer.  If you have no guess click on the Answer button to get the 
+ answer. You can also look at the Melam Chart using the Melam Chart button. ~
+ @Sruthi Bhedham or Graha Bhedham$
+
+ The concept of Tonic is essential for the development of idea of musical scales  
+ and raagams.  In Carnatic Music the tonic is always ^sa% and other notes related  
+ to it.   Since the pitch of the tonic can be chosen by the musician according to    
+ his convenience, the same set of notes can lead to a different scale if the tonic  
+ is changed to one of the notes in the scale.  The understanding of this process  
+ becomes easier if we presume that the musical scale is equally tempered    
+ i.e., the pitch separation between any 2 consecutive notes in the 12 notes in   
+ an octave is the same.   To get a 7 note scale or Melam we choose 7 of the 12   
+ notes with certain restrictions.  Thus Dheerasankaraabharanam (29th Melam)    
+ uses the 2nd, 4th,5th  7th, 9th and 11th notes and can be represented as  
+            sa * ri * ga ma * pa * da * ni (Sa * Ri * Ga Ma ....)  
+ the * representing note not used.   Suppose we now change the tonic to the  
+ pitch of ^ri% but play the same notes from ri  to  Ri on an instrument like ^Veena%
+ or keyboard  we will hear the notes  x * x x * x * x * x x * x  or the 2nd, 3rd, 5th,
+ 7th,9th and the 10th notes starting from the old ri.  As ri is now the tonic we call 
+ it sa and we will get the notes  sa * ri ga * ma * pa * da ni * Sa
+ or sa ri2 ga1 ma1 pa da2 ni1 sa which is the Kharaharapriya (22nd) melam.~
+ @Sruthi Bhedham (2)$
+
+ Essentially the Melam is obtained by choosing 7 of the 12 notes or by leaving 
+ gaps in the 12 notes.  Since only 5 notes are dropped there are always pairs 
+ without gaps.  By shifting the tonic we change the position of the gaps and thus
+ get another melam.  Sometimes the Melam so obtained may not be permissible. 
+ For instance if we make ^ni% of Sankaraabharanam as the new tonic we get a 
+ Melam without ^pa% but with both the madhyamams.
+
+
+
+
+
+ The term ^Graha% is used to indicate the starting note, in this case ^sa% which is the
+ tonic.  As we change the starting note there is Graha Bhedham.  As we change
+ the tonic it is also ^Sruthi% Bhedham as the tonic is provided by the ^Thamboora%
+ sruthi.   Listen to the notes of <Dheerasankaraabharana> Melam with ^sa% at 1 
+ ^Kattai% or C of the keyboard, with the background Sruthi of 1 kattai.  Listen to the 
+ same notes  starting with <ri2 (D)> and ending with ri2 with Sruthi of 2 Kattai 
+ giving Kharaharapriya Melam and starting with <ga2 (E)> and ending with ga2  
+ with the Sruthi of 3 Kattai giving Hanumatthodi Melam.~
+ @Sruthi Bhedham (3)$
+
+ ^Sruthi% Bhedham  can be applied to ^Janya% raagams also.  For instance,
+ <Mohanam> will give <Hindholam> if we make ga2 of Mohanam the tonic.
+
+
+
+ Obviously if note ^da% of Hindholam is made the tonic we get Mohanam.  From
+ Mohanam we can get the 4 raagams Madhyamaavathi, Hindholam, Suddha-
+ Saaveri and Suddhadhanyaasi by starting with ^ri%,^ga%,^pa% and ^da% respectively.
+ In practice however, we rarely hear Hindholam when Mohanam is sung even
+ without a Thamboora.  This is mainly due to gamakams.  Note ^pa% of Mohanam
+ is to be held straight while corresponding note ^ga% in Hindholam is held with
+ ^Gamakam% reaching to ma.  ^Graha% bhedham of Sankaraabharanam with ^ri% as
+ tonic gives Kharaharapriya but ^ri% of Sankaraabharanam is rarely held without
+ Gamakam while corresponding note ^sa% in Kharaharapriya is the tonic and is
+ to be held straight.   The practical use of Graha Bhedham is historical and
+ related to days when harps with separate strings were used and it was easier
+ to change the mode by changing the tonic.  It has very little practical use in
+ present day Carnatic Music, though occasionally a musician tries with much
+ effort to produce the shade of another ^Raagam% by changing the gamakams and 
+ stressing the note for the new tonic.   But the difficulty only goes to stress the 
+ importance of gamakams in Carnatic Music for realization of Raaga Bhaavam.~
+ @Sruthi Bhedham - Audio Visual Demo.$
+
+ For an audio-visual <demonstration> of the ^Sruthi% bhedham on different melams
+ or raagam scales click the link above. In the new window the Melams menu lists
+ the 72 melams in alphabetical order.  Select a Melam for a visual representation
+ of the notes. Click on any note to see the new scale produced by using that note
+ as tonic. The ^Janya%Raagams (1) menu lists {some} Janya raagams having the
+ same notes in ^Aarohanam% and ^Avarohanam%.   JanyaRaagams (2) menu lists  
+ {some} Janya raagams with different notes in Aarohanam and Avarohanam. Both
+ the lists have only raagams without ^vakra% phrases and which are not  
+ ^bhaashaanga raagam%s (except for Kaambodhi and Bilahari where the  
+ anyaswarams have been omitted). The Janya Raagam lists are very limited.
+
+ When the new note to be made ^sa% is clicked you will see the arrangement of
+ notes in the new scale below the original scale. A message box appears giving 
+ the name of the new Melam (if permissible) or giving reasons why the Melam
+ is not permissible.  In the case of ^Janya% raagams (very limited lists) the name 
+ of the new ^Raagam%  is given only if it is in the list.   For instance by making  
+ ^ri% of  Hamsadhwani as the tonic we get a Raagam with ^sa% ri2 ma1 da2 ni1.  
+ There is no common Raagam with this Aarohanam and Avarohanam. As no such
+ ragam is in the list you get the appropriate message. To listen to the original 
+ scale and the new scale click the buttons at the bottom of the screen.  For the
+ new scale, the background sruthi will change to align to the new sa chosen.~
+
+ @Keyboard Transpose Chart for Different Melams $
+
+ If keyboard is used for playing music, for the same raga, the choice of black
+ and white notes will vary according to the Aadhara ^Sruthi% chosen.  The
+ keyboard charts provided in the Audio-visuals earlier take C as ^sa% and can
+ be used for Aadhara Sruthi of 1 Kattai. For other Aadhara Sruthis you can
+ use the keyboard chart generator in this page.  <Click here> for the interactive
+ screen where you can select the required Melam by clicking the 'Select   
+ Melam' command button.  You  can then click on the required white or black
+ key corresponding to the Aadhara Sruthi required, which is mentioned below
+ the white keys and above the black keys. (Initially the note positions for 
+ Dheerasankaraabharanam - Melam 29 at 1 ^Kattai% Sruthiare shown).  The range
+ 1 Kattai to 8 Kattai is provided.  8 Kattai is same as 1 kattai. For other
+ ranges add or subtract 7 from the number to bring it within the range of 1 to 8.
+ The term 'half Kattai' is loosely used - generally to mean the black note below
+ the  white note  below ^sa% (i.e nI1). For this note use 6.5 kattai. For the note
+ just below sa (often referred to as 'mukkaal' or 3/4 Kattai) use 7 kattai.
+
+ By clicking the Play button you can also hear the notes.~
+
+
+ 

@@ -1,0 +1,115 @@
+999999 0 0221022 036 08 04 04 ""   [This files illustrates the various symbols used in Gaayaka with sound. 
+THIS FILE IS NOT MEANT TO BE PLAYED AS A WHOLE.
+Select the required part and play. Keep the Melam at 29 and tempo at 36]
+$-
+[Be sure to set Thaalam to No Thaalam]
+
+[The octaves or Sthaayis are represented by the changing the case of the notes. The following phrase covers the range from Mandharasthaayi Madhyamam to Thaarasthayi Panchamam - at the selected sruthi and tempo. Madhyasthaayi notes use both letters in upper case, Mandhrasthayi uses first letter in lower case and second letter in upper case and Thaarasthayi uses upper case for the first letter.]
+
+ mA- pA- dA- nI- sa- ri- ga- ma- pa- da- ni- Sa- Ri- Ga- Ma- Pa-
+
+['*' - Change note type - mainly for Bhaashanga raagams (for the anya swaram)- In the illustration below the second ga is ga1 ]
+
+pa\ma\ga<</ ma-\ri//ga*>\ri-saa-| [A shade of Dwijaavanthi! with ga1]
+
+['.,;' For prolonging a note use , for one note duration. Use ; for 2 notes duration and use . (fullstop) for half note duration. For tow note duration you can also use extended vowels like saa or ree or daa]
+
+sa - ri - ga - ma -[each note duration 1 unit]-|
+sa.- ri.- ga.- ma.-[each note duration 1.5 units]-|
+sa,- ri,- ga,- ma,-[each note duration 2 units]-|
+sa;- ri; -ga;- ma;-[each note duration 3 units]-|
+
+saa - ree - gaa - maa - [each note duration 2 units]-|
+
+
+['()'Kaalam change - use brackets ( ) to double the speed of the selected group of notes. Use ((  )) for 4 times and ((  )) for 8 times the normal speed]
+
+saa - ree - gaa - maa -( paa - daa- nee - Saa-)-|
+((Saa - nee- daa - paa -  maa- gaa- ree- saa-))-|
+;;;-|
+saa - ree -(gaa - maa -(paa - daa - nee- Saa))
+
+[Grouping notes. Notes without the separator symbol '-' in between are played as a continuous phrase. Only 16 notes can thus be linked. The difference between linked and unlinked is more pronounced with Veena. Play the following choosing Veena as instrument from the Instru menu above]
+
+sa ri ga ma - pa da ni Sa - [ 2 phrases of 4 notes each]-|
+sa - ri - ga - ma - pa da ni Sa [First 4 notes are separate-last 4 a phrase]-|
+sa - ri - ga - ma - pa - da - ni - Sa [each note is separate]-|
+
+
+[Silences are introduced using '.' or ',' or ';' for half unit, one unit and 2 units respectively after a '-' symbol. If the '-' symbol is not there between a note symbol and '.' or ',' or ';' then the previous note is prolonged]
+[The semicolons are put at the end of each line below to give sufficient gap between the lines to appreciate the difference]
+
+sa-,-ri -;[1 unit of sa followed by one unit of silence and 1 unit ri]-|
+sa-;-ri -;[1 unit of sa followed by 2 units of silence and 1 unit ri]-|
+sa , ri -;[2 units of sa followed by ri without gap]-|
+sa ; ri -;[3 units of sa followed by ri without gap]-|
+
+
+['/','\' Changing transit time. The symbols \ or / between 2 notes increase the transit time from one to the other by 1/20 of second. The symbol can be repeated for further increase of transit time. The total duration is unaffected, the increased transit time is taken off the seond note. You can add the symbols only upto the point where the duration of the second note becomes 0 after which they have no effect.]
+
+ga saa -;
+ga \ saa -;
+ga\\\saa - ;
+ga \\\\\ saa - ;
+ga \\\\\\\ saa - 
+
+
+['<' '>'  Minute variation in pitch. Symbol '<' increases the pitch by 81/80 and symbol '>' decreases it by 80/81. May be repeated. Useful for short kampitha gamakam and for janta for the short lower note. Also required on ma2 and ni2 for many raagams and other notes according ro raaga bhaavam]
+
+nee-,-nee<-,-nee<<-,nee<<<- ;[progressive increase of nee]-|
+
+nee-Saa-;- nee<<-Saa - ;[phrase with normal and slightly higher nee]-|
+
+gaa/((ga<<))\\gaa/((ga<<))\\ga.  [Gamakam within ga]-|
+[Janta - akaara]
+sa(((sa>>>)))sa ri(((ri>>>)))ri  ga(((ga>>>)))ga  ma(((ma>>>)))ma-|
+
+
+['-|' Forcing a block for display. Without the symbol the blocks for display may not coincide with any significant point in music. Keep the tempo at 36 for the following illustration, and check the 'Show Playing Block' check box  ]
+
+[Without forcing a block the block breaks in the middle of 3nd line]
+Ri Ma-Ri-Ri Sa-da-Sa-
+Saa-Sa-da pa-ma-pa-
+da-da-Sa-daa-da-pa-
+
+[With the forced block symbol the block breaks at the end of each line]-|
+Ri Ma-Ri-Ri Sa-da-Sa-|
+Saa-Sa-da pa-ma-pa-|
+da-da-Sa-daa-da-pa-|
+
+
+['+-' Thaalam sound. This introduces a Thaalam beat sound if the 'Thaalam On' check box is checked. It automatically forces a block at that point. The symbol '-|' should be removed or else there will be a minute gap in music. ]
+
++-Ri Ma-Ri-+-Ri Sa-+-da-Sa-
++-Saa-Sa-+-da pa-+-ma-pa-
++-da-da-Sa-+-daa-+-da-pa-|
+ 
+['{M }' Change Melam in the middle of a file (For Raagamalika) by putting the melam number after M. The last played melam will be the current melam.So{M 29} is put again to get back melam 29. Select all the 4 lines below for play. The note selection option buttons and melam selection command button will disappear when this command is used when a block is played for the first time]
+
+{M 15} [Maayamaalavagowla]
+  sa- ri- ga- ma- pa- da- ni- Sa- ;-|
+{M 29} [Sankaraabharanam]
+ sa- ri- ga- ma- pa- da- ni- Sa- ;-|
+
+['{T }' Change Tempo in the middle of a file (for Nadai change) by putting the revised tempo after T. The last played tempo will be current tempo. So {t 36} is put again to get the original tempo of 36. Select all the 4 lines below for play.The Set Tempo box will disappear when this is played first time]
+
+{T 24} 
+ sa- ri- ga- ma- pa- da- ni- Sa- ;-|
+{T 36} 
+ sa- ri- ga- ma- pa- da- ni- Sa- ;-|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

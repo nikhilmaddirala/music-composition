@@ -1,3 +1,6 @@
 libasound2
 xvfb
 musescore
+fluidsynth
+python3-pyaudio
+portaudio19-dev

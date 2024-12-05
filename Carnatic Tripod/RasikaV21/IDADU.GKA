@@ -1,0 +1,100 @@
+999999 0 0221021 021 04 04 04 "12221212"       [An example of using different tempos in the same file for change of Nadai.
+Idadupadham - Raagam Kamaas, Thaalam Aadhi, Composer Paapanaasam Sivan.
+This krithi has both chathusra and thisra nadais in the charanam.
+In the charanam first 2 aavarthams have thisra nadai in the first half and chathusra nadai in the second half. The last 2 aavarthams of the charanam are fully in thisra nadai, reverting to chathusra nadai when pallavi is repeated. 
+The initial tempo is set at 18 for pallavi (chathusra nadai). Each aavartham of 8 aksharams has 32 notes in chathusra nadai. For thisra nadai which has 3 notes per aksharam each aavartham has only 24 notes. So the note durations have to be increased proportionately.The tempo is set at 18 X 32 /24 = 24 for thisra nadai. Each line below is half aavartham.  Try to keep beat throughout the song. Here anupallavi is omitted - after pallavi charanam is given]
+
+{t 21}
+; ma.- /((ni.da. ni)).-da.- ((ni da) ni).-pa. (da ,)-.-\ma ga,-maa-
+[ I      da            dhu    pa           dam          thoo   kki ]
+ ma\(ga/ma) ni.-. daa,-,   ;;   paa- (da)//ni-.
+[aa               dum           Na    ta  ]
+ Saa,-,-(Sa da ni,)-(da ni>>da ni)-paa.--pa.-paa-daa- 
+[raa     ja          na            di    pa ni  va ]
+(ma\gaa/ma\gaa/ma\ga/ma\ga)-,,,-
+[ye                       ] 
+
+; /(ni.\da.Sa)(da ni)da-(((da>>))da(.)pa((pa>>)) pa(.)) 
+[  nen                    je   ] 
+[2]
+ ma ga-ma.-/((ni>>.da.ni>>)).-da.-((ni>>da)ni>>).-pa.(da ni da)-\ma 
+[e     Id    da               dhu    pa            dham           thoo]
+ga,-maa-
+[   kki]
+ ma pa (pa da-4 ni(Sa (ni* Sa)))-5\(da ni da//pa)\daa-; ; da.(ni)-Sa.-.
+[aa                                dum                    Na ta ]
+ (Sa\\da ni da)//(Ri)SA.-5\da(ni>>da)-(da.(ni>)da.(ni>))-paa.-pa.-paa-
+[raa                       ja          na                di   pa  ni  ]
+(ni> da ni>(dani))-
+[va  ]
+(ma\gaa/ma\gaa/ma\ga/ma\ga)- ;pa\ ma/ pa; ;-  ;  -
+[ye                            e   ]-|
+[Anupallavi]
+; ma.- /((ni.da. ni)).-da.- da(Sa)-(Sa)\(ni*Sa ni* Sa)//Saa,.-Saa-
+[pa      da            va   ra      vaa                   da]
+;da.-(da)ni-Sa.-Sa.-Saa,\\da//Sa\\da- daa/
+[pu   li    ha  da  laa               da]
+(ni)pa-.  ma.- /((ni.da. ni)).-da.- da//(Sa)-Saa(ni*)Sa(ni*)/Ri\Sa-Saa-
+[........ pa      da           va   ra      vaa                   da]
+;Sa.-/Ma.- (Ma)Ga-Ri(Sa) - Saa\\ni//Sa\\da- daa(da<< pa)-
+[;pu  li    ya    da       laa              da]
+ da.-.Ri - Sa -Ga -Ri- Sa- Sa -Ri -Sa (da.(ni)da.(ni)) pa- da ni- Sa-
+[bhak thar gal ja  ya  ja  ya  e   na  ve              pu  li pa than]
+Ri-Sa-(nida)-/Ga-RiSa-(dani)-da-paa,-, -(ma)/ni(da)-da- (nida)-
+ (da)\\ma.  ma.- /((ni.da. ni)).-da.- ((ni da) ni).-pa. (da ,)-.-\ma ga,-maa-
+[           I      da            dhu    pa           dam          thoo   kki ]
+ ma\(ga/ma) ni.-. daa,-,   ; ; da(nida)-Sa.-.
+[aa                                dum                    Na ta ]
+Sa\\((da.ni.da))//(Ri)SA.-5\da(ni>>da)-(da.(ni>)da.(ni>))-paa.-pa.-paa-(ni>da ni>(dani))-
+[raa                     ja           na                  di   pa  ni   va ]
+
+(ma\gaa<</ma\gaa<</ma\ga<</ma\ga<<)- ;pa\ ma/ pa; ;-  ;  -
+[ye                           e   ]-|
+[aa               dum           ]
+
+
+[Charanam]
+{t 28} [next half aavartham in thisra nadai - 4 X 3 = 12 notes]
+ pa-da-pa- ma (ga)-.-ma- daa-da- da..-da- 
+[thiru va  dich      chi lam bu  gal   ga ]-|
+{t 21} [next half aavartham in chathusra nadai- 4 X 4 = 16 notes]
+(da/ni>>)\da(ni>>)daa.-,  da pa - daa,.-. ((ni)da(ni>>)da.(ni>>))- daa-
+[leer                     ga      lee      re                      na ]-|
+{t 28} [next half aavartham in thisra nadai]
+ ma-((ni.da.ni))-da-pa-pa-da-ma-pa- ma-(ga, ma)-. pa -
+[thi ru          mu di i  la ma dhi o   li        pa]-|
+{t 21} [next half aavartham in chathusra nadai]
+ (pa/Sa)\ (da ni daa) da ((pa da),)-,- da(ni)-. - Saa,-, /Saa -Saa-
+[leer                                  pa         lee     re   na ] -|      
+
+{t 28} [rest of the composition in thisra nadai till pallavi repetition]
+(da ni)-/Sa-da-pa-(gaa- (ma ga) pa)-ga-ri-saa- ga-((ma.ga ma.))-
+[dhi     mi thaka  tha   ri         ki ta thom e    na ]-|
+ pa-(pa da)-\maa-(ma ga(ma ga ma-,))-ga- ma-da-pa- daa -
+[Thi ru      maal math               tha la ma dhi ra ]
+ da-(da ni)-Sa/Ga-\Ri-/Ma-(Ma Ga Ree)-Saa-da-(ni-,)-
+[Si  va     kaa    mi  ma  naa        lan thi ru ]
+[     Sa.-.ni Sa-da-ni-pa-da-(da ni da ni)-(Sa da)-ni-]
+ Sa.-.(ni da)((da/Sa) da)-da- (da ni)-da- pa-(da ni da ni)-ma-pa
+[chit ram                 ba   lam    tha nil pun          na gai]-|
+{t 21} [pallavi in chathusra nadai]
+da ma-ma.-/((ni>>.da.ni>>)).-da-.-((ni>>da)ni>>).-pa.(da ni da)-\ma ga,- maa-
+[yo   di    da               dhu   pa             dham           thook   ki ] 
+
+ ma pa (pa da-4 ni(Sa (ni* Sa)))-5\(da ni da//pa)\daa-; ;daa-Sa.-.
+[aa                        dum                           Na ta ]
+
+ Sa\\((da.ni.da))//(Ri)SA.-\da/ni>>-(da ni>da ni>)-paa.-.pa.-pa.-
+[raa                      ja       na            di    pa ni ]
+(ni da ni(dani))-
+[va    ]
+
+(ma\gaa/ma\gaa/ma\ga/ma\ga)- ;pa\ ma/ pa; ;-  ;  -
+[ye      ]
+
+
+
+
+
+
+

@@ -1,0 +1,91 @@
+                                                                    GAMAKAM - TIPS
+
+GAAYAKA is eminently suitable for playing Carnatic Music Notation.  Continuity between notes is an essential ingredient of Indian Music.   In GAAYAKA notes are automatically linked for smooth transit unless the separator symbol "-" is used. This and the use of the jaaru symbols "/" & "\" for making the transit longer, enable playing gamakams   Using these and using the frequency modifier symbols "<" & ">" and duration modifiers "(" and ")"  most gamakams can be obtained.  The examples given below presume an aksharam duration of 32/100 or 24/100 secs.  You can copy the notations, paste them on the edit window and play them - BE SURE TO SET THE MELAM NUMBER, given in brackets, correctly.   The examples are only indicative.  It is in the use of gamakams that considerable variations exist among musicians and among the different schools especially in the extent of oscillation of notes and their durations.
+
+The Raagam module of Rasika explains the gamakams used on different notes in each raagam. Some raagams like Hindholam,  Mohanam can be played even without gamakam and yet be recognisable, while raagams like Bhegada, Thodi, Bhairavi, Ataana etc. cannot be recognized through the bare notes.   Varnams and Krithis serve as the guidelines for use of gamakams to get the raaga bhaavam.
+
+If you are writing notation from a book, when you introduce gamakam you will have to add notes in higher kaalams and it will require some practice before getting the correct total note duration. See latter in this topic for an explanation of how this is to be achieved.
+
+The Sub Menu "Quick Codes" under Gamakam menu gives you ready made notation for gamakams for each of the two variants of the 5 notes ri,ga,ma,da and ni with different note durations.  THE READYMADE NOTATIONS CAN ALSO BE DIRECTLY ACCESSED FROM THE SCREEN  by clicking on the buttons  "Ri1, Ri2 ... Ni1,Ni2" on the right side of the edit window.  The 'General' button enables you to access general instructions on using the notations.
+
+You can load the file GmkTips.gka in Gaayaka to try all these phrases instead of copying and pasting them. That file has most of the comments given below enclosed in [].
+
+KAMPITHAM - In most cases of kampitham (like ri of Maayaamaalavagowla - oscillating from sa to ri  or ga  of Kalyaani - oscillating in the same note ), where the duration of the note is long, the voice stays for most of the time at the lower end of the oscillation touching the higher end quickly and returning.  Often the down transit time is more than the up transit time.  You can thus write Maayaamaalavagowla (melam 15)  ri  as   "sa.((ri))\ sa.((ri))\ sa",   sa is played for 1.5 unit of time while ri is played for1/4th of a unit and by adding "\" symbol between ri and sa the transit is prolonged at the expense of the duration of sa.  If you feel that the pitch of note ri is rather high (for a raagam like Saaveri) you can add the frequency modifier symbol '>' after ri to reduce the frequency by 80/81.  This phrase has a total duration of 4 units. To reduce it you can include the phrase in a pair of brackets and adding necessary half notes or full notes to make up for the duration.  Thus Suddha Rishabham with 3 notes duration can be -  " (saa (ri)\ sa.(ri)\sa.) ".
+
+Kalyaani (melam 65) ga can be written as " ga  ((ga<<))\ga , ((ga<<))\ ga ".  As the gamakam is within the same note going to a higher point the pitch of the second and the 4th ga is increased by 41/40 by using two '<'.   
+
+Gamakams like the one on ni1 of many raagams with da2, which oscillates from da2 up to a little below Sa in the first oscillation and lower in the next oscillation, can be written as " da((/Sa>>)) daa\((ni<<\)da) " (set the Melam to 22 or 28).  In these cases as the oscillations stay most of the time at the lower note, the duration of the higher notes have been reduced by using double brackets. 
+
+Some gamakams like ni of Surati (melam 28) anchor on the higher note  i.e. the oscillation starts from the higher note touches the lower note quickly and goes back to the higher note. Surati ni can be written as  " ( ni (da<<) ni> -,- ni (da<<) ni>) "  as the ni is usually doubled and  there is a small gap in between and the notes are of short duration. 
+
+The durations of the lower end and the upper end of a kampitha gamakam, as well as their actual position can change the raagam itself as can be in the use of  'ni' in Brindaavanasaaranga and Madhyamaavathi (both can be with melam 22) which have the same notes in the region 'pa ni Sa'.  Brindaavanasaaranga would be something like (with equal time for the upper and lower end of ni, and the ni starting from its own position)
+      "paa //(Sa.\\ni/Sa.\\ni) Sa Ree ; - Sa\\(ni)/(Sa)\\(ni)/Sa\\\paa-  " 
+
+while Madhyamaavathi would be (where ni actually starts from da and the upper end has less duration)
+      " pa/((Sa) da (Sa) da) Sa- 5Ree (((Ree<<)) Rii (Ree<<)Ri)  -  Saa \((da) ni) \paa -"
+
+(the digit 5 before Ree is to reduce the volume of the phrase. Copy and paste these on the edit window and play them to see the difference. Set melam to 22)
+
+When notes are of short duration the number of oscillations is reduced rather than speeding up the entire phrase.  In the case of very long notes there can be even 3 oscillations.  In general when singing a given phrase in a higher kaalam like 3, there is a tendency to keep the durations of the oscillations same or speed up only a little and adjust the timing by reducing the number of oscillations. Ex. ri and ga of Maayaamaalavagowla
+[kalam 2]
+saa; -(saa,/(ri>)\ saa, (ri>)\ sa)- ri/ (ma\) ga< (ma\) ga< - maa;-
+[kalam 3]
+saa- (sa ri>) sa-/(ma ga<) ma-maa
+
+NOKKU OR THIRUPAM:  In ascent the voice reaches a point higher than the note to be reached and then comes to the note often with a kampitham added. 
+
+Maayaamaalavagowla (melam 15) ga can be written as " ri/// (ma\) ga< , ((ma\)) ga< " . Sankaraabharanam (melam 29) ri can be written as  "(sa /(ga\)) ri , (ri<<) ri ".  In  both cases the note starts from a lower note, reaches a higher note, descends to the note required and there is a further kampitham.  When the duration of the note is short  then the kampitham after the Nokku will not be present. For instance 'pa da ni Saa' of Sankaraabharanam is to be written as  " pa (ni \da) ((Sa) \ni<< (Sa> ) Saa ; " (see below for explanation of Kaakali Nishaadham).
+
+In the descent a lower note may be accessed before coming to the note proper as the use of 'ma in  Sankarabharanam  " paa-(pa (ga)) ma(.)- gaa- ((ga) ri (ga)) ri- saa" (melam 29 - the phrase given is pa ma ga ri sa) .  Nokku may also be used in turning on a note in descent  as in Madhyamavathi or Bhariavi -  pa -((\ga*) pa (ga*))- pa - da*- (da*(Sa da*))- Sa (melam 20 - the phrase given is pa ma pa da* ni Sa). Here ma is really held by pulling on the ga2 fret on the Veena (though that note is not in the raagam) and so is written as ((\ga*) pa (ga*)).
+
+JANTA:  Janta is pairing of notes with a momentary touch of a lower note in between. As the duration of the lower note is very short it can even be a note not in the raagam but the next lower note in the 12 note scheme or it can be of a pitch slightly less than the main note.   Maayaamaalavagowla (melam 15)  janta varisai can be written as  " sa (((nI))) sa ri (((sa))) ri  ga (((ga>>>>))) ga  ma (((ga))) ma " etc. The >>>> symbol after the ga in brackets produces a lower pitch for the janta on ga. The janta on ga can also be written as "ga (((ga*))) ga", as is usually played on Veena. The " * " symbol makes the second ga Saadhaarana Gaandhaaram.  If the notes are linked as shown, the janta will be 'Akaara'.  If the separator symbol "-"  is inserted before the second note as in  "sa- (((nI))) sa there will be break (or strumming of Veena ) between the notes.  To make up for the additional duration of the lower note you have to reduce the duration of the second note thus - sa (((nI))sa.(.)) which will be 2 notes duration.  If this is not very clear you can also write the same as  sa (((nI saa ; ; ,)))  where inside the brackets you have 8 note durations - ni is 1, saa is 2 , two semicolons are 4 and comma is 1. The triple brackets divide this by 8 giving 1 note duration.
+
+JAARU:  The Jaaru symbols "/" & "\" prolong the transition by 1/20th of a second for each use. The normal transit is 1/20th of a second.  Thus pa Sa will transit in 1/20th of second while pa/Sa in  1/10th of a second and pa //Sa in 3/20th of a second.  The increase in transit is at the expense of the duration of the second note and the total transition time cannot be more than the duration time of the second note.  In such cases adding additional "/" or "\" has no effect.  Try this phrase from Neelaambari (melam 29)" Sa ((ni)) (Sa) (da) (Sa) ((ni))Sa \\\pa.-.-5(ma)\ga((ma))\ga(ma)- " to hear the slow jaaru from Sa to pa.
+ 
+PRATHI MADHYAMAM & KAAKALI NISHAADHAM:  Prathi Madhyamam is invariably held close to pa and oscillated from it. It is to be written as  "(pa (ma<<pa)) or ((pa.ma<<pa.)) or if short as "(pa ma<<)" in the ascent and "(ma<< pa)" in the descent.  Similarly kaakali nishaadham (except when prolonged) is to be written as "((Sa ni<<) Sa)" or as "(Sa ni<<)" in the ascent and "(ni<< Sa)" in the descent.  Kalyaani (melam 65)  "ga ma paa" may be written as  "ga (pa (ma<< pa))- paa"  and Sankaraabharanam (melam 29) "pa da ni Sa" as  "pa-/(ni \da)(Sa) ((\ni<<Sa)) - Sa" 
+
+ADJUSTING THE TOTAL DURATION:  When gamakam is to be added to the notation of a krithi set to a thaalam the total durations are to be kept unaltered even when the additional gamakam notes (anuswarams) are added.   You can first write the notes without gamakam then add brackets and add the additional notes. It may be necessary to add comma or semicolon within multiple brackets to adjust the duration.   The geetham sample files such as srigan_g.gka, kmlsu_g.gka, kmlja_g,gka and the varnam sample files  contain the plain notes as written and memorised along with the actual notation played.  You can study them to understand how gamakam is added without altering the duration. 
+
+AN EXAMPLE - ADDING GAMAKAM TO  RAW NOTATION
+
+See below how the first few notes of Kalyaani Geetham are developed to add gamakam and keep the duration unaltered. 
+
+First Aavartham plain notes are:
+
+Sa- Sa - Sa  -   ni   da-  ni  - Sa
+
+We have to add gamakam on ni which is held close to and oscillated from Sa.
+
+Note ni can become (ni Sa) which means a single half oscillation from ni to Sa. As one note has been added a pair of brackets is put to maintain the duration.  This may be adequate for fast tempo but for slower tempos we may need a full oscillation from ni to Sa and back. If we write  (ni Sa ni) we will get 1.5 note duration.  We can add a comma after the second ni to prolong it and the duration will become 2.  By adding another pair of brackets the duration is got back to 1 note - ((ni<< Sa ni<<,)).  The pitch modifiers are added to bring ni closer to Sa as it is usually sung.   If you feel that this notation gives too much time for the second ni (double the other notes) it can be changed to ((ni<< Sa. ni<<.)) by replacing the comma with a full stop (equal to half comma) and adding another fullstop after Sa.
+
+The note da slides from above and the jaaru symbol "\" is added before it
+
+The second ni is also to be given gamakam.  This is done more simply by replacing ni with (Sa ni<<) which is found adequate.  A jaaru symbol after the separation symbol '-'  before Sa introduces a hidden anuswaram (in this case da) and Sa slides up from it.  This aavartham with gamakam becomes
+  Sa- Sa - Sa  -  ((ni<< Sa ni<< ,)) \ da- /(Sa ni<<)- Sa-
+  
+The separation symbol "-" is omitted between ni and da because there is only one consonant in the lyric "jaa" for the two notes.
+
+In the second aavartham the plain notes are:
+
+  ni - da- pa -  da - pa-   ma  -pa-
+ 
+and with gamakam becomes 
+
+  (/Sa ni<<)-  da- pa - /da - pa- ((pa. ma<< pa.))-pa-
+  
+by adding gamakam to ni which becomes (Sa ni<<) and ma which becomes ((pa.ma<<pa.)).   Prathi Madhyamam (explained earlier) is close to pa and anchored on it.  It is played as pa ma pa and to balance the duration each pa is extended by half note duration by adding full stop and the whole phrase enclosed in double brackets to bring the duration to 1.
+
+The notes of the 3rd aavartham are:
+ga-  ma - pa- pa- da - da - ni
+
+Ma is given gamakam as before but putting the first full stop after ma instead of pa to give more stress to ma and becomes ((pa ma<<. pa.)). To give janta effect for the second pa of the pair of pa's, the "/" symbol is added before the second pa.  It could also be written as ( ((ma)) pa.(.) ).  You can check that the duration of this phrase is one note -  ma in double brackets is 1/4, pa is 1, full stop is 1/2, full stop in brackets is 1/4 making up to 2 and the outer brackets reduce this to 1.
+
+The 2 da notes have to be given nokku type of gamakam.  The first one can be a simple /(ni\ da).  The second da can also be written similarly but written as da is often sung as (da ni) leading to the next note Sa.   It can be written as ( (da) Sa. ni,).  In both cases the higher note is touched first.  
+
+The last ni is given 2 oscillations reaching Sa first and becomes ((Sa ni << Sa ni<<))
+The jaaru symbol "\" given before the first ga makes the note slide down from hidden pa.  The jaaru symbol before the phrase (ni da) which is actually the note da also gives the upward movement required for the nokku on da.  The 3rd aavartham with gamakam becomes:
+
+\ga-((pa ma<<.pa.))-pa-/pa-(/ni da)-((da(Sa) ni,.))-((Sa ni<<Sa  ni<<))-     OR
+\ga-((pa ma<<.pa.))-pa-( ((ma)) pa.(.) )-(/ni da)-((da(Sa) ni,.))-((Sa ni<<Sa  ni<<))-
+
+Controversy exists as to whether gamakam should be taught while teaching geethams but in practice for a raagam like Kalyaani vocalists are generally taught with some gamakam - for instance at least the gamakams on ma and ni while da may be held straight but with a jaaru from Sa in descent.  Whatever may be the style of the student GAAYAKA enables you to write down and play the notation according to that  style.

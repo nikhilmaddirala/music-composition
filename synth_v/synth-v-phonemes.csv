@@ -1,0 +1,73 @@
+phoneme,synthv-language,type,category,example
+a,English - ARPABET,Vowels and Semivowels,Vowel,あ a
+i,English - ARPABET,Vowels and Semivowels,Vowel,い i
+u,English - ARPABET,Vowels and Semivowels,Vowel,う u
+e,English - ARPABET,Vowels and Semivowels,Vowel,え e
+o,English - ARPABET,Vowels and Semivowels,Vowel,お o
+N,English - ARPABET,Vowels and Semivowels,Vowel,ん n
+w,English - ARPABET,Vowels and Semivowels,Semivowel,わ wa
+v,English - ARPABET,Vowels and Semivowels,Semivowel,ヴァ va
+y,English - ARPABET,Vowels and Semivowels,Semivowel,や ya
+t,English - ARPABET,Consonants,Stop,た ta
+d,English - ARPABET,Consonants,Stop,だ da
+s,English - ARPABET,Consonants,Fricative,さ sa
+sh,English - ARPABET,Consonants,Fricative,しゃ sha
+j,English - ARPABET,Consonants,Affricate,じゃ ja
+z,English - ARPABET,Consonants,Affricate,ざ za
+ts,English - ARPABET,Consonants,Affricate,つ tsu
+k,English - ARPABET,Consonants,Stop,か ka
+g,English - ARPABET,Consonants,Stop,が ga
+h,English - ARPABET,Consonants,Aspirate,ハ ha
+b,English - ARPABET,Consonants,Stop,ば ba
+p,English - ARPABET,Consonants,Stop,ぱ pa
+f,English - ARPABET,Consonants,Fricative,ふぁ fa
+ch,English - ARPABET,Consonants,Affricate,ちゃ cha
+ry,English - ARPABET,Consonants,Liquid,りゃ rya
+ky,English - ARPABET,Consonants,Stop,きゃ kya
+py,English - ARPABET,Consonants,Stop,ぴゃ pya
+dy,English - ARPABET,Consonants,Stop,でゃ dya
+ty,English - ARPABET,Consonants,Stop,てゃ tya
+ny,English - ARPABET,Consonants,Nasal,にゃ nya
+hy,English - ARPABET,Consonants,Aspirate,ひゃ hya
+my,English - ARPABET,Consonants,Nasal,みゃ mya
+gy,English - ARPABET,Consonants,Stop,ぎゃ gya
+by,English - ARPABET,Consonants,Stop,びゃ bya
+n,English - ARPABET,Consonants,Nasal,な na
+m,English - ARPABET,Consonants,Nasal,ま ma
+r,English - ARPABET,Consonants,Liquid,ら ra/la
+a,Japanese - ROMAJI,Vowels and Semivowels,Vowel,あ a
+i,Japanese - ROMAJI,Vowels and Semivowels,Vowel,い i
+u,Japanese - ROMAJI,Vowels and Semivowels,Vowel,う u
+e,Japanese - ROMAJI,Vowels and Semivowels,Vowel,え e
+o,Japanese - ROMAJI,Vowels and Semivowels,Vowel,お o
+N,Japanese - ROMAJI,Vowels and Semivowels,Vowel,ん n
+w,Japanese - ROMAJI,Vowels and Semivowels,Semivowel,わ wa
+v,Japanese - ROMAJI,Vowels and Semivowels,Semivowel,ヴァ va
+y,Japanese - ROMAJI,Vowels and Semivowels,Semivowel,や ya
+t,Japanese - ROMAJI,Consonants,Stop,た ta
+d,Japanese - ROMAJI,Consonants,Stop,だ da
+s,Japanese - ROMAJI,Consonants,Fricative,さ sa
+sh,Japanese - ROMAJI,Consonants,Fricative,しゃ sha
+j,Japanese - ROMAJI,Consonants,Affricate,じゃ ja
+z,Japanese - ROMAJI,Consonants,Affricate,ざ za
+ts,Japanese - ROMAJI,Consonants,Affricate,つ tsu
+k,Japanese - ROMAJI,Consonants,Stop,か ka
+g,Japanese - ROMAJI,Consonants,Stop,が ga
+h,Japanese - ROMAJI,Consonants,Aspirate,ハ ha
+b,Japanese - ROMAJI,Consonants,Stop,ば ba
+p,Japanese - ROMAJI,Consonants,Stop,ぱ pa
+f,Japanese - ROMAJI,Consonants,Fricative,ふぁ fa
+ch,Japanese - ROMAJI,Consonants,Affricate,ちゃ cha
+ry,Japanese - ROMAJI,Consonants,Liquid,りゃ rya
+ky,Japanese - ROMAJI,Consonants,Stop,きゃ kya
+py,Japanese - ROMAJI,Consonants,Stop,ぴゃ pya
+dy,Japanese - ROMAJI,Consonants,Stop,でゃ dya
+ty,Japanese - ROMAJI,Consonants,Stop,てゃ tya
+ny,Japanese - ROMAJI,Consonants,Nasal,にゃ nya
+hy,Japanese - ROMAJI,Consonants,Aspirate,ひゃ hya
+my,Japanese - ROMAJI,Consonants,Nasal,みゃ mya
+gy,Japanese - ROMAJI,Consonants,Stop,ぎゃ gya
+by,Japanese - ROMAJI,Consonants,Stop,びゃ bya
+n,Japanese - ROMAJI,Consonants,Nasal,な na
+m,Japanese - ROMAJI,Consonants,Nasal,ま ma
+r,Japanese - ROMAJI,Consonants,Liquid,ら ra/la

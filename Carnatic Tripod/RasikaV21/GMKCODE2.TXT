@@ -1,0 +1,867 @@
+                                         Notation for some common Gamakams
+
+Gamakams are the most difficult things to define by rules.  The way gamakams are played differ from instrument to instrument and from artiste to artiste. However there are certain general features in the manner in which notes are held in a particular raagam.   
+
+The gamakam applied to a particular note in a raagam can depend upon whether the note occurs in the aarohanam or avarohanam or the melody turns at the note (again differing depending upon whether melody descends to the note and goes up or vice versa) and the duration of the note.  Long duration notes usually have larger number of oscillations while at faster tempos the tendency is to only marginally reduce the durations and instead reduce the number of oscillations to keep the note within the duration required.
+
+Ready made notations for some common Gamakams are provided under the 'Quickcodes' submenu of 'Gamakam' menu. The notations are grouped under each note.  You can access them by clicking on the corresponding submenu.  THESE NOTATIONS CAN ALSO BE ACCESSED FROM THE SCREEN BY CLICKING THE REQUIRED NOTE ON THE TOOL BAR ON THE RIGHT SIDE OF THE EDIT WINDOW.  You can copy and paste the notation into the edit window.  For copying the notation select the required part using the mouse or shift and arrow keys (as done for any  Windows editor) and click on the "Copy" menu.  You get 2 submenus. If you click on the "Copy to clipboard (for pasting)" sub menu the selected notation is copied to the clipboard and you can close the gamakam window and paste it in the edit window wherever you want by clicking on that point and choosing "Paste" from the "Edit" menu. You can shorten this process by first bringing the cursor in the edit window where you want to paste the notation and then opening the gamakam notation window, selecting the required notation and clicking the second submenu "To Edit Window (at cursor position) under "Copy".  The selected notation will automatically be pasted at the selected point in the edit window.  If some notation is already selected in the edit window it will get replaced. Notations are given for notes with different durations (1,2 or 3 and occasionally 4 note durations) at a tempo of 32 i.e. 32/100 secs. per note. The notations are grouped under each note and notations are given for the notes as used in some common raagams. (The abbreviation 'N D' is used for notes duration).  Where notation is not available for a particular note duration use brackets to halve the duration or remove a pair of brackets to double the duration. 
+
+The notation for general gamakam on the note used in groups of raagams is first given and thereafter the special gamakams of some individual raagams are given.  Individual raagam names are given in upper case.  You can locate a raagam quickly using the "Search" menu entering first few letters of the raagam name. Please use the same spelling that is used in Gaayaka and Rasika. 
+If you do not find a raagam name in the list then use its janaka raagams codes. It is however, not possible to fully codify the gamakams of all notes of all raagams and after listening to the music adjustments may have to be made.
+
+The notation given for aarohanam is to be used when the melody ascends from the note or starts below the note and goes above the note. The notation for avarohanam is to be used when melody descends from the note or starts above and goes below the note. 
+
+NOTES IN THAARA AND MANDHRA STHAAYIS
+
+The notation is given for madhya sthaayi. If the note for which the gamakam is to be applied is in thaara or mandhra sthaayi only the notes (and not the commas, dots and brackets) are to be changed to the required octave. For instance the gamakam on ga2 - ga ((ga<<)ga.)- if required to be used in thaara sthaayi should be converted to GA ((Ga<<)Ga.). The gamakam on ni2 -   ((Sa \ni<<. Sa.))- when required for mandhra sthaayi should be written as ((sa \ nI<<. sa)). 
+
+JANTA Swarams
+
+Under each note the notation for Janta is included at the end. The notations for janta is identical except for(ma2) for all notes except that the note names are different.  Though sa and pa have no gamakams of other types,janta is used. For this use the janta of any of the notes (say ga2) and replace the note by sa or pa as required. If the janta notes are long and held with kampitham then the appropriate notation for gamakam within the note is to be used and the notation repeated for the second note. Special cases like ni1 of Surati require their own notation
+
+Where more than one notation is given use the one with less number of notes for faster tempos.  Very fast passages can be written without gamakams. ~
+
+SUDDHA RISHABHAM (ri1)
+
+GENERAL
+
+   For most of the raagams where the note is held from sa (MAAYAAMAALVAGOWLA, GOWLA, POORVIKALYAANI, CHAKRAVAAHAM, SOWRAASHTRAM etc. and in some cases THODI, and for SAAVERI ). Additional pitch modifiers " > " may be used as desired.  
+
+ AAROHANAM
+ (saa, (ri>)\\ saa, (ri>)\\ sa)   [4 Notes Duration]
+  sa((ri>))\ sa ((ri>\) sa)       [3 N D]
+  sa((ri>)\)(sa.)  [or]  ((saa.(ri>)\saa.(ri>)\saa))   [2 N D]  
+ (sa ri>) [OR] (sa(ri>\ sa)) [1 N D]
+
+The lower point of the gamakam can be higher than sa in Raagams like Maayaamalavagowla where the above notation can be modified as below
+
+  (sa\\(ri)ri>>>,(ri)ri>>>,ri ri>>>)  [4 Notes Duration]
+   sa((ri>))\ ri>>> ((ri>\)ri>>>)       [3 N D]
+   ri>>>((ri>)\)(ri>>>.)  [OR] ((sa ri>)\ ri>>>(ri>)ri>>>(ri>))    [2 N D]  
+  (ri>>> ri>) [OR] (sa(ri>\ ri>>>>)) [1 N D]
+
+The above notation can also be used where melody turns on ri in phrase like sa ri sa. FOR sa ri sa with breaks after the ri the following can be used where ri oscillates downwards      
+
+sa- ((ri>saa ri>))-.sa  [1 N D for ri]
+
+ AVAROHANAM
+
+  Suddha Rishabham in avarohanam is often reached after touching sa in many raagams having this note 
+
+  ((ga))\\sa<((ri)) \sa<.((ri))\(sa<.)   [4 N D]
+  (\sa(ri>>))sa((ri>>))sa                [3 N D]
+   \sa((ri))\(sa(ri))                    [2 N D]
+  (\sa ri)     [1 N D - plain note can also be used at this speed]
+  
+  In raagams like PANTHUVARAALI after descent the note may be prolonged without gamakam 
+
+  (ga\\ ri>>.ri (ri>>)) ri               [3 N D]  
+
+PANTHUVARAALI, THODI, LALITHA and other raagams where Suddha Rishabham is to be held higher and greater emphasis is desired on ri (both aarohanam and avarohanam). The note may be linked with the previous note by Jaru
+
+  ri>>((ri))ri>>((ri)ri>>)   [3 N D]
+  ri>>((ri)ri>>.)            [2 N D]
+
+Suddha Rishabham may also be held plain in Thodi and Panthuvaraali descending from ga.
+
+JANTA
+
+The first note of the janta swaram is to be written in the normal way and the second note of the Janta swaram will be 
+((((ri>>>>))ri;(.).))
+Ex:  ri-((((ri>>>>))ri;(.).))  [each note 1 N D - together 2 N D]
+
+If notes are of longer duration (either the first or second) simply add a "," for each aksharam
+If the janta is akaaram remove the hyphen. In fast tempo (below 30) plain notes ri - ri can be used only if both notes require sounding. If it is a single phrase (akaara janta) then the janta phrases shown above are to be used.
+
+ ~
+CHATHUSRUTHI RISHABHAM (ri2)
+
+Raagams with SAADHARANA GAANDHAARAM:
+
+When accompanied by Saadhaarana Gaandhaaram this note is held straight.
+
+Raagams without SAADHARANA GAANDHAARAM:
+
+When Saadhaarana Gaandhaaram is not present the note may be held without gamakam or with gamakam.  In SANKARAABHARANAM ri2 is generally held with gamakam but in many of the janyams of DheeraSankaraabharanam it may be held with or without gamakam (see the description of the required raagam in the Raagam module of RASIKA).
+
+Simple gamakam when the note is held independently-kampitham of short range.
+   ree((ri<<))\ri((ri<<)ri)  [OR]  ree((ri<<<))\ri((ri<<<)ri)  [4 N D]
+   ri((ri<<<))\ri((ri<<<)ri)   [3 N D]
+  (ri (, ri<<<))\ri     [2 N D]  
+  (ri(ri<<< ri))        [1 N D]
+
+AAROHANAM
+
+   Nokku is generally used on Chathusruthi Rishabham if followed by Anthara Gaandhaaram as in SANKARAABHARANAM, most of its janyams, KAAMBODHI and most of the janyams of HARIKAAMBODHI, MOHANAM and in most of the raagams with ri2 and ga2.  When ri is long kampitham is applied after the nokku as in the first 2 phrases below:
+
+     sa/((ga))\ri((ri<<)ri)   [3 N D]   
+    (sa(ga)ri(ri<<<ri).)      [2 N D]  
+    ((sa ga)ri)               [1 N D]
+
+  Nokku is also applied raagams like SURATI, MADHYAMAAVATHI which have 'ri ma' in ascent the same notation can be used by replacing ga with ma
+
+     sa/((ma))\ri((ri<<)ri)       [3 N D]   
+    (sa(ma)ri(ri<<<ri).)          [2 N D]  
+    ((sa ma)\ri)    [OR]  ((ri ma)\ri) [1 N D]
+
+AVAROHANAM 
+  In phrases like ma-ree or ga-ree or when turning on 'ri'  in phrases like 'sa ri sa' Kampitham within the note is used.  This can also be used in the avarohanam of raagams like SANKARAABHARANAM, AARABHI, SUDDHASAAVERI, MADHYAMAAVATHI etc. where the melody lingers at ri after descent.  (Either two << or three <<< pitch  modifiers may be used according to  the style of singing.  Madhyamaavathi can take large oscillation on Ri as in the Krithi Dharmasamwardhani and you can use ga< instead of ri<<< with melam 22 ).
+
+    ree((ri<<))\ri((ri<<)ri)  [OR]  ree((ri<<<))\ri((ri<<<)ri) [4 N D]
+    ri((ri<<<))\ri((ri<<<)ri) [3 N D]
+   (ri(,ri<<<))\ri            [2 N D]   
+   (ri(ri<<< ri))             [1 N D]
+
+  In BEGADA  when ri2 is anchored on ga  (in phrases like sa-sa-gaa-;--ree) the phrase could be 
+
+     (ga ri(ga>)\ri.)  [2 N D]  
+
+  In KALYAANI and other raagams of Melams 62 to 65 the note is generally held without kampitham in avarohanam but often linked to ga by a jaaru descent. The same applies to MOHANAM, HAMSADHWANI and generally in raagams with ma2 or without ma
+
+     (ga)\ri.   [2 N D]
+     ((ga)\ri.) [1 N D]
+
+JANTA
+
+The first note of the janta swaram is to be written in the normal way and the second note of the Janta swaram will be 
+
+((((ri>>>>))ri;(.).))
+Ex:  ri-((((ri>>>>))ri;(.).))  [each note 1 N D - together 2 N D]
+
+If notes are of longer duration (either the first or second) simply add a "," for each aksharam. If the janta is akaaram remove the hyphen. In fast tempo (below 30) plain notes ri - ri can be used only if both notes require sounding.If it is a single phrase (akaara janta) then the janta phrases shown above are to be used.
+  ~
+
+SAADHAARANA GAANDHAARAM (ga1)
+
+This note is generally held with gamakam and has perhaps the largest variety of gamakams.
+
+A simple form that can be used in many places 
+
+    (ri(ga)\ ri< /(ga)ri)              [2 N D]
+    ((ri.ga.ri))  [OR]  ((ga ri.ga.))  [1 N D]
+
+AAROHANAM
+
+  When the gamakam range is low as in some usages in the aarohanam of NATABHARIAVI and its janyams including BHAIRAVI, KHARAHARAPRIYA and its janyams(SRIRANJANI, AABHOGI etc.), KEERAVAANI GOWRIMANOHARI and raagams in the Melam group 56 to 59 (SHANMUKHAPRIYA, SIMHENDHRAMADHYAMAM, HEMAVATHI, DHARMAVATHI)
+
+    (ri.(ga<<<))\ri(.) ((ga<<)) ((ri ga>))  [3 N D]
+     ri((ga)\ ri< /(ga)) [2 N D]    
+    (ri(,ga))            [1 N D] 
+
+  FOR SHANMUKHAPRIYA if the ga is to sound prominently
+
+    (ri ga(ri)ga.) [2 N D]
+
+  If the short note ga is to be anchored in itself and oscillate downwards (which will be the case  if there is a short break after ri) in raagams like KHARAHARAPRIYA it will be
+
+    ((ga ri. ga.))   [1 N D] 
+
+(AAROHANAM - Continued)
+
+  When the gamakam range is higher as in aarohanam of BHAIRAVI, SRIRANJANI, first oscillation in some phrases of KHARAHARAPRIYA and in general raagams of the melams 20,21, 22, 23 ( the gamakam still starts from ri):
+
+    ri((ma>>)\\ri.(ma>>)\\ri. ) [3 N D]
+    ri((ma>>)\\ ri<(,))         [2 N D]  
+  ((ri)ma>>\ri ma>>\(ri))  [2 N D where 2 oscillations are required]
+   (ri((ma>>)\ri< (,)))     [1 N D]
+
+  In BHAIRAVI  in the phrase sa- gaa  ri ga in the first ga is reached from above
+
+    sa -(sa ma\(ga ri ga ri))  [2 ND excluding the first sa]
+
+  AANANDHABHAIRAVI
+     Wide oscillation in ga in the phrase \gaa ma pa  or \ga ma pa
+ 
+       (ma ri ma\\ri ma\\ri)  [OR] (ma ri ma\\ri<<ma\\ri<<)  [3 N D]
+       (ma\ri/ma\\ri)  [OR] (ma\ri</ma\\ri<)   [2 N D]
+ 
+     In the phrase 'sa gaa ma pa'  or  'sa ga ma pa'
+
+        (sa/ma\ri(/ma\ri))   [2 N D]
+        /(ma\ri)             [1 N D ]
+
+(AROHANAM - Continued)
+
+  RAAGAMS without Chathusruthi Rishabham.
+
+    HINDHOLAM
+      FOR oscillation within the note (with initial nokku)
+
+        ((ma.)/ga\((ga<<< .))/ga\\((ga<<<))  [3 N D]
+        ((ma\ ga ga<<< )) ga((ga<<))      [2 N D]      
+        ((ma /ga<<< gaa))                   [1 N D]
+
+      FOR wider oscillation of ga of Hindholam
+        (ma\ga ma\ ga)                  [2 N D]
+        (ma\ga)  [OR]  ((ma.ga.ma))     [1 N D]
+
+     KAANADA
+        (ri/ma\(ga>>/ma\ga).)     [2 N D]
+        ((ga)/ma\(ga>>)/ma\ga>>)  [OR]  (ga/(ma\ga>>)/ma\ga)  [2 N D]
+        ((ma/gaa ma))             [1 N D]
+
+     RANJANI  -  the oscillation can be from a point above ri (reduced ga)
+
+        (ga>>ga ga>>>ga)   [2 N D]
+
+(AAROHANAM - Continued)
+
+    REETHIGOWLA
+	In the phrase sa-ga-ga-maa, the is stressed and has a reverse kampitham and can be written as:
+
+        sa-(((ga)ri(ga))ga)-((ga ri)ga)-ma  [each ga 1 N D-total 4 N D]
+
+	Reethigowla also uses long range kampitham on ga similar to Aanandhabhairavi in aarohanam.
+
+    SUDDHADHANYAASI  the Hindholam ga can be used or the following can also be used with less time on the second touch of ma and more time on modified ga.
+
+       /((ma))\ga>>((ma))\(ga>>)   [2 N D]  [OR]
+        (ma)\(ga>>.)((ma))\(ga>>)  [2 N D]  
+
+(AAROHANAM - Continued)
+
+    THODI
+
+       The ga is given a variety of complex gamakams in this raagam. On the Veena ga is generally held  by pulling from ri2 which note is not present in the raagam. To get the proper effect ri*  or ri*< has to be used as the lower end of gamakam though this is not treated as a  bhaashaanga raagam.  Alternative you can use ga>>>  in place of ri* and this position will be slightly higher. See sample file thodivr.gka
+
+       In aarohanam  (sa ri gaa ma pa)
+            (ri*((ma))\rii*((ma))\ri*,-.)       [3 N D]  
+            (ri*((ma))\ri.*((ma))\(ri*).)       [2 ND]   [OR]
+            ((sa.ma>>)\ri*((.)ma>>\ri*(.)ma>>)) [2 N D]
+            ((ri*ma.ri*.))   [1 N D in the phrase  sa ri ga ma pa]
+
+      In aarohanam turning on ga  (sa ri gaa ri)
+            ((sa)/(ga<<<)\rii*(ga<<<\ ri*))   [2 N D]     [OR]   
+              ri* ((ga)) ri* ((ga>>)\ ri)     [2 N D for ga ]
+
+AVAROHANAM
+
+    AANANDHABHAIRAVI
+      ma-(ri(ga)ri(ga)ri)-  [2 N D for ga - this is followed by ri ga (ri ga)\\saa] 
+
+    BHAIRAVI and janyams of NATABHAIRAVI, janyams of KHARAHARAPRIYA and generally for the phrase 'ma1 ga1 ri2'.
+
+     ((ma)\ri ga,.((ma)(ri ga ri))) [2.5 N D]
+     (((ma))\ri(ga ri gaa.ri))      [2 N D]
+     (ma)\ri((ga ri))               [2 N D]
+     ((ma)\ri(ga))                  [1 N D]
+
+   HINDHOLAM,  RANJANI, SUDDHADHANYAASI - the same notation as for aarohanam can be used with link from ma
+
+   KAAPI   (The note is used only in avarohanam and generally held plain - but may be given short gamakam when prolonged)
+       (ga>> ga ga>>>) ga.  [3 N D]
+   
+   KAANADA
+      \(ga/ma\(ga>>/ma\ga).)     [2 N D-  link with ma or pa]
+       ((ga ma.\ga.))              [1 N D - link with ma or pa]
+ 
+   KHARAHARAPRIYA  (end the gamakam  in ga)
+      ((ma)\ri ga\ri ga\ri(ga))   [3 N D]
+      ((ma)\ri ga\ri(ga))         [2 N D]
+      (ri/ga) [OR] ((ma)\ri(ga))  [1 N D]
+
+(AVAROHANAM - Continued)
+
+  THODI
+     
+     \((ga)*ri*(ga)ri*(ga\ri))        [2 N D]
+     \((ga>>)*ri*(ga>>)ri*(ga>>\ri))  [2 N D - lower ga]
+
+     In avarohanam turning on ga quickly  (paa ga ma )
+        paa\((ri.*ma.ri*))ma     [1 N D for ga] 
+
+JANTA
+
+The first note of the janta swaram is to be written in the normal way and the second note of the Janta swaram will be 
+
+((((ga>>>>))ga;(.).))
+Ex:  ga - ((((ga>>>>))ga;(.).))  [each note 1 ND - together 2 ND]
+
+If notes are of longer duration (either the first or second) simply add a "," for each aksharam. If the janta is akaaram remove the hyphen. In fast tempo (below 30) plain notes ga - ga can be used only if both notes require sounding. If it is a single phrase (akaara janta) then the janta phrases shown above are to be used.
+
+ ~
+
+ANTHARA GAANDHAARAM (ga2)
+
+(Aarohanam and avarohanam for each raagam or group are given  together. As ga2 is a strong note and can be prolonged in many raagams the general gamakam is indicated for groups of raagams )
+
+Generally held straight in melam group 26 to 29 - raagams like SANKARAABHARANAM its janyams, KAAMBODI and janyams of HARIKAAMBODHI, CHARUKESI, PNTHUVARAALI, POORVIKALYAANI etc.
+
+In MAAYAAMAALAVAGOWLA and raagams in Melams 15,16, 17 which have ga in the aarohanam ga is held with thirupam (nokku)
+
+  In AAROHANAM   
+     (ri/ma\)ga<.((ma\))ga< (.)  [4 N D]
+     (ri/ma\ga<.(ma\gaa<ma-,))   [3 N D]
+     (ri/(ma\)ga<(ma\)ga<)       [2 N D]      
+
+  In AVAROHANAM
+     (ma\)ga<<(ma\)ga<<       [3 N D]
+      ga<<((ma\)ga<<.)        [2 N D]
+     ((ga<<ma.ga<.))  [OR] (ga.(ma)) [1 N D]      
+
+AARABHI  -Avarohanam - the ga is special and is held very short and the voice goes back to ma before reaching ri.  Ga is not present in the ascent.
+
+      ((ma\ga<)ma)   [1 N D]     
+
+DHEVAGAANDHAARI - Avarohanam - movements are slower than in Aarabhi. Ga is not present in the ascent. The combined ma gaa ri phrase will be
+
+      ((ma.ga))ma\((ga/(ma))ga)\\ri  [total 3.5 N D ]
+
+KALYAANI - the note is held plain or it can be oscillated within the note when prolonged. (This can also be used if necessary for the other RAAGAMS in the Melams 62,63,64  but should not be used for raagams with ga2 and ma1)
+
+      ga(((gaa<<)))ga.(((gaa<<)))ga   [4 N D]
+      ga((ga<<))ga(.)                 [2.5 N D]
+      ga((ga<<)ga.)     [2 ND]
+     (ga ((ga<<)ga.))   [1 ND]
+
+   If ri follows the gaa without break the last note in the gamakam should be ga<<.
+
+     ga,(((gaa<<)))ga.(((gaa<<)))\ri  [4 N D for ga]
+     ga((ga<<))ga(.ga<<\ri)           [3 N D for ga]
+    (ga.((ga<<))ga.(ga<<.))\ri        [2 N D for ga]
+
+   In a continuous phrase in the avarohanam ga is linked to ma or pa by a jaaru descent.
+   These codes could also be used in POORVIKALYANI in rare cases when a gamakam is required on ga2, but mostly the ga2 in Poorvikalyani is held straight.
+
+KEDHAARAGOWLA
+
+  Ga is present only in the Avarohanam. Though the descent is defined as 'pa ma ga ri', usually ma is touched after ga before descending to ri.
+
+     'pa-ma-gaa-ri'   with long ga will be
+
+      (pa(ga ma ga,))-ga.//(ma)\(ri.(ga)ri)  [Total 5 N D with 2 N D for ga]
+
+      'pa-ma-ga-ri'  with short ga
+
+      (pa ma)((ga<<ga.(ga<<ma)))ri        [1 N D for ga]  
+
+MOHANAM 
+  Ga may be held plain or with gamakam within the note - use the notation for Kalyaani.
+
+  Sometimes in the Aarohanam in the phrase 'sa ri gaa'  the gaa reaches pa and  comes down (In the Pallavi of Raama ninnu nammina in the last syllable 'naa' in the 2nd or 3rd sangathi).
+
+     sa ri (ga/pa)\ga   [2 N D for gaa]
+
+SAHAANA
+    AAROHANAM
+       (ma \ga<<ma\ga) [2 N D]
+       /(ma\ga<)       [1 N D - ma is connected to the previous ri ]
+
+    AVAROHANAM
+       'gaa ma ri sa'  will be 
+       (ga<<ma\ga<<<ma\ga<<)ma\ri       [2.5 N D for ga]
+
+       'ga ma ri'  will be  
+       ((ga<<ma\ga<<<ma))\ri  [OR] (ga<<(ma ga))  [1 N D for ga]
+
+SAAVERI
+
+     This raagam has ga only in avarohanam and in the phrase 'sa ri gaa ri sa'.  
+ 
+     In the normal avarohanam of Saaveri ga would be:
+
+      (\ga<ga/(ma)\\ga/(ma))\ri   [OR]    (ga,ma>>ga)    [2 N D for ga]
+      ((ma>>ga,ma>>))   [OR]   ((ga,ma>>ga))   [1 N D]
+
+In the phrase 'sa ri gaa ri' ga is held rather low:
+
+	(\ga<ga>/(ga<)\\ga>/(ga<))  [2 N D]
+
+
+JANTA
+
+The first note of the janta swaram is to be written in the normal way and the second note of the Janta swaram will be 
+
+((((ga>>>>))ga;(.).))
+Ex:  ga - ((((ga>>>>))ga;(.).))  [each note 1 ND - together 2 ND]
+
+If notes are of longer duration (either the first or second) simply add a "," for each aksharam. If the janta is akaaram remove the hyphen. In fast tempo (below 30) plain notes ga - ga can be used only if both notes require sounding.If it is a single phrase (akaara janta) then the janta phrases shown above are to be used.
+
+~
+SUDDHA MADHYAMAM (ma1)
+
+RAAGAMS NOT using Anthara Gaandhaaram:
+
+  This note is held straight in raagams not using anthara gaandhaaram or occasionally for providing stress it is pulled from the ga fret on the Veena up to pa (ex. in the phrase 'ma pa da* ni  Sa' in BHAIRAVI  or 'pa ma pa' in MADHYAMAAVATHI) when it can be written as:
+
+     'ma pa da* ni Saa' of Bhairavi will be 
+
+     ((pa\ga.pa.))-pa-da*-(da*ni)-Saa   [1 N D for ma]
+
+     'pa ma pa ni' of MADHYAMAAVATHI  
+
+     (pa)(ga<< pa)-(pa(da)ni(da)ni)  [1 N D for ma written as (ga<< pa)]
+ 
+   In raagams using Anthara Gandhaaram  Suddha Madhyamam can take a variety of gamakams -  oscillating with ga, oscillating from a point between ga and ma up to pa, oscillating from ma to pa etc. as explained below:
+
+RAAGAMS having Anthara Gaandhaaram
+
+   AAROHANAM
+
+     GENERAL
+     Quick ascent with short notes like ga ma pa - for most raagams with Anthara Gaandhaaram and Suddha Madhyamam.
+
+     (ma\ga)  [OR]  ((ma.\ga.ma))  [1 N D]
+
+     BEGADA 
+       Ma oscillates over a wider range in aarohanam if prolonged.
+
+        ((ga)/paa\(ga>)pa \ga pa)  [3 N D]
+        ((paa,\ga>pa,\ ga pa ))    [2 N D] [OR]  
+        ((ga)/(paa ,\ga>pa,\ga))   [2 N D] [OR]   
+         ga(ma\ga)                 [2 N D use for 'gaa maa da paa']
+
+      Shorter ma in aarohanam of Bhegada can be
+        (ma(ga ma))     [1 N D]
+
+     NEELAAMBARI - when stopping at ma or prolonging it
+        (gaa<(ma)\gaa<(ma)\ga<)      [3 N D]
+         ga<((ma))\\ga.<((ma))\\ga<  [4 N D] 
+
+(AAROHANAM - Continued)
+
+     SANKARAABHARANAM
+        Short ma  (ga-ma-paa)
+          ((ma ga.ma.))  [OR]  (ma(ga ma))    [1 N D - prominence to ma]
+          ((ga ma.ga.))  [OR]  (ga(ma ga))    [1 N D - prominence to ga not common]
+          ga-((ma)ga/(ma-)).-paa   [1.5 N D for ma with silence before pa]
+
+     Longer ma of SANKARAABHARANAM going up to pa
+
+          'ga maa pa'   will be
+          ga-(ga<<.pa.)\((ma>)(pa))- paa  [2 N D for ma] [OR]
+          ga-(ga.pa.(ga ma))-paa          [2 N D for ma]
+
+(AAROHANAM - Continued)
+
+     KAAMBODHI 
+      Same gamakam as for Sankaraabharanam can be used, but the ascent in Kaambodhi is often ma ga pa da Sa  instead of ga ma pa da Saa in which case the phrase would be
+
+         ((pa ma ga ma, gaa,))-pa-da-Saa   [ma ga 2 N D]
+
+
+      YADHUKULAKAAMBODHI - the gamakam is anchored on ma  (Aarohanam sa ri maa) 
+  
+         (ma.\ga<</ma.\ga<<)/(ma) [3 N D]
+          ma\((ga)ma. )           [2 N D]
+         (ma(ga ma))              [1 N D]
+ 
+AVAROHANAM
+
+   GENERAL
+       Quick descent as in  'pa ma ga' -
+
+         (ga/ma) [1 N D]  for most raagams with Anthara Gaandhaaram and Suddha Madhyamam
+
+   BEGADA 
+
+       ((ga< ma ga< ma))   [OR]  (ga< ma)  [1 N D] [ usually the phrase is pa ma ga ma ri]
+
+   HARIKAMBODHI and Janyams (for a special case of KAAMBHODHI see next)
+	
+       ((maa\\ga//ma,ga\\ma,))    [2 N D]
+       ((ma.ga.ma))               [1 N D]	
+
+   KAAMBODHI  - In avarohanam there is  usually pause at pa ma ga ma gaa which will be
+      ((ma ga ma ga>>>))ga  [1 N D for ma]
+
+       Faster descent ma can be
+           (ga/ma)   [1 N D] 
+
+(AVAROHANAM - Continued)
+
+   KAMAAS in the phrase  paa da maa
+      (\ga<</ma\ga<<</ma\ ga<< ma)  [3 N D]
+      (\ga<</ma\ga<</ma)            [2 N D]
+
+   NEELAAMBARI 
+	  When stopping at and prolonging ma (same as aarohanam)
+
+      (gaa<(ma)\gaa<(ma)\ga<)      [3 N D]
+       ga<((ma))\\ga.<((ma))\\ga<  [4 N D] 
+
+   SANKARAABHARANAM
+       Stopping at ma in the phrase Sa ni daa pa maa
+
+          ((pa.ga)maa\(ga.))                [2 N D] [OR]  
+          ((pa)ma\\(ga<<)ma\\(ga<)/(ma))    [2 N D] 
+
+       In pa ma ga ri sa (which is not as common as  pa - ga ri sa with khandippu at ma)
+          (ga/ma) [OR] ((ma.ga ma.)) [OR]  (ma(ga ma))   [1 N D] 
+
+   YADHUKULAKAAMBODHI    (Same as aarohanam but linked from above)
+        \(ma\ga<<ma\ga<<ma) [2.5 N D]
+         \ma\(ga ma))       [2 N D]
+        \(ma(ga ma))        [1 N D]
+
+JANTA
+
+The first note of the janta swaram is to be written in the normal way and the second note of the Janta swaram will be 
+((((ma>>>>))ma;(.).))
+Ex:  ma - ((((ma>>>>))ma;(.).))  [each note 1 N D - together 2 N D]
+
+If notes are of longer duration (either the first or second) simply add a "," for each aksharam. If the janta is akaaram remove the hyphen. In fast tempo (below 30) plain notes ma - ma can be used only if both notes require sounding.If it is a single phrase (akaara janta) then the janta phrases shown above are to be used.
+ 
+  ~
+
+PRATHI MADHYAMAM (ma2)
+
+GENERAL applicable to practically all Prathi Madhyama Raagams.
+
+    The note is generally held very close to pa in raagams which have pa and Prathi Madhyamam and is generally not prolonged.
+
+AAROHANAM
+    ((ga))/pa(ma<<))(pa .)\(ma<<(pa))  [3 N D-rare case of prolonging] 
+     (pa ma<pa,)   [2 N D]
+    ((pa ma<pa,))  [OR]    (pa ma<)    [1 N D]
+
+AVAROHANAM
+     pa\((ma<))pa>\(ma<(pa>))         [3 N D-rare case of prolonging] 
+    (ma pa>> ma<pa)   [OR]  (pa,ma<pa) [2 N D]
+    ((pa ma<pa ma<))  [OR]  (ma< pa)  [OR]   ((pa ma<.pa.))  [1 N D]
+
+FOR raagams not having pa (HAMSAANANDHI,  KUMUDHAKRIYA ,RANJANI, SUNAADHAVINODHINI)
+
+    AAROHANAM
+      (ma ma<<)  [1 N D]
+    AVAROHANAM
+      (ma<< ma)  [1 N D]   
+    for both aarohanam and avarohanam    
+      ((ma<<.ma.ma<<))   [1 N D] [use this twice for rare case of prolonging]
+
+KALYAANI and POORVIKALYAANI some times omit pa in phrases like ni da ma ga ri (Kalyaani) or ga ma da Saa (PoORvikalyaani).  In such phrases the ma can be written as
+
+      ((ma<.pa ma<.)) [OR] ((ma<.pa>ma<.))   [1 N D]  for both aarohanam and avarohanam
+
+JANTA
+
+Usual Janta is rare in Prathi Madhyamam and when the note is paired it is oscillated downwards
+from pa. Usually it can be found in avarohanam in phrases like pa ma ma ga (Kalyani - Ata thaala
+varnam). Two madhyamams with gamakams can be used in such places.
+
+  pa(ma<<pa) ((pa ma<<. pa.))- ga  [pa ma ma ga each 1 N D]
+
+ ~
+
+SUDDHA DHAIVATHAM (da1)
+
+The gamakams are similar to those on Suddha Rishabham.
+
+FOR MAAYAAMAALAVAGOWLA, SAAVRI, BHAIRAVI some cases of THODI, SIMHENDHRAMADHYAMAM, LATHAANGI etc. and in GENERAL this can be used as a default for all raagams with da1.
+
+  AAROHANAM
+ 
+      (paa,(da>)paa,(da>)pa)    [4 Notes Duration]
+       pa((da>))pa((da>)pa)         [3 N  D]
+       pa((da>))(pa.) [OR]  (pa(.(da>))pa(.(da>)) pa)   [2 N D]  
+      (pa da>)   [OR]   (pa(da>pa)) [1 N D]
+
+  AVAROHANAM
+       Suddha Dhaivatham is often reached from pa in avarohanam also.
+
+        (\pa (da)) pa ((da)) pa   [3 Notes duration for da - descend from ni]
+        \(pa(da paa da) pa)       [2 N D - descend from ni ]
+        ((da pa) da)  [OR] ((pa da. pa.))   [1 N D - plain note can also be used] 
+
+      PANTHUVARAALI, SUBHAPANTHUVARAALI, BOWLI  with emphasis on da
+          da>>((da))da>>((da)da>>)  [3 N D]
+          da>>((da)da>>.)           [2 N D]
+
+      THODI, SHANMUKHAPRIYA  ending in da 
+          \(pa/da)  [1 N D]  
+
+      However, in raagams like THODI, SHANMUKHAPRIYA, PANTHUVARAALI, SUBHAPANTHUVARAALI, BOWLI when it is desired to stress da it can be reached direct in descent and  can be held without gamakam
+
+JANTA
+
+The first note of the janta swaram is to be written in the normal way and the second note of the Janta swaram will be 
+
+((((da>>>>))da;(.).))
+Ex:  da - ((((da>>>>))da;(.).))  [each note 1 N D - together 2 N D]
+
+If notes are of longer duration (either the first or second) simply add a "," for each aksharam.
+If the janta is akaaram remove the hyphen. In fast tempo (below 30) plain notes da - da can be used only if both notes require sounding. If it is a single phrase (akaara janta) then the janta phrases shown above are to be used.
+
+~
+
+CHATHUSRUTHI DHAIVATHAM (da2)
+
+Very similar to Chathusruthi Rishabham
+
+RAAGAMS having  Kaisiki Nishaadham,
+    da2 is generally held WITHOUT GAMAKAM.
+
+RAAGAMS NOT having  Kaisiki Nishaadham
+    da2 is often held with kampitham.
+
+    Gamakam within the note when prolonged (Kalyaani, Mohanam) or in phrases like pa da pa where the melody turns on the note.
+ 
+       daa ((da<<))da((da<<)da)      [4 N D]
+       da((da<<<)) da ((da<<<) da)   [3 N D]
+      (da(,da<<<))da                 [2 N D] 
+     ((da. (da<<<)) da )   [OR]  ((da. da<< da.))  [1 N D]
+
+AAROHANAM
+
+    When nokku is applied to da in Aarohanam  in SANKARAABHARANAM, KALYAANI, 
+    KAAMBODHI, MOHANAM, AARABHI, SUDDHA SAAVERI etc.   
+  
+         pa /((ni<<)) \da ((da<<) da)   [3 N D]     
+        (pa (ni))\(da(da<<)da)          [2 N D] 
+       ((pa ni\daa))                    [1 N D]  
+
+      OR if it is desired to touch Sa in the nokku
+
+         pa/((Sa))\da((da<<)da)        [3 N D]
+        (pa(Sa))\(da(da<<<)da)         [2 N D]
+        ((pa Sa\daa))                   [1 N D]  
+
+AVAROHANAM
+
+     The note may be reached with a jaaru from Sa or Kaakali Nishaadham followed by simple gamakam within the note
+
+        (Sa)\da.((da<<))da((da<<)da)    [4 N D ] [OR]  
+        (Sa)\da((da<<<))da((da<<<)da)   [4 N D]
+        (Sa\da(da<<<)) da ((da<<<) da)  [3 N D]
+        \(da(,da<<<))da                 [2 N D] 
+        \((da.(da<<<))da )   [OR]  \((da.da<<da.))  [1 N D]
+
+In the first 2 phrases above ni may be used instead of Sa where the note descends from Kaakali nishaddham. 
+
+JANTA
+
+The first note of the janta swaram is to be written in the normal way and the second note of the Janta swaram will be 
+((((da>>>>))da;(.).))
+Ex:  da - ((((da>>>>))da;(.).))  [each note 1 N D - together 2 N D]
+
+If notes are of longer duration (either the first or second) simply add a "," for each aksharam. If the janta is akaaram remove the hyphen. In fast tempo (below 30) plain notes da - da can be used only if both notes require sounding. If it is a single phrase (akaara janta) then the janta phrases shown above are to be used.
+
+~
+KAISIKI NISHAADHAM (ni1)
+
+AAROHANAM
+  RAAGAMS  without Chathusruthi Dhaivatham (da2)  the note is often held straight or if prolonged given a slight gamakam within the note itself as given below (Madhyamaavathi is an exception and ni1 is always held with kampitham from da2 - see later)
+
+       (ni ni<<< ni ni<<)   [2 N D]
+
+     In the case of raagams with Hindhusthaani mood the note is connected to Sa as in BHAAGESHRI,BRINDHAAVANA SAARANGA, HINDHOLAM and in some styles of SUDDHA DHANYAASI where the ni imparts a Hindhusthaani flavour.
+
+       ((ni .))/Sa\((ni .))/(Sa\\(ni)/Sa)   [3 N D]
+       ((ni)/Sa\(ni)/Sa\ni)     [OR]  (ni/(Sa\ni)/Sa\ni)     [2 N D]
+       ((ni)/Sa\(ni))/  [OR]  (ni(/Sa)\(ni))/  [OR] (Sa\ni)/ [1 N D]
+
+     In other styles of Suddha dhanyaasi and in Dhanyaasi even when the ni is linked to Sa it starts from a position lower than ni and pulled from da on the Veena
+
+       da//(Sa.\(ni)/Sa,)   [2 N D for ni]
+       ((da)/Sa\(ni))       [1 N D]
+
+(AAROHANAM - Continued)
+
+  RAAGAMS with da2 when the gamakam range is low as in aarohanam of  CHAKRAVAAHAM,    HARIKAAMBODHI, BHAIRAVI (for short note), KHARAHARAPRIYA  and  janyams,  
+     VAACHASPATHI etc.
+
+       (da ni> da ni>) [2 N D if ni is less prominent]
+       (ni>>da) ni>>   [2 N D if ni is prominent or if there is a break after preceding da]
+
+       (da (ni<< ni.))  [OR] (da ni>) [1 N D] [OR]
+	 ((ni>>da) ni>>) [1 N D - ni prominent or break after da]
+
+     When the  gamakam range is higher as in aarohanam of the same raagams especially  BHAIRAVI (long duration ni), KAANADA (in both cases oscillation is from da2 and so da* is used for Bhairavi)
+
+      BHAIARAVI
+        (da* (SA)\da* (SA)\(da*).)   [2 N D]       
+        (da*/((Sa>>)\\da*<(,)))  [OR]  ((da*./Sa\\da*.)) [1 N D]
+     
+      KAANADA
+        (da (SA)\da (SA)\(da).)    [2 N D]       
+        (da/((Sa>>)\\da< (,)))  [OR]  ((da./Sa\\da.)) [1 N D]
+
+     FOR KAMAAS ni may be held plain or with reverse kampitham
+
+     ((ni.da ni.))  [1 N D]    
+
+(AAROHANAM - Continued)
+
+  MADHYAMAAVATHI  (ni is always associated with da2)
+
+      ' pa nee Saa'  will be
+       pa/(Sa\da Sa)\(da)/Saa  [2 ND for ni1 which oscillates from da2 to Sa]
+
+      'pa ni Sa'  will be
+       pa / (ni<< da)/ Sa     [1 ND for ni1]
+
+      When stopping on ni in aarohanam as in pa nee
+
+          (ni<\da ni<\ da)     [2 N D - link by / from previous pa]
+          (ni<.\da. ni<,\ da)  [3 N D - link by / from previous pa]
+
+      In the phrase ' pa nee paa'  returning to pa after prolonged ni
+
+          pa/(ni.\da. ni\(da)ni.)\paa    [3 N D for ni]
+
+(AAROHANAM - Continued)
+
+  SREE 
+
+      The same phrases as in Madhyamaavathi are often used in Sree raagam but  Sree has certain phrases with ni with less or no gamakam or linked to Sa instead of da2 which is more characteristic of Sree when the nishaadham is short
+
+          (Sa ni)        [ 1 N D]
+
+
+  REETHIGOWLA, SURATI
+
+      The ni of Reethigowla in the phrase  ' ma ma ni ni Saa' where there is break between the 2 ni's (Janta can also be used).
+
+           (ni\(da)/(ni))-((,ni\da)/(ni)) [2 N D - one N D each] 
+
+ SHANMUKHAPRIYA  - has 2 types of Kaisiki Nishaadham -  ni held from Chathusruthi Dhaivatham fret on the Veena and sounding low, and ni held in its own position.
+ 
+       The first - oscillated from da2  (da* has to be used as da2 is not in this melam)
+
+             (da*.(Sa)ni>>.(Sa))     [2 N D]
+
+       When oscillated within the note
+ 
+             ni((ni>>)ni.)     [2 N D]
+
+(AAROHANAM - Continued)
+
+  THODI - the ni is given a variety of complex gamakams in this raagam. On the Veena ni is generally held  by pulling from da2 which note is not present in the raagam
+
+         (da*ni<)ni>>(.(ni<)ni>)  [3 N D] 
+
+    In the phrase 'pa da ni Sa'
+
+          (da//Sa(\da*)Sa\(da*))   [2 N D]
+         ((da)/Sa\(da*))           [1 N D]
+
+    In aarohanam turning on ni - 'pa da nee da'
+
+        ((da)/(ni<<<)\daa*(ni<<<\ da*)) [2 N D] [ OR ] 
+        ((ni<<)da* ni\da.)              [2 N D]    
+         da*((ni))da*((ni>>)\da)    [2.5 N D for ni and .5 for last da]
+
+AVAROHANAM
+
+   RAAGAMS  not having da2 - Chathusruthi dhaivatham
+     
+     Ni1 is often held plain especially in short descent.   It can also be associated with Sa especially in longer notes which could impart Hindhusthaani flavour. (BRINDHAAVANA SAARANGA, SUDDHA DHANYAASI, KAANADA  which does not have da in descent).
+      
+      \((ni.))/Sa\((ni.))/(Sa\\(ni)/Sa)    [3 N D - link with Sa]
+      \((ni)/Sa\(ni)/Sa\\ni)  [OR]   (ni/(Sa\ni)/Sa\ni) [2 N D - link with Sa]
+
+   KHARAHARAPRIYA and some of its janyams (end the gamakam in ni)
+
+     ((Sa)\da ni\da ni\da(ni))   [3 N D]
+     ((Sa)\da ni\da(ni))         [2 N D]
+     (da/ni)  [OR] ((Sa)\da(ni)) [1 N D]
+
+   AANANDHABHAIRAVI  - usually ni is held short in the phrase Sa ni da pa
+
+     ((da ni da ni))  [1 N D]   [OR]  (da/ni)   [1 N D ]
+
+     However, in the phrase Sa nee or sa nEE (stopping at nee)  the ni is oscillated wide from da to Sa. (Although ni is not present in aarohanam the phrase sa nEE sa is permissible)
+
+        (sa \dA sa \dA sa\dA )  [3 N D]
+        (sa \dA sa \dA  )       [2 N D]
+
+(AVAROHANAM - Continued)
+
+   BHAIRAVI
+      (Sa \da*.((Sa).)da*ni da  )   [3 N D including .5 N D for last da] 
+      (((Sa))\da*((ni))(da*)ni da)  [2 N D including .5 N D for last da]
+      ((Sa.)\da*(SA da*.ni da))     [2 N D including .5 N D for last da]
+      ((Sa)\da*(ni))                [1 N D]
+
+   HINDHOLAM  the same as for aarohanam can be used with link from Sa.
+
+   KAMAAS - short ni is linked to Sa
+
+      (Sa\ni)  [1 N D]
+
+      Longer ni slides from Sa to da and then goes up almost up to Sa
+
+      Sa\\da(ni*\da) [3 N D]
+
+   MADHYAMAAVATHI
+
+      ((da)ni>.)   [1 N D - this is very  characteristic]
+
+     stopping at ni in avarohanam (not very common)
+
+       (da ni<<(da) ni,(da)ni<<)   [3 N D]
+
+(AVAROHANAM - Continued)
+
+   REETHIGOWLA
+
+      Short ni     
+        (da/ni)       [1 N D]
+
+      Sometimes the ni is quickly oscillated and prolonged and will be 
+        ((da ni)da ni da )ni        [3 N D]
+
+   SREE
+      Unlike Madhyamaavathi the note can be held plain or linked to Sa but with quick ascent and descent (if the movement is slow it can become Brindhaavana Saaranga)
+        ((Sa ni.Sa.))   [1 N D]
+
+
+   SURATI
+      The gamakam on ni is anchored on ni and oscillates downwards usually as a janta note
+    
+        (ni\(da ni))   [OR]  ((ni.\da ni.))  [1 N D]
+
+(AVAROHANAM - Continued)
+
+   SHANMUKHAPRIYA
+
+     The note can be held plain or oscillated from da2.  When oscillated  from da2 it can be
+  
+        ((ni<<)da*ni\da.)  [2 N D] 
+
+   THODI
+
+        \((ni)*da*(ni)da*(ni\da))         [2 N D]
+         (da*ni)  [OR]  ((da*)ni(da*))  [OR]  ((ni)da*(ni))  [1 N D]
+JANTA
+
+The first note of the janta swaram is to be written in the normal way and the second note of the Janta swaram will be 
+
+((((ni>>>>))ni;(.).))
+Ex:  ni - ((((ni>>>>))ni;(.).))  [each note 1 ND - together 2 ND]
+
+If notes are of longer duration (either the first or second) simply add a "," for each aksharam. If the janta is akaaram remove the hyphen. In fast tempo (below 30) plain notes ni - ni can be used only if both notes require sounding. If it is a single phrase (akaara janta) then the janta phrases shown above are to be used.
+
+(FOR Surati the special gamakam given earlier is to be used)
+
+~
+
+KAAKALI NISHAADHAM  (ni2)
+ 
+In most of the raagams it is held close to Sa. In the aarohanam Sa is first reached and then ni is reached.  In the avarohanam after touching ni, Sa is again touched.   The actual position of the note varies slightly from artiste to artiste according to his own style.
+
+AAROHANAM
+
+    (Sa\ ni<<)   [OR]  ((Sa\ ni<<. Sa.))   [1 N D]
+
+AVAROHANAM
+
+    (ni<< Sa)   [OR]  ((Sa \ni<<. Sa.))    [1 N D]
+
+When prolonged in raagams like KALYAANI, HAMSADHWANI, HAMSAANANDHI  it oscillates from ni to Saa or within the note itself.
+
+    (ni<Sa\ni<(Sa\ni<)) [OR]  (ni<<ni ni<<(ni ni<<))  [2 N D] 
+
+JANTA
+
+The first note of the janta swaram is to be written in the normal way and the second note of the Janta swaram will be 
+((((ni>>>>))ni;(.).))
+Ex:  ni - ((((ni>>>>))ni;(.).))  [each note 1 ND - together 2 ND]
+
+If notes are of longer duration (either the first or second) simply add a "," for each aksharam. If the janta is akaaram remove the hyphen. In fast tempo (below 30) plain notes ni - ni can be used only if both notes require sounding. If it is a single phrase (akaara janta) then the janta phrases shown above are to be used.
+
+In avarohanam some times the second ni comes from Sa (ex. Sa ni ni da).  FOR such cases use
+
+Sa (ni< Sa) (ni< Sa)- da  [each note 1 N D]
+
+~

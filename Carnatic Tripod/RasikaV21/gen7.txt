@@ -1,0 +1,232 @@
+                                                @Sound - Basics$
+
+ By sound we normally mean the sensation produced in our ears.  Physically 
+ sound is produced by the vibration of objects like the vocal chords, stretched 
+ string of the ^Veena%, the air column of the flute, the reed in the harmonium or 
+ simply the quick vibration of any object when it is struck. The vibrations have to 
+ reach the ear through a medium, usually the air. The air molecules surrounding 
+ the object producing the sound vibrate and the vibrations spread out in the form 
+ of 'waves'  (by which we mean a disturbance moving through a medium while
+ the medium itself undergoes only a to and fro movement at every point).  When 
+ the wave reaches the ear, the ear drum vibrates in a manner similar to the 
+ original object and the vibrations are conveyed to the inner ear where, fine
+ hair follicle like objects vibrate and convey the sensation to the brain through
+ nerves.   When objects vibrate at frequencies higher than or lower than what we
+ can hear they are referred to as ultrasonic and subsonic sound.  Some animals
+ (dogs especially) are sensitive to high frequency sounds.
+
+ Three essential qualities of any sound- in particular musical sound are pitch,
+ loudness and quality. These are the sensations produced in the person hearing
+ the sound. They have their physical equivalents in frequency, intensity and 
+ harmonic content which are quantities that can be measured.~
+                                            @Pitch - Frequency$
+                        
+ Frequency is the number of times the original object (string or air column) or   
+ the eardrum vibrates (makes a complete to and fro motion) every  second.  The 
+ higher the frequency the higher is the pitch.  In music the pitch is usually
+ referred to by the note name like ^sa%, ^ri%, C,D etc. but when discussing as a
+ physical  entity the frequency number is taken as referring to the pitch.  Pitch
+ is actually the sensation felt by the listener.  Extraneous factors can make the
+ pitch of two sounds of the same frequency appear different.  Human ears are
+ sensitive to the frequency range from 30 cycles per sec to 15000 cycles per
+ second - the sensitivity to higher frequency falling at old age.  Most of the
+ sounds we hear are usually well below 3000 cycles but the presence of higher
+ frequency  harmonics affects the quality (see later).  To appreciate how sounds
+ of different  frequencies feel, you can change the frequency in the box below
+ by moving the scroll bar and then clicking on the 'Play' button.~
+                                           @Loudness - Intensity$
+
+ Loudness is a term well understood.  Its physical equivalent is the intensity
+ of the sound which can be measured by the energy it contains or more simply
+ by the amplitude of the vibration (ex. the extent to which the ^Veena% string is dis-
+ placed from its normal position).  When sound is recorded digitally into a  .wav
+ or similar file the extent to which the numbers deviate from the zero (no sound) 
+ position decides the loudness.   Below are the graphs drawn from part of a 
+ digital data of a violin sound at 2 levels of  loudness.  You can click on them to 
+ hear the sounds. (The graphs shown cover only about 1.3% of the duration of
+ the total sound you hear.)  ~
+                                    @Quality or timbre - Harmonics$
+
+ Quality is a term more difficult to define.   We speak of dull tone, rich tone,
+ good voice or the good timbre of a musical instrument.  We also recognize
+ consonants and vowels though spoken in different pitches.
+ 
+ When the string of a musical instrument vibrates it does not make a simple
+ oscillation with both ends fixed and the center making maximum movement.
+ Actually the string can also vibrate in many different modes.   It can vibrate as
+ if it consists of 2, 3, 4 or higher integral number of segments with the points at 
+ midway, one third and two-thirds or every quarter of the length not moving at 
+ all.  These points are called Nodes. You can see these movements by clicking 
+ on the buttons opposite the boxes below. (Click 'Stop' to try a different mode) ~
+                                   @Quality - Harmonics (continued)$
+
+ The frequency of a vibrating string depends on the weight per unit length , how 
+ tightly it is stretched (tension) and how long the vibrating part is.   Other things 
+ being equal, the frequency is inversely proportional to the vibrating length i.e.
+ if the length is half, the frequency is double.  So when a string vibrates in 2 
+ segments it produces double the frequency, in 3 segments, three times the 
+ frequency and so on.   These higher frequencies are called harmonics or over-
+ tones.   A string can at the same time vibrate in all these modes and produce a 
+ mixture of frequencies which are whole number of times the frequency of the 
+ full string, which is called fundamental.  The relative strengths of these different
+ modes can also vary widely and we have thousands of possible combinations, 
+ which explains the wide variety tones from different musical instruments.  What 
+ is true of strings is also true of air columns, stretched membranes, vocal chords 
+ and almost any object producing sound.  In general a flute or whistle like sound 
+ has less harmonics while stringed instruments are rich in harmonics.   In the 
+ case of vibrating membranes (on drums) the harmonics may not be exact 
+ multiples of the basic frequency.   In fact one of the important requirements of 
+ sustained musical note is that its harmonics should be 'true' or whole multiples 
+ of  the fundamental.  You can listen to 3 notes each on <plucked string> and on 
+ <bowed string> with progressively greater proportion of higher harmonics. Less 
+ harmonics implies a 'dull' tone, more implies 'brilliance' but too much may  be 
+ 'metallic' or 'nasal'. ~
+                                             @ Pitch - Musical Notes$
+
+ Of the 3 attributes of sound, it is pitch that has been given maximum importance 
+ in musical theory .  A musical note can be defined as a sound where the pitch
+ is constant for some period (say at least one twentieth of a second - but 
+ generally much longer).  When there is a certain relationship among the pitches 
+ of notes they sound pleasant when heard in succession (melody) or heard 
+ together (harmony).  It is found that when two notes whose frequencies are in 
+ simple ratios are heard  together or in succession they are pleasant.  The 
+ simplest ratio of  2 (one note being twice in frequency of the other) gives 
+ maximum blending when heard together and pleasant when heard one after
+ the other.   Listen to two notes with frequencies in the ratio 1 : 2, first heard
+ <in succession> and then <sounded together>.  For this reason same symbols are
+ used  for notes whose frequencies are in the ratio 1:2, 1:4, 1:8 etc.  with suitable 
+ indications.  The interval between a note and another with twice its frequency
+ is called an octave because in most musical systems 7 notes are used before 
+ reaching the 8th note with double the frequency.  The next best blending  is
+ where one note is 1.5 times in frequency of the other note.  Listen to such a
+ pair of notes in the ratio 2: 3, <in succession> and <together>.  2:3 is the inverse of 
+ 3:2 and since a note of double frequency blends completely notes with frequen-
+ cies in the ratio 3:4 also blend as well as the notes of the ratio 2:3.  Also listen to 
+ notes which are <not in simple ratio> - not very pleasant.~
+                                       @Musical Notes - Frequencies$
+
+ When a note of frequency (say) 400 is sung or played on a musical instrument
+ it also has the harmonics with frequencies  800, 1200, 1600 etc.  When another 
+ note with 1.5 times the frequency of 400 i.e. 600 is played we also hear the
+ harmonics of 1200, 1800, etc. The common figure 1200 in these two notes makes 
+ them blend well.   The ratio 1:2 blends thoroughly because the second note is 
+ the 2nd harmonic of the first note.   When the ratio becomes smaller (say)  9:8 
+ the blending is less as we have to hear the 10th harmonic (9 times) the first and 
+ 9th harmonic (8 times) the second (for the base of 400, the second note will be 
+ 450 and the harmonics 9 X 400 = 3600 and 8 X 450 = 3600). Generally very high 
+ harmonics are weak.  But we can find another note i.e. with frequency 600 (1.5 
+ times 400) which blends with both since 600 = 400 X 1.5 and 600 = 450 X 4/3.  
+ <Listen> to the notes in the frequencies 400, 600, 450 and 600 again.
+
+ The ratio 1.5 or 3:2 plays an important part in musical theory.  In Indian Music it 
+ is called Samvaadhithva and ancient Tamil texts describe generation of scales
+ using this ratio.  This process is called the 'cycle of fifths'.  If we take any note as 
+ ^sa% then the note which is 1.5 times in frequency is ^pa% (in western notation C and 
+ G).  ^Pa% is the 5th note in sa-ri-ga-ma-pa and hence the term cycle of fifths.  We 
+ can calculate the frequencies of a number of musical notes by repeated multipli-
+ cation by 1.5 and dividing by 2 whenever the frequency goes above twice the 
+ frequency of ^sa% so that we get a note within the octave.~
+                                        @Notes - Frequencies (2)$
+ In melodic music the actual frequency is less important than the ratio between 
+ the frequencies.  In Carnatic Music the musician is at liberty to chose any 
+ frequency as his tonic and then it becomes sa. In discussing frequencies of 
+ notes we use  'Relative Frequency' (r.f.) which is a ratio rather than the actual 
+ frequencies. Thus ^pa% has the r.f of 3/2 or 1.5 which means that the actual 
+ frequency of ^pa% will be 1.5 times the frequency of Sa. By applying cycle of fifths 
+ 5 times we can get  the following frequencies:  1 (the tonic), 3/2 (^pa%),  9/8 which
+ is 3/2 X 3/2 = 9/4  divided by 2,  27/16 (9/8 X 3/2) and 81/64 (27/16 X 3/2 /2).  These
+ are roughly the white notes ^sa%, ^pa%, ri2, da2 and ga2. Arranging in ascending 
+ order ^sa%,ri2,ga2,^pa%,da2 and adding upper ^Sa% the r.f's are 1, 9/8, 81/64, 3/2, 27/16 
+ and 2.  <Listen>  to these notes (you can perhaps recognize Mohanam). 
+ Continuing, we get 243/128 (ni2) and taking 4/3 as ma1 we get all the white
+ notes (not exactly, as on the keyboard which uses equally tempered scale - 
+ explained later). To avoid more unwieldy figures we can use 15/8 instead of 
+ 243/128; these are very close (differ only by 81/80) and go further to get more 
+ notes (black notes ma2,ri1,etc.)
+
+ We can also calculate frequencies by multiplying by 4/3 instead of 1.5 (cycle of 
+ fourths as 4/3 represents the fourth note from ^sa%). Trying the cycle of fourths we 
+ get the ratios 1, 4/3 (ma1), 16/9 (4/3 X 4/3 ni1), 32/27 (16/9 X 4/3  /2  ga1) and
+ 128/81 (32/27 X 4/3  da1)  or 1, 32/27, 4/3, 128/81, 16/9 and 2 in ascending order.
+ <Listen> to these notes.  (Can you  recognize Hindholam ?).~
+                                     @Cycle of fifths and fourths$
+
+ The diagrams below will help identify the notes in the cycle of fifths and fourths. 
+ On a keyboard or fretted instrument there are 12 notes in the octave and ^pa% is
+ at the 7th position and ma1 is at the 5th position.  So, to apply the cycle of fifths
+ we count 7 notes up each time (counting all the notes - black and white)  and if 
+ the result is above the upper ^Sa% we come back by 12 notes to be within the 
+ octave.  On a cyclic diagram this is automatically done.  For cycle of fourths  
+ count 5 notes each time. (Colors of the lettering correspond to key colors.) ~
+                              @Cycle of fifths and fourths - problems$
+ There is a catch in calculating frequencies by cycles using 3/2 and 4/3 as ratios 
+ because 3/2 multiplied 12 times is 129.746.. and dividing by 2 repeatedly to
+ come back to the octave we land up at 2.027.. instead of 2 which should be the
+ r.f. of upper Sa.  In fact the ^pa% arrived at by cycle of fourths is 1.4798 and not 1.5. 
+ Listen to <natural sa- pa> and the <cycle of fourth sa-pa> and the <two pa's>
+ one after the other. Calculation of the frequencies by cycle of fifths and fourths 
+ gives two sets of values for the notes differing by the fraction 81/80 which has 
+ dogged musicians especially for orchestration involving extensive harmony.    
+ From these pairs of notes the following set of simple fractions are generally 
+ mentioned for 'natural notes':
+
+ ^sa%     (ri1)    ri2  (ga1)  ga2  ma1  (ma2)   ^pa%   (da1)  da2   (ni1)   ni2   ^Sa%
+  1     16/15  9/8    6/5    5/4    4/3   45/32    3/2   8/5     5/3    16/9  15/8    2
+ 
+ Although 9/8 (ri2) and 3/2 (^pa%) have a relative ratio of 4/3, the ratio between
+ da2 (5/3) and ri2 (9/8) is 40/27 and not 3/2.  There is no way  to have every pair
+ of notes separated by 7 or 5 notes to have the perfect 3/2 or 4/3 ratio .   As this 
+ problem caused difficulties in orchestration, western system has adopted a
+ scheme in which every adjacent pair of notes has the same r.f of twelfth root
+ of 2 - about 1.05946.  This  is called the 'equally tempered scale'. In this scheme 
+ ^ma% and ^pa% are 1.3348 and 1.4983 instead of 1.3333 and 1.5, a difference not  
+ usually distinguishable by the human ear (0.1 percent).  ~
+                                              @Notes - on strings $                           
+
+ The idea of simple ratio for notes can be illustrated on stringed instruments.
+ Most stringed instruments have a few strings only and notes are produced by
+ damping a part of the string (on the finger board on a violin or on the frets
+ in ^Veena% or Guitar) and making the rest vibrate.  By damping lengths which are
+ simple fractions like 1/2, 1/3, 1/4 etc. we can get pleasant notes of r.f. 2,3/2,4/3
+ etc. The relative frequency is the reciprocal of the vibrating part fraction. The 
+ ratios 2 (^Sa% of upper octave), 3/2 (^pa%), 4/3 (ma1), 5/4 (ga2) and 6/5 (ga1) are all 
+ natural notes because of their simple ratios.  7/6 and 8/7 are however not used 
+ but 9/8 (ri2) and sometimes (10/9) are used. The sketch below shows how notes 
+ are generated by damping part of a 60 cm long string.~
+                                              @Notes - on strings (2)$
+
+ The process of cycle of fifths or fourths is actually visible on stringed instruments
+ especially those with frets.  Different notes are produced on the different strings
+ at a given fret.  The ^Veena% has its first string tuned to ^sa% and the next to lower
+ ^pA% with r.f  3/4  (3/2  / 2).  Thus on every fret, the frequency of a note on the  
+ pA string is 3/4th of the note on ^sa% string because the vibrating lengths are   
+ reduced by the same proportion in both cases.  Against the pa fret of ^sa% string   
+ we get ri2 on the pA string, against ri2 on ^sa% string we get dA2 on pA string,   
+ against da2 of ^sa% string we get ga2 on the pA string and so on, generating the   
+ same sequence of notes as in the cycle of fifths.  In fact this is how the frets are  
+ placed.  If pa fret is placed correctly others can be placed by alternately   
+ listening to notes produced on ^sa% and pA strings.  If we tune the second string to   
+ ^mA% we will get the notes of the cycle of fourths.~
+                                    @Notes used in Carnatic Music$
+ The question as to the frequencies of notes used in Carnatic Music has been
+ subject of much discussion.  The pairs of frequencies obtained by cycle of fifths
+ and cycle of fourths have been equated with the 22 sruthis of ancient texts.  It
+ is difficult to speak of frequency when a note is constantly oscillated, often with
+ unequal timings of rest at the ends.  When ri1 of Saaveri is sung the voice
+ remains most of the time in ^sa% and reaches ri1 quickly and comes back giving 
+ the feeling of a very low ri1.  It is possible that the presence or absence of other
+ notes with sa-pa or sa-ma relationship in a ^raagam% influences the pitch of 
+ a note and the manner in which it is held.  However, some notes on the key-
+ board (equally tempered scale) such as ga2 (r.f 1.26)  appear somewhat higher  
+ for an ear accustomed to the natural ga2 (r.f 1.25  a difference of about 1 %)
+ Listen to <sa-ga equally tempered>, <sa-ga natural> and the <two ga's>.
+
+ Given below are the frequencies of equally tempered scale and one possible 
+ set of  natural notes for ^sa% at 262 (261.62 to be accurate, which corresponds to 
+ 440 for for da2, standard used in western music). Black notes are in brackets.  
+ Actually the black notes sound much lower in Carnatic Music as they are usually 
+ oscillated from the lower note (except ma2 which is oscillated from ^pa% and 
+ sounds higher).~
+                                                                        
+
+

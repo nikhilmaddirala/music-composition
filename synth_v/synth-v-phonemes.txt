@@ -1,0 +1,283 @@
+### Phonemes by language
+Source: https://dreamtonics.com/svstudio-resources/
+
+==INSTRUCTIONS==
+I am providing some unstructured tables scraped from the Synth V phoneme reference website. I want you to convert all of the information into a structured csv. I am providing the strcuture of the csv, followed by some example csv rows, followed by a full dump of the raw data.
+
+==CSV STRUCTURE==
+Here is a bullet point list of the column names for the  csv table with examples of values for each column:
+- phoneme: e.g. "a", "t", "gy"
+- synthv-language: e.g. "English - ARPABET", "Japanese - ROMAJI"
+- type: e.g. "Vowels and Semivowels", "Consonants", "Vowels, Semivowels and Diphthongs"
+- category: e.g. "vowel", "semivowel", "fricative"
+- example: e.g. "あ a", "い i"
+
+==EXAMPLE ROWS==
+a, English - ARPABET, Vowels and Semivowels, Vowel, あ a
+i, English - ARPABET, Vowels and Semivowels, Vowel, い i
+AU, Mandarin Chinese - XSAMPA, Vowels, Semivowels and Diphthongs, Diphthong, 好 hao
+
+
+==RAW DATA==
+
+#### Language English - ARPABET 
+
+| Vowels and Semivowels |           |         |
+| --------------------- | --------- | ------- |
+| Phoneme               | Category  | Example |
+| a                     | Vowel     | あ a     |
+| i                     | Vowel     | い i     |
+| u                     | Vowel     | う u     |
+| e                     | Vowel     | え e     |
+| o                     | Vowel     | お o     |
+| N                     | Vowel     | ん n     |
+| w                     | Semivowel | わ wa    |
+| v                     | Semivowel | ヴァ va   |
+| y                     | Semivowel | や ya    |
+
+|Consonants|   |   |
+|---|---|---|
+|Phoneme|Category|Example|
+|---|---|---|
+|t|Stop|た ta|
+|d|Stop|だ da|
+|s|Fricative|さ sa|
+|sh|Fricative|しゃ sha|
+|j|Affricate|じゃ ja|
+|z|Affricate|ざ za|
+|ts|Affricate|つ tsu|
+|k|Stop|か ka|
+|g|Stop|が ga|
+|h|Aspirate|ハ ha|
+|b|Stop|ば ba|
+|p|Stop|ぱ pa|
+|f|Fricative|ふぁ fa|
+|ch|Affricate|ちゃ cha|
+|ry|Liquid|りゃ rya|
+|ky|Stop|きゃ kya|
+|py|Stop|ぴゃ pya|
+|dy|Stop|でゃ dya|
+|ty|Stop|てゃ tya|
+|ny|Nasal|にゃ nya|
+|hy|Aspirate|ひゃ hya|
+|my|Nasal|みゃ mya|
+|gy|Stop|ぎゃ gya|
+|by|Stop|びゃ bya|
+|n|Nasal|な na|
+|m|Nasal|ま ma|
+|r|Liquid|ら ra/la|
+
+#### Japanese - ROMAJI
+|Vowels and Semivowels|   |   |
+|---|---|---|
+|Phoneme|Category|Example|
+|---|---|---|
+|a|Vowel|あ a|
+|i|Vowel|い i|
+|u|Vowel|う u|
+|e|Vowel|え e|
+|o|Vowel|お o|
+|N|Vowel|ん n|
+|w|Semivowel|わ wa|
+|v|Semivowel|ヴァ va|
+|y|Semivowel|や ya|
+
+| Consonants |           |         |
+| ---------- | --------- | ------- |
+| Phoneme    | Category  | Example |
+| t          | Stop      | た ta    |
+| d          | Stop      | だ da    |
+| s          | Fricative | さ sa    |
+| sh         | Fricative | しゃ sha  |
+| j          | Affricate | じゃ ja   |
+| z          | Affricate | ざ za    |
+| ts         | Affricate | つ tsu   |
+| k          | Stop      | か ka    |
+| g          | Stop      | が ga    |
+| h          | Aspirate  | ハ ha    |
+| b          | Stop      | ば ba    |
+| p          | Stop      | ぱ pa    |
+| f          | Fricative | ふぁ fa   |
+| ch         | Affricate | ちゃ cha  |
+| ry         | Liquid    | りゃ rya  |
+| ky         | Stop      | きゃ kya  |
+| py         | Stop      | ぴゃ pya  |
+| dy         | Stop      | でゃ dya  |
+| ty         | Stop      | てゃ tya  |
+| ny         | Nasal     | にゃ nya  |
+| hy         | Aspirate  | ひゃ hya  |
+| my         | Nasal     | みゃ mya  |
+| gy         | Stop      | ぎゃ gya  |
+| by         | Stop      | びゃ bya  |
+| n          | Nasal     | な na    |
+| m          | Nasal     | ま ma    |
+| r          | Liquid    | ら ra/la |
+
+#### Mandarin Chinese - XSAMPA 
+|Vowels, Semivowels and Diphthongs|   |   |
+|---|---|---|
+|Phoneme|Category|Example|
+|---|---|---|
+|a|Vowel|他 ta 而 er|
+|A|Vowel|狼 lang|
+|o|Vowel|我 wo|
+|@|Vowel|碰 peng|
+|e|Vowel|黑 hei|
+|7|Vowel|的 de|
+|U|Vowel|从 cong|
+|u|Vowel|无 wu|
+|i|Vowel|伊 yi|
+|i\|Vowel|丝 si|
+|i`|Vowel|是 shi|
+|y|Vowel|雨 yu|
+|AU|Diphthong|好 hao|
+|@U|Diphthong|都 dou|
+|ia|Diphthong|家 jia|
+|iA|Diphthong|将 jiang|
+|iAU|Diphthong|小 xiao|
+|ie|Diphthong|谢 xie|
+|iE|Diphthong|先 xian|
+|iU|Diphthong|穹 qiong|
+|i@U|Diphthong|袖 xiu|
+|y{|Diphthong|元 yuan|
+|yE|Diphthong|学 xue|
+|ua|Diphthong|花 hua|
+|uA|Diphthong|黄 huang|
+|u@|Diphthong|顺 shun|
+|ue|Diphthong|对 dui|
+|uo|Diphthong|多 duo|
+|z`|Semivowel|日 ri|
+|w|Semivowel|网 wang|
+|j|Semivowel|用 yong|
+
+| Consonants and Codas  |           |         |
+| --------------------- | --------- | ------- |
+| Phoneme               | Category  | Example |
+| :\i                   | Coda      | 还 hai   |
+| r\`                   | Coda      | 而 er    |
+| :n                    | Coda      | 岸 an    |
+| N                     | Coda      | 从 cong  |
+| p                     | Stop      | 并 bing  |
+| ph                    | Stop      | 平 ping  |
+| t                     | Stop      | 带 dai   |
+| th                    | Stop      | 同 tong  |
+| k                     | Stop      | 给 gei   |
+| kh                    | Stop      | 开 kai   |
+| ts<br><br>\|Affricate | 几 ji      |         |
+| ts                    | Affricate | 子 zi    |
+| tsh                   | Affricate | 从 cong  |
+| ts`                   | Affricate | 只 zhi   |
+| ts`h                  | Affricate | 尘 chen  |
+| x                     | Aspirate  | 好 hao   |
+| f                     | Fricative | 风 feng  |
+| s                     | Fricative | 三 san   |
+| s`                    | Fricative | 是 shi   |
+| ts\h                  | Fricative | 七 qi    |
+| s\|Fricative          | 星 xing    |         |
+| m                     | Nasal     | 吗 ma    |
+| n                     | Nasal     | 女 nv    |
+| l                     | Liquid    | 来 lai   |
+
+#### Cantonese Chinese - XSAMPA 
+|Vowels and Semivowels|   |   |
+|---|---|---|
+|Phoneme|Category|Example|
+|---|---|---|
+|a|Vowel|责 zaak|
+|6|Vowel|周 zau|
+|E|Vowel|些 se|
+|e|Vowel|伾 pei|
+|i|Vowel|兒 ji|
+|l|Vowel|升 sing|
+|O|Vowel|开 hoi|
+|o|Vowel|數 sou|
+|u|Vowel|潰 kui|
+|U|Vowel|用 jung|
+|9|Vowel|约 joek|
+|8|Vowel|摔 seot|
+|y|Vowel|雪 syut|
+|m=|Vowel|唔 m|
+|N=|Vowel|五 ng|
+|w|Semivowel|泳 wing|
+|j|Semivowel|一 jat|
+
+| Consonants and Codas |           |         |
+| -------------------- | --------- | ------- |
+| Phoneme              | Category  | Example |
+| p                    | Stop      | 不 bat   |
+| ph                   | Stop      | 伾 pei   |
+| t                    | Stop      | 代 doi   |
+| th                   | Stop      | 秃 tuk   |
+| k                    | Stop      | 九 gau   |
+| kh                   | Stop      | 期 kei   |
+| kw                   | Stop      | 瓜 gwaa  |
+| kwh                  | Stop      | 夸 kwaa  |
+| ts                   | Affricate | 自 zi    |
+| tsh                  | Affricate | 次 ci    |
+| f                    | Fricative | 风 fung  |
+| h                    | Fricative | 可 ho    |
+| s                    | Fricative | 雪 syut  |
+| l                    | Liquid    | 哩 le    |
+| m                    | Nasal     | 茗 ming  |
+| n                    | Nasal     | 年 nin   |
+| N                    | Nasal     | 外 ngoi  |
+| :i                   | Coda      | 女 neoi  |
+| :u                   | Coda      | 好 hou   |
+| :m                   | Coda      | 闪 sim   |
+| :n                   | Coda      | 新 san   |
+| :N                   | Coda      | 风 fung  |
+| :p_}                 | Coda      | 汁 zap   |
+| :t_}                 | Coda      | 雪 syut  |
+| :k_}                 | Coda      | 责 zaak  |
+
+#### Spanish - XSAMPA Common Phonemes
+
+|Vowels and Semivowels|   |   |
+|---|---|---|
+|Phoneme|Category|Example|
+|---|---|---|
+|a|Vowel|paz|
+|e|Vowel|que|
+|i|Vowel|sin|
+|o|Vowel|voz|
+|u|Vowel|uno|
+|I|Semivowel|hoy|
+|U|Semivowel|aula|
+|ll|Semivowel|lluvia|
+|y|Semivowel|ayuno|
+
+|Consonants|   |   |
+|---|---|---|
+|Phoneme|Category|Example|
+|---|---|---|
+|b|Stop|vidrio|
+|B|Stop|obtuso|
+|d|Stop|día|
+|D|Stop|cada|
+|g|Stop|gato|
+|k|Stop|cada|
+|p|Stop|por|
+|t|Stop|tarde|
+|l|Liquid|lona|
+|rr|Liquid|ratón|
+|r|Liquid|tener|
+|m|Nasal|música|
+|n|Nasal|no|
+|N|Nasal|cinco|
+|J|Nasal|año|
+|f|Fricative|foto|
+|s|Fricative|sol|
+|C|Fricative|canción*  <br>*European Pronunciation|
+|sh|Fricative|Xela|
+|ch|Affricate|chica|
+|x|Fricative|jamón|
+
+#### Common phonemes
+
+|   |   |
+|---|---|---|
+|Phoneme|Description|
+|---|---|
+|cl|glottal stop|
+|sil|silence (highly situative)|
+|br|breath|

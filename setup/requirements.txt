@@ -1,4 +1,20 @@
-music21
-pygame
+#linguistics
 epitran
 indic-transliteration
+
+#music
+music21
+pretty_midi
+
+#audio
+pyfluidsynth
+pyaudio 
+tinysoundfont
+
+# math etc
+numpy
+mir_eval
+librosa
+matplotlib
+pygame
+IPython

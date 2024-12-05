@@ -1,0 +1,497 @@
+999999 0 0121012 084 02 04 04 "12221212"    [Janta swarams are not mere repetition of a swaram but involve imparting stress to the second note by momentarily touching the note (in the 12 note scheme) below the first note (or some point below the first note). As the note may not be used in the melam it is easier to get the lower note by using 3 to 5 microtone reduction symbols '>'. This way you can change the melam and still get the Janta correctly. The duration of the lower note is more or less same for all kaalams and so the notation for higher kaalams require some modification and not mere adding brackets.
+Change Melam to 22 for Kharaharapriya, to 29 for Sankaraabharanam and to 
+ 65 for MechaKalyaani]-|
+$-;;
+saa|-paa|-Saa|-paa|-saa
+
+[1 Kaalam 1]$-
++-[sa sa] sa - ((((sa>>>>))sa;(.).))-|
+ [ri ri] ri - ((((ri>>>>))ri;(.).))-|
+ [ga ga] ga - ((((ga>>>>))ga;(.).))-|
+ [ma ma] ma - ((((ma>>>>))ma;(.).))
++-[pa pa] pa - ((((pa>>>>))pa;(.).))-|
+ [da da] da - ((((da>>>>))da;(.).)) 
++-[ni ni] ni - ((((ni>>>>))ni;(.).))-|
+ [Sa Sa] Sa - ((((Sa>>>>))Sa;(.).))
+
++-[Sa Sa] Sa - ((((Sa>>>>))Sa;(.).))-|
+ [ni ni] ni - ((((ni>>>>))ni;(.).))-|
+ [da da] da - ((((da>>>>))da;(.).))-|
+ [pa pa] pa - ((((pa>>>>))pa;(.).))
++-[ma ma] ma - ((((ma>>>>))ma;(.).))-|
+ [ga ga] ga - ((((ga>>>>))ga;(.).))
++-[ri ri] ri - ((((ri>>>>))ri;(.).))-|
+ [sa sa] sa - ((((sa>>>>))sa;(.).))
+
+[1 Kaalam 2]
++-[sa sa](sa - (((sa>>>>) saa,.)))-|
+ [ri ri](ri - (((ri>>>>) ree,.)))-|
+ [ga ga](ga - (((ga>>>>) gaa,.)))-|
+ [ma ma](ma - (((ma>>>>) maa,.)))-|
+ [pa pa](pa - (((pa>>>>) paa,.)))-|
+ [da da](da - (((da>>>>) daa,.)))-|
+ [ni ni](ni - (((ni>>>>) nee,.)))-|
+ [Sa Sa](Sa - (((Sa>>>>) Saa,.)))
+
++-[Sa Sa](Sa - (((Sa>>>>) Saa,.)))-|
+ [ni ni](ni - (((ni>>>>) nee,.)))-|
+ [da da](da - (((da>>>>) daa,.)))-|
+ [pa pa](pa - (((pa>>>>) paa,.)))
++-[ma ma](ma - (((ma>>>>) maa,.)))-|
+ [ga ga](ga - (((ga>>>>) gaa,.)))-|
+ [ri ri](ri - (((ri>>>>) ree,.)))-|
+ [sa sa](sa - (((sa>>>>) saa,.)))
+
+[1 Kaalam 3] 
++-[sa sa]((sa - (((sa>>>>) saa,.))))-|
+ [ri ri]((ri - (((ri>>>>) ree,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [da da]((da - (((da>>>>) daa,.))))-|
+ [ni ni]((ni - (((ni>>>>) nee,.))))-|
+ [Sa Sa]((Sa - (((Sa>>>>) Saa,.))))-|
+ [Sa Sa]((Sa - (((Sa>>>>) Saa,.))))-|
+ [ni ni]((ni - (((ni>>>>) nee,.))))-|
+ [da da]((da - (((da>>>>) daa,.))))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ri ri]((ri - (((ri>>>>) ree,.))))-|
+ [sa sa]((sa - (((sa>>>>) saa,.))))
+
++-[sa sa]((sa - (((sa>>>>) saa,.))))-|
+ [ri ri]((ri - (((ri>>>>) ree,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [da da]((da - (((da>>>>) daa,.))))-|
+ [ni ni]((ni - (((ni>>>>) nee,.))))-|
+ [Sa Sa]((Sa - (((Sa>>>>) Saa,.))))
++-[Sa Sa]((Sa - (((Sa>>>>) Saa,.))))-|
+ [ni ni]((ni - (((ni>>>>) nee,.))))-|
+ [da da]((da - (((da>>>>) daa,.))))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ri ri]((ri - (((ri>>>>) ree,.))))-|
+ [sa sa]((sa - (((sa>>>>) saa,.))))
+
+[2 Kaalam 1]
++-[sa sa] sa - ((((sa>>>>))sa;(.).))-|
+ [ri ri] ri - ((((ri>>>>))ri;(.).))-|
+ [ga ga] ga - ((((ga>>>>))ga;(.).))-|
+ [ma ma] ma - ((((ma>>>>))ma;(.).))
++-[ri ri] ri - ((((ri>>>>))ri;(.).))-|
+ [ga ga] ga - ((((ga>>>>))ga;(.).))
++-[ma ma] ma - ((((ma>>>>))ma;(.).))-|
+ [pa pa] pa - ((((pa>>>>))pa;(.).))
+
++-[ga ga] ga - ((((ga>>>>))ga;(.).))-|
+ [ma ma] ma - ((((ma>>>>))ma;(.).))-|
+ [pa pa] pa - ((((pa>>>>))pa;(.).))-|
+ [da da] da - ((((da>>>>))da;(.).))
++-[ma ma] ma - ((((ma>>>>))ma;(.).))-|
+ [pa pa] pa - ((((pa>>>>))pa;(.).))
++-[da da] da - ((((da>>>>))da;(.).))-|
+ [ni ni] ni - ((((ni>>>>))ni;(.).))
+
++-[pa pa] pa - ((((pa>>>>))pa;(.).))-|
+ [da da] da - ((((da>>>>))da;(.).))-|
+ [ni ni] ni - ((((ni>>>>))ni;(.).))-|
+ [Sa Sa] Sa - ((((Sa>>>>))Sa;(.).))
++-[Sa Sa] Sa - ((((Sa>>>>))Sa;(.).))-|
+ [ni ni] ni - ((((ni>>>>))ni;(.).))
++-[da da] da - ((((da>>>>))da;(.).))-|
+ [pa pa] pa - ((((pa>>>>))pa;(.).))
+
++-[ni ni] ni - ((((ni>>>>))ni;(.).))-|
+ [da da] da - ((((da>>>>))da;(.).))-|
+ [pa pa] pa - ((((pa>>>>))pa;(.).))-|
+ [ma ma] ma - ((((ma>>>>))ma;(.).))
++-[da da] da - ((((da>>>>))da;(.).))-|
+ [pa pa] pa - ((((pa>>>>))pa;(.).))
++-[ma ma] ma - ((((ma>>>>))ma;(.).))-|
+ [ga ga] ga - ((((ga>>>>))ga;(.).))
+
++-[pa pa] pa - ((((pa>>>>))pa;(.).))-|
+ [ma ma] ma - ((((ma>>>>))ma;(.).))-|
+ [ga ga] ga - ((((ga>>>>))ga;(.).))-|
+ [ri ri] ri - ((((ri>>>>))ri;(.).))
++-[ma ma] ma - ((((ma>>>>))ma;(.).))-|
+ [ga ga] ga - ((((ga>>>>))ga;(.).))
++-[ri ri] ri - ((((ri>>>>))ri;(.).))-|
+ [sa sa] sa - ((((sa>>>>))sa;(.).))
+
+[2 Kaalam 2]
++-[sa sa](sa - (((sa>>>>) saa,.)))-|
+ [ri ri](ri - (((ri>>>>) ree,.)))-|
+ [ga ga](ga - (((ga>>>>) gaa,.)))-|
+ [ma ma](ma - (((ma>>>>) maa,.)))-|
+ [ri ri](ri - (((ri>>>>) ree,.)))-|
+ [ga ga](ga - (((ga>>>>) gaa,.)))-|
+ [ma ma](ma - (((ma>>>>) maa,.)))-|
+ [pa pa](pa - (((pa>>>>) paa,.)))
++-[ga ga](ga - (((ga>>>>) gaa,.)))-|
+ [ma ma](ma - (((ma>>>>) maa,.)))-|
+ [pa pa](pa - (((pa>>>>) paa,.)))-|
+ [da da](da - (((da>>>>) daa,.)))
++-[ma ma](ma - (((ma>>>>) maa,.)))-|
+ [pa pa](pa - (((pa>>>>) paa,.)))-|
+ [da da](da - (((da>>>>) daa,.)))-|
+ [ni ni](ni - (((ni>>>>) nee,.)))
+
++-[pa pa](pa - (((pa>>>>) paa,.)))-|
+ [da da](da - (((da>>>>) daa,.)))-|
+ [ni ni](ni - (((ni>>>>) nee,.)))-|
+ [Sa Sa](Sa - (((Sa>>>>) Saa,.)))-|
+ [Sa Sa](Sa - (((Sa>>>>) Saa,.)))-|
+ [ni ni](ni - (((ni>>>>) nee,.)))-|
+ [da da](da - (((da>>>>) daa,.)))-|
+ [pa pa](pa - (((pa>>>>) paa,.)))
++-[ni ni](ni - (((ni>>>>) nee,.)))-|
+ [da da](da - (((da>>>>) daa,.)))-|
+ [pa pa](pa - (((pa>>>>) paa,.)))-|
+ [ma ma](ma - (((ma>>>>) maa,.)))
++-[da da](da - (((da>>>>) daa,.)))-|
+ [pa pa](pa - (((pa>>>>) paa,.)))-|
+ [ma ma](ma - (((ma>>>>) maa,.)))-|
+ [ga ga](ga - (((ga>>>>) gaa,.)))
+
++-[pa pa](pa - (((pa>>>>) paa,.)))-|
+ [ma ma](ma - (((ma>>>>) maa,.)))-|
+ [ga ga](ga - (((ga>>>>) gaa,.)))-|
+ [ri ri](ri - (((ri>>>>) ree,.)))-|
+ [ma ma](ma - (((ma>>>>) maa,.)))-|
+ [ga ga](ga - (((ga>>>>) gaa,.)))-|
+ [ri ri](ri - (((ri>>>>) ree,.)))-|
+ [sa sa](sa - (((sa>>>>) saa,.)))
+[For completing Aavartham]
++-[sa sa](sa - (((sa>>>>) saa,.)))-|
+ [ri ri](ri - (((ri>>>>) ree,.)))-|
+ [ga ga](ga - (((ga>>>>) gaa,.)))-|
+ [ma ma](ma - (((ma>>>>) maa,.)))
++-[ma ma](ma - (((ma>>>>) maa,.)))-|
+ [ga ga](ga - (((ga>>>>) gaa,.)))-|
+ [ri ri](ri - (((ri>>>>) ree,.)))-|
+ [sa sa](sa - (((sa>>>>) saa,.)))
+[2 Kaalam 3]
++-[sa sa]((sa - (((sa>>>>) saa,.))))-|
+ [ri ri]((ri - (((ri>>>>) ree,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [ri ri]((ri - (((ri>>>>) ree,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [da da]((da - (((da>>>>) daa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [da da]((da - (((da>>>>) daa,.))))-|
+ [ni ni]((ni - (((ni>>>>) nee,.))))
++-[pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [da da]((da - (((da>>>>) daa,.))))-|
+ [ni ni]((ni - (((ni>>>>) nee,.))))-|
+ [Sa Sa]((Sa - (((Sa>>>>) Saa,.))))-|
+ [Sa Sa]((Sa - (((Sa>>>>) Saa,.))))-|
+ [ni ni]((ni - (((ni>>>>) nee,.))))-|
+ [da da]((da - (((da>>>>) daa,.))))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))
++-[ni ni]((ni - (((ni>>>>) nee,.))))-|
+ [da da]((da - (((da>>>>) daa,.))))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [da da]((da - (((da>>>>) daa,.))))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))
+
++-[pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ri ri]((ri - (((ri>>>>) ree,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ri ri]((ri - (((ri>>>>) ree,.))))-|
+ [sa sa]((sa - (((sa>>>>) saa,.))))-|
+[For completing Aavartham]
+ [sa sa]((sa - (((sa>>>>) saa,.))))-|
+ [ri ri]((ri - (((ri>>>>) ree,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [ri ri]((ri - (((ri>>>>) ree,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))
++-[ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [da da]((da - (((da>>>>) daa,.))))-|
+ [da da]((da - (((da>>>>) daa,.))))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))
++-[pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ri ri]((ri - (((ri>>>>) ree,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ri ri]((ri - (((ri>>>>) ree,.))))-|
+ [sa sa]((sa - (((sa>>>>) saa,.))))
+
+[3 Kaalam 1]
+
++-[sa sa ri] sa - ((((sa>>>>))sa;(.).))-ri-|
+ [sa sa ri] sa - ((((sa>>>>))sa;(.).))-ri-|
+ [sa ri]    sa - ri
++-[sa sa] sa - ((((sa>>>>))sa;(.).))-|
+ [ri ri] ri - ((((ri>>>>))ri;(.).))
++-[ga ga] ga - ((((ga>>>>))ga;(.).))-|
+ [ma ma] ma - ((((ma>>>>))ma;(.).))
+
++-[ri ri ga] ri - ((((ri>>>>))ri;(.).))-ga-|
+ [ri ri ga] ri - ((((ri>>>>))ri;(.).))-ga-|
+ [ri ga]    ri - ga
++-[ri ri] ri - ((((ri>>>>))ri;(.).))-|
+ [ga ga] ga - ((((ga>>>>))ga;(.).))
++-[ma ma] ma - ((((ma>>>>))ma;(.).))-|
+ [pa pa] pa - ((((pa>>>>))pa;(.).))
+
++-[ga ga ma] ga - ((((ga>>>>))ga;(.).))-ma-|
+ [ga ga ma] ga - ((((ga>>>>))ga;(.).))-ma-|
+ [ga ma]    ga - ma
++-[ga ga] ga - ((((ga>>>>))ga;(.).))-|
+ [ma ma] ma - ((((ma>>>>))ma;(.).))
++-[pa pa] pa - ((((pa>>>>))pa;(.).))-|
+ [da da] da - ((((da>>>>))da;(.).))
+  
++-[ma ma pa] ma - ((((ma>>>>))ma;(.).))-pa-|
+ [ma ma pa] ma - ((((ma>>>>))ma;(.).))-pa-|
+ [ma pa]    ma - pa
++-[ma ma] ma - ((((ma>>>>))ma;(.).))-|
+ [pa pa] pa - ((((pa>>>>))pa;(.).))
++-[da da] da - ((((da>>>>))da;(.).))-|
+ [ni ni] ni - ((((ni>>>>))ni;(.).))
+
++-[pa pa da] pa - ((((pa>>>>))pa;(.).))-da-|
+ [pa pa da] pa - ((((pa>>>>))pa;(.).))-da-|
+ [pa da]    pa - da
++-[pa pa] pa - ((((pa>>>>))pa;(.).))-|
+ [da da] da - ((((da>>>>))da;(.).))
++-[ni ni] ni - ((((ni>>>>))ni;(.).))-|
+ [Sa Sa] Sa - ((((Sa>>>>))Sa;(.).))
+
++-[Sa Sa ni] Sa - ((((Sa>>>>))Sa;(.).))-ni-|
+ [Sa Sa ni] Sa - ((((Sa>>>>))Sa;(.).))-ni-|
+ [Sa ni]    Sa - ni
++-[Sa Sa] Sa - ((((Sa>>>>))Sa;(.).))-|
+ [ni ni] ni - ((((ni>>>>))ni;(.).))
++-[da da] da - ((((da>>>>))da;(.).))-|
+ [pa pa] pa - ((((pa>>>>))pa;(.).))
+
++-[ni ni da] ni - ((((ni>>>>))ni;(.).))-da-|
+ [ni ni da] ni - ((((ni>>>>))ni;(.).))-da-|
+ [ni da]    ni - da
++-[ni ni] ni - ((((ni>>>>))ni;(.).))-|
+ [da da] da - ((((da>>>>))da;(.).))
++-[pa pa] pa - ((((pa>>>>))pa;(.).))-|
+ [ma ma] ma - ((((ma>>>>))ma;(.).))
+
++-[da da pa] da - ((((da>>>>))da;(.).))-pa-|
+ [da da pa] da - ((((da>>>>))da;(.).))-pa-|
+ [da pa]    da - pa
++-[da da] da - ((((da>>>>))da;(.).))-|
+ [pa pa] pa - ((((pa>>>>))pa;(.).))
++-[ma ma] ma - ((((ma>>>>))ma;(.).))-|
+ [ga ga] ga - ((((ga>>>>))ga;(.).))
+
++-[pa pa ma] pa - ((((pa>>>>))pa;(.).))-ma-|
+ [pa pa ma] pa - ((((pa>>>>))pa;(.).))-ma-|
+ [pa ma]    pa - ma
++-[pa pa] pa - ((((pa>>>>))pa;(.).))-|
+ [ma ma] ma - ((((ma>>>>))ma;(.).))
++-[ga ga] ga - ((((ga>>>>))ga;(.).))-|
+ [ri ri] ri - ((((ri>>>>))ri;(.).))
+
++-[ma ma ga] ma - ((((ma>>>>))ma;(.).))-ga-|
+ [ma ma ga] ma - ((((ma>>>>))ma;(.).))-ga-|
+ [ma ga]    ma - ga
++-[ma ma] ma - ((((ma>>>>))ma;(.).))-|
+ [ga ga] ga - ((((ga>>>>))ga;(.).))
++-[ri ri] ri - ((((ri>>>>))ri;(.).))-|
+ [sa sa] sa - ((((sa>>>>))sa;(.).))
+ 		     
+[3 Kaalam 2]
++-[sa sa ri] (sa - (((sa>>>>) saa,.))-ri)-|
+ [sa sa ri] (sa - (((sa>>>>) saa,.))-ri)-|
+ [sa ri]    (sa - ri)-|
+ [sa sa] (sa - (((sa>>>>) saa,.)))-|
+ [ri ri] (ri - (((ri>>>>) ree,.)))-|
+ [ga ga] (ga - (((ga>>>>) gaa,.)))-|
+ [ma ma] (ma - (((ma>>>>) maa,.)))
++-[ri ri ga] (ri - (((ri>>>>) ree,.))-ga)-|
+ [ri ri ga] (ri - (((ri>>>>) ree,.))-ga)-|
+ [ri ga]    (ri - ga)
++-[ri ri] (ri - (((ri>>>>) ree,.)))-|
+ [ga ga] (ga - (((ga>>>>) gaa,.)))-|
+ [ma ma] (ma - (((ma>>>>) maa,.)))-|
+ [pa pa] (pa - (((pa>>>>) paa,.)))
+
++-[ga ga ma] (ga - (((ga>>>>) gaa,.))-ma)-|
+ [ga ga ma] (ga - (((ga>>>>) gaa,.))-ma)-|
+ [ga ma]    (ga - ma)-|
+ [ga ga] (ga - (((ga>>>>) gaa,.)))-|
+ [ma ma] (ma - (((ma>>>>) maa,.)))-|
+ [pa pa] (pa - (((pa>>>>) paa,.)))-|
+ [da da] (da - (((da>>>>) daa,.)))
++-[ma ma pa] (ma - (((ma>>>>) maa,.))-pa)-|
+ [ma ma pa] (ma - (((ma>>>>) maa,.))-pa)-|
+ [ma pa]    (ma - pa)
++-[ma ma] (ma - (((ma>>>>) maa,.)))-|
+ [pa pa] (pa - (((pa>>>>) paa,.)))-|
+ [da da] (da - (((da>>>>) daa,.)))-|
+ [ni ni] (ni - (((ni>>>>) nee,.)))
+
++-[pa pa da] (pa - (((pa>>>>) paa,.))-da)-|
+ [pa pa da] (pa - (((pa>>>>) paa,.))-da)-|
+ [pa da]    (pa - da)-|
+ [pa pa] (pa - (((pa>>>>) paa,.)))-|
+ [da da] (da - (((da>>>>) daa,.)))-|
+ [ni ni] (ni - (((ni>>>>) nee,.)))-|
+ [Sa Sa] (Sa - (((Sa>>>>) Saa,.)))
++-[Sa Sa ni] (Sa - (((Sa>>>>) Saa,.))-ni)-|
+ [Sa Sa ni] (Sa - (((Sa>>>>) Saa,.))-ni)-|
+ [Sa ni]    (Sa - ni)
++-[Sa Sa] (Sa - (((Sa>>>>) Saa,.)))-|
+ [ni ni] (ni - (((ni>>>>) nee,.)))-|
+ [da da] (da - (((da>>>>) daa,.)))-|
+ [pa pa] (pa - (((pa>>>>) paa,.)))
+
++-[ni ni da] (ni - (((ni>>>>) nee,.))-da)-|
+ [ni ni da] (ni - (((ni>>>>) nee,.))-da)-|
+ [ni da]    (ni - da)-|
+ [ni ni] (ni - (((ni>>>>) nee,.)))-|
+ [da da] (da - (((da>>>>) daa,.)))-|
+ [pa pa] (pa - (((pa>>>>) paa,.)))-|
+ [ma ma] (ma - (((ma>>>>) maa,.)))
++-[da da pa] (da - (((da>>>>) daa,.))-pa)-|
+ [da da pa] (da - (((da>>>>) daa,.))-pa)-|
+ [da pa]    (da - pa)
++-[da da] (da - (((da>>>>) daa,.)))-|
+ [pa pa] (pa - (((pa>>>>) paa,.)))-|
+ [ma ma] (ma - (((ma>>>>) maa,.)))-|
+ [ga ga] (ga - (((ga>>>>) gaa,.)))
+
++-[pa pa ma] (pa - (((pa>>>>) paa,.))-ma)-|
+ [pa pa ma] (pa - (((pa>>>>) paa,.))-ma)-|
+ [pa ma]    (pa - ma)-|
+ [pa pa] (pa - (((pa>>>>) paa,.)))-|
+ [ma ma] (ma - (((ma>>>>) maa,.)))-|
+ [ga ga] (ga - (((ga>>>>) gaa,.)))-|
+ [ri ri] (ri - (((ri>>>>) ree,.)))
++-[ma ma ga] (ma - (((ma>>>>) maa,.))-ga)-|
+ [ma ma ga] (ma - (((ma>>>>) maa,.))-ga)-|
+ [ma ga]    (ma - ga)
++-[ma ma] (ma - (((ma>>>>) maa,.)))-|
+ [ga ga] (ga - (((ga>>>>) gaa,.)))-|
+ [ri ri] (ri - (((ri>>>>) ree,.)))-|
+ [sa sa] (sa - (((sa>>>>) saa,.)))
+
+[3 Kaalam 3]
++-[sa sa ri] ((sa - (((sa>>>>) saa,.))-ri))-|
+ [sa sa ri] ((sa - (((sa>>>>) saa,.))-ri))-|
+ [sa ri]    ((sa - ri))-|
+ [sa sa]((sa - (((sa>>>>) saa,.))))-|
+ [ri ri]((ri - (((ri>>>>) ree,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [ri ri ga] ((ri - (((ri>>>>) ree,.))-ga))-|
+ [ri ri ga] ((ri - (((ri>>>>) ree,.))-ga))-|
+ [ri ga]    ((ri - ga))-|
+ [ri ri]((ri - (((ri>>>>) ree,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))
++-[ga ga ma] ((ga - (((ga>>>>) gaa,.))-ma))-|
+ [ga ga ma] ((ga - (((ga>>>>) gaa,.))-ma))-|
+ [ga ma]    ((ga - ma))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [da da]((da - (((da>>>>) daa,.))))
++-[ma ma pa] ((ma - (((ma>>>>) maa,.))-pa))-|
+ [ma ma pa] ((ma - (((ma>>>>) maa,.))-pa))-|
+ [ma pa]    ((ma - pa))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [da da]((da - (((da>>>>) daa,.))))-|
+ [ni ni]((ni - (((ni>>>>) nee,.))))
+
++-[pa pa da] ((pa - (((pa>>>>) paa,.))-da))-|
+ [pa pa da] ((pa - (((pa>>>>) paa,.))-da))-|
+ [pa da]    ((pa - da))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [da da]((da - (((da>>>>) daa,.))))-|
+ [ni ni]((ni - (((ni>>>>) nee,.))))-|
+ [Sa Sa]((Sa - (((Sa>>>>) Saa,.))))-|
+ [Sa Sa ni] ((Sa - (((Sa>>>>) Saa,.))-ni))-|
+ [Sa Sa ni] ((Sa - (((Sa>>>>) Saa,.))-ni))-|
+ [Sa ni]    ((Sa - ni))-|
+ [Sa Sa]((Sa - (((Sa>>>>) Saa,.))))-|
+ [ni ni]((ni - (((ni>>>>) nee,.))))-|
+ [da da]((da - (((da>>>>) daa,.))))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))
++-[ni ni da] ((ni - (((ni>>>>) nee,.))-da))-|
+ [ni ni da] ((ni - (((ni>>>>) nee,.))-da))-|
+ [ni da]    ((ni - da))-|
+ [ni ni]((ni - (((ni>>>>) nee,.))))-|
+ [da da]((da - (((da>>>>) daa,.))))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))
++-[da da pa] ((da - (((da>>>>) daa,.))-pa))-|
+ [da da pa] ((da - (((da>>>>) daa,.))-pa))-|
+ [da pa]    ((da - pa))-|
+ [da da]((da - (((da>>>>) daa,.))))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))
+
++-[pa pa ma] ((pa - (((pa>>>>) paa,.))-ma))-|
+ [pa pa ma] ((pa - (((pa>>>>) paa,.))-ma))-|
+ [pa ma]    ((pa - ma))-|
+ [pa pa]((pa - (((pa>>>>) paa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ri ri]((ri - (((ri>>>>) ree,.))))-|
+ [ma ma ga] ((ma - (((ma>>>>) maa,.))-ga))-|
+ [ma ma ga] ((ma - (((ma>>>>) maa,.))-ga))-|
+ [ma ga]    ((ma - ga))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ri ri]((ri - (((ri>>>>) ree,.))))-|
+ [sa sa]((sa - (((sa>>>>) saa,.))))
+
+[To complete the Aavartham]
++-[sa sa ri] ((sa - (((sa>>>>) saa,.))-ri))-|
+ [sa sa ri] ((sa - (((sa>>>>) saa,.))-ri))-|
+ [sa ri]    ((sa - ri))-|
+ [sa sa]((sa - (((sa>>>>) saa,.))))-|
+ [ri ri]((ri - (((ri>>>>) ree,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
++-[ma ma ga] ((ma - (((ma>>>>) maa,.))-ga))-|
+ [ma ma ga] ((ma - (((ma>>>>) maa,.))-ga))-|
+ [ma ga]    ((ma - ga))-|
+ [ma ma]((ma - (((ma>>>>) maa,.))))-|
+ [ga ga]((ga - (((ga>>>>) gaa,.))))-|
+ [ri ri]((ri - (((ri>>>>) ree,.))))-|
+ [sa sa]((sa - (((sa>>>>) saa,.))))
+
+
+
+
+

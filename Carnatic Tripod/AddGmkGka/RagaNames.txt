@@ -1,0 +1,194 @@
+RAAGAM               MELAM  AnyaSwarams
+Aabheri-1               22
+Aabheri-2               20
+Aabhogi                 22
+Aahiri                   8  ga*
+Aanandhabhairavi        20  da*(ga* ni*)
+Aandholikaa             22
+Aarabhi                 29
+Amrithavaahini          20
+Amrithavarshani         65
+Asaaveri                 8  ri*
+Ataana                  29  ni*
+Bahudhaari              28
+Balahamsa               28
+Bangaala                28
+Begada                  29  ni*
+Behag                   29  ma* ni*
+Bhaagesree              22
+Bhairavam               17	
+Bhairavi                20  da*
+Bhavapriya              44
+Bhooshaavali            63
+Bindhumaalini           16
+Bilahari                29  ni*
+Bowli                   15
+Brindhaavanasaaranga    22  ni*
+Chaarukesi              26
+Chakravaaham            16
+Chalanaata              36
+Chanhdrajyothi          41
+Chaayatharangini        28
+Chenchukaambodhi        28
+Dhanyaasi                8
+Dharbaar                22
+Dharmavathi             59
+Dheepakam               51
+Dhenuka                  9
+Dhesh                   28  ni*
+Dhevagaandhaari         29  ni*
+Dhevakriya              22
+Dhevamanohari           22
+Dhvijaavanthi           28  ga*
+Eesamanohari            28
+Gaanamoorthi             3
+Gaangeyabhooshani       33
+Gamanaasrama            53
+Gambheeranaata          36
+Garudadhwani            29
+Gaudamalhaar            29
+Ghanta                  20  ri*
+Gowla                   15
+Gowlipanthu             15  ma*
+Gowreemanohari          23
+Gowri                   15
+Gurjari                 15
+Hameerkalyaani          65  ma*
+Hamsaanandhi            53
+Hamsadhwani             29
+Hamsanaadham            60
+Hamsavinodhini          29
+Harikaambodhi           28
+Hemavathi               58
+Hindholam               20
+Hindholavasantham       20
+Huseini                 22  da*
+Jaganmohini             15
+Janaranjani             29
+Jayamanohari            22
+Jayanthasena            22
+Jayanthasri             20
+Jyothiswaroopini        68
+Kaambodhi               28  ni*
+Kaanada                 22  ni*
+Kaapinaaraayani         28
+Kaapi                   22  ga* da* ni*
+Kalyaanavasantham       21
+Kalaanidhi              22
+Kalaavathi              16
+Kalyaani                65
+Kalgada                 13
+Kamaas                  28  ni*
+Kamalaamanohari         27
+Kannada                 29
+Kannadagowla            22
+Karnaranjani            22
+KarnatakaSuddhasaaveri  15
+Kathanakuthoohalam      29
+Kedhaaragowla           28
+Kedhaaram               29
+Keeravaani              21
+Kharaharapriyaa         22
+Kiranaavali             21
+Kokiladhwani            28
+Kokilapriya             11
+Kunthalavaraali         28
+Kuranji                 29
+Lalithaa                15
+Lalithapanchamam        15
+Lathaangi               63
+Maadhavamanohari        22
+Maalavasree             22
+Maalavi                 28
+Maarggahindholam        20
+Maayaamaalavagowla      15
+Madhyamaavathi          22
+Malahari                15
+Malayamaarutham         16
+Mandhaari               51
+Manirangu               22
+Manohari                22
+Manoranjitham           20
+Megharanjani            15
+Mohanakalyaani          65
+Mohanam                 28
+Mukhari                 20  da*
+Naadhanaamakriyaa       15
+Naagagaandhaari         20
+Naagaswarali            28
+Naamanaarayani          50
+Naarayanagowla          28
+Naaraayani              28
+Naasikaabhooshani       70
+Naata                   36
+Naatakapriya            10
+Naatakuranji            28
+Naayaki                 22
+Nalinakaanthi           29
+Natabhairavi            20
+Navarasakannada         28
+Neelaambari             29  ni*
+Paadi                   15
+Panthuvaraali           51
+Paras                   15
+Poornachandhrikaa       29
+Poornashadjam           22
+Poorvikalyaani          53
+Prathaapavaraali        28
+Punnaagavaraali          8  ri*
+Raamapriyaa             52
+Ranjani                 59
+Ravichandhrika          28
+Reethigowla             22
+Revathi                 16
+Rishabhapriya           62
+Saalakabhairavi         22
+Saama                   28
+Saaramathi              20
+Saaranga                65  ma*
+Saaveri                 15
+Sahaana                 28
+Sankaraabharanam        29
+Sarasaangi              27
+Saraswathi              64
+Saraswathimanohari      28
+Senchurutti             28  ga*
+Shadvidhamaarggini      46
+Shanmukhapriyaa         56
+Simhavaahini            27
+Simhendramadhyamam      57
+Sindhubhairavi           8  ri* da*
+Sindhuraamakriya        15
+Sivaranjani             22
+Sooryakaantham          17
+Sowrashtram             17  ni*
+Sree                    22
+Sreeranjani             22
+Subhapanthuvaraali      45
+Suddhabangaala          22
+Suddhadhanyaasi         22
+Suddhadhesi             22
+SuddhaHindholam         22
+Suddhasaaveri           29
+Sunaadhavinodhini       53
+Supradheepam            17
+Suvarnaangi             47
+Surati                  28
+Takka                   15
+Thodi                    8
+Udhayaravichandhrika    21
+Umaabharanam            28
+Vaachaspathi            64
+Vaagadheeswari          34
+Vakulaabharanam         14
+Valaji                  16
+Varaali                 39
+Varddhani               23
+Vasantha                17
+Vasanthabhairavi        14
+Vijayasree              39
+Yadhukulakaambhodi      28
+Yamunaakalyaani         65  ma*
+Vivarddhani             29
+
+

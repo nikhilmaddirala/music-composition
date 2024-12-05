@@ -1,0 +1,327 @@
+999999 0 0221022 036 04 04 04 "12221212" [Thana varnam in Mohanam - Aadhi thaalam - Composer Patnam Subramania Iyer]
+
+[This version includes practice in Thisra nadai i.e. 3 notes per aksharam, which leads to 3 original aavarthams being sung in 2 aavartham time and hence the tempo change command is inclued. If you play a part of the file be sure to iclude the tempo change command preceding the selection. The thisra nadai comes in between Kaalam 1 and Kaalam 2]
+
+ {T 36}
+ [Pallavi Kaalam 1]
+ gaa- ((((ga>>>>))ga;(.).))ga
+[gaa   gaa]
+[Nin   nu ]-|
+\ree,-,-|sa(((sa>>>))sa.(.))ri(((ri>>>))ri.(.))-ga(((ga>>>))ga.(.)) ri(((ri>>>))ri.(.))
+[ree ;   sa   sa            ri          ri      ga          ga      ri          ri]         
+[ ko     ri                             yun  ]-|
+
+ sa ri ga ri -|sa ri sa dA -| sa ri ga pa -| ga ri sa ri 
+[na            dhi             ra            aa..]-|
+ ga pa ga((ga>>>)ga.)-|3ri sa- ri ga -| ri((ri>>>)ri.) sa dA -|sa ri ga ri
+[ga pa ga       ga      ri sa  ri ga    ri        ri   sa dA   sa ri ga ri]
+[ni                          khi     ..                     la ]-|
+ ga pa ga - pa-|3da pa - da Sa -| da((da>>>)da.) pa -ga-| da pa- ga ri
+[ga pa ga - pa-  da pa - da Sa    daa            pa -ga-| da pa- ga ri]
+[lo         ka           naa      ya                 ka        ]-|
+
+{T 36}
+[Anupallavi]
+gaa-((((ga>>>>))ga;(.).))ga-|paa,-,-| ga(((ga>>>))ga.(.))pa(((pa>>>))pa.(.))-|da(((da>>>))da.(.)) -paa
+[gaa   gaa                   paa ;    ga          ga     pa          pa       da          da       paa]
+[Nan nu  paa     lim                                          pa ]-|
+ da Sa da((da>>)da.)-|4pa ga-da pa -|da-ga da pa-|ga ri sa ri
+[da Sa da       da     pa ga da pa   da ga da pa  ga ri sa ri]
+[sa                         ma         ya       mu ]-|
+
+ ga((ga>>>)ga.) pa-((pa>>>)pa.)-|da- pa-da Sa -|da-Sa ((Ri<<Ri.Ri<<.)) Sa-|/Ga \Ree-Sa
+[ga        ga   pa         pa    da  pa da Sa   da Sa   Ri             Sa   Ga  Ree Sa] 
+[naa                                 mee       dha      kru                 pa]-|
+
+da Sa-/Ri Sa-|3Sa-da pa da- |Sa daa pa-|ga ri sa-ri
+[     joo                     da        raa    ]-|
+
+{T 36}
+[Mukthaayi Swaram Kaalam 1]
+ gaa-ri-ga-|ri-sa-((ri//ga))\ri.-| sa-ri-sa-ga-|ri-ga-sa-ri
+[gaa ri ga  ri sa   ree             sa ri sa ga  ri ga sa ri]-|
+ sa-\dA-sa-  ri-|ga-ri-ga-pa-|ga-pa-(da da<< da da<)-|paa,-,
+[sa  dA sa   ri        ga ri ga pa  ga pa  daa              paa ;]-|
+ ga-pa-da-pa-|((Sa)\da.)-Sa-(Ga\Ri)-Ga-|Ree-Ga-Sa-|3Sa-Ri-(Ri\da)da
+[ga pa da pa    da       Sa  Ri     Ga  Ree Ga Saa     Ri   daa] -|
+ Sa-(Sa\pa)pa-da-|Sa-(Ga\Ri)-Ga-Sa-|4Sa-da-paa-|ga-ri-sa-ri
+[Sa  paa      da  Sa   Ri    Ga Saa     da paa  ga ri sa ri]-|
+
+{T 24}
+[Pallavi - Thisra nadai]
+gaa- (((ga>>>>)))(ga.(.))-|3ga-\ree-|3ri-,-sa-|4(((sa>>>))-sa.(.))-ri(((ri>>>))ri.(.))-|
+ga-(((ga>>>))ga.(.)) ri-|(((ri>>>))ri.(.))-
+[Nin nu   ko    ri                           yun  ]
+sa ri-| ga ri -sa-| ri sa dA -| sa ri ga-| pa - ga ri-| sa ri -
+[na            dhi             ra            aa..]
+ga-| pa ga((ga>>>)ga.)-|3ri sa- ri-|ga ri((ri>>>)ri.)-| sa dA -sa-| ri ga ri-|
+[ni                          khi     ..                     la ]
+ga pa ga -| pa da pa -| da Sa da-|((da>>>)da.) pa -ga-|4da pa- ga-|4 ri-
+[ka         naa        ya                ka        ]
+
+[Pallavi - Thisra nadai repeat]
+gaa-|((((ga>>>>))ga;(.).))ga-pa-|4pa,-,-|ga(((ga>>>))ga.(.))pa-|(((pa>>>))pa.(.))-da(((da>>>))da.(.))-| -paa-
+[Nan nu  paa     lim                                          pa ]
+da-|Sa da((da>>)da.)-|4pa ga -da-| pa -da-ga-|4da pa-ga-| ri sa ri-|
+[sa                        ya        ya       mu ]
+ga((ga>>>)ga.) pa-|((pa>>>)pa.)-da-pa-|da Sa -da-|Sa ((Ri<<Ri.Ri<<.)) Sa-|/Ga \Rii-|Sa-
+[naa                                 mee       dha      kru    pa]
+da Sa-|/Ri Saa-|da pa da- |Sa daa-|pa-ga ri-| sa-ri
+[      joo               da        raa    ]
+
+{T 24}
+[Mukthayi swaram - Thisra nadai]
+ga-|3ga-ri-ga-|ri-sa-((ri//ga)\ri)-|ri-sa-ri-|sa-ga-ri-|ga-sa-ri-|
+sa-\dA-sa-|(gari)-ga-ri-|ga-pa-ga-|pa-(da da<< da da<)-|paa,-|,
+ga-pa-|da-pa-((Sa)\da.)-|Sa-(Ga\Ri)-Ga-|Rii-Ga-|Saa-Ri-|(Ri\da)da-
+Sa-|(Sa\pa)pa-da-|Sa-(Ga\Ri)-Ga-|Saa-da-|paa-ga-|ri-sa-ri-|
+
+
+{T 36}
+[Pallavi Kaalam 2]
+(  gaa - gaa- \rii; -  sa((sa>>>)sa.) ri((ri>>>)ri.) - ga((ga>>>)ga.) ri ri)
+[  gaa - gaa-  rii; -  sa   sa        ri    ri  -      ga  ga         ri ri]
+[  Nin   nu    ko      ri                              yun  ]-|
+( sa ri ga ri - sa ri sa dA -  sa ri ga pa - ga ri sa ri
+[ na            dhi            ra            aa..]-|
+  ga pa ga ga ri sa- ri ga  - ri ri sa dA - sa ri ga ri
+[ ni                 khi     ..             la ]-|
+ ga pa ga - pa da pa - da Sa - da da pa -ga da pa- ga ri)
+[ lo         ka         naa     ya        ka        ]-|
+
+[Anupallavi - Kaalam 2]
+(gaa-gaa-paa ;- ga(ga>ga) pa(pa>pa) da(da>da)-paa
+[gaa gaa paa ;  ga    ga  pa    pa  da    da  paa]
+[nan nu  paa    lim                           pa]-|
+ da Sa da(da>da) pa ga- da pa da-ga da pa-ga ri-sa ri
+[da Sa da     da pa ga- da pa da-ga da pa-ga ri-sa ri]
+[sa                     ma       ya       mu ]-|
+ ga (ga>ga) pa (pa>pa) da pa-da Sa -da-Sa Ri Sa-Ga Rii-Sa
+[ga     ga  pa  pa     da pa-da Sa -da-Sa Ri Sa-Ga Rii-Sa]
+[naa                    mee    dha         kru    pa]-|
+ da Sa-Ri Saa -da pa da- Sa daa pa-ga ri sa-ri)
+[      joo     da        raa      ]-|
+
+[Mukthayi Swaram - Kaalam 2]
+(gaa-ri-ga-ri-sa-rii- sa-ri-sa-ga-ri-ga-sa-ri-|
+ sa-dA-sa-ri-ga-ri-ga-pa- ga-pa-daa-paa,-,-|
+ ga-pa-da-pa-da-Sa-Ri- Ga-Rii-Ga-Saa-Ri-daa-|
+ Sa-paa-da-Sa-Ri-Ga-Saa da-paa- ga-ri-sa-ri )-|
+
+{T 36}
+[Pall Repeat - Kaalam 1]
+ gaa- ((((ga>>>>))ga;(.).))ga
+[gaa   gaa]
+[Nin   nu ]-|
+\ree ;-|sa(((sa>>>))sa.(.))ri(((ri>>>))ri.(.))-ga(((ga>>>))ga.(.)) ri(((ri>>>))ri.(.))
+[ree ;   sa   sa            ri          ri      ga          ga      ri          ri]-|       
+[ ko     ri                             .]
+saa ;-|;;-|;;-|;;-|
+
+{T 36}
+[Charanam - Kaalam 1]
+
+ ga.(.-.(((ga>>))ga;(.).))ga-|ga.((ga<))ga((ga<))ga -|ri ga pa ga-|paa-paa
+[gaa     gaa                  gaa  ;                  ri ga pa ga  paa paa]  
+[san     nu                   thaan                    gaa         Sri]-|
+ ga((ga>>>)ga.)da((da>>>)da.)-|paa-ga((ga>>>)ga.) -|da pa-ga pa-| ga ri sa ri-|
+[ga        ga  da        da    paa ga        ga     da pa ga pa   ga ri sa ri]
+[ni                                vaa                    sa    ]-|
+
+{T 36}
+[Swaram 1]
+ gaa,-, -|\rii - saa-| ((ri)ga)ri(.),-, -| (ri)\\dAA,- .
+[gaa ;-   ree -  saa-   ree ; -             dAA]-|
+-/rii - \dAA -| saa,-,| rii,-,-| gaa - \rii
+[ ree    dAA    saa ;   ree ;    gaa    ree]-|
+
+{T 24}
+[Charanam - Thisra nadai]
+
+ga.-.((((ga>>))ga;(.).))-|3ga-ga((gaa<))(ga-|3ga)((gaa<))ga -ri-|ga pa ga-|paa-pa-|3pa
+[san  nu   thaan         gaa         Sri]
+ga((ga>>>)ga.)-|da((da>>>)da.)-pa-|3pa-ga((ga>>>)ga.) -|da pa-ga-|4pa-ga ri-| sa ri-
+[ni                              vaa             sa    ]  
+
+[Charanam thisra nadai repeat]
+ga-|4ga-((((ga>>))ga;(.).))ga-|ga((gaa<))ga((gaa<))-|3ga -ri-ga-|3pa ga-pa-|3pa-paa
+[san  nu   thaan         gaa         Sri]
+ga((ga>>>)ga.)-da-|3((da>>>)da.)-paa-|ga((ga>>>)ga.) -da-|3pa-ga pa-|ga ri-sa-|3 ri-
+[ni                              vaa             sa    ]  
+
+{T 24}
+[Swaram 1 - Thisram]
+gaa-|3ga-, -\ri-|3ri - saa-| ((ri)ga)ri(.),-|, - (ri)\\dA.-|3dA- ,-
+-/ri-|3ri - \dAA -| saa , -|, rii-|3ri-,- ga-|3ga - \rii-|
+
+{T 36}
+[Charanam - Kaalam 2]
+(gaa- gaa- ga(ga< ga ),.-. ri ga pa ga-paa (pa>>)pa.-
+[gaa  gaa  gaa ;           ri ga pa ga paa paa]
+[san  nu   thaan         gaa         Sri]-|
+ ga((ga>>>)ga.)da((da>>>)da.)paa-ga((ga>>>)ga.)da pa-ga pa ga ri sa ri
+[ga        ga  da        da  paa ga        ga  da pa ga pa ga ri sa ri]
+[ni                              vaa             sa    ]-|
+ )
+{T 36}
+[Swaram 1 - Kaalam 2]
+(gaa ; -rii - saa-  ((ri/ ga))\ ri. ; - \dAA ;-
+[gaa ;  ree   saa    ree   ;             dAA ;]-|
+ rii - dAA - saa ,-, - ree,.-.  - gaa - rii-|
+)
+
+{T 36}
+[Charanam - Kaalam 1]
+ ga.(.-.(((ga>>))ga;(.).))ga-|ga.((ga<))ga((ga<))ga -|ri ga pa ga-|paa-paa
+[gaa     gaa                  gaa  ;                  ri ga pa ga  paa paa]-|
+[san     nu                   thaan                   gaa         Sri]
+ ga((ga>>>)ga.)da((da>>>)da.)-|paa-ga((ga>>>)ga.) -|da pa-ga pa-| ga ri sa ri
+[ga        ga  da        da    paa ga        ga     da pa ga pa   ga ri sa ri]-|
+[ni                                vaa                    sa    ]  
+
+{T 36}
+[Swaram 2 Kaalam 1]
+ga.(.-.) -ga- ri-|ga- ri- sa-(ga ri)-| ga.(.-.)ga- pA-| dA-dA-sa-(gari)-|
+ga.(.-.)- ga-ga -| da - pa- ga- ri-|ga.(.-.) ga - Sa-| \da- pa- ga-\ri-|
+
+{T 24}
+[Charanam Thisram]
+ga.-.((((ga>>))ga;(.).))-|3ga-ga((gaa<))(ga-|3ga)((gaa<))ga -ri-|ga pa ga-|paa-pa-|3pa
+[san  nu   thaan         gaa         Sri]
+ga((ga>>>)ga.)-|da((da>>>)da.)-pa-|3pa-ga((ga>>>)ga.) -|da pa-ga-|4pa-ga ri-| sa ri-
+[ni                              vaa             sa    ]  
+
+[Charanam Thisram repeat - for completing Aavartham at the end of swaram]
+ga-|4ga-((((ga>>))ga;(.).))ga-|ga((gaa<))ga((gaa<))-|3ga -ri-ga-|3pa ga-pa-|3pa-paa
+[san  nu   thaan         gaa         Sri]
+ga((ga>>>)ga.)-da-|3((da>>>)da.)-paa-|ga((ga>>>)ga.) -da-|3pa-ga pa-|ga ri-sa-|3 ri-
+[ni                              vaa             sa    ]   
+
+{T 24}
+[Swaram 2 - Thisram]
+ga.-. -|ga- ri -ga-| ri- sa-(ga ri)-|gaa-ga-| pA-dA-dA-|sa-(gari)-
+ga-|3ga-ga-ga -|da -pa-ga-| ri-gaa-| ga- Sa-\da-| pa- ga-\ri-
+
+{T 36}
+[Charanam Kalam 2]
+
+(gaa- gaa- ga(ga< ga ),.-. ri ga pa ga-paa (pa>>)pa.-
+[gaa  gaa  gaa ;           ri ga pa ga paa paa]
+[san  nu   thaan         gaa         Sri]-|
+ ga((ga>>>)ga.)da((da>>>)da.)paa-ga((ga>>>)ga.)da pa-ga pa ga ri sa ri
+[ga        ga  da        da  paa ga        ga  da pa ga pa ga ri sa ri]
+[ni                              vaa             sa    ]-|
+ )
+
+{T 36}
+[Swaram 2 Kaalam 2]
+(gaa - ga- ri- ga- ri- sa- ri- gaa-ga- pA- dA-dA-sa-ri-|
+ gaa- ga-ga - da - pa- ga- ri- gaa- ga - Sa- da- pa- ga- ri-)-|
+
+{T 36}
+[Charanam Kaalam 1 Repeat]
+ ga.(.-.(((ga>>))ga;(.).))ga-|ga.((ga<))ga((ga<))ga -|ri ga pa ga-|paa-paa
+[gaa     gaa                  gaa  ;                  ri ga pa ga  paa paa]  
+[san     nu                   thaan                   gaa         Sri]-|
+ ga((ga>>>)ga.)da((da>>>)da.)-|paa-ga((ga>>>)ga.) -|da pa-ga pa-| ga ri sa ri
+[ga        ga  da        da    paa ga        ga     da pa ga pa   ga ri sa ri]
+[ni                                vaa                    sa    ]-|
+
+{T 36}
+[Swaram 3 Kaalam 1]
+ paa -((da.da<da.))- ((da.da<da.))-| paa- ga- ri-| saa- ri- /ga -|\rii- sa-\ dA
+[paa   da              da            paa  ga  ri   saa  ri   ga    ree  sa   dA]-|
+ saa - (gari)-ga-|paa-((da/Sa))\\da.-| Sa-Saa -da-|paa- ga- ri
+[saa    ri    ga  paa  daa             Sa Saa  da  paa  ga  ri]-|
+
+{T 24}
+[Charanam - Thisram]
+ga.-.((((ga>>))ga;(.).))-|3ga-ga((gaa<))(ga-|3ga)((gaa<))ga -ri-|ga pa ga-|paa-pa-|3pa
+[san  nu   thaan         gaa         Sri]
+ga((ga>>>)ga.)-|da((da>>>)da.)-pa-|3pa-ga((ga>>>)ga.) -|da pa-ga-|4pa-ga ri-| sa ri-
+[ni                              vaa             sa    ]  
+
+[Charanam - Thisram repeat]
+ga-|4ga-((((ga>>))ga;(.).))ga-|ga((gaa<))ga((gaa<))-|3ga -ri-ga-|3pa ga-pa-|3pa-paa
+[san  nu   thaan         gaa         Sri]
+ga((ga>>>)ga.)-da-|3((da>>>)da.)-paa-|ga((ga>>>)ga.) -da-|3pa-ga pa-|ga ri-sa-|3 ri-
+[ni                              vaa             sa    ]  
+
+{T 24}
+[Swaram 3 - Thisram]
+paa -|((da.da<da.))- ((da.da<da.))- pa-|3pa-ga- ri-|saa- ri-| /ga -\rii-| sa-\ dA-
+sa-|3sa - (gari)-ga-|paa-((da/Sa))\\(da)-|3da- Sa-Sa-|3Sa -da-pa-|3pa-ga- ri-
+
+{T 36}
+[Charanam Kaalam 2]
+(gaa- gaa- ga(ga< ga ),.-. ri ga pa ga-paa (pa>>)pa.-
+[gaa  gaa  gaa ;           ri ga pa ga paa paa]
+[san  nu   thaan         gaa         Sri]-|
+ ga((ga>>>)ga.)da((da>>>)da.)paa-ga((ga>>>)ga.)da pa-ga pa ga ri sa ri
+[ga        ga  da        da  paa ga        ga  da pa ga pa ga ri sa ri]
+[ni                              vaa             sa    ]-|
+ )
+
+{T 36}
+[Swaram 3 Kaalam 2]
+(paa  - da- da-| paa- ga- ri-| saa- ri- ga -|rii- sa- dA-|
+-saa - ri-ga-paa-daa- Sa-Saa -da-  paa- ga- ri-)
+-|
+
+{T 36}
+[Charanam Kalam 1]
+ ga.(.-.(((ga>>))ga;(.).))ga-|ga.((ga<))ga((ga<))ga -|ri ga pa ga-|paa-paa
+[gaa     gaa                  gaa  ;                   ri ga pa ga  paa paa]  
+[san     nu                   thaan                    gaa         Sri]-|
+ ga((ga>>>)ga.)da((da>>>)da.)-|paa-ga((ga>>>)ga.) -|da pa-ga pa-| ga ri sa ri
+[ga        ga  da        da    paa ga        ga     da pa ga pa   ga ri sa ri]
+[ni                                vaa                    sa    ]-|
+
+{T 36}
+[Swaram 4 - Kaalam 1]
+Saa -Ri-Ga-|\Ri- Sa-Ri-Sa-|  da- Sa-\ da- pa-|\ ga- \ri- sa -ri-|
+ saa;-| ,, - sa-sa-|  ri-((ri>>))(ri.)- ga-((ga>>)ga.)-| pa-((pa>>)pa.)-da-((da>>)da.)
+[ saa; ;   - sa-sa-|  ri  ri            ga   ga          pa   pa         da   da]-|
+SA -Ri- Ga-Ri-|Ga-Ri-\da-Sa-|  Ri- Sa- Ri- Sa -| \pa-da- Sa-da-|
+ Sa-da-ga-pa-|da-pa-da-pa -| /Ri- Sa- da- pa-| \ga-ri- sa-(gari)
+[Sa-da-ga-pa da-pa-da-pa      Ri- Sa- da- pa    ga-ri- sa- ri]-|
+
+{T 24}
+[Charanam - Thisram]
+ga.-.((((ga>>))ga;(.).))-|3ga-ga((gaa<))(ga-|3ga)((gaa<))ga -ri-|ga pa ga-|paa-pa-|3pa
+[san  nu   thaan         gaa         Sri]
+ga((ga>>>)ga.)-|da((da>>>)da.)-pa-|3pa-ga((ga>>>)ga.) -|da pa-ga-|4pa-ga ri-| sa ri-
+[ni                              vaa             sa    ]  
+
+{T 24}
+[Swaram 4 - Thisram]
+Sa-|3Sa -Ri-Ga-|\Ri- Sa-Ri-|Sa-da- Sa-|\da- pa-\ ga-| \ri- sa -ri-|
+saa,-|, ,, -| sa-sa- ri-|((ri>>))(ri.)- ga-((ga>>)ga.)-| pa-((pa>>)pa.)-da-|((da>>)da.)-
+SA -Ri-| Ga-Ri-Ga-|Ri-\da-Sa-|  Ri- Sa- Ri-| Sa - \pa-da-| Sa-da-
+Sa-|da-ga-pa-|da-pa-da-|pa - /Ri- Sa-| da- pa- \ga-|ri- sa-(gari)-|
+
+{T 36}
+[Charanam Kaalam 2]
+(gaa- gaa- ga(ga< ga ),.-. ri ga pa ga-paa (pa>>)pa.-
+[gaa  gaa  gaa ;           ri ga pa ga paa paa]
+[san  nu   thaan         gaa         Sri]-|
+ ga((ga>>>)ga.)da((da>>>)da.)paa-ga((ga>>>)ga.)da pa-ga pa ga ri sa ri
+[ga        ga  da        da  paa ga        ga  da pa ga pa ga ri sa ri]
+[ni                              vaa             sa    ]-|
+ )
+
+{T 36}
+[Swaram 4 Kaalam 2]
+(Saa -Ri- Ga- Ri- Sa-Ri-Sa-  da- Sa- da- pa- ga- ri- sa -ri-
+saa ; saa - sa-sa-  ri- ri- ga- ga- pa-pa-da-da--|
+SA - Ri- Ga-Ri-Ga-Ri-da-Sa- Ri- Sa- Ri- Sa - pa-da- Sa-da-
+Sa-da-ga-pa-da-pa-da-pa - Ri- Sa- da- pa- ga-ri- sa-ri-)-|
+
+{T 36}
+[Charanam Kaalam 1 ]
+ga.-.((((ga>>))ga;(.).))ga-|ga.((ga<))ga((ga<))ga-|ri ga pa ga-|paa-paa-|
+[san  nu                    thaan                  gaa         Sri]
+3paa;-|;;-|
+
+
+

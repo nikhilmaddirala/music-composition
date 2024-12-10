@@ -1,0 +1,122 @@
+ 
+FORMAT OF GAAYAKA FILES
+
+Carnatic Music (South Indian Classical Music) notation files for playing with gaayaka.exe or gaayaka6.exe (one of the programs in Rasika and RasikaV2 packages) have a standard extension .gka and have the following format.
+
+The entire file is in ASCII including the header and is basically an adaptation of the ordinary conventions in writing notation for Carnatic Music compositions. The notation uses the syllables sa, ri, ga, ma, pa, da and ni which are the solfa used to sing the notes with sa representing the tonic.
+
+HEADER
+
+The header contains part of the information which is usually given in printed notations at the start. The headers are different for files created with version 1.3 and earlier and those created with version 1.4 and later although the extension .gka is the same. The difference arises out of the facility to generate automatic 'thaalam' (rhythm count) sound in the later versions.
+
+Although the headers contains ASCII information the headers are structured and there should be only a single space between the numbers in the headers and before the last string in quotes
+
+Header for versions 1.4 or later and version 2 (RasikaV2 package):
+
+The first number is always 999999 and the second 0. These are used to find the version and warn if the file is from an older version and would not have thalam information. The subsequent numbers represent the scale (7 digit number each digit representing the types of the seven notes) , note duration (in .01 seconds), notes per aksharam (for thaalam), jaathi of the thaalam, thaalam number (see the table below). This is followed by the thaalam structure as a string in double quotes The following table gives detailed information on each of these fields
+
+Number in the Header	Attribute represented	Value and interpretation
+First number	Version	Always 999999 for versions 1.4 or later
+Second number	Dummy	Always 0
+Third number Scale (Melam). A seven digit number representing the types of notes used in the scale	First Digit	0 - Shadjam (this position is always 0)
+ 	Second Digit	1 - Suddha Rishabham, 2 - Chathusruthi Rishabham, 3 - Shadsruthi Rishabham
+ 	Third Digit	0 - Suddha Gaandhaaram,1 - Saadhaarana Gaandhaaram, 2 - Anthara Gaandhaaram
+ 	Fourth Digit	1 - Suddha Madhyamam, 2 - Prathi Madhyamam
+ 	Fifth Digit	0 - Panchamam (this position is always 0)
+ 	Sixth Digit	1 - Suddha Dhaivatham, 2 - Chathusruthi Dhaivatham, 3 - Shadsruthi Dhaivatham
+ 	Seventh Digit	0 - Suddha Nishaadham, 1 - Kaisiki Nishaadham, 2 - Kaakali Nishaadham
+Fourth number	Note Duration	1 to 100 - note duration in 1/100th of a second
+Fifth number	Notes per aksharam	The number of notes used in thaalam's one aksharam in the notation
+Sixth number	Jaathi of the thaalam	Represents the number of aksharams in the Laghu of the thaalam
+Seventh number	Thaalam number	0 Dhruva, 1 Matya, 2 Roopaka, 3 Jampa, 4 Thriputa, 5 Ata, 6 Eka, 7 Khanda Chaapu, 8 Misra Chaapu, 9 Modern Roopaka
+Eighth number.
+This is a string in quotes	Thaalam Sound Structure	1 - beat (clap), 2 - wave or count, 3 - silence (in Chaapu only). The string will have as many digits as the aksharams in one thaalam cycle.
+
+Example: The header 999999 0 0221022 032 04 03 04 "1221212" . First 2 numbers are not further processed.
+
+0221022 indicates that the scale has the notes sa ri2, ga2, ma1, pa, da2, ni2. This example is for Melam 29
+
+032 indicates that one note lasts for 32/100 seconds
+
+04 - 4 notes per aksharam
+
+03 - jaathi - Thisra or 3 - the laghu of the thaalam has 3 units
+
+04 - name of the thaalam Thriputa
+
+"1221212" - structure of the thaalam sound - a beat, 2 counts, a beat, a wave, a beat and a wave (waves and counts have the same sound in the program) This example represents Thisra Jaathi Thriputa thaalam
+
+Header file for versions earlier than 1.4
+
+There is no information regarding version. The file starts with a 7 digit number which represents the scale (melam) as described above (for the 3rd number in the later versions' header). The second number represents the tempo in .01 seconds. There is no information regarding thaalam as versions upto 1.3 did not have facility to generate thaalam sound. Thus the header in older versions would be simple. For instance 0122012 022 represents melam 51 and tempo of 22
+
+Opening and playing files created in different versions
+
+A file created in earlier versions of Gaayaka, when opened with a later version will show a message that auto thaalam information has not been incorporated and may be set using the Thaalam menu. The file will play without any change. Thaalam can be set and saved in the new format.
+
+Files created with later versions of Gaayaka when opened with earlier versions will generate an error 'invalid melam data'. The file will be opened without processing the header and the edit window will show the header also - a string of digits like 999999 0 0221022 032 04 04 04 "12221212" in the beginning. To play the file these digits have to be deleted, the correct melam and tempo have to be set using the controls in the program. The file can then be saved to play in the older versions, only the melam and tempo would be saved
+
+NOTATION
+
+The header is followed by the notation data in ASCII
+
+The notation is adaptation of the standard system used in Carnatic Music with 2 changes and many extensions to provide greater accuracy.
+
+Carriage returns have no significance. Lines may be broken as desired - usually a line covers one aavartham or a sub-multiple of an aavartham.
+
+Carnatic Music songs usually do not cover more than 2 octaves. The lower bound is a fifth below the tonic and the upper bound a fifth above one octave of the tonic. A .gka file can have notation covering 3 octaves less a semitone.
+
+The symbols for the notes are sA, rI, gA, mA, pA, dA, nI, sa, ri, ga, ma, pa, da, ni, Sa, Ri, Ga, Ma, Pa, Da, Ni. Both letters in lower case indicate the middle octave, first letter in upper case indicates upper octave, first letter in lower and second letter in upper case indicates lower octave. Most of the notations in use are in Tamiz language which does not have upper and lower cases. The present convention puts a dot over the note for indicating upper octave and a dot below the note for lower octave. The modification has been made to enable the standard fonts to be used and enter notation by ordinary typng. The notes as written above are held for 1 unit duration which is decided by the 'tempo' set.
+
+A repetition of the vowel of the symbol such as saa, or Rii (or Ree) indicates notes of 2 units duration.(existing convention in Tamiz)
+
+A left bracket indicates starting of halving the tempo and a right bracket restores the previous tempo. Multiple brackets may be used. This replaces the existing convention of putting a line or lines over the notes to indicate doubling or quadrupling of tempo.
+
+The changes in Gaayaka format from the existing convention is illustrated in the figure below
+
+
+
+An asterisk '*' immediately after a note indicates an accidental i.e. the variety of note is different from the one indicated by the melam (scale)- 'anya swaram' of Bhaashaanga raagam. This is an existing convention.
+
+A hyphen '-' is used to separate phrases. Notes within a phrase are sounded together with a smooth default transition of .05 seconds between adjacent notes. This duration is taken off the second note. This is not used at all or used without any precision in the existing notation system. (some times it is used to separate groups of notes covering one time unit and some times a phrase)
+
+A comma ',' indicates either a silence of one note duration(when used at the beginning of a phrase) or extending the previous note by one unit of duration when used after a note without '-'
+
+A semicolon ';' is similar but indicates 2 notes' duration
+(Comma and semicolon are used in the existing conventions but whether they indicate a silence or extend the previous note has to be guessed from the context since there is no accepted convention for grouping notes into phrases.)
+
+(The following extensions and enhancements have no equivalents in the existing notation system)
+
+A stop (period) '.' is similar to comma and semicolon and indicates half a note duration (not used in the existing convention)
+
+A '<' symbol increases the pitch of the note by a fraction of 81/80 and may be repeated for further increase.
+
+A '>' symbol decreases the pitch of the note by a fraction of 80/81 and may be repeated for further decrease.
+(These two symbols are not available in the existing convention, but such microtonal changes in the note pitches are essential to depict the Carnatic raagams accurately especially when playing the same notation in different tempos.)
+
+A '/' or '\' increases the transit duration between two notes by .05 seconds. May be repeated to further increase the duration and thus provide slide or portamento or slur - a very important aspect of Carnatic Music. The transit time is taken off the subsequent note. This symbol is sometimes used in the existing convention for a slide but without any quantitative significance.
+
+A '%' symbol between 2 notes reduces the transit to 1/1600 of second - almost instantaneous transit but without break.
+
+A digit between 1 and 9 at the start of a phrase indicates a relative lowering of the amplitude (volume) of the phrase relative to 10 for phrases not having any digit (not available in the existing convention)
+
+A pair of square brackets [ ] can be used to put comments or words of lyric. Anything between the square brackets is ignored in playing.
+
+A pair of curly brackets { } enclosing the letter 'M' or 'm' followed by a number(between 1 and 72) as in {M 65} indicates the change of scale to Melam 65 from that point. This obviates using a large number of asterisks to change the note variety. Such scale change is necessary for 'Raagamaalika' or a song with a succession of different raagams.
+
+A pair of curly brackets { } enclosing the letter 'T' or 't' followed by a number between 1 and 100 as in {T 36} indicates change of tempo (duration of a note) from that point, the number indicating the duration of one note in 1/100th of a second.
+
+A piping symbol '|' indicates markers for block display while playing. Without this marker the blocks for play (and display) are chosen equally up to the maximum buffer size and may not coincide with significant points in the music
+
+A + symbol indicates manual thaalam sound at that point. Auto thaalam is not available in versions 1.3 and before and the beat sound position had to be manually indicated in the notation. From version 1.4, by selecting the auto thaalam in the menu the beat and count sounds are automatically generated.
+
+A $ symbol at the beginning puts off auto thaalam. This is a toggle and the thaalam sound will start from the point where the symbol is put again. Such a point has to be the beginning of a rhythm cycle to get correct beats.
+
+The '|' and '+' symbols automatically introduce a phrase break at those points.
+
+
+________
+Home
+Carnatic Music Notation
+About Gaayaka
+Some Gaayaka files

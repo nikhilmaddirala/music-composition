@@ -1,0 +1,351 @@
+~@ 1. Start Here ! $
+		
+ The tradational way of learning carnatic music is presented here. The lessons
+ mentioned are available in the main programs Sishya which can be accessed
+ clicking 'Open Sishya' menu above.
+
+ Before starting on the lessons you have to find out your convenient 'Aadhara Sruthi'
+ which is the pitch of the 'Tonic' most convenient for you so that you can sing in 2
+ 'Sthaayis' (octaves) easily. Don't get deterred by these terms. Here is a rule of thumb.
+ Women (girls and grown ups) can start with a Sruthi of 5 'Kattai'. Young boys could
+ also use the same before their voice 'breaks' . Men would generally use 1 Kattai
+ The numbers 1 and 5 represent the pitch of sa, the first of the seven notes used in
+ Carnatic Music - sa, ri, ga, ma, pa, da & ni.  1 kattai implies that the sa is at the same
+ pitch as the 1st white key (or 8th, 15th.. etc. white keys) on the Keyboard and 5 kattai
+ is the 5th white key (or 12th, 19th.. etc white keys). Carnatic music is always played or
+ sung with a Sruthi instrument - Thamboora or Sruthi Box in the background which
+ generates the tones of sa, pa (the fifth note) and upper Sa, in the pitches of the selected
+ sruthi. 'Swaram' is the Carnatic name for a note.
+
+ In Sishya the Sruthi can be changed (up or down) to suit your voice since you practice
+ with Veena/Flute tones which are synthetic and the pitch can be easily changed
+ .(Next - Check your voice)          
+~@ 2. Check your voice with the default Sruthis$
+
+ To see whether you are comfortable with the default Aadhara Sruthis click below
+ (either 5 kattai - boys, girls and ladies or 1 kattai - men). You can click sa - pa - Sa 
+ separately and try to sing at the same pitch. Try to hold the note with your voice
+ and merge it  with the recorded voice. If you are not sure ask someone to help you
+ to see whether you are able to merge your voice with the recorded sound. You can 
+ also try with the instruments (which some persons find it easier to merge with).
+ Click 'Stop' button to stop the sound.
+
+ Once you are able to merge your voice reasonably well with the recordings, you
+ can click on the 'sa pa Sa' button and sing the notes  'sa pa Sa pa sa' with the
+ recorded voice. Try to hold the note as long as in the  recording. Don't bother if 
+ your voice wavers a bit; it will improve as you get along.
+
+ If you find that the default 1 or 5 kattai does not suit you, open Sishya (in the menu
+ above click 'Open Sishya' and click 'Instrumental' or If you are already in Sishya then
+ click the menu  'Lessons' and click on "Sruthi Test" (in the lessons window click on
+ 'Click for Sruthi Testing'). This loads a small file with saa-paa-Saa-paa-saa and the
+ notes ranging from pAA of lower octave to Paa of upper octave. Play this with 1 kattai
+ or 5 kattai and try to align your voice with the notes. If you find you have to strain
+ for touching the upper notes then reduce the Sruthi. If you find you cannot reach the
+ lower notes increase the Sruthi. (Next - The lessons)
+~@3. The lessons $
+
+ Traditionally Carnatic Music the lessons start with 'Sarali Varisai' (singing simple
+ combination of notes within the 'Madhya Sthaayi' or middle octave in different
+ tempos) and goes on to 'Hechu Sthaayi Varisai' (notes touching the higher octave),
+ 'Janta varisai' (doubling of notes with stress), 'Dhaattu Varisai' (jumping around among
+ notes) and 'Alankaaram' - singing notes in different 'Thaalams' (rhythmic cycles).
+ Together these are called 'Swaraavali'. All the lessons involve singing only the notes
+ sa, ri, ga, ma, pa, da, ni and the higher octave Sa.  In the case of Hechusthaayi varisai
+ notes Ri, Ga, and Ma of the higher octave are also used. As you progress you will
+ understand how the same name is used for the notes at a higher pitch.  There are no
+ lyrics for these lessons. These are to be practiced in 3 tempos, the basic (1st Kaalam),
+ double (2nd Kaalam) and quadruple (3rd Kaalam). The lessons are in all the 3 kaalams.
+
+ The next page explains the hand gestures for keeping thaalam. Note that irrespective
+ of the kaalam the hand gestures will go at the same speed and in the same cyclic
+ fashion.
+
+ There is no absolute tempo standard in carnatic music. In Sishya Sarali varisais are
+ given in very slow speed so that you can sing all the Kaalams easily. Other lessons
+ are in different higher speeds. If you find that the tempo in the lessons is too fast,
+ you can make them slower by changing the number in the 'Tempo' box and viceversa.
+ Always choose a number divisible by 8 or preferably by 16.  Larger number means 
+ slower tempo. (Next - Rhythm or Thaalam)
+~@4. Rhythm or Thaalam$
+
+ In Carnatic music we keep rhythm by hand gestures called 'Kriya'.
+ The three basic gestures are  (See the pictures below):
+
+ 1.Beating the palm downwards on your thigh (possible only if you are sitting!) or on
+      the other palm (a clap)
+ 2.Counting with fingers 
+ 3.Turning the palm up (wave).           
+ The order and number of times these kriyas are performed in a cycle defines the
+ Thaalam. In the lessons window of Sishya the hand gestures are shown on top right
+ corner at each point of the music (along with a bell like sound).  All the lessons 
+ (except Alankaarams and the Bhairavi Varnam) are in a simple 8 unit Rhythm
+ cycle called 'Aadhi Thaalam'  which goes like this:
+
+ {1.clap,  2.count(little finger),  3.count(ring finger),  4.count(middle finger)
+ 5.clap,  6.turn palm up,  7.clap,  8.turn palm up}
+
+ This one cycle is called an Aavartham and is repeated till the song ends.  
+
+ The time taken for each kriya (Clap or Count or Wave) is same and is referred to as
+ one Aksharam or one Akshara Kaalam.
+
+ See later regarding the different Rhythm Cycles of Alankaarams (Next First Lesson)
+ ~@5. First Lesson$
+
+ You can open Sishya by clicking 'Lessons (Veen/Flute Audio)..' in the opening
+ screen of Gaayaka-Sishya without closing this window. Or you can click the 'Open
+ Sishya' menu above to open Sishya. You get a window showing the lessons available.
+ The Swaraavali list is seen first. To get lists of other lessons click the appropriate 
+ category at the bottom. To start with click 'Sarali Varisai (1 to 7)' Take some time 
+ to study the screen.  In the beginning you can start playing without changing any 
+ values except Sruthi. Click Sruthi Menu and Choose your Sruthi 5 kattai or 1 kattai
+ or other suitable sruthi for your voice. The screen is divided into rows and cells
+ showing the note names and the Kaalam number when tempo changes.
+
+ (You can also open 'Sishyas.hlp' which explains the screens with pictures)
+
+ The first line reads "Sruthi" followed by 'saa paa Saa paa saa' and the next line
+ reads 'Join'. The first cell gives the aadhara sruthi sound (Thamboora) Then the
+ notes 'saa paa Saa paa saa' are heard (meant just to listen). This is repeated in
+ the next line - meant for the student to join.
+
+ Click 'Play'. The cell being played changes to pink color. Thamboora sound is heard
+ in the 1st cell and the subsequent cells play 'saa paa Saa paa saa'. Just listen. Join
+ with the music in the second line and sing 'saa paa Saa paa saa' with the music. The
+ third line - Thaalam has the background Thamboora and thaalam sound. The hand
+ gestures picture also appears. Just watch and try to follow the gestures. The actual
+ lesson starts in the fourth line, simple 'sa ri ga ma pa da ni Sa' and 'Sa ni da pa ma
+ ga ri sa'  (the first sarali varisai)  played in slow tempo (Kaalam 1). Just listen. 
+ The line will be repeated for you to join. Listen to the next line also and then you
+ can click 'Stop'. Go to the next page in this window for explanation of various 
+ controls on the screen.
+
+~@6. First Lesson - continued$
+
+ Now {left click} on the first cell of the 4th line (sa Kaalam 1) and {right click} on the
+ last cell of the 7th line. You find that 4 rows are in blue and rest in white. Now only
+ the blue cells will be played.
+
+ Click 'Play Mode' menu and choose 'Aavartham Repeat'.  Now click 'Play'. The music
+ in the tone of Flute will start. Each line will be repeated once. Listen on the first pass
+ and join on the next pass. The first 2 lines are in Kaalam 1, the next in Kaalam 2 
+ (double tempo) and 4th line is double as fast as the 3rd line.
+
+ If you find it difficult to merge with Flute tone, click the 'Instrument' menu and choose
+ Veena.  
+
+ Once you are able to adjust your voice to the recorded tones, click the 'Play mode'
+ menu and choose 'Normal (Continuous Play)'. The selction or entire file plays 
+ continuously once. You can get the selected part or the whole file to play repeatedly 
+ by clicking the check box 'Loop (Repeat)'. This is the best way to learn any difficult
+ part of a lesson. Select a part, select 'Normal' mode, click the 'Loop' check box and
+ play. When in 'Loop' you have to click 'Stop' to stop the music. 
+
+ In the slowest tempo, if you find that one Aavartham is too much to remember, select 
+ 'Half Aavartham Repeat followed by Full Aavartham' in the 'Play mode' menu and
+ try whether it suits you better in the beginning. (Next  The Sishya Screen)
+~@7. The Sishya Screen$
+
+ (Sishyas.hlp explains the screen with pictures - open Sishya and press F1)
+
+ Most of the controls on the Sishya screen are self explanatory. 'File' is for opening  
+ a file. You rarely have to use this since you can access the lessons from the lessons  
+ window which automatically opens when you start the program. You can also get the
+ lessons window by clicking ont he 'Lessons' menu. 'Select All' is for selecting the
+ entire file for playing (which is the default when you open a file). Selected cells are
+ in pale blue color and the rest are with white background. In the previous page you have
+ seen how to select a group of cells, by left-clicking on the starting cell and right-
+ clicking on the ending cell. The starting cell should always be the start of an aavartham
+ - in the case of Swaraavalis the first cell of any row. If you left click on a cell in the
+ middle you will get a warning. You can still play from there but the hand gestures will
+ start from that point and can confuse you.
+
+ 'Play Mode' enables you to select 5 possible ways of playing the lessons
+ (1) Normal Continuous Play of selected part, (2) Aavartham repeat - each aavartham
+ is repeated once (3) Half Aavartham repeat - each half avartham is repeated for the
+ student to join and then entire avartham is repeated  Two additional modes for (2) and
+ (3) are avialable in which the repeated audio is in low volume. The half-avartham mode  
+ is useful for beginners but the thaalam gestures may be a bit confusing since when  
+ half aavartham is repeated the gestures will be for the second half of the aavartham,
+ but it will be all right when full aavartham is repeated. In any mode if 'Loop' is checked
+ the music will be repeated after the selected part is played. 
+
+ The last 2 additional modes in which the volume of repeated audio is low, can be used 
+ after the lesson has been properly learnt and enable you to compare your intonation
+ with the lesson.  However, in this mode you cannot use 'Loop'. If you try Loop you will
+ find that the entire selection is played in low volume when it loops. (continued next page)
+~@8. The Sishya Screen (continued)$
+
+ 'Instrument' - for selection of Veena or Flute, 'Sruthi' - for selection of Aadhara Sruthi. 
+ 'SruthiVolume' - for adjusting background Thamboora volume - 0 will cut it out and 9 is
+ the maximum. 'Melam Change' - for practicing scales other than Maayamalavagowla. 
+ This will be blanked out in lessons with gamakam and in Geethams and Varnams.
+
+ The 3 buttons 'Play', 'Pause' and 'Stop' are self explanatory. You click 'Pause' 
+ instead of Stop when you want to comtinue from that point. The word on the 'Pause'
+ button changes to  'Resume' and clicking again resumes the music. The 'Loop'
+ Check Box , if checked repeatedly plays the selected cells. This is in addition to the
+ built in loops in modes 2 and 3. When you load a lesson the 'Tempo' box and the
+ 'Base Tempo' boxes show the same values. The number represents the duration of
+ a single note in seconds, multiplied by 100. The Tempo can be increased or reduced.
+ {Larger number means slower music}. In lessons with Gamakam too much of change
+ of the tempo from the base tempo will distort the music. Always use a number divisible
+ by 8 or better by 16.
+
+ Move the cursor over the 'Status' label and you get a small pop up window showing
+ the Instrument selected, the Sruthi Selected, Sruthi Volume, whether Melam change is 
+ possible for the chosen lesson and the current mode of play.
+
+ Thaalam Sound Check Box if unchecked will stop the thaalam (bell like) sound. 
+ Similarly the 'Hide Thaalam picture' check box if checked will hide the picture.  
+ The 2 scroll bars on top right enable you to adjust the volumes of the thaalam
+ sounds  The longish window above the cells shows information about the lesson.
+ (Next - The Scales for Swaraavali, Gamakam)
+~@9. The Scales for Swaraavali.  Gamakam.$
+
+ All the Swaraavali exercises are usually taught in the scale Maayamalavagowla
+ which uses 5 white notes and 2 black notes of a keyboard. (see picture below).
+ But actually you can get many different combinations of 7 notes from the 12
+ notes giving different melams (See Rasika - Melam module for more information).
+
+ Gamakam is an essential part of Carnatic Music. Gamakams are oscillations and
+ unbroken movements between and around notes. The Swaraavali's are however
+ taught without Gamakam or with minimum Gamakam.  But Sishya includes some
+ Swaraavali's with Gamakam which you can practice at a later stage.
+
+ Students of instrumental music are often asked to practice some of the Swaraavalis
+ in different 'scales' other than Maayamalavagowla. Lessons without Gamakam in
+ Sishya can be easily changed to 4 other scales by simply choosing from the 'Melam
+ change' Menu. It is a good idea for the vocal student also to practice some
+ Swaraavali's in other scales given in the menu especially Melam 29 (Dheera-
+ Sankarabharanam) which uses all the white notes if you sing in 1 kattai.
+ (Next - Conventions in notation)
+~@10. Some Conventions in notation$
+
+ In printed notation, the convention is to put a dot above the note for upper octave and
+ a dot below the note for lower octave. In Sishya (and other programs of this package)
+ the convention used is - all small case letters for middle octave, first letter in upper
+ case for higher octave and second letter in upper case for lower octave - like this
+'pA dA nI sa ri ga ma pa da ni Sa Ri Ga Ma' - to sing from pa of lower octave, through
+ middle octave and then upto ma in upper octave. In Swaraavali you have upper octave
+ in 'Hechu Sthaayi varisai' and in many Geethams you have lower and upper octave 
+ notes.
+
+ When a note (ex. sa) is prolonged for 2 note duration it is either  'saa or sa ,' .  The
+ comma is equivalent to one unit duration. A semicolon ';' is equal to 2 note duration.
+ These are also used for silences and you have to listen to the music to know what
+ exactly a comma or semicolon inplies. A four note duration of a single note can be
+ written as  'sa , , ,' or 'saa ;'
+
+ In Sishya in kaalam 1 (slowest tempo) one note is shown in one cell. In kaalam 2, two
+ notes are shown in a cell.  So in kaalam 1 a double note will be written as 'sa' in one
+ cell (with the symbol -> to show that the note is prolonged into the next cell without
+ break) and a comma in the next cell, while the same note in kaalam 2 will be 'saa' in
+ one cell.  In Swaraavali and Geetham excercises kaalam 1 has one note per 'Aksharam'
+ and kaalam 2 has 2 notes and kaalam 3 has 4 notes. Because of this one 'Aavartham' of
+ Aadhi thaalam will have 8 notes in kaalam 1, 16 in kaalam 2 and 32 in kaalam 3. (For
+ Janta varisai however, kaalam 1 implies a pair of notes per aksharam,  kaalam 2 pairs
+ etc., each double note being counted as one)(Next - Alankaarams)
+~@11. Alankaarams$
+
+ The Alankaarams are swarams sung in the 7 'Soolaadhi' thaalams. You can see the
+ Thaalam module of Rasika for full information on the thaalam system. Here, the
+ definitions of the 7 thaalams used in Alankaarams is given.
+
+ {1. Dhruva} - Clap (Beat) followed by 3 counts, clap and turn palm up, clap followed by
+   3 counts,(again) clap followed by 3 counts - 14 aksharams in all.
+ {2. Matya} - Clap followed by 3 counts,  clap and turn palm up, clap followed by 
+   3 counts - 10 aksharams in all.
+ {3. Roopaka} - Clap and turn palm up, clap followed by 3 counts - 6 aksharams.
+ {4. Jampa } - Clap followed by 6 counts, clap, clap and turn palm up.- 10 aksharams.
+ {5. Thriputa} - Clap followed by 2 counts, clap and turn palm up - 7 aksharams.
+ {6. Ata} - Clap followed by 4 counts, (again) clap followed by 4 counts, clap and turn
+   palm up, (again) clap and turn palm up - 14 aksharams.
+ {7. Eka } - Clap followe by 3 counts - 4 aksharams
+
+ The official name for clap (beat) followed by counts is 'Laghu', for clap and turning
+ palm up is 'Dhrutham' and for only a clap is 'Anudhrutham'. Dhrutham is always 2 
+ aksharams and Anudhrutham one aksharam, but the number of aksharams in Laghu 
+ depends on the 'Jaathi' - 3 is 'Thisra', 4 is 'Chathusra', 5 is 'Khanda', 7 is 'Misra' 
+ and 9  is 'Sankeerna'. In the above Dhruva, Matya , Roopaka and Eka are chathusra 
+Jaathi  (you call it Chathusra Jaathi Dhruva thaalam etc.), Jampa is misra jaathi and 
+Thriputa is thisra jaathi. Anudhrutham comes only in Jampa thaalam. (Next - Geethams)
+ ~ @12. Geethams $
+
+ After you have done the 'Swaraavali' you go to Geethams. So far you only sang the
+ notes - now you have lyrics whose tune corresponds to the notes. Here you get
+ your first training to adjust your pitch of the voice to a note while uttering some
+ other letter (of the lyric). Geethams are simple and do not have much Gamakams
+ (oscillations and movements between around notes). The Geethams are mostly
+ in the 3 Thaalams  - Aadhi, Roopakam and Thriputa, though one in Eka thaalam
+ has been included. To give you a good control of your voice, the Geetham lessons
+ have been given both with and without Gamakam. If you have a teacher, take his
+ advice about practicing Geethams with Gamakam.
+
+ Open Sishya, click Geethams, click Sri Gananatha - usually the first Geetham taught..
+ As in the case of Swaraavali, the first 2 lines let you align your voice with 'sa pa Sa'.
+ Then there are 5 lines giving the Aarohanam (ascending sequence of notes) and
+ Avarohanam (descending sequence) of the Raagam Malahari which is the raagam
+ for this Geetham. As before you can first hear and then join. Then there is one line
+ to show you the thaalam - here Roopaka thaalam which has 6 aksharams and goes
+ like this:  1.Clap, 2.Turn palm up, 3 Clap, 4 Count(little finger), 5 Count(ring finger),
+ 6.Count(middle finger). The geetham starts after this. You find the notes on the top
+ line of the cell and the corresponding letter of the lyric at the second line.
+ (continued next screen)
+~@13. Geethams (continued)$
+ 
+ It is customary to sing the notes of the Geetham first and then sing the 'Saahithyam'
+ (lyric). In the beginning you can go through the entire lesson singing only the notes
+ (choose Aavartham Repeat mode). Once you get the notes correctly, in the same
+ mode, sing the swarams in the first pass and the lyric in the second pass. Finally
+ you can change the play mode to 'Normal' and sing only the lyric.
+
+ Often a single letter of the lyric covers 2 or 3 swarams. In the beginning of the
+ geetham Sri Gananatha, the syllable 'Sri' covers 2 notes ma and pa. You start
+ singing 'Sri' at the pitch of ma and go up to the pitch of pa while continuing the
+ vowel 'i'. In the screen a dot is put in the place for letters of the lyric, when
+ the previous letter is prolonged.  In the 7th Aavartham, the letter 'Am' covers both
+ 'ri' and 'ma'.  However, when there is a note with double duration and a single
+ letter of lyric you simply prlong the lyric letter for 2 notes ('lam' in the 5th
+ line) at the same pitch.
+
+ SriGananatha is given in 2 kaalams. Note that the hand gestures and thaalam
+ proceed at the same tempo in both kaalams. To get a good control of switching
+ kaalam, click 'Loop' and try to practice the last 2 Aavarthams of kaalam 1 and the
+ first 2 Aavarthams of kaalam 2 in normal mode. For this choose 4 lines such that
+ the kaalam changes on the third line (In the SriGananatha geetham, scroll down
+ till you see '(Kal 2) Sri'  This is where kaalam 2 starts (notice that 2 notes are
+ shown in one cell from here).  Select from the row ' lam . bo . dhara' (2 lines 
+ above) upto 'kari vadana karuna  sagara' (4 lines in all). When the  music loops
+ back you go back to kaalam 1 and when it comes to the 3rd line you  get
+ kaalam 2. (next -Beyond Geethams)
+~@14. Beyond Geethams$
+
+ After the Geethams you learn Varnams in different ragams which have phrases
+ typical to that ragam, have all typical gamakams and sparse in consonants so
+ that you get a good practice in 'akaara saadhakam' (singing with the vowel 'Aa'
+ without pronouncing a consonant). The varnams are supposed embody all the 
+ typical phrases and movements of a raagam and styles of singing may vary from
+ school to school.  A few varnams are included in the lessons. As the gamakams
+ coming in varnams are often subtle, it is adivsable to have a teacher or a guide
+ to check the student's singing.
+
+ It is customary to sing varnams in 2 kaalams, if started sufficiently slow.  The varnams
+ (except the Bhairavi varnam) are given in 2 kaalams.  Here the first kaalam has 4 notes
+ per thalam aksharam and the second kaalam double that.  For Mohana varnam a
+ separate lesson with thisra gathi has also been added. Try this after you progress with
+ krithis.
+
+ Krithis are compositions with lyrics and generally tunes set by the composer himself.
+ Simple krithis in medium tempo are often easier to sing than varnams and often the
+ teacher intersperses varnams with small krithis. Even advanced singers learn new
+ varnams later. Krithis have been given as part of Gaayaka and not Sishya. The 
+ Gaayaka files have the extension .gka. You can also use the Student's .wav/mp3 
+ player or Student's CD player, to practice krithis available with you as .wav/mp3 
+ files in your PC or in CD's. You can access these programs from the Gaayaka-Sishya
+ opening menu (the last two choices).
+
+	[End]
+~
+ 

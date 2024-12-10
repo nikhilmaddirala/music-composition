@@ -1,0 +1,302 @@
+    @THAALAM - Introduction$
+
+ Rhythm is an essential attribute of music.  Melodies have some natural points
+ of accent or stress which occur at regular intervals of time and make people 
+ tap their feet or clap the hands.  The inherent rhythm of a piece of music can 
+ be felt even if their is no percussion instrument but percussion instruments 
+ enhance the effect of rhythm.   In Carnatic Music rhythm is based on a scheme 
+ of Thaalams or rhythmic cycles.  The term 'Laya' denotes the rhythmic aspect 
+ of Carnatic Music.  At concert level rhythm is invariably provided by one or 
+ more percussion instruments like the Mridhangam or Ghatam.  These instru-
+ ments can also provide independent rhythmic movements (called  'Thani 
+ Aavarthanam'). 
+
+ Compositions are set to definite rhythmic patterns identified by the thaalam
+ name.  The time unit of thaalam is known as Aksharam. The total number of 
+ Aksharams in a cycle and the points of accent or stress distinguish one thaalam
+ from another.  There is no absolute time unit prescribed and the tempo of a 
+ composition can be altered according to the singer's needs but once chosen, 
+ the time unit has to be maintained throughout the composition.  A cycle of 
+ thaalam is known as '^Aavartham%'.
+
+ Except in the case of Naadhaswaram the Raaga ^Aalaapana% or extempore 
+ elaboration of a ^raagam% is not accompanied by a rhythmic instrument .~
+  @The Angams (Parts) of Thaalams$
+ Thaalams now in use have 3 ^Angam%s or parts called the '^Laghu%', '^Dhrutham%' 
+ and '^Anudhrutham%' (except in the case of 'Chaapu thaalams'). The Angams are 
+ defined by the manner in which the rhythm is kept by hand movements (Kriya).  
+ Rhythm is kept by <beating or clapping> with the palm, <counting with fingers>
+ and <waving (or turning up)> of the palm. A Laghu consists of a beat followed by 
+ certain number of counts depending upon the '^Jaathi%' of the Thaalam.  A 
+ Dhrutham is a beat and a wave while the Anudhrutham is simply a beat.   
+ Normally the beginning of each of the Angams represented by the beat is also 
+ the point of accent.  The time interval between any of these actions has to be 
+ constant and each action is an aksharam. The units of time for a dhrutham is 
+ always 2 and for anudhrutham 1, but the number of units for the laghu will 
+ depend upon the jaathi of the thaalam.  The hand movements help in keeping
+ rhythm of complex thaalams like the Ata thaalam having 4 angams with a total 
+ of 14 aksharams in a cycle.
+ 
+ The popular 'Aadhi' thaalam consists of 8 aksharams in a cycle divided into a 
+ laghu with 4 units followed by 2 dhruthams of 2 units each.  Thus for the laghu
+ (4 units)  the singer claps once and counts 3 times with fingers, and for the 2
+ dhruthams he claps , turns the palm up, again claps and turns the palm up 
+ to complete a cycle. You can see a <pictorial> representation of Aadhi thaalam
+ and hear beats of Mridhangam and also see how a <song> is fitted into  the 
+ rhythm cycle.~
+   @ The 35 Thaalams now in use$
+
+ The thaalam itself is defined by the number and order in which the different 
+ angams appear.  Although ancient texts speak of 108 thaalams,  7 thaalams are 
+ now in use - Dhruva, Matya, Roopaka, Jampa, Thriputa, Ata and Eka, each with 
+ its own definition of angams.  Of the 3 possible angams laghu, dhrutham and 
+ anudhrutham only laghu can have variable number of aksharams.  The number 
+ of aksharams in the laghu is defined by the jaathi (class) of the thaalam.  The 
+ jaathi names (which are prefixed to the thaalam) and their aksharams are:
+ ^Thisra% (or ^Thrisra%) - 3, ^Chathusra% (or ^Chathurasra%) 4,  ^Khanda% - 5,  ^Misra% - 7,  
+ ^Sankeerna% - 9.  Thus for instance Thriputa thaalam consists of a laghu followed 
+ by two dhruthams. Thisra jaathi Thriputa thaalam, therefore, consists of a laghu 
+ with 3 aksharams and two dhruthams of 2 aksharams each, giving a total of 7 
+ aksharams.  The 'kriya' or action for laghu will be one clap or beat and  2 counts 
+ giving a total of 3 aksharams.
+
+ The 7 thaalams with 5 jaathis each give 35 thaalams.   To refer to a thaalam
+ properly,  we have to mention both its jaathi and the name ( ex. 'Chathusra 
+ Jaathi ^Matya thaalam%' or 'Khanda Jaathi ^Ata thaalam%' ). 
+
+ There are 2 thaalams ^Misra% Chaapu and ^Khanda% Chaapu which are also in
+ use and which do not have the laghu, dhrutham structure.~ 
+  @Structures of the thaalams$
+
+ Each thaalam has a normal ('default') ^jaathi% and when jaathi is not mentioned
+ the normal jaathi is implied.  For jaathis other than the normal jaathi of a
+ thaalam the jaathi has to be mentioned.  Thaalam structures are:
+   
+   Thaalam           Thaalam Structure             Normal Jaathi        Aksharams 
+
+    Dhruva        Laghu,Dhrutham,Laghu,Laghu       Chathusra      4+2+4+4 = 14
+    Matya         Laghu,Dhrutham,Laghu                   Chathusra         4+2+4 = 10
+    Roopaka     Dhrutham,Laghu                              Chathusra             2+4 =  6
+    Jampa        Laghu,Anudhrutham,Dhrutham        Misra                7+1+2 = 10
+    Thriputa      Laghu,Dhrutham,Dhrutham             Thisra                3+2+2 =  7
+    Ata              Laghu,Laghu,Dhrutham,Dhrutham  Khanda         5+5+2+2 = 14
+    Eka             Laghu                                              Chathusra                         4
+
+ Thus ^Ata thaalam% without mention of jaathi would mean ^Khanda% Jaathi Ata
+ thaalam; for other jaathis of Ata thaalam we have to mention the jaathi. Aadhi
+ thaalam is actually Chathusra Jaathi Thriputa (not the default for Thriputa). The
+ order in which the thaalams are mentioned above is used historically ( ex- for
+ ^Alankaaram%s in beginner' s lessons). Dheekshithar composed the first 7
+ Navagraha Krithis starting from Sooryamoorthe (on Sun) in these seven      
+ thaalams and in that order.~
+   @Kaalam (Tempo)$         
+ Once a composition is started the duration of an ^aksharam% has to be kept the
+ same.   However, the music may have one note per aksharam, or 2 notes or 4 
+ notes and so on thereby changing the duration of notes and making the music 
+ appear faster. This aspect of Carnatic Music is called Kaalam. For lessons 
+ up to the Geetham the first ^kaalam% is sung with one note or ^swaram% per 
+ aksharam,  the second kaalam with 2 notes  per aksharam, the third with 4 notes 
+ and so on. (A long note of double duration is counted as 2 notes.)  You can listen to 
+ 3 kaalams on <Mridhangam> in ^Aadhi thaalam% and notes of Maayaamaalava-
+ gowla played on <Veena> in 4 kaalams. Varnams are written with 4 notes per 
+ aksharam and often when Varnam is sung in 2 kaalams, the 'first' kaalam is with
+ 4 notes and 'second' kaalam is with 8 notes per aksharam.
+
+ Although no absolute duration for aksharams is prescribed normally they take 
+ between .5 and 1.2 seconds.  When aksharams are of longer duration the beats, 
+ counts and waves may be repeated once to enable accuracy in time keeping.  
+ This is called 'Two Kal(l)ai  Chowkam',  while the normal method is called 'one 
+ ^kalai%'.   Aadhi thaalam with 2 kalai may appear to have 16 aksharams as each 
+ count is repeated once i.e. 2 beats, 6 counts, 2 beats, 2 waves, 2 beats and 2 
+ waves.  Listen to <2 kalai> in Aadhi thaalam-the repetition of action is indicated 
+ by change in color of the arrow which remains in the same position.   Also listen 
+ to one line of a <krithi >in 2 kalai.  Here the arrow moves with the flow of time.
+ 4 kalai chowkam (very slow) is sometimes used in Pallavis.~
+   @ Generate 35 thaalams$
+ You can generate any of the 35 thaalams by selecting from the menu below.
+ Each thaalam has its own single name.  This name is shown at the top of the 
+ thaalam generation screen.   This single name is rarely used except in the 
+ case of 'Aadhi'  thaalam which is chathusra jaathi  thriputa thaalam and is   
+ very popular.   Since the default thriputa thaalam is thisra jaathi the single 
+ name is used for chathusra jaathi.   For other thaalams when default jaathi is 
+ not used  the practice is to mention jaathi and thaalam name. The screen 
+ enables you to vary aksharam duration and generate thaalam in two kalai. 
+ The screen also uses  the term ^nadai%  which is explained in the next  screen
+ The aksharam duration for thisra nadai will not be same as for 1 & 2 kalai 
+ except for certain positions of the tempo bar~.
+  @Gathi or Nadai$
+ The normal method of counting kaalams involves 1,2,4,8 notes per aksharam 
+ depending upon the kaalam.  As the most common usage is 4 notes  per  
+ aksharam (or its sub multiples) this is called '^Chathusra% ^Gathi%'  or 'Chathusra
+ ^Nadai%'.  (Even short phrases of music can have different kaalams in the same
+ phrase.)  An aksharam can also have 3,5,7 or 9 notes (7  &  9  being very rare 
+ and even 5 is not common).  When music is sung with  3 notes per aksharam 
+ (similar to triple meter) it is in ^Thisra% Nadai.   5,7 or 9 notes per aksharam are 
+ called  ^Khanda%, ^Misra% and ^Sankeerna% nadais.  Higher kaalams of these nadais
+ use multiples of these numbers.  Listen to <thisra nadai>  and <khanda nadai>. 
+ While keeping thaalam in thisra nadai, it is customary to count each aksharam
+ by 2 quick repeat actions followed by one blank of the same duration.  For
+ khanda nadai and additional action with a blank is used. Compositions in
+ Thisra Nadai are common (Piraanavara  in  Kalyaani by Panchanatha Iyer,  
+< Thonrunigazhndha>  (Chindhu)  by Subramania Bhaarathi).  For an example
+ of nadai changing inside a ^krithi% see idadu.gka in Gaayaka.
+ 
+ Sometimes the same composition is sung either in Chathusra Roopakam in 
+ chathusra nadai (six aksharams with 4 notes per aksharam i.e. 24  (12  notes  
+ of 2 cycles) or in  Aadhi thaalam  thisra nadai (eight aksharams with 3 notes per 
+ aksharam again giving 24 notes in the cycle).  Listen to the krithi Naaradha Muni 
+ in Panthuvaraali by Thyaagaraaja  in  <Roopaka-Chathusra Nadai> and in
+ <Aadhi-Thisra Nadai>.~
+  @Eduppu (Krithi's starting point)$
+ 
+ A composition's melodic lines may start at the beginning of the thaalam cycle,  
+ later or earlier.  Many compositions in Aadhi thaalam start after one and half 
+ aksharams; sometimes this is called Dhesaadhi.  Many compositions which are
+ composed for commencement at the beginning of ^aavartham% are often sung 
+ leaving half aksharam in the beginning and contracting the time for the first  2
+ syllables.  This is done for an illusory quickening in tempo and in subsequent
+ variations the same line may start at the beginning of the thaalam cycle itself.  
+ Commencing a composition after the beginning of thaalam cycle is termed as 
+ 'anaagatham' or 'thalli eduppu'  in Tamil.  According to the number of 
+ aksharams skipped in the beginning it is termed as '^arai% idam' (half a place)
+ or 'onrarai idam' (one and half  places).  Starting at the beginning of the cycle 
+ is termed as 'sama eduppu'.  Compositions are also started at three fourths 
+ aksharams and this is more common with compositions sung in slow tempo (2  
+ ^kalai%  chowkam). 
+
+ Rarely a composition may also commence before the beginning of the cycle.
+ This is called '^Atheetha eduppu%'.  Audio-visual examples for some of the 
+ 'eduppus' are in the next screen.~
+  @Eduppu - Examples$
+ Audio-visual examples of Eduppu showing the first few aavarthams of some
+ compositions are available in this screen. (All are in Aadhi thaalam of 8
+ aksharams)
+
+ <'Gajavadhana'> in Sreeranjani by Paapanaasam Sivan is an example of a
+ krithi starting at half aksharam in the first line. The krithi starts at one fourth 
+ aksharam in the second line. The music starts at the beginning of the cycle 
+ (^Samam%) when the first line of the song is repeated after the second line. 
+
+ <'Enthanerchina'> in Suddhadhanyaasi by Thyaagaraaja starts at one & half 
+ aksharams after the beginning of the cycle.  The words of lyric also start one 
+ and half aksharams after the first dhrutham. However, the accents come on the 
+ beats.
+
+ <'Vaathaapi Ganapathim'> in Hamsadhwani by Dheekshithar  starts at the beat
+ in all lines.
+  
+ <'Sivakaama Sundhari'>  in Mukhaari by Paapanaasam Sivan starts one beat
+ before the thaalam cycle (^atheetha eduppu%)
+
+ <'Karpagame'> in Madhyamaavathi by Paapanaasam Sivan is an example of a
+ 1 ^kalai% krithi starting at three fourths aksharam.~
+   @Chaapu  Thaalams$
+
+ Two thaalams ^Misra% Chaapu and ^Khanda% Chaapu do not have the laghu, 
+ dhrutham structure.  They have 7 and 5 units of time but the units are so short 
+ that they can be said to have 3 and half and 2 and a half units.   Misra Chaapu
+ is divided as 1 and half+1+1 units.  The first one and half units are marked by 
+ two quick beats (or waves)  separated by half unit of time, then a gap of 1 unit 
+ of time is given followed by two beats of 1 unit each totaling to  3 and half.   
+ Listen to <Misra Chaapu>.
+
+ Often while singing compositions in misra chaapu which provide for two   
+ syllables in the 1 and half units of time the syllables are held for three fourths 
+ of units of time each.  Many krithis in Misra Chaapu start after 1 unit from the
+ beginning i.e. half a unit after the first 2 quick beats.   Listen to the krithi
+<'Pakkala nilabadi'> in Kharaharapriya by Thyaagaraaja in misra chaapu, the
+ first line starts after 1 unit but the second line starts at the beat. The syllables
+ 'mu' and 'u' are held for three fourths of units of time. 
+
+ Khanda Chaapu is divided as 1+1 and half units.  The first 1 unit is marked by
+ a beat and the second 1 and half unit by two quick beats separated by half 
+ unit followed by one unit of time. Listen to <Khanda Chaapu> and the krithi
+ <'Anupama'> in Ataana by Thyaagaraaja. The krithi starts at the beat.~
+   @In Practice ..!$
+ In practice some departures are seen from the theoretical definitions. The time 
+ units of chathusra jaathi Roopaka thaalam in most krithis (except those of
+ Dheekshithar) are much faster than for other thaalams so that the thaalam is 
+ generally kept by beating twice and waving once i.e. as if it consists of an
+ anudhrutham and a dhrutham with a total of 3 aksharams.   Many krithis
+ originally composed in ^Misra% Jaathi Jampa thaalam (total 10 aksharams) are
+ now sung in ^Khanda% Chaapu (2 and half aksharams). (Ex.Neevadanegana in 
+ Saaranga by Thyaagaraaja).
+
+ The thaalams mostly used are Aadhi, Roopakam and the two Chaapu thaalams. 
+ Thyaagaraaja composed only in these and in Jampa which is now used as
+ Khanda Chaapu.  ^Ata thaalam% is used in varnams.  Thiruppugazh  songs use 
+ very  complex thaalams including those outside the 35 thaalams.  Often ^Misra% 
+ Chaapu  krithis are shown in books as in ^Thisra% Thriputa (7 aksharams)  and 
+ ^Khanda% Chaapu is sometimes referred to as ^Thisra% Roopakam (5 aksharams).
+
+ The beginning of Angams denoted by a beat may not always be the points of 
+ accent especially in 2 ^kalai% krithis having ^eduppu% at three fourths from the 
+ ^aavartham% start.  The accents may come at the middle of the laghu and at the 
+ second dhrutham.  Even in 1 kalai Aadhi the accents in the laghu and the 2 
+ dhruthams (each 4 aksharams) may be identical so that the beat at the second 
+ dhrutham has no special meaning.~
+ @ Thaalam and Notation$
+ The system for coding or writing notation for Carnatic  music is not quite 
+ perfect.  It provides only an outline of the melody and does not depict graces 
+ (gamakams) and pauses properly.  However, it shows the rhythm aspect fairly 
+ correctly. The system divides the sheet into vertical columns each repre- 
+ senting an ^angam% of the thaalam (such as laghu or dhrutham).  The top of the 
+ column shows the type of angam. A vertical line followed by the number of 
+ aksharams for the jaathi shows the Laghu ( |4 for ^chathusra% laghu). A circle 
+ (O) is used for dhrutham and a semi-circle (U) for anudhrutham.  The swarams 
+ are written on one line and the words of the melody on the next  line just 
+ below the corresponding swarams.  See next page for explanations~
+  @Notation - explanations$
+ The sample is 2 sangathis (variations) of "Marivere" in Shanmukhapriya in
+ ^Aadhi thaalam% (chathusra thriputa) with 8 aksharams.  The notes are written 
+ on one line and the words of melody on the next line.  Each short note (like 
+ 'sa') counts as one note and long note ('saa') counts as 2 notes.  For longer 
+ duration notes or for pauses a comma (',') is used for one note and a semi-
+ colon (';') for 2 note duration.  A line drawn above the note shows that the 
+ duration is halved and a double line means that the duration is 1/4 of normal. 
+ The '/' shows upward movement of note and '\' downward movement and 
+ does not affect the time measures.  Usually notation is written in ^kaalam% 3 
+ (4 notes per aksharam) but this may vary and one has to find out the notes
+ per aksharam by counting.  Press PgDn for further explanation.~
+  @Notation - explanations$
+ The first Laghu has 3 semicolons, 'paa daa paa' (3 long notes), a semicolon
+ and pa ma (2 short notes).  The semicolons account for 4 X 2 eight notes and
+ 3 long notes for 3 X 2 = six notes and with the 2 short notes there are 16 note
+ durations for the 4 aksharams of Laghu.  In the second dhrutham of the 
+ second line the 'ree ga ri'  (2 + 1 + 1) note duration is halved due to the line
+ above and becomes 2 notes and with  'ni sa' and 'sa ni' works out to 8 notes
+ for the Dhrutham (2 aksharams).  Others can be checked similarly.  The 3
+ semicolons in the beginning without melody show that the '^eduppu%' is 1 and
+ half aksharams from the beat.  ~
+  @Notation - explanations$
+ In writing the note names a dot above indicates higher octave and a dot below
+ shows lower octave.  In this package, however, higher octave is shown by the
+ first letter of the note in upper case and for lower octave the second and subse-
+ quent letters are shown in upper case. There is generally no indication of the 
+ ^kaalam% in which the notation is written.  If you find 8 ^swaram% units in four
+ aksharams you may infer that the kaalam is second.  Very often Chathusra 
+ Roopakam is treated as a thaalam with two beats followed by one wave and
+ the notation may show only 12 swarams for the whole aavartham.   Generally
+ there is no indication for ^Gamakam% except '/' and '\' for slides but sometimes
+ a wavy line above the note is written to indicate kampitham.~
+
+ @Notation - Another example$
+
+
+ To see another example of notation (included in Rasika Help) <click here>
+~
+               (Laghu)               (Dhrutham)          (Dhrutham)
+
+ |               |4             |        O          |        O         |
+ |                              |                   |                  |
+ |;   ;   ; paa daa paa ; pa ma | paa ; ;      paa  | pama /nee nida   |
+ |          Ma  ri  ve  . re .  | dik . .      ke   | va .  ray ya .   |
+ |                              |                   |      _______     | 
+ |nee,padaa paa daa paa ; pa ma | padapadanida pada | nisa reegari Sani|
+ |Raa maa   Ma  ri  ve  . re .  | dik . . . .  ke   | va   ray  .  ya  |
+ |RiSanidapama                  |                   |                  |
+ |Raa maa                       |                   |                  |
+
+~
+
+

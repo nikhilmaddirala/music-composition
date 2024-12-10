@@ -1,0 +1,20 @@
+
+  For best viewing of this module use 800 X 600 screen resolution or higher with small fonts. In this version the Keyboard (for arohanam-avarohanam) and phrases windows will always be visible at this resolution.  If you use a lower resolution the keyboard picture and phrases window may be partly hidden but you will see two arrows between the two windows You can click on the arrows to move the windows for full viewing- though this will partly hide the text.  You can click on the arrows again to see the full text window.
+
+ There are 2 sets of raagams in the module. Raagam(List1) has 111 raagams with full textual descriptions, audio-visuals for aarohanam-avarohanam and typical phrases of the raagam with audio and  in some cases access to Gaayaka for explanation of allied raagams with audio phrases. For each raagam some krithis are cited as examples (without audio)  Raagam(List2) has 76 less common raagams (including non-vivaadhi mela ragams left out in list1)  For this list Melam, aarohanam - avarohanam (with audio-visual) and examples of krithis (without audio) in that raagam are given.
+
+  In many cases links are provided from the text to hear some audio described therein. Clicking such link will run a single relavent line from the Phrases window which contains the phrase described in the text. The phrases window line may contain more notes than described in the link in the test.
+
+  The <B><C5>Raagam Quiz</C></B> is accessed through the menu 'RaagamQuiz'.  The quiz plays phrases of a randomly selected raagam from the List1. The very same phrases as in the main program are played. After listening, you can check the answer or go to the page describing the ragam.
+
+  The <B><C5>Krithi List</C></B> menu gives an alphabetical list of over 700 krithis cited as examples in the Ragam module. The name of the composer and the raagam are given in the list for each krithi.
+
+  List 1 and List2 are accessible from the menus Raagams(List1) and Raagams(List2) respectively. You can click on the required raagam in the list to access the screen with text and audio visual.
+
+  For more details on using the raagam module see Help.
+
+  Instrument selection: The default instrument (Veena or Flute) for the raagams has been chosen based on the raagam's bhaavam. If you change the instrument before accessing the lists then that instrument (and sruthi) will apply for all the raagams. You can of course change the instrument and sruthi inside the raagam. You can restore the default instrument by clicking Default in the Instru Menu.
+
+  While listening to the audio of aarohanam - avarohanam, if you find that the echo is disturbing (especially with flute), you can put of the echo or reduce the delay time.
+
+

@@ -1,0 +1,514 @@
+@Getting Started$
+
+ Welcome to the world of Carnatic Music - the South Indian Classical Music
+ system.   Carnatic Music has a well organized system and this package is
+ to enable you appreciate it as it is practiced  today.  In this Introductory
+ Module you will get familiar with some of the basics of the Carnatic Music.
+
+ The modules (except the Raagam module) are organised as a continuous
+ text narratives with 'links' or 'hot spots' to audio, visual or audio-visual. 
+ These links are in green color and underlined. The cursor changes into a
+ hand symbol at such links. When you click a link you may just hear a sound,
+ or another window may popup in which there may be buttons for producing
+ audio.  {If the new window does not have a 'close' button, click anywhere on
+ the text area or the blue background} outside the text or press 'ESC' to close
+ the window, stop any audio and take you back to the text. Audio without
+ a new window can also be stopped similarly except when the clip is short.
+
+ Clicking the words in Red or Brown color will show a pop up window wth
+ explanation of the term (direct access to glossary). To go to another page
+ direct  use the 'Contents Menu'.  To go to other modules, click the 'Module'
+ menu and choose required module. The 'Module' menu also has the 'Exit'
+ submenu to quit the module and return to the opening screen. To locate a
+ module with a particular topic use the 'Index (to All Modules)' menu. ~
+ @Musical Note - Pitch $ 
+
+ There are many musical forms in Carnatic Music such as ^Krithi% (compositions),
+ ^Aalaapana% (extempore elaboration), ^Kalpana Swaram% (extempore solfa),
+ ^Thaanam% etc.  But the common and essential ingredient of all the forms is the
+ ^Raagam% around which revolves the entire Carnatic Music system.  It is difficult
+ to explain the raagam system without the use of technical terms like 'note'  
+ (^Swaram%),' pitch'  ('Swarasthaanam'), 'octave' ('^Sthaayi%') etc. If you have a good
+ idea of these,  skip to next page.
+
+ A musical note is a sound with a steady or regularly varying pitch. Pitch is a 
+ musical term and is related physically to the sound's frequency. The Indian term
+ '^Swaram%'  means  'pleasant by itself'.  Listen to samples of musical notes on  
+ <Violin>, <Veena>, <Flute> and also to a <non musical sound>.  Listen to some 
+ notes with <increasing> pitch and <decreasing> pitch.  Notes of the same pitch 
+ may be produced by different  instruments like <Violin> and <Flute> differing in 
+ 'quality' or  'timbre' of the sound.  For more on the technical aspects of sound 
+ and music see the <Physics and Music> module  ~
+ @Musical Relationship - Aadhaara Sruthi$    
+
+ Musical notes may be sounded in succession to produce <melody> or simul-
+ taneously to produce <harmony>.   In either case the notes  should have
+ certain pitch relationships for producing music.  Listen to a series of notes 
+ <without musical relationship> and another <with musical relationship>. 
+ Notes which have mutual musical relationships are denoted by symbols.
+
+ In Carnatic Music one note is taken as the 'Aadhara ^Shadjam%' and is given the
+ symbol '^sa%'.  The term 'Aadhara' implies that the note is the foundation on which
+ the music rests and other notes are related to it. The Aadhara Sa sounds as the
+ basis of the music which has an inherent tendency to return to it and most
+ compositons end in it. The artist often ends his alapana (extempore raga
+ singing) also in the Aadhara Sa. Unlike in western music, the artist is free
+ to choose a pitch suitable to his voice as Aadhara Sa and for that concert or
+ song the chosen pitch becomes sa. The importance of Aadhara Sruthi has led to
+ the use of a drone in the background for all Carnatic Music renderings. This
+ drone is provided by a <Thamboora> or a Sruthi box, which produce the
+ Aadhara sa, its fifth note pa and sa of higher octave  (see topic E for an  
+ explanation of octave) in Sruthi Box and lower octave in Thamboora.  However,
+ even when there is no drone the artist constantly keeps the Aadhara Sa in his
+ mind and the listener subconsciously feels it.~
+ @Aadhaara Sruthi - Audio Samples$
+ Listen to how it feels when the same melody is played in different Sruthis.
+ 
+ Listen to ^Pallavi% of <'Ennathavam'> in Raagam Kaapi played with 'C' 
+ of the keyboard as Aadhaara Sa. The piece ends in the Aadhaara Sa. Listen to
+ the Aadhaara <sa,  the fifth (pa) and Sa> of upper octave for this key (the  
+ traditional 'sa pa Sa' that every student sings before starting his class!). Listen
+ to the <Thamboora alone.>
+
+ <Listen> to to the same piece played with 'E' as Aadhaara sruthi .
+ Listen to <sa, pa, Sa> in this sruthi and listen to the <Thamboora alone>.
+
+ <Listen> to the same piece played with 'G' as Aadhaara sruthi .
+ Listen to <sa, pa, Sa> in this sruthi and listen to the <Thamboora alone>.
+
+ In Carnatic music there is no essential difference among these three 
+ renderings. Within a few seconds the listener adjusts to the new tonic.
+ The Thamboora tuned to the tonic makes it easier to feel Aadhaara Sruthi.
+ In most cases the melody would end at the Aadhaara Sa, but it can end
+ at other notes also as in the example below:
+
+ Listen to Pallavi of <Enthanerchina> in Raagam Suddhadhanyaasi played 
+ with 'E' as Aadhaara Sa. The piece ends in Pa of the middle octave.
+ Listen <sa pa Sa> in this sruthi and listen to the <Thamboora alone>
+~
+
+ @Symbols for the Notes - Octave $
+
+ Most musical systems use seven symbols to denote the notes.  In Carnatic
+ music the symbols used for notes (in ascending pitch) are ^sa%,^ri%,^ga%,^ma%,^pa%,^da%,^ni% 
+ (which may be said to correspond to the western c,d,e,f,g,a,b).   While singing
+ solfa the same symbols are used.  Any convenient pitch can be chosen as 'sa'
+ which is the tonic and the rest related to it.  The (eighth) note after the seventh
+ has the same symbol as the first and the symbols are repeated when we go
+ higher in pitch as in sa-ri-ga-ma-pa-da-ni-Sa-Ri-Ga...  While descending below
+ sa, again the symbols are repeated as in ri-sa-nI-dA-pA...  The range from the 
+ note sa to the higher Sa is known as the <Octave>.   In Carnatic Music the   
+ middle range from the tonic to its eighth note Sa is known as ^Madhya% ^Sthaayi%, 
+ the octave above this as ^Thaara% Sthaayi and the Octave below the tonic sa as   
+ ^Mandhra% Sthaayi.     
+
+ The accepted method of writing notation is to put a dot above or below the note 
+ symbol for upper and lower octaves.  In this package Madhya Sthaayi notes are 
+ shown in lower case  ( sa ri ga ma pa da ni), Thaara Sthaayi notes with the first 
+ letter in upper case (Sa Ri Ga Ma Pa)  and Mandhra Sthaayi notes with the 
+ second letter in upper case (mA pA dA nI).~
+@Aadhara Sruthi - the 'Kattai' system$
+
+ In Carnatic Music the '^Kattai%' system is used to refer to the Aadhara Sa chosen
+ by the artist. The pitch of the first white key on the standard Harmonium or the
+ keyboard (or its higher octave) is referred to as 1 kattai, the second white key
+ as 2 kattai and so on. The black key in between 2 white keys gets half added
+ to the kattai number of the previous white key.  See the <illustration>.  With
+ the advent of Electronic Thamboora and Electronic Sruthi Box the western
+ symbols of C,D,E,F,G,A,B are also used nowadays to refere to the Aadhara
+ Sruthi chosen. The choice of Aadhara Sruthi to coincide with the keys of the
+ Harmonium or keyboard helps the accompaniments in using appropriate
+ instruments as instrumnets like Mridangam do not allow considerable up or
+ down tuning.
+
+ For theoretical discussions in this package, the Western Music symbol 'C'  is 
+ taken to be the equivalent of  'sa'  of Carnatic Music.  The keyboard visuals
+ (except in Raagam Module) use C as ^sa% which means that the aadhaara
+ sruthi is 1 ^Kattai% The key positions will change if some key other than C
+ is chosen as aadhaara sruthi. In the Raagam module the user can change the
+ Aadhara Sruthi but the Keyboard visuals will still show te Sa at the C  position.
+ The topic 'O.Key Transpose Chart' in the Melam module shows how the keys
+ chosen change when the Aadhara Sruthi is changed.~
+ @7 names for 12 notes$
+
+ Though only 7 symbols are used, actually most musical systems use 12 notes in  
+ an octave.   In Carnatic music out of the 7 symbols  five - ^ri%,^ga%,^ma%,^da% and ^ni% 
+ refer to more than one note.  Thus there are <4 different> ways for playing
+ the notes sa-ri-ga.  (in fact 6 different ways in the more complex system now 
+ used and which is explained in the ^Melam% Module).  
+
+ The 12 notes in an octave can be seen on the keyboard of  <Piano> or similar 
+ keyboard  instruments.  The 5 black keys are the extra notes to make up the 12.  
+ On the guitar or the <Veena> there are 12 frets in an octave.  You can see that
+ on the keyboard of the seven white notes <two pairs - ga-ma and ni-Sa> do
+ not have any black key in between. The pitch of these two pairs are closer than
+ the pitch distance between the other white pairs but once we have 12 notes the
+ pitch relationship between any two adjacent notes (black or white) is the same 
+ on the keyboard and roughly same on the ^Veena%. 
+
+ The Piano keyboard picture shows the notes with C as sa.   If some other key is 
+ chosen as the tonic the positions will be different.  <View> the note positions
+ when E is chosen as tonic (3 ^Kattai% ^Sruthi% - as E is the third note from C).
+
+ It is the choice of notes (usually seven or less) from these 12 notes (with some 
+ restrictions) that leads to the variety of moods in Carnatic Music. ~
+ @Raagam - Basis of Carnatic Music System$
+ Carnatic Music is essentially melodic in nature.  Limited Harmony is implicit
+ in the coalescence with ^Thamboora% and occasionally used in playing some
+ notes on instruments.   ^Raagam% is the central concept of Carnatic Music. 
+ Raagam may be said to be a melodic mood.  Indian music tends to dwell on 
+ a single mood or emotion for considerable length of time (one of the reasons 
+ for repeating phrases without change or with slight change).  Carnatic songs
+ are always set to some raagam (sometimes to a succession of raagams) but the
+ raagam can also be sung as phrases without a lyric (^aalaapana%). Listen to 
+ some samples - part of a song in raagam <Saaveri>, a song in <Hindholam> and
+ phrases of raagams <Sahana> and <Kalyani>.  A special feature of Carnatic 
+ Music is that in addition to <straight> notes, smooth <movements> from one note 
+ to another and <oscillations> between notes or around a note are extensively 
+ used.  Such movements are called ^Gamakam%s without which many Carnatic 
+ raagams will not be recognisable. 
+
+ Technically a raagam is defined by the choice of notes (from among the 12  
+ notes), their ascending and descending sequences called ^Aarohanam% and 
+ ^Avarohanam%, the nature of ^Gamakam% (or absence of it) on different notes and 
+ by {characteristic phrases} or groups of notes, the last because in Carnatic 
+ Music raagams are highly phrase oriented.  While the notes provide the 
+ skeleton of the raagam , the gamakams and the manner in which notes are 
+ used are its  'flesh and blood'. ~
+ @Raagam -Classification$
+
+ The present classification of raagams is based on the scheme of '^Janaka%' and 
+ '^Janya%' raagams (parent and child).   A ^raagam% which uses all the seven notes 
+ and has a normal straight  (not '^Vakra%' -see below) ascent and descent is a 
+ Janaka Raagam (also called ^Melakartha%).  Others are 'born' out of them.  As 
+ ^ri%, ^ga% ,^ma% ,^da% and ^ni% can take 2 variations (the black or the white notes on the 
+ keyboard) a simple scheme can provide 32 possible combinations (2 x 2 x 2 x 2 
+ x2).  Actually 72 combinations are now used based on a slightly more complex 
+ scheme for the Janaka raagams (Venkatamakhi's  Melams - handled in detail
+ in the ^Melam% module) but the bulk of raagams in use come under the 32. 
+
+ The Janya raagams as a rule have to use the same variety of the 5 notes   
+ ri, ga ma da ni as in the parent Raagam but may omit some of them or even ^pa% 
+ and may also have a devious or '^Vakra%' ascent or descent (such as sa-ga-ri-ga-
+ ma-pa-da-pa-Sa in ^aarohanam%  - coming down to ri after ga and to pa after Da 
+ and then going up ). Of the 4 raagams of the previous screen, 3 are Janya
+ raagams.  See and  listen to the Aarohanam-Avarohanam of the Janaka and 
+ Janya for <Saaveri> (parent Maayaamaalavagowla), <Sahaana>,  (parent   
+ Harikaambodhi) and <Hindholam> (parent Natabhairavi).  Saaveri omits ^ga% and 
+ ^ni% in ascent.  Sahaana is an example of Vakra ascent and descent.  Hindholam  
+ omits ^ri% and pa.  Also listen to ascent and descent of <Kalyaani>, a Janaka (or 
+ ^Melakartha%) Raagam.~
+ @Bhaashaanga Raagams$
+
+ There are some exceptions to the rule that a ^Janaka% ^Raagam% should use only 
+ the same variety of notes for ^ri%, ^ga%, ^ma% , ^da% and ^ni% as the parent  Raagam.  
+ Some raagams use the other variety of a note {in addition} to the variety of that
+ note in the parent Raagam.  Such raagams are called Bhaashaanga Raagams. 
+ Such notes not found in the parent Raagam are known as 'Anya' (foreign) 
+ swarams and may be used only in selected phrases or only in the ascent or 
+ descent.   However, the ^Anya Swaram% and the normal ^Swaram% cannot be 
+ used consecutively.  An example is  <Saaranga> which uses both varieties of 
+ ma. The higher variety (black note ^ma%) is used most of the time as its parent is   
+ Kalyaani which uses the black note ma.  The lower variety is used only in the 
+ phrase ri-ga-ma*- ri-sa.    Another Bhaashaanga Raagam <Bhairavi> uses lower 
+ variety of ^da% in most phrases but uses higher variety in phrases in the ascent 
+ (pa-da*-ni-Sa) and in the phrase Sa-ni-da*-ni-Sa.   In writing notation anya
+ swarams are marked with an asterisk ' * '.   
+
+ ^Janya% Raagams which are not  Bhaashaanga Raagams are known as ^Upaanga% 
+ Raagams.  Janaka Raagams are also known as Raagaanga raagams and the
+ term ^Melam% or ^Melakartha% is used to refer to the scale or choice of notes rather 
+ than the Raagam, which is not a mere combination of notes but has many more
+ attributes.~ 
+ @Raagam Classification - Historical$
+
+ Historically the classification of raagams based on the choice of notes and the 
+ idea of grouping them under Melams is only about 6 centuries old.  Prior to 
+ that raagams were described by the dominant note, the ending note and 
+ occurrence of ^Vikritha% (changed) notes, as the notes of a particular scale were 
+ described as pure or Suddha.  The idea of scales formed by using different 
+ combinations (mixture - Milana -Mela) perhaps started with Vidhyaaranya (14th
+ Century) and culminated with Venkatamakhi proposing 72 scales in his work 
+ Chathurdandiprakaasika in the 17 the century (see Melam Module). 
+
+ However, many of the ^Janaka% raagams were in use before the ^Melam% scheme.  
+ The terms Janaka and ^Janya% do not imply that the Janya has origin in the 
+ Janaka.  The scheme has to be taken more as a convenient and easy way to 
+ remember which variety of ^ri%,^ga%,^ma%, ^da% and ^ni% is used in the raagam.  Some 
+ Janya raagams which omit notes can be given parenthood in more than one 
+ Janaka Raagam which differ in the omitted note.  Mohanam omits ^ma% and ^ni%
+ and its notes are sa-ri-ga-pa-da-Sa (all white).   It can be put  under 4 different 
+ melams which have these 5 notes, but differ in ma and ni.  In practice a Janaka
+ raga having nearest Bhaava or mood is chosen as the parent but differences 
+ persist in texts.  Mohanam is shown under Kalyaani or Harikaambodhi in 
+ different texts.  You can see this <pictorially>~
+ @ Notes - Names and positions$
+
+ The symbols ^sa%,^ri%,^ga%,^ma%,^pa%,^da%,^ni% used for the notes are adapted from the first 
+ letters of their full names ^Shadjam%, ^Rishabham%, ^Gaandhaaram%, ^Madhyamam%, 
+ ^Panchamam%, ^Dhaivatham%, Nishaadham.  ^Shadjam% means that which gives  
+ birth to six (notes).  'Madhyamam' means the middle, and 'Panchamam' the 5th.   
+ To distinguish between the two varieties of ^ri%,^ga%,^ma%,^da% and ^ni%, adjectives are 
+ used.  Thus the two ^ri%'s are ^Suddha Rishabham% and ^Chathusruthi Rishabham%, 
+ the two ^ga%'s are ^Saadhaarana Gaandhaaram% and ^Anthara Gaandhaaram%, the  
+ two ^ma%'s are ^Suddha Madhyamam% and ^Prathi Madhyamam%, the two ^da%'s are 
+ ^Suddha Dhaivatham% and ^Chathusruthi Dhaivatham% and the two ^ni%'s are 
+ ^Kaisiki Nishaadham% and ^Kaakali Nishaadham% (the first name in each case refers to 
+ the note with the lower pitch). 
+
+ In this package, for brevity the symbols ri1,ri2, ga1,ga2,ma1,ma2,da1,da2 and 
+ ni1,ni2 are used. {These are not official symbols} but informally used in teaching 
+ beginners (as "small ri and big ri" etc.).  In the more elaborate ^Melakartha% 
+ scheme ri2,ga1,da2 and ni1 get one more set of names (explained in full in the
+ Melam Module).   Symbols ri3,ga0,da3 and ni0 are used for these additional 
+ names.  (Two <other symbol> systems are also used in the literature.)  You can 
+ see the names of the notes (including the additional names) more clearly on a 
+ <piano> keyboard picture taking C as ^sa%, or on the sketch of a <Veena>.~
+ @ Raaga  Bhaavam - Gamakam$
+
+ Raaga ^Bhaavam% or the mood that a ^Raagam% evokes depends on many factors. 
+ The choice of notes, ^aarohanam% and ^avarohanam% provide the basics.  The 
+ stress on certain notes, whether a note can be prolonged with or without 
+ ^Gamakam%, the type of Gamakam used and characteristic phrases complete the 
+ shape of a raagam. Two raagams like Sankaraabharanam and Kalyaani which 
+ differ only in the note ^ma% can be distinguished even in phrases without ma
+ because in Sankaraabharanam ^ri% and ^da% are almost always sung with Gamakam 
+ and ^Ga% is always held straight while in Kalyaani ^ri% and ^da% can be held straight
+ or sung with Gamakam and ^ga% often has a small range gamakam.  Listen to the 
+ phrases in the range lower ^pA% to ^sa% (not touching ma), as sung in these two 
+ raagams <Sankaraabharanam> and <Kalyaani>. 
+
+ To appreciate the difference that Gamakam imparts to the music, listen to the 
+ first line of the ^Krithi%  Thanayuni  in Bhairavi with plain notation 
+ <without Gamakam> (hardly recognizable as Bhairavi) and the same line
+ <with Gamakam > required for realising  the Raaga Bhaavam .  The notation 
+ now used to write down Carnatic compositions does not use any symbols for
+ gamakams, except  for occasional use of a wavy line over the note implying
+ that the note is oscillated. Subbarama Dheekshithar used fifteen symbols for
+ the different types of gamakams in his Sangeetha Sampradhaaya Pradharsini
+ (as early as 1905) but even these are qualitative and do not describe the range
+ or timings involved in the movements.~
+
+@Gamakams - Names - Examples (1) $
+
+ Gamakams are traditionally of 10 varieties ('Veena gaana dhasa gamakakriye' -
+ ^Krithi% 'Meenaakshi me mudham' by Dheekshithar).  In Sangeetha Sampradhaaya
+ Pradharsini, Subbarama Deekshithar lists 15 and explains them. He assigned 
+ symbols to them which are used throughout this work.  Some of the descriptions
+ are relevant only to the Veena.  The more important are described here:
+
+ ^Kampitham% is the oscillation of a note.  The oscillation could be very short
+ in range as in <Kalyani Ga>. (Only this type of gamakam is treated as Kampitham
+ in Sampradaaya Pradarsini). In many cases the lower note (or an intermediate
+ position) is used as the anchor and note is oscillated up to its own position or 
+ over a range of 1, 2 or even 3 notes (such oscillaions touching other notes are 
+ called 'Vali' in Sampradaaya Pradarsini). Such oscillations are common for ri1,
+ ga1, ma2, da1 and ni1.  In the case of ma2 the upper note pa is usually the
+ anchor. For ri1 and da1 usually short range Kampitham is used. Listen to
+ <ri1 of Gowla>. Notes ga1 and ni1 may use both short and large range kampitham.
+ Listen to <ga of Kaanada> using large range kampitham. Kampitham may also 
+ be anchored on the higher pitch and oscillate downwards as in the note 
+ <ni1 of Surati>.  ~
+
+@Gamakams - Names - Examples (2) $
+
+ ^Nokku%  or ^Thirupam% involves pulling of the ^Veena% string even while the note is
+ reached thus touching the higher note first before coming to the actual note. 
+ This could be in the ascent as in the case of <nokku on ga> of Maayaamaalava-
+ gowla in the phrase sa-ri1-ga2 (^ma% is touched before ^ga% is reached) and
+ on <da2 & ni2> of Sankaraabharanam in the phrase pa-da-ni-Sa (^ni% touched before
+ ^da% and ^Sa% touched before ni). This gamakam also occurs in the starting note of 
+ many ascending phrase such as ri2 of Sankarabharanam, ga1 of Aananda-
+ bhairavi in <ga ma pa>, ni1 in  'ni sa Ree' of Bhairavi.  It is also used while turning 
+ on the note as in <pa ma pa> of Bhairavi (the audio is 'pa ma pa da ni Saa'), ma
+ being pulled from ga2 fret on Veena.  It is an extensively used gamakam - as
+ common as Kampitham  
+
+ ^Jaaru% is smooth slide from one note to another.  When it is an ascending slide
+ it is <Etra Jaaru> and when descending it is <Erakku Jaaru>. In fact there is always
+ continuity between notes in any single phrase (which is the characteristic of 
+ Carnatic Music), but the term ^Jaaru% is used when the slide pronounced and 
+ slower than usual ascent or descent between notes.  ~
+ @Gamakams - Names - Examples (3) $
+
+ ^Janta% is doubling a note with stress on the second note obtained by momentarily 
+ touching a lower note (crushed note) as in the phrase <sa-sa-ri-ri-ga-ga-ma-ma> or
+ <Sa-sa-ni-ni-da-da-pa-pa> in Maayaamaalavagowla. In ascent Janta is also called 
+ ^Sphuritham% and in descent Prathyaaghaatham.  The lower note need not be 
+ present in that ^Raagam% but the next lower note in the12 note scheme or an 
+ intermediate point. The second note may also be 'akaara' i.e. without <strumming> 
+ or changing <bow> movement on instruments.  Janta imparts 'Ghanam' to the
+ music. Sometimes when the note is repeated an upper note's pitch may be
+ heard momentarily (especially on the ^Veena%). 
+
+ ^Khandippu% - When descending to a lower note over a large range, sometimes a
+ very short break is given, and the lower note is reached starting from an 
+ intermediate note. For instance in Sankaraabharanam, the notation 'Sa ni paa' 
+ is played as Sa ni (da) paa with a very short break after ni and reaching paa 
+ from da without stopping at da. Listen to <Sa ni- (da)- paa> (there is also a
+ Janta on Pa) .  Similarly in the same raagam khandippu is applied in the
+ phrase <ga ma pa - (ga) ri sa> at ga 
+
+ ^Orikkai% is sliding down from one not to the another aftrer momentarily touching 
+ the higher note. Orikkai is often used on all notes in a descending phrase as in  
+ <pa ma ga ri> in Kalyaani  ~ 
+
+ @Raagam - Identification - Swara Jnyaanam$
+
+ How is a ^Raagam% recognized?  For the old raagams the '^Bhaavam%' or the
+ mood helps in recognizing the raagam.  The mood can be grasped by listening 
+ to standard compositions in the Raagam and remembering phrases covering 
+ different ranges in the octaves.  However, in the case of many of the new 
+ raagams including mela raagams which have evolved after the 72 ^Melam% 
+ theory,  they often feel like mixture of well known raagams.   <Lathaangi> 
+ could look like a mixture of  <Simhendhramadyamam> and <Kalyaani>.  In
+ such cases a knowledge of the notes sung can help to recognize the raagam. 
+ Identifying notes (called Swara Jnyaanam) is often difficult when extensive 
+ ^Gamakam% is used but ability to recognize straight notes can be acquired easily 
+ with some practice even by a rasika not having formal musical training. 
+
+ Here  is a <Quiz> for testing your ability to recognize notes from the 12 notes in 
+ an octave.  The simple nomenclature of 'ri1, ri2, ga1, ga2 etc. is used' as the 
+ complex scheme where the same note like ri2 has also the name of ga0 is valid 
+ only for scales.  You can also use the Raagam and Melam modules to acquire 
+ Swara jnyaanam by listening to the ^aarohanam% and ^avarohanam% and (in the  
+ Raagam module) the phrases whose notation is highlighted when each phrase
+ is played.  The Melam module has a quiz for recognizing melams.~
+@Musical Forms in Carnatic Music - Krithi$
+
+ The ^Krithi% or composition - lyric set to a ^raagam% and ^thaalam% is the basis of 
+ Carnatic Music.  The krithi is said to be an evolution of the ^keerthanai% or devo-
+ tional songs which were simple in melodic structure, had a number of stanzas
+ and emphasized devotion.  The krithi is more sophisticated and as evolved now
+ has the ^Pallavi% (refrain), ^Anupallavi% (the second part developing on the theme
+ set by the pallavi) and ^Charanam% (a larger part, usually starting at lower region
+ of the octave). They have many '^sangathi%s' (repetitions with progressive varia-
+ tions in melody).  In one form of krithi (most of Thyaagaraaja krithis) the second 
+ half of the charanam has the same melodic structure as the anupallavi.  (Ex. 
+ Enthanerchina in Suddha Dhanyaasi included in the samples of GAAYAKA) 
+
+ Some krithis  have more than one charanam with identical melody and 
+ occasionally with different melodic structures (ex. Paraasakthi Janani in
+ Hamsadhwani by Paapanaasam Sivan).  Some krithis of Dheekshithar do not 
+ have Anupallavi but only a 'Samashti Charanam' (ex. Mahaaganapathim in 
+ Naata).  Dheekshithar's compositions in general do not follow a set melodic
+ pattern; the charanams are large with unexpected melodic turns.  
+
+ The krithis along with varnams have largely contributed to defining the raaga 
+ lakshanam, as mere ^aarohanam% and ^avarohanam% cannot fully describe
+ the finer nuances of a raagam.~
+@Musical Forms - Raagamalika$
+
+ In Carnatic Music the ^raagam% mood can be conveyed with a few characteristic
+ phrases and this has enabled composing krithis in a succession of raagams -
+ each Raagam for a few aavarthams or even for one aavartham.  In many raaga-
+ maalikaas, ^chitta swaram%s are added for each Raagam and at the end, chitta-
+ swarams are sung in the reverse order ('Viloma kramam') ending with the
+ Raagam of pallavi.  In many raagamaalikaas, the name of the Raagam (raaga
+ mudhra) is found in each of the stanzas.  Among the trinity Dheekshithar has
+ composed raagamaalikaas (ex. Sri Viswanaatham in 14 raagams with Raagam
+ changing in the middle of ^aavartham%).  Navaraagamaalika ^Varnam% (in 9 
+ raagams) is a standard varnam taught to students.  Maha Vaidhyanaatha Iyer
+ composed raaga thaala maalikaa in the 72 melakarthaa raagams and with
+ variation in ^thaalam% also. In recent times Swaathi Thirunaal's 'Bhaavayaami' is
+ sung as raagamaalikaa.  'Sri Chakraraaja' is an example of Raagamaalika 
+ without chittaswarams
+
+ Apart from compositions set as Raagamalikaas by the composer himself, it is
+ also customary to sing Sanskrit Slokams and Thamizh 'Viruthams' as raaga-
+ maalikaas at the end of a concert.  Some of Subramanya Bharathiar's songs
+ have also be set as Raagamaalikaas.~
+@Musical Forms - Aalaapana and Kalpana Swaram$
+ The ^Aalaapana% is an example of a musical form giving scope for improvisation
+ within a framework.  It is not totally unstructured or a mere combination of 
+ random notes of the ^raagam%, but an emotionally satisfying development of the
+ raagam mood within its definitions but giving scope for creativity.  The
+ Aalaapana does not have a rhythmic pattern, but there is an inherent time sense
+ in the phrases.  It could take as little as a minute or two or could be expanded
+ to cover even an hour!  When made elaborate, aalaapana is usually structured
+ starting at the lower pitches and progressively touching higher pitches and
+ finally covering some quick phrases.  In older schools, the aalaapana was 
+ supposed to stress more on the melodic aspects of the ^Krithi% to follow and a full 
+ exposition of the raagam was reserved to Raagam, Thaanam, Pallavi.   
+
+ ^Kalpana Swaram% is the extempore singing of solfa (sa ri ga ma etc.) at the
+ end of a ^krithi% or in the middle, taking either the ^pallavi% or other line as a
+ refrain.  Rhythmic pattern is the main highlight of kalpana swaram.  Each group
+ has to end correctly at the point in the ^thaalam% cycle where the refrain starts.  
+ Starting with groups of swarams covering one or two aavarthams,  the artiste 
+ goes on to larger number of aavarthams often using clever rhythmic patterns 
+ at the end of each group before repeating the refrain.  The "iruthi makutam" or 
+ last group of phrases usually a combination of groups of odd number of notes 
+ repeated thrice to correctly coincide with the start of the refrain, has now 
+ become a standard practice.~
+@Musical Forms- Thaanam, Pallavi$
+
+ ^Thaanam% is the extempore elaboration of the raagam mood to stress the 
+ ghana aspect using the syllables "a, tha, nom, tham". (Historically the term
+ had a different meaning implying skipping of notes.) There is inherent rhythm
+ in thaanam and sometimes artistes have mridhangam accompany the Thaanam
+ though it is not set to any ^thaalam% in particular.  One of the definitions of a
+ "ghana" raagam is a raagam which is well suited for thaanam.  The present
+ Thaanam form perhaps developed on the ^Veena% which is very suited for it and
+ Thaanam is often played on the Veena after ^aalaapana% before a ^krithi% but 
+ vocalists generally reserve it to "raagam, thaanam, pallavi".  Some 'chittai' 
+ thaanam's (ready made) are available in the ghana panchaka raagams.
+
+ Pallavi is the form where instead of a krithi a single line of lyric covering one
+ aavartham (or more if chaapu thaalam is chosen) in 2 ^kalai% or even 4 kalai
+ is taken up for elaboration with great emphasis on the rhythmic aspect.  The 
+ line could be the ^pallavi% of a well known song (but could be in a different 
+ thaalam).  Usually sung after aalaapana and thaanam, the pallavi is elaborated 
+ in different kaalams including a ^thisra% ^nadai% in which 3 cycles of the pallavi
+ cover 2 aavarthams.  ^Kalpana swaram% invariably follows the pallavi and often 
+ the swarams are sung in other raagams returning to the main raagam at the 
+ end.  In days of 3 or 4 hour concerts raagam, thaanam, pallavi was always 
+ included in the concert.  ~
+ @Musical Forms - Varnams$
+
+ The student of Carnatic Music starts with ^Sarali Varisai% (solfa in different tempos)
+ ^Janta% varisai (solfa of paired notes), Dhaattu varisai (note practice with jumps),
+ ^Alankaaram% (solfa in different thaalams), ^Geetham% (simple songs without 
+ sangathis or difficult phrases) and then goes on to Varnams.  Varnams are said 
+ to epitomize the grammar of the ^raagam% (raaga lakshanam).  Varnams are of 2 
+ types, the thaana varnam and the padha varnam.  The thaana varnam consists 
+ of a ^pallavi%,  ^anupallavi% followed by "mukthaayi swaram" and then by a single 
+ ^aavartham% of ^charanam% again followed by 3 to 6 ^chitta swaram%  groups,  with 
+ increasing number of aavarthams.  The lyric of varnam is sparse in words and 
+ gives training to the voice in "akaara" or melody without consonants.  Concerts
+ are often started with a varnam.  Little is  known of the origin of the word 
+ 'thaana varnam' but one school has it that the note groups (usually threes, twos 
+ and fives) are like ^thaanam% singing and this is stressed when varnam is played 
+ on the Veena.
+
+ The padha varnam is meant for dance but is also sung in concerts (ex.'Nee 
+ indha maayam' in Dhanyaasi).  It has a structure similar to the thaana varnam 
+ but words of lyric are also available for the mukthaayi and chitta swarams.  The
+ single line of the charanam often gives considerable scope to the Bharatha- 
+ naatyam dancer to portray a number of legends associated with the main deity 
+ on whom the varnam is composed.~
+@Musical Forms - Swara Jathi, Thillaana, Padham, Jaavali$
+
+ Though the term "jathi" would imply the use of rhythmic mnemonics used in
+ dance like 'tha thi thai thom' etc. Swarajathi as sung now a days do not use
+ these jathis but consist of a ^pallavi%, ^anupallavi% and a number of charanams
+ in which the the swarams (solfa) are first sung followed by the lyric.  Swara-
+ jathis of Syaama Saasthri in Bhairavi and Thodi are well known.  Simpler
+ swarajathis in Bilahari and Aanandhabhairavi are usually taught to students 
+ before teaching varnams.
+
+ ^Thillaana% is a lively form of composition making extensive use of the dance
+ mnemonics.  The compositions are a mixture of these jathis, lyrics and swarams.
+ Essentially composed for use in Bharatha natyam, thillaanas are also very
+ popular in musical concerts, the jathis providing scope for complex rhythmic
+ patterns.
+
+ Padhams were originally simple devotional songs, but with the adoption of
+ padhams extensively for dance later compositions included the 'Naayaki -
+ Naayaka' concept of devotion with romantic passages.  Jaavalis are explicitly
+ romantic and also used for dance.  Padhams (especially those of Khsethrayya)
+ are sung both in ghana raagams like Thodi and ^rakthi% raagams like Sahaana.
+ Jaavalis are generally set to rakthi raagams.~
+
+
+ 

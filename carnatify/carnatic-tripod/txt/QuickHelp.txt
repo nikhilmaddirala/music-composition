@@ -1,0 +1,17 @@
+QUICK HELP for using the ADD GAMAKAM Program
+
+(RasikaV2 package is needed to run the program)
+
+1.Select the Ragam Database file(extension .gkd) from the list box (top middle)
+
+2. Open a .gka file with plain notation using 'File' Menu.Or you can also enter notation manually in the Plain Notation box. In that case set the Melam and Note Duration correctly.
+
+3. When you open a file with plain notatoin if the .gkd Ragam file in the list box is from a different Melam you will get a warning. Choose the correct .gkd file.
+
+4. Click 'Convert' button (top left). The converted notation appears in the box below. You can copy it by clicking 'Copy Output' button and paste  into a Gaayaka notation box - in that case set the Melam and Note Duration correctly. Alternately you can click 'Play Output' button. If the Gaayaka program is in the parent folder of the folder in which you have copied the AddGamak program, the Gaayaka program will open with the converted notation and correct melam and Note Duration. You can play it as such. If the Gaayaka program is not found, you get a dialog box to enable you to show the place where Gaayaka program is in your PC. This information is saved and the Gaayaka program will automatically open in future when you click the 'Play Converted Notation' button
+
+5. You may find some notation enclosed by a pair of '@' followed by notatoin of equal duration enclosed in in '[  ]'. They are the alternatives possible. You can change '@   @' to '[  ]' and '[  ]' to '@ @' to play the alternative notation.
+
+6. Read AddGamakamHelp.pdf for full details
+
+Program and copyright by M.Subramanian, author of RasikaV2 software package for Carnatic Music

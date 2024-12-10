@@ -1,0 +1,858 @@
+~
+  Raagam <C4>AMRITHAVAAHINI</C>     Melam 20 (Natabhairavi)
+
+  Aarohanam       sa ri2 ma1 pa da1 ni1 Sa      C D F G Ab Bb C
+  Avarohanam     Sa ni1 da1 ma1 ga1 ri2 sa     C Bb Ab F Eb D C
+
+  COMPOSITIONS:  
+   Sree Raama Paadhamaa (Thyaagaraajar)
+
+~
+  Raagam  <C4>BALAHAMSA</C>       Melam 28 (Harikaambodhi)
+
+  Aarohanam     sa ri2 ma1 pa da2 Sa                             C D F G A C
+  Avarohanam   Sa ni1 da2 pa ma1 ri2 ma1 ga2 sa     C Bb A G F D F E C
+
+  COMPOSITIONS:  
+    Ikakaavalasina, Parulanuvedanu, Thallithandru (Thyaagaraajar)
+    Ennadu dhaya (Patnam Subramanya Ayyar)
+    Evarunnaru (Mysore Sadaasiva Rao)
+~
+  Raagam <C4>BANGAALA</C>       Melam 28 (Harikaambodhi)
+ 
+  Aarohanam    sa ri2 ga2 ma1 pa ma1 ri2  pa Sa        C D E F G F D G C
+  Avarohanam  Sa ni1 pa ma ri2 ga2 ri2 sa                    C Bb G F D E D C
+
+  COMPOSITIONS:   
+   Giriraaja sutha, Saakshilethanusu (Thyaagaraajar)
+~
+  Raagam  <C4>BHAIRAVAM</C>         Melam 17  (Sooryakaantham)
+
+  Aarohanam      sa ri1 ga2 ma1 pa da2 ni2 Sa     C Db E F G A B C
+  Avarohanam    Sa da2 pa ma1 ga2 ri1 sa            C A G F E Db C
+
+  COMPOSITIONS:  
+    Mariyaadha gaadhayya (Thyaagaraajar)
+    Kaala Bhairavam  (Dheekshithar)                  
+~
+   Raagam <C4>BHAVAPRIYA</C>      Melam 44 (Bhavapriya)
+
+   Aarohanam     sa ri1 ga1 ma2 pa da1 ni1 Sa      C Db Eb F# G Ab Bb C
+   Avarohanam   Sa ni1 da1 pa ma2 ga1 ri1 sa      C Bb Ab G F# Eb Db C
+
+   Mela raagam using all black notes except sa and pa. Bhavaani is the equivalent melam in Dheekshitha school but has sa ri ga ma pa da pa ni Sa as aarohanam.
+
+   COMPOSITIONS:
+    Srikaantha neeyeda (Thyaagaraajar)
+    Jayathi Sivaa (Dheekshithar)
+    Sendhiru velan (Koteeswara Iyer)
+
+~
+   Raagam <C4>BHOOSHAAVALI </C>      Melam 64 (Vaachaspathi)
+
+   Aarohanam     sa ri2 ga2 ma2 pa da2 Sa                C D E F# G A C
+   Avarohanam   Sa ni1 da2 pa ma2 ga2 ri2 sa         C Bb A G F# E D C
+
+   (This is a mela ragam in asampoorna paddhathi of Deekshithar school with the name Bhooshaavathi).
+
+   COMPOSITIONS:
+    Thanameedhane (Thyaagaraajar)
+    Bhooshaavathi    (Dheekshithar)
+    Gopanandhana   (Swathi Thirunaal)
+
+~
+   Raagam  <C4>BINDHUMAALINI  </C>       Melam 16  (Chakravaaham)
+
+   Aarohanam     sa ga2 ri1 ga2 ma1 pa da2 ni1 pa ni1 Sa    C E Db E F G A Bb G Bb C
+   Avarohanam   Sa ni1 da2 pa ga2 ri1 sa                                  C Bb A G E Db C
+
+   COMPOSITIONS:  Entha muddho (Thyaagaraajar)
+
+~
+  Raagam  <C4>CHALANAATA </C>       Melam 36 (Chalanaata)
+
+  Aarohanam    sa ri3 ga2 ma1 pa da3 ni2 Sa      C D# E F G A# B C
+  Avarohanam  Sa ni2 da3 pa ma1 ga2 ri3 sa      C B A# G F E D# C
+
+  The Mela raagam of this melam. The janyam Naata is better known.
+
+  COMPOSITIONS:  
+    Edhayya (Koteeswara Iyer)
+~
+   Raagam <C4> CHANDHRAJYOTHI </C>      Melam 41 (Paavani)
+
+   Aarohanam       sa ri1 ga0 ma2 pa da2 Sa           C Db D F# G A C
+   Avarohanam     Sa da2 pa ma2 ga0 ri1 sa           C A G F# D Db C
+
+   COMPOSITIONS: 
+     Bhaagaayenayya,  Sasivadhanaa (Thyaagaraajar)
+
+~
+   Raagam <C4>CHAAYATHARANGINI</C>      Melam 28 (Harikaambodhi)
+
+   Aarohanam       sa ri2 ma1 ga2 ma1 pa ni1 Sa       C D F E F G Bb C
+   Avarohanam     Sa ni1 da2 pa ma1 ga2 ri2 sa        C Bb A G F E D C
+
+   COMPOSITIONS:  
+     Kripajoochudagu, Itharadhaivamula (Thyaagaraajar)
+~
+   Raagam  <C4>CHENCHUKAAMBODHI </C>       Melam 28 (Harikaambodhi)
+
+   Aarohanam         sa pa ma1 da2 ni1 Sa                             C G F A Bb C
+   Avarohanam       Sa ni1 da2 ni1 pa ma1 ga2 ri2 sa        C Bb A Bb G F E D C
+
+   COMPOSITIONS:    
+     Vararaagalaya (Thyaagaraajar)
+
+~
+   Raagam  <C4>DHEEPAKAM </C>       Melam 51 (Kaamavardhani)
+
+   Aarohanam     sa ga2 ma2 pa ni2 Sa                           C E F# G B C
+   Avarohanam   Sa ni2 da1 ni2 pa ma2 ga2 ri1 sa      C B Ab B G F# E Db C
+
+   COMPOSITIONS:   
+     Kalalanerchina  (Thyaagaraajar)
+
+~
+   Raagam <C4>DHENUKA </C>        Melam 9 (Dhenuka)
+   (Dhunibhinnashadjam in Dheekshithar school)
+
+   Aarohanam     sa ri1 ga1 ma1 pa da1 ni2 Sa       C Db Eb F G Ab B C
+   Avarohanam   Sa ni2 da1 pa ma1 ga1 ri1 sa       C B Ab G F Eb Db C
+
+   Mela raagam of this melam. Unlike in the other 3 ragams in the melam group 8 to 11 the present practice is to hold ga1 in its own position with minimum gamakam.
+
+   COMPOSITIONS: 
+    Theliyaleru Raama (Thyaagaraajar).
+    Sree Guruguha moorthi (Ponnayya Pillai)
+
+~
+   Raagam <C4> DHEVAKRIYA </C>         Melam 22 (Kharaharapriya)
+
+   Aarohanam   sa ri2 ga1 ma1 ni1 pa da2 ni1 Sa    C D Eb F Bb G A Bb C
+   Avarohanam  Sa ni1 da2 ma1 ga1 ri2 sa                C Bb A F Eb D C
+
+   (This is Dhevakriya of Thyaagaraajar school. Dheekshithar's Dhevakriya is same 
+ as today's Suddhasaaveri. In some old works Dhevakriya is also shown as in 
+ Melam 20 and not going above Nishaadham)
+
+   COMPOSITIONS: 
+     Naatimaata (Thyaagaraajar)
+~
+   Raagam <C4> EESAMANOHARI</C>        Melam 28 (Harikaambodhi)
+
+   Aarohanam      sa ri2 ga2 ma1 pa da2 ni1 Sa                       C D E F G A Bb C
+   Avarohanam    Sa ni1 da2 pa ma1 ga2 ri2 ma1 ga2 sa      C Bb A G F E D F E C
+
+    COMPOSITIONS: 
+     Manasa sree, Sree Janaki (Thyaagaraajar)
+     Jagadheesamanohari, Sree Gananaatham (Dheekshithar)
+~
+
+   Raagam <C4>GAANAMOORTHI</C>       Melam 3 (Gaanamoorthi)
+
+   Aarohanam    sa ri1 ga0 ma1 pa da1 ni2 Sa        C Db D F G Ab B C
+   Avarohanam  Sa ni2 da1 pa ma1 ga0 ri1 sa        C B Ab G F D Db C
+
+   One of the melams found in Chathurdandiprakasika with the name Saamavaraali. Gaanasaamavaraali in Dheekshithar school omits ga in the ascent.
+   (Suddha madhyama ragam of Varaali, but the ga0 is usually held plain)    
+
+   COMPOSITIONS:
+     Gaanamoorthe  (Thyaagaraajar)
+~
+   Raagam <C4>GAANGEYABHOOSHANI</C>     Melam 33 (Gaangeyabhooshani)
+
+   Aarohanam    sa ri3 ga2 ma1 pa da1 ni2 Sa     C D# E F G Ab B C 
+   Avarohanam  Sa ni2 da1 pa ma1 ga2 ri3 sa     C B Ab G F E D# C
+
+   Gangaatharangini in Dheekshithar school - omits ga in descent.   Raagam (Kamala)Manohari is shown as janyam of this melam in Sampradhaayapradarsini.
+
+   COMPOSITIONS::
+     Evvare  (Thyagaraajar)
+     Varadharaja (Dheekshithar)
+~
+   Raagam  <C4> GAMANAASRAMA </C>       Melam 53  (Gamanaasrama)
+
+   Aarohanam       sa ri1 ga2 ma2 pa da2 ni2 Sa          C Db E F# G A B C
+   Avarohanam     Sa ni2 da2 pa ma2 ga2 ri1 sa          C B A G F# E Db C
+
+   Mela raagam of this melam. The janyams Poorvikalyaani and Hamsaanandhi are better known. In Dheekshithar school Gamakakriya (practically indistinguishable from Poorvikalyaani) is itself the melam and the raaga mudhra occurs in krithi Meenakshi Memudham now treated as Poorvikalyaani
+
+   COMPOSITIONS:   
+     Ikame sukham (Koteeswara Iyer)
+~
+   Raagam   <C4> GARUDADHWANI</C>       Melam 29 (Dheerasankaraabharanam)
+
+   Aarohanam     sa ri2 ga2 ma1 pa da2 ni2 Sa     C D E F G A B C
+   Avarohanam   Sa da2 pa ga2 ri2 sa                     C A G E D C
+
+   ( Bialahari's  Arohanam and Avarohanams interchanged ! )
+
+   COMPOSITIONS:  
+    Thathvameruka, Aanandha Saagara (Thyaagaraajar)
+
+~
+   Raagam    <C4>  GAUDAMALHAAR</C>      Melam 29 (Dheerasankaraabharanam)
+
+   Aarohanam        sa ri2 ma1 pa da2 Sa                   C D F G A C
+   Avarohanam      Sa ni2 da2 ma1 ga2 ri2 sa          C B A F E D C
+
+   COMPOSITIONS:   
+     Saarasamukhi (Muthiah Bhaagavathar)
+
+~
+   Raagam    <C4>  GHANTA (Ghantaaravam) </C>      Melam 20 (Natabhairavi)
+
+   Aarohanam     sa ga1 ri2 ga1 ma1 pa da1 pa ni1 Sa    C Eb D Eb F G Ab G Bb C
+   Avarohanam   Sa ni1 da1 pa ma1 ga1 ri2 sa                  C Bb Ab G F Eb D C
+
+   According to Music Academy Raga discussions, the raagam is also supposed use Suddha Rishabham ri1. The raagam seems to have given way to Dhanyaasi.
+
+   COMPOSITIONS:
+    Inga Yochanai, Unna thaavuna (Thyaagaraajar)
+    Sree Kamalaambike, Sree Mangalaambikaam (Dheekshithar)
+
+~
+  Raagam    <C4> GOWRI </C>      Melam 15  (Maayamaalavagowla)
+
+  Aarohanam       sa ri1 ma1 pa da1 pa ni2 Sa        C Db F G Ab B C
+  Avarohanam     Sa ni2 da1 pa ma1 ga2 ri1 sa      C B Ab G F E Db C
+
+   COMPOSITIONS:    
+   Jayajaya Sree Rama (Thyaagaraajar), 
+   Gowri Giriraaja,  Sree Meenakshi (Dheekshithar)
+
+~ 
+   Raagam <C4>  GURJARI </C> (or Goorjari)     Melam 15 (Maayaamaalavagowla)
+
+   Aarohanam    sa ri1 ga2 ma1 pa da1 ni2 Sa             C Db E F G Ab B C
+   Avarohanam  sa da1 ni2 da1 pa ma1 ga2 ri1 sa     C Ab B Ab G F E Db C
+
+   (In Sampradayapradarsini the Avarohanam is  given as 'Sa ni da pa ma ga ri sa' with a suggestion that ma and da are to be used sparingly)
+
+   COMPOSITIONS:
+     Varaalandhu   (Thyagaraajar)
+     Gunijanaadhi  (Dheekshithar)
+
+~
+   Raagam   <C4>  HAMSAVINODHINI </C>      Melam 29 (Dheerasankaraabharanam)
+
+   Aarohanam      sa ri2 ga2 ma1 da2 ni2 Sa      C D E F A B C
+   Avarohanam    Sa ni2 da2 ma1 ga2 ri2 sa      C B A F E D C
+
+   (Sankarabharanam without pa. Raagam of recent origin)
+
+   COMPOSITIONS:  
+     Saranam bhava (Swami Surajaananda ?)
+
+
+~
+   Raagam    <C4>  HINDHOLAVASANTHAM</C>       Melam 20 (Natabhairavi)
+
+   Aarohanam        sa ga1 ma1 pa da1 ni1 da1 Sa             C Eb F G Ab Bb Ab C       
+   Avarohanam      Sa ni1 da1 pa ma1 da1 ma1 ga1 sa    C Bb Ab G F Ab F Eb C
+
+   COMPOSITIONS:  
+    Raaraa Seetharamani (Thyaagaraajar)
+    Santhaana Ramaswaaminam (Dheekshithar)
+
+~
+
+   Raagam   <C4> JAYAMANOHARI </C>       Melam 22 (Kharaharapriya)
+
+   Aarohanam    sa ri2 ga1 ma1 da2 Sa                   C D Eb F A C
+   Avarohanam  Sa ni1 da2 ma1 ga1 ri2 sa            C Bb A F Eb D C
+
+   (Arohanam of Aabhogi and Avarohanam of Sreeranjani) 
+
+   COMPOSITIONS:  
+     Nee Bhakthi, Yajnyaathulu (Thyaagaraajar)
+
+~
+   Raagam   <C4> JAYANTHASENA</C>       Melam 22 (Kharaharapriya)
+
+   Aarohanam        sa ga1 ma1 pa da2 Sa            C Eb F G A C
+   Avarohanam      Sa ni1 da2 pa ma1 ga1 sa      C Bb A G F Eb C
+
+   COMPOSITIONS:  
+     Vinatha sutha (Thyaagaraajar)
+
+~
+   Raagam   <C4> JAYANTHASRI </C>      Melam 20 (Natabhairavi)
+
+   Aarohanam     sa ga1 ma1 da1 ni1 Sa                        C Eb F Ab Bb C
+   Avarohanam   Sa ni1 da1 ma1 pa ma1 ga1 sa         C Bb Ab F G F Eb C
+
+   COMPOSITIONS:  
+     Marukelara (Thyaagaraajar)
+
+~
+   Raagam   <C4> Karnaataka SUDDHASAAVERI </C> 
+
+   Melam  1 (Kanakaangi) or Melam 15 (Maayaamaalavagowla)
+
+   Aarohanam      sa ri1 ma1 pa da1 Sa         C Db F G Ab C
+   Avarohanam    Sa da1 pa ma1 ri1 sa         C Ab G F Db C
+
+   This raagam is known as Suddha Saaveri in Dheekshithar school (the Suddha Saaveri now in vogue is Dhevakriya in Dheekshithar school). The word 'Karnaataka' seems to have been added to avoid the confusion as has been done for Karnaataka Dhevagaandhaari.
+ 
+  COMPOSITIONS:  
+    Ekaambresa Naayike  (Dheekshithar) 
+~
+   Raagam   <C4> KAAPINAARAAYANI</C>      Melam 28 (Harikaambodhi)
+
+   Aarohanam       sa ri2 ma1 pa da2 ni1 sa                C D F G A Bb C
+   Avarohanam     Sa ni1 da2 pa ma1 ga2 ri2 sa        C Bb A G F E D C 
+
+   COMPOSITIONS:   
+    Sarasa saamadhaana (Thyaagaraajar)
+
+~
+   Raagam   <C4>  KATHANAKUTHOOHALAM </C> 
+
+   Melam 29 (Dheerasankaraabharanam)
+
+   Aarohanam     sa ri2 ma1 da2 ni2 ga2 pa Sa         C D F A B E G C
+   Avarohanam   Sa ni2 da2 pa ma1 ga2 ri2 sa         C B A G F E D C
+
+   This raagam was conceived by Patnam Subramaniya Iyer.
+
+   COMPOSITIONS:  
+     Raghuvamsa sudhaambudhi (Patnam Subramaniya Iyer)
+
+~
+   Raagam    <C4> KALAANIDHI </C>       Melam 22 (Kharaharapriya)
+
+   Aarohanam    sa ri2 ga1 ma1 sa pa ma1 da2 ni1 Sa   C D Eb F C G F A Bb C
+   Avarohanam  Sa ni1 da2 pa ma1 ga1 ri2 sa                  C Bb A G F Eb D C
+
+   COMPOSITIONS:  
+     Chinna naate naa (Thyaagaraajar)
+
+~
+   Raagam   <C4> KALAAVATHI </C>        Melam 16 (Chakravaaham)
+
+   Aarohanam       sa ri1 ma1 pa da2 Sa                      C Db F G A C
+   Avarohanam     Sa da2 pa ma1 ga2 sa ri1 sa        C A G F E C Db C
+
+   The Raagam of the same name is the raagaanga raagam of Melam 31 in Dheekshithar school (Yaagapriya in the currently used nomenclature) and is quite different.
+
+   COMPOSITIONS:   
+     Ennadu joothuno, Oka bhaari jootaka (Thyaagaraajar)
+~
+   Raagam   <C4> KALGADA </C>         Melam 13  (Gaayakapriya)
+
+   Aarohanam      sa ri1 ga2 pa da1 Sa                 C Db E G Ab C
+   Avarohanam    Sa ni0 da1 pa ga2 ri1 sa          C A Ab G E Db C
+
+   COMPOSITIONS:  
+     Samayamu (Thyaagaraajar)
+     Paarvathi ninnu (Syaama Sastri)
+~
+   Raagam   <C4> KAMALAAMANOHARI </C> 
+
+   Melam 15 (Maayaamaalavagowla)  or Melam 27 (Sarasaangi)
+
+   Aarohanam      sa ga2 ma1 pa ni2 Sa                C E F G B C
+   Avarohanam    Sa ni2 da1 pa ma1 ga2 sa        C B Ab G F E C
+
+   (The name of this raagam is shown as Manohari in Sampradhaaya Pradarsini.  The Melam is shown as 33 which however does not change the notes. Thyaagaraajar's Manohari is quite different and is in Melam 22 & without ni.)
+
+   COMPOSITIONS:  
+     Nee muddhu momu (Thyaagaraajar) 
+     Kanjadhalaayathaakshi, Sankaramabhiraami (Dheekshithar)
+
+~
+   Raagam    <C4> KIRANAAVALI</C>       Melam 21 (Keeravaani)
+
+   Aarohanam      sa ri2 ga1 ma1 pa da1 ni2 Sa          C D Eb F G Ab B C
+   Avarohanam    Sa (da1) pa ma1 ga1 ri2 sa              C (Ab) G F Eb D C
+
+   The avarohanam may be either Sa da1 pa or Sa pa da1 pa. This is a Mela Raagam  in Dheekshithar school.
+
+   COMPOSITIONS:  
+     Eti Yochanalu, Paraku Neekela (Thyaagaraajar)
+     Panchabhootha Kiranaavalim (Dheekshithar)
+~
+   Raagam    <C4>  KOKILADHWANI</C>      Melam 28 (Harikaambodhi)
+
+   Aarohanam      sa ri2 ga2 ma1 da2 ni1 da2 Sa             C D E F A Bb A C
+   Avarohanam    Sa ni1 da2 ni1 pa ma1 ga2 ri2 sa         C Bb A Bb G F E D C
+  
+   COMPOSITIONS:  
+     Koniyaate,  Tholinenu jeyu (Thiyaagaraajar)
+
+~
+   Raagam    <C4> KOKILAPRIYA</C>        Melam 11  (Kokilapriya) 
+
+   (Kokilaaravam in Dheekshithar school, which however, omits ga in the ascent)
+
+   Aarohanam    sa ri1 ga1 ma1 pa da2 ni2 Sa     C Db Eb F G A  B C
+   Avarohanam  Sa ni2 da2 pa ma1 ga1 ri1 sa     C B A  F G Eb Db C
+
+   In the Dheekshithar krithi the phrase 'sa gaa ri maa' is found although the definition mentions that ga is omitted in aarohanam.
+
+   COMPOSITIONS:  
+    Dhaasarathe dhayaa (Thyaagaraajar). 
+    Kothandaraamam (Dheekshithar) 
+    Sukha vaazhvu (Koteeswara Iyer)
+~
+   Raagam    <C4>  KARNARANJANI</C>        Melam 22 (Kharaharapriya)
+
+   Aarohanam        sa ri2 ga1 ma ga1 pa da2 Sa       C D Eb F Eb G A C
+   Avarohanam      Sa ni1 da2 pa ma1 ga1 ri2 sa      C Bb A G F Eb D C
+
+   COMPOSITIONS:    
+     Vaanchathonu (Muthiah Bhaagavathar)
+     Om namo Naarayana (Ambujam Krishna)
+
+~
+   Raagam    <C4> LALITHAPANCHAMAM</C>       Melam 15 (Maayaamaalavagowla)
+
+   Aarohanam     sa ri1 ga2 ma1 da1 ni2 Sa                       C Db E F Ab B C
+   Avarohanam   Sa ni2 da1 ma1 pa ma1 ga2 ri1 sa        C B Ab F G F E Db C
+
+   The avarohanam in Dheekshithar krithi is 'Sa ni da pa ma ga ri sa' without vakra prayogam.
+
+   COMPOSITIONS:   
+     Brihadheeswareem (Dheekshithar)
+     Parama purusham (Swaathi Thirunaal)
+
+~
+   Raagam   <C4> MAADHAVAMANOHARI</C>        Melam 22 (Kharaharapriya)
+
+   Arohanam      sa ri2 ga1 ma1 pa ma1 ni1 da2 ni1 Sa    C D Eb F G F Bb A Bb C
+   Avarohanam  Sa ni1 da2 ma1 ga1 ri2 sa                          C Bb A F Eb D C
+
+   COMPOSITIONS:  Mahalaksmi Karuna (Dheekshithar)
+
+
+~
+   Raagam    <C4> MAALAVASREE</C>       Melam 22 (Kharaharapriya)
+
+   Aarohanam      sa ga1 ma1 pa ni1 (da2 ni1) Sa               C Eb F G Bb (A Bb) C
+   Avarohanam    Sa ni1 da2 pa (ni1 da2) ma1 ga1 sa       C Bb A G (Bb A) F Eb C
+
+   COMPOSITIONS:     
+     Ennallu thirigethi, Evarunnaru nannu (Thyaagaraajar)
+     Mangalaambika (Dheekshithar)
+
+~
+   Raagam    <C4>  MAALAVI </C>       Melam 28 (Harikaambodhi)
+
+   Aarohanam       sa ri2 ga2 ma1 pa ni1 ma1 da2 ni1 Sa       C D E F G Bb F A Bb C
+   Avarohanam     Sa ni1 da2 ni1 pa ma1 ga2 ma1 ri 2 sa      C Bb A Bb G F E F D C
+
+   COMPOSITIONS:  
+     Nenarunchinaanu (Thyaagaraajar)
+     Ithi Nyaayama (Patnam Subramanian Iyer)
+~
+   Raagam    <C4> MAARGGAHINDHOLAM </C>      Melam 20 (Natabhairavi)
+
+   Aarohanam      sa ri2 ga1 ma1 pa da1 ni1 Sa               C D Eb F G Ab Bb C
+   Avarohanam    Sa ni1 da1 ma1 pa ma1 ga1 sa            C Bb Ab F G F Eb C
+
+   COMPOSITIONS:   
+     Chalamelara  (Thyaagaraajar)
+     Maargahindhola, Chandhrasekhara (Dheekshithar)
+
+~
+   Raagam    <C4>  MALAHARI</C>       Melam 15 (Maayaamaalvagowla)  
+
+   Aarohanam       sa ri1 ma1 pa da1 Sa                   C Db F G Ab C 
+   Avarohanam     Sa da1 pa ma1 ga2 ri1 sa            C Ab G F E Db C
+
+   COMPOSITIONS: 
+    Pancha Maathanga (Dheekshithar)
+    Sree Gananatha and Kundha Kaura (Purandharadhaasa) - Geethams invariably taught as the first compositions (with lyrics) to students after solfa exercises
+
+~
+   Raagam    <C4> MANOHARI </C>       Melam 22 (Kharaharapriya)
+
+   Aarohanam       sa ri2 ga1 ma1 pa da2 Sa          C D Eb F G A C
+   Avarohanam     Sa da2 pa ma1 ga1 ri2 sa          C A G F Eb D C
+
+   The raagam Kamalamanohari is sometimes referred to as Manohari in Dheekshithar School which does not have a raagam corresponding to the Manohari illustrated here.
+
+   COMPOSITIONS:  Parithaapamu (Thyaagaraajar)
+
+~
+   Raagam    <C4> MANORANJITHAM </C>      Melam 20 (Natabhairavi)
+
+   Aarohanam     sa ga1 ma1 pa da1 pa ni1 Sa      C Eb F G Ab G Bb C
+   Avarohanam   Sa ni1 da1 pa ma1 ga1 sa           C Bb Ab G F Eb C
+
+   A raagam conceived by Thanjavoor Sankara Iyer
+
+   COMPOSITIONS:  Manoranjitha (Thanjavoor Sankara Iyer)
+
+
+~
+   Raagam    <C4>  MEGHARANJANI </C>       Melam 15 (Maayaamaalvagowla)
+
+   Aarohanam      sa ri1 ga2 ma1 ni2 Sa             C Db E F B C
+   Avarohanam    Sa ni2 ma1 ga2 ri1 sa             C B F E Db C 
+
+   COMPOSITIONS:  
+    Venkateswara (Dheekshithar) 
+    Manasu karugi (Muthiah Bhaagavathar)
+    Saamagaana - 3rd stanza in Ranjani Mala by Thanjavoor Sankara Iyer
+~
+   Raagam     <C4> NAAGASWARAALI  (or NAAGASWARAAVALI)</C>
+
+   Melam 28 (Harikaambodhi)
+
+   Aarohanam         sa ga2 ma1 pa da2 Sa        C E F G A C
+   Avarohanam       Sa da2 pa ma1 ga2 sa        C A G F E C
+
+   COMPOSITIONS: 
+    Sreepathe (Thyaagaraajar)
+    Sree Sankara Guruvaram (Maha Vaidhyanatha Ayyar)
+    Padhumanaabhan maruga (Paapanasam Sivan)
+
+~
+   Raagam    <C4>  NAAMANAARAAYANI </C>        Melam  50 (Naamanaaraayani)
+
+   (Naamadhesi in Dheekshithar school)
+
+   Aarohanam    sa ri1 ga2 ma2 pa da1 ni1 Sa      C Db E F# G Ab Bb C
+   Avarohanam  Sa ni1 da1 pa ma2 ga2 ri1 sa      C Bb Ab G F# E Db C
+
+   Mela ragam of this melam.
+
+   COMPOSITIONS:  
+     Narmadha Kaaveri (Dheekshithar). 
+     En maname (Koteeswara Iyer)
+~
+   Raagam   <C4>  NAARAYANAGOWLA</C>      Melam 28 (Harikaambodhi)
+
+   Aarohanam      sa ri2 ma1 pa ni1 da2 ni1 Sa                   C D F G Bb A Bb C
+   Avarohanam    Sa ni1 da2 pa ma1 ga2 ri2 ga2 ri2 sa    C Bb A G F E D E D C
+
+   COMPOSITIONS:  
+    Gathalevaadu, Innallu dhaya (Thyaagaraajar)
+    Sree Raamam, Neelothpalaamba (Dheekshithar)
+~
+   Raagam   <C4>  NAARAAYANI</C>        Melam 28 (Harikaambodhi)
+
+   Aarohanam        sa ri2 ma1 pa da2 Sa               C D F G A C
+   Avarohanam      Sa ni1 da2 pa ma1 ri2 sa        C Bb A G F D C
+
+   COMPOSITIONS:
+     Raama neeve, Bhajanaseyu maarggamu (Thyaagaraajar)
+~   
+   Raagam   <C4>NAASIKAABHOOSHANI</C>      Melam 70 (Naasikaabhooshani)
+
+   Aarohanam     sa ri3 ga2 ma2 pa da2 ni1 Sa    C D# E F# G A Bb C
+   Avarohanam   Sa ni1 da2 pa ma2 ga2 ri3 sa    C Bb A G F# E D# C
+
+   Naasaamani of Dheekshithar shcool - with avarohanam as 'Sa ni da pa ma ri ga sa'.
+
+   COMPOSITIONS:
+      Maaravairi  (Thyaagarajar)
+      Sri Ramaasaraswathi (Dheekshithar)
+~
+   Raagam   <C4> NATABHAIRAVI </C>      Melam 20 (Natabhairavi)
+
+   Aarohanam    sa ri2 ga1 ma1 pa da1 ni1 Sa    C D Eb F G Ab Bb C
+   Avarohanam  Sa ni1 da1 pa ma1 ga1 ri2 sa    C Bb Ab G F Eb D C
+
+   But for the use of da2 in 'pa da ni Sa' Bhairavi itself should be the mela ragam for this melam. Thyaagaraajar's Chethulaara is said to have been originally sung in Natabhairavi perhaps very close to Bhairavi.  The present practice is to sing the notes ga2, da1 and ni1 of Natabhairavi with less gamakam and very differently from Bhairavi.
+
+   COMPOSITIONS:
+     Sree Valleedhevasenaapathe (Paapanaasam Sivan).
+     Ambaroham (Koteeswara Iyer)
+~
+   Raagam   <C4> PAADI</C>        Melam 15 (Maayaamaalvagowla)
+
+   Aarohanam        sa ri1 ma1 pa da1 pa ni2 Sa       C Db F G Ab G B C
+   Aavarohanam    Sa ni2 pa da1 pa ma1 ri1 sa       C B G Ab G F Db C
+
+   COMPOSITIONS:
+    Sree Gurunaa (Dheekshithar)
+~
+   Raagam    <C4>  POORNASHADJAM</C>       Melam 22 (Kharaharapriya)
+
+   Aarohanam          sa ri2 ga1 ma1 pa ni1 Sa             C D Eb F G Bb C
+   Avarohanam        Sa ni1 pa ma1 ga1 ri2 sa             C Bb G F Eb D C
+
+   Arohanam may also be sa ri2 ga1 ma1 pa ma ni1 Sa
+   Raagam Pushpalathika is quite similar. Rudhrapriya is also given similar aarohanam avarohanam by some while others use da2 in Rudhrapriya
+
+   COMPOSITIONS:  
+    Laavanya Raama, Sree Maanini (Thyaagaraajar)
+    Ikanaina naa  (Thirupathi Naaryanaswamy)
+
+~
+   Raagam    <C4>  PRATHAAPAVARAALI </C>       Melam 28 (Harikaambodhi)
+
+   Aarohanam      sa ri2 ma1 pa da2 pa  Sa           C D F G A G C
+   Avarohanam    Sa da2 pa ma1 ga2 ri2 sa          C A G F E D C
+
+   COMPOSITIONS:     
+     Vinanaasakoni (Thyaagaraajar)
+
+~
+   Raagam    <C4> RISHABHAPRIYA </C>       Melam 66 (Rishabhapriya)
+
+   Aarohanam    sa ri2 ga2 ma2 pa da1 ni1 Sa      C D E F# G Ab Bb C
+   Avarohanam  Sa ni1 da1 pa ma2 ga2 ri2 sa      C Bb Ab G F# E D C
+
+   Mela raagam of this melam.
+
+   COMPOSITIONS:  
+     Ghana naya  dhesika (Koteeswara Iyer)
+~
+   Raagam    <C4> SAALAKABHAIRAVI</C>       Melam 22 (Kharaharapriya)
+
+   Aarohanam         sa ri2 (ga2) ma1 pa da2 (pa) Sa      C D (E) F G A (G) C
+   Avarohanam       Sa ni1 da2 pa ma1 ga1 ri2 sa          C Bb A G F Eb D C
+
+   In Dheekshithar's compositions the aarohanam includes the notes given in brackets
+
+   COMPOSITIONS:  
+      Padhavinee (Thyaagaraajar)
+      Thyaagaraajena (Dheekshithar)
+
+~
+   Raagam    <C4> SARASAANGI </C>        Melam  27 (Sarasaangi)
+
+   Aarohanam      sa ri2 ga2 ma1 pa da1 ni2 Sa       C D E F G Ab B C
+   Avarohanam    Sa ni2 da1 pa ma1 ga2 ri2 sa       C B Ab G F E D C
+
+   Mela ragam of this melam. The corresponding melam in Dheekshithar school is Sourasena with avarohanam 'Sa ni da pa ma ga ri ga sa'.
+
+   COMPOSITIONS:  
+     Sourasenesam (Dheekshithar, with ga ri ga sa in Avarohanam)
+     Jaya jaya Padmanaabha Murare (Swathi Thirunaal)
+     Malaiyaadhe maname (Koteeswara Iyer)
+~
+   Raagam    <C4> SARASWATHIMANOHARI </C>        Melam 28 (Harikaambodhi)
+
+   Aarohanam     sa ri2 ga2 ma1 da2 Sa                           C D E F A C
+   Avarohanam   Sa ni1 da2 (ni1) pa ma1 ga2 ri2 sa      C Bb A (Bb) G F E  D C
+
+  (In avarohana ga2 ma1 ri2 sa is also used)
+
+   COMPOSITIONS:  
+     Enthaveduko (Thyaagaraajar)
+     Saraswathi manohari (Dheekshithar - however this uses ni2 - Melam 29)
+
+~
+    Raagam    <C4> SHADVIDHAMAARGGINI </C>
+
+   Melam 46 (Shadvidhamaarggini) 
+
+   Aarohanam    sa ri1 ga1 ma2 pa da2 ni1 Sa      C Db Eb F# G A Bb C
+   Avarohanam  Sa ni1 da2 pa ma2 ga1 ri1 sa      C Bb A G F# Eb Db C
+
+   Mela raagam of this melam. Corresponding melam of Dheekshithar is Sthavaraaja with aarohanam 'sa ri ma pa da Sa' and avarohanam 'Sa ni da ma ga sa' -  quite different from the sampoorna raagam. The ga1 of this raagam is sung by some as in Subhapathuvaraali and others as in Thodi with traces of Varaali.
+
+   COMPOSITIONS:  
+    Paahi Raama dhootha (Thyaagaraaja: this krithi is shown as in Vasanthavaraali in older publications).  Jnyaanamosagaraadha now sung in Poorvikalyaani is shown as in this raagam in older books. 
+
+   Antharanga  (Koteeswara Iyer) 
+
+~
+   Raagam     <C4> SIMHAVAAHINI </C>       Melam 27 (Sarasaangi)
+
+   Aarohanam     sa ga2 ma1 pa da1 ni2 Sa             C E F G Ab B C
+   Avarohanam   Sa ni2 da1 pa ma1 ga2 ri2 sa       C B Ab G F E D C
+
+   COMPOSITIONS:  
+    Nenaruncharaa (Thyaagaraajar)
+~
+   Raagam    <C4> SINDHURAAMAKRIYA </C>     Melam 15 (Maayaamaalvagowla)
+
+   Aarohanam     sa ga2 ma1 pa da1 ni2 Sa                C  E F G Ab B C 
+   Avarohanam   Sa ni2 pa da1 pa ma1 ga2 sa          C B G Ab G F E C
+
+   In Sangeetha Sampradhaya Pradarsini this raagam is shown as janyam of Melam 45 and ri vakra in avarohanam - the above aarohana avarohanams are used in Thyaagaraaja krithis cited below   
+
+   COMPOSITIONS:  
+    Sudhaa Maadhurya, Dhevaadi Dheva (Thyaagaraajar)
+    Sadhaasivena (Dheekshithar - given in Krithi Mani Malai of Rangaraamanuja Iyengaar)
+
+~
+   Raagam   <C4> SOORYAKAANTHAM </C>      Melam 15 (Sooryakaantham)
+
+   Aarohanam      sa ri1 ga2 ma1 pa da2 ni2 Sa      C Db E F G A B C
+   Avarohanam    Sa ni2 da2 pa ma1 ga2 ri1 sa      C B A G F E Db C
+
+   Mela raagam of this melam. Its janyam Sowrashtram is better known.
+
+   COMPOSITIONS:   
+     Muddhumomu(Thyaagaraajar).  
+     Kanjam Konjum (Koteeswara Iyer)
+
+~
+   Raagam     <C4> SUDDHABANGAALA</C>       Melam 22 (Kharaharapriya)
+
+   Aarohanam    sa ri2 ma1 pa da2 Sa                      C D F G A C
+   Avarohanam  Sa da2 pa ma1 ri2 ga1 ri2 sa        C A G F D Eb D C
+
+   COMPOSITIONS:   
+    Raamabhakthi, Thappagane (Thyaagaraajar)
+
+~
+   Raagam    <C4> SUDDHADHESI </C>       Melam 22 (Kharaharapriya)
+
+   Aarohanam      sa ri2 ma1 pa da2 ni1 (da2) Sa                   C D F G A Bb (A) C
+   Avarohanam    Sa ni1 da2 pa (da2 pa) ma1 ga1 ri2 sa      C Bb A G (A G) F Eb D C
+
+   The notes included in brackets represent the Dheekshithar school definition
+
+   COMPOSITIONS:   
+     Endhu Kaugalindhu, Raghunandhana (Thyaagaraajar)
+     Kaamakshi (Dheekshithar)
+
+~
+   Raagam    <C4> SUDDHA HINDHOLAM </C>      Melam 22 (Kharaharapriya)
+                (also known as Varamu)
+
+   Aarohanam     sa ga1 ma1 da2 ni1 Sa    C Eb F Ab Bb C
+   Avarohanam   Sa ni1 da2 ma1 ga1 sa    C Bb Ab F Eb C
+
+   (Hindholam with da2 instead of da1)
+
+   COMPOSITIONS:   
+    Manasuloni (Thyaagaraajar), 
+    Thunai Purnidharul (Paapanaasam Sivan)
+
+    (Manasuloni is also sung in proper Hindholam with da1 by some artistes)
+
+~
+
+   Raagam    <C4> SUNAADHAVINODHINI</C>        Melam 53 (Gamanaasrama)
+
+   Aarohanam     sa ga2 ma2 da2 ni2 Sa         C E F# A B C
+   Avarohanam   Sa ni2 da2 ma2 ga2 sa         C B A F# E C 
+
+   Hamsaanadhi without ri.  
+
+   COMPOSITIONS:   
+     Dhevaadhi Dheva (Mysore Vaasudevaachar)
+~
+   Raagam    <C4> SUPRADHEEPAM</C>         Melam 17 (Sooryakaantham)
+
+   Arohanam       sa ri1 ma1 pa da2 ni2 Sa                      C Db F G A B C
+   Avarohanam   Sa ni2 da2 pa ma1 ga2 ma1 ri2 sa    C B A G F E F Db C
+
+   COMPOSITIONS:  
+     Varasikhivaahana (Thyaagaraajar)  
+     (One of the few krithis by Thyaagaraaja on Lord Subrahmanya)
+~
+   Raagam    <C4> SUVARNAANGI </C>       Melam 47 (Suvarnaangi)
+
+   Aarohanam    sa ri1 ga1 ma2 pa da2 ni2 Sa    C Db Eb F# G A  B C
+   Avarohanam  Sa ni2 da2 pa ma2 ga1 ri1 sa    C B A  G F# Eb Db C
+
+   Mela ragam for this melam. The corresponding melam in Dheekshitharschool is Souveeram which omits pa in avarohanam.
+
+   COMPOSITIONS: 
+    Sarasasouveera (Dheekshithar, with pa omitted in avarohanam)
+    Iha para sukham (Koteeswara Iyer)
+
+~
+   Raagam   <C4> TAKKA</C>        Melam 15  (Maayaamaalavagowla)
+
+   Aarohanam    sa ga2 ma1 da1 da1 ni2 da1 Sa                      C E F Ab Ab B Ab C
+               (or)  sa ga2 ma1( pa )ma1 ga2 ma1 da1 ni2 Sa         C E F (G) F E F Ab B C
+
+   Avarohanam  Sa da1 ma1 ga2 ri1 ga2 sa                         C Ab F E Db E C
+     (or)   Sa ni2 da1 ma1 (pa ma1) ga2 ma1 ri1 ga2 sa      C B Ab F (G F) E F Db E C
+
+   The use of pa is transient in the phrases ma pa ma. The audio illustration using the second set of notes above touches pa quickly but this is not shown in the visual. 
+
+   COMPOSITIONS: 
+    Raakaa Sasivadhana (Thyaagaraajar)
+    Sundharamoorthim (Dheekshithar)
+
+~
+   Raagam    <C4> UDHAYARAVICHANDHRIKA</C>        
+  
+   Melam 9 (Dhenuka) or 21 (Keeravaani)
+
+   Aarohanam     sa ga1 ma1 pa ni2 Sa         C Eb F G A C
+   Avarohanam   Sa ni2 pa ma1 ga1 sa         C A G F Eb C
+
+   The Thyaagaraaja krithi Enthanerchina is some times shown as in Raagam Udhyayaravichandhrika. But as sung today it uses ni1 and is identical with Suddhadhanyaasi
+
+   COMPOSITIONS:   
+     Guruguhamoorthe  (Dheekshithar)
+~
+   Raagam    <C4> UMAABHARANAM </C>          Melam 28 (Harikaambodhi)
+
+   Aarohanam     sa ri2 ga2 ma1 pa da2 ni1 sa            C D E F G A Bb C
+   Avarohanam   Sa ni1 pa ma1 ri2 ga2 ma1 ri2 sa     C Bb G F D E F D C
+
+   COMPOSITIONS:  
+     Nijamarmamulanu  (Thyaagaraajar)
+
+~
+   Raagam   <C4> VAKULAABHARANAM</C>        Melam 14(Vakulaabharanam)
+
+   Aarohanam    sa ri1 ga2 ma1 pa da1 ni1 Sa     C Db E F G Ab Bb C
+   Avarohanam  Sa ni1 da1 pa ma1 ga2 ri1 sa     C Bb Ab G F E Db C
+
+   Mela raagam of this melam.The janyam of this melam Vasanthabhairavi is better known. In Dheekshitharschool Vasanthabhairavi is itself the melam with the name Vaativasanthabhairavi
+
+   COMPOSITIONS:  
+     Eraamuni (Thyaagaraajar).
+     Nambinen (Koteeswara Iyer)
+~
+   Raagam    <C4> VALAJI </C>       
+
+   Melam 16 (Chakravaaham)  - can also be put under 52 or even 28
+
+   Aarohanam     sa ga2 pa da ni1 Sa          C E G A Bb C
+   Avarohanam   Sa ni1 da pa ga2 sa          C Bb A G E C
+
+   Apparently adapted from Hindustani Kalaavathi
+
+   COMPOSITIONS:  
+    Jaalandhara (Mutrhiah Bhagavathar)
+    Paadhame Thunai  (Paapanaasam Sivan)
+    Kaivida maattaan  (N.S.Chidhambaram)
+
+~
+   Ragam VARDDHANI </C>       Melam 23  (Gowreemanohari)
+
+   Aarohanam     sa ga1 ma1 pa da2 ni2 Sa     C Eb F G A B C
+   Avarohanam   Sa ni2 da2 pa ma1 ga1 sa     C B A G F Eb C
+
+   COMPOSITIONS: 
+    Manasa manasamarthya (Thyaagaraajar)
+
+
+~
+   Raagam   <C4>  VASANTHABHAIRAVI </C>      Melam 14 (Vakulaabharanam)
+
+   Aarohanam     sa ri1 ga2 ma1 da1 ni1 Sa                           C Db E F Ab Bb C
+   Avarohanam   Sa ni1 da1 ma1 pa ma1 ga2 ri1 sa            C Bb Ab F G F E Db C
+
+   COMPOSITIONS:  
+     Nee Dhaya Raadha (Thyaagaraajar)
+     Prasanna Venkatesam (Dheekshithar)
+
+~
+   Raagam    <C4> VIJAYASREE </C>       
+  
+   Melam 41 (Paavani) or 39 (Jhaalavaraali)
+
+   Aarohanam    sa ri1 ga0 ma2 pa ni2 Sa          C Db D F# G B C
+   Avarohanam  Sa ni2 pa ma2 ga0 ri1 sa          C B G F# D Db C
+
+   COMPOSITIONS:   
+    Varanaaradha (Thyaagraajar)
+
+~
+   Raagam   <C4> VIVARDDHANI </C>      Melam 29 (Dheerasankaraabharanam)
+
+   Arohanam       sa ri2 ga2 ri2 ma1 pa  Sa                C D E D F G C
+   Avarohanam   Sa ni2 da2 pa ma1 ga2 ri2 sa        C B A G F E D C
+
+   COMPOSITIONS:  
+     Vinave O Manasa (Thyaagaraajar)
+
+~

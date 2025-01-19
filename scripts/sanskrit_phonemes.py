@@ -22,7 +22,7 @@ def devanagari_to_ipa_xsampa(text):
 
 # Example usage
 text = """
-aum śakti sahita gaṇapatim śaṃkarādi sēvitaṃ vi
+śakti sahita gaṇapatim śaṃkarādi sēvitaṃ vi
 rakta sakala munivarasura rāja vinuta guruguhaṃ
 bhaktā ḷi pōṣakam bhavasutaṃ vināyakam
 bhukti mukti pradam bhūṣitam gam rakta pādāmbujam bhāvayāmi

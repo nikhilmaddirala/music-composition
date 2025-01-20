@@ -1,18 +1,24 @@
 import re
 
-# Define mappings for Carnatic-ABC to ABC in C Major / Shankarabharanam
-carnatic_to_abc = {
-    'S': 'C',    # Sa
-    'R': 'D',    # Ri
-    'G': 'E',    # Ga
-    'M': 'F',    # Ma
-    'P': 'G',    # Pa
-    'D': 'A',    # Dha
-    'N': 'B',    # Ni
-}
-
 # Function to parse Carnatic-ABC lines and convert to ABC notation
 def convert_carnatic_abc_to_abc(input_text):
+    # Define mappings for Carnatic-ABC to ABC in C Major / Shankarabharanam
+    carnatic_to_abc = {
+        'S': 'C',    # Sa
+        'R': 'D',    # Ri
+        'G': 'E',    # Ga
+        'M': 'F',    # Ma
+        'P': 'G',    # Pa
+        'D': 'A',    # Dha
+        'N': 'B',    # Ni
+        's': 'c',    # sa
+        'r': 'd',    # ri
+        'g': 'e',    # ga
+        'm': 'f',    # ma
+        'p': 'g',    # pa
+        'd': 'a',    # dha
+        'n': 'b',    # ni
+    }    
     output_lines = []
     for line in input_text.splitlines():
         if re.match(r"^\s*$", line) or re.match(r"^[A-Z]{1,2}:", line):  # empty line or metadata line
@@ -20,18 +26,12 @@ def convert_carnatic_abc_to_abc(input_text):
         else: # notes line
             converted_line = []
             for token in line.split():
-                if token in carnatic_to_abc:
-                    converted_line.append(carnatic_to_abc[token])  # Map swara
-                elif any(swara in token for swara in carnatic_to_abc.keys()):
-                    # Handle swaras with numbers (e.g., G2, S3, etc.)
-                    converted_token = re.sub(
-                        r"([SRGMPDN])", 
-                        lambda m: carnatic_to_abc[m.group(1)], 
-                        token
-                    )
-                    converted_line.append(converted_token)
-                else:
-                    converted_line.append(token)  # Preserve separators (|, etc.)
+                # Create a pattern that matches any of the Carnatic notes
+                converted_token = token
+                for carnatic, abc in carnatic_to_abc.items():
+                    # Replace the note while preserving surrounding characters
+                    converted_token = re.sub(carnatic, abc, converted_token)
+                converted_line.append(converted_token)
             output_lines.append(" ".join(converted_line))
     return "\n".join(output_lines)
 
@@ -52,10 +52,15 @@ W: ra-kta sa-ka-la mu-ni-va-ra-su-ra rā-ja vi-nu-ta gu-ru-gu-haṃ
 R3 N,2 P | S2 G R3 | R G R N,2 P, | S2 G R3 |
 W: bha-ktā ḷi pō-ṣa-kam bha-va-su-taṃ vi-nā-ya-kam
 
-P D P M P M | G M G R3 | S R S N, S N, | D, N, D, S3 |
+P D P M P M | G M G R3 | S R S N, S N, | D, N, D, s3 |
 W: bhu-kti mu-kti pra-dam bhū-ṣi-tam gam ra-kta pā-dām-bu-jam bhā-va-yā-mi
 """
 
 # Convert and display the result
-converted_output = convert_carnatic_abc_to_abc(carnatic_abc_input)
-print(converted_output)
+abc = convert_carnatic_abc_to_abc(carnatic_abc_input)
+print(abc)
+
+# convert abc to music21
+from music21 import converter
+s = converter.parse(abc)
+s.show()

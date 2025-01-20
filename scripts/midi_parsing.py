@@ -1,8 +1,15 @@
 # Set up musescore
 from music21 import *
+from dotenv import load_dotenv
+import os
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Set the MuseScore path and scratch directory from environment variables
 us = environment.UserSettings()
-us['musescoreDirectPNGPath'] = '/usr/bin/mscore'
-us['directoryScratch'] = '/tmp'
+us['musescoreDirectPNGPath'] = os.getenv('MUSESCORE_PATH')
+
 
 # Create a Stream
 s = converter.parse('tinyNotation: 4/4 C4 D4 E4 F4 G4 A4 B4 c4')
@@ -21,6 +28,7 @@ for i in range(len(s.notes) - 1):
 
 s.show('text')
 s.show('midi')
+s.show()
 
 def write_midi(stream):
     mf = midi.translate.music21ObjectToMidiFile(stream)
